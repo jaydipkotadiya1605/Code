@@ -1,0 +1,33 @@
+﻿---
+ID: "a559b636-1846-4074-b7ec-4136e1b07daa"
+Parent: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Template: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Path: /sitecore/templates/Foundation/Import/Options/DropDownOption/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221920Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: $name
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221920Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: $name

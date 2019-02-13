@@ -1,0 +1,18 @@
+﻿---
+ID: "5e1b7e13-2838-461e-b4ec-91a976a8f0d3"
+Parent: "3cc10edf-bb9d-47db-8f99-99cfe8409389"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/2nd/Gift Cards/FAQ
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="FAQ" target="" querystring="" id="{9365ADFD-45AD-49D6-8197-970588053F29}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T055924Z

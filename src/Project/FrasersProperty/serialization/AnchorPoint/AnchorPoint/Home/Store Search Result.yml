@@ -1,0 +1,60 @@
+﻿---
+ID: "f59c5a9b-bff6-4880-97e5-9e92552dd951"
+Parent: "a816fcd4-daea-46e0-8894-9ecb8683a7cb"
+Template: "3ce5e660-c051-4609-a037-1f483305698c"
+Path: /sitecore/content/AnchorPoint/Home/Store Search Result
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 652
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F7A6639F-0D8A-451F-9D20-73C3C12E8DC9}"
+          p:after="*[1=2]"
+          s:id="{E7AE3F87-CF66-40F2-A9F5-33ECF08BC777}"
+          s:ph="head" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A0DE9F0B-A249-4EE1-9F35-1BABA5AA1DFC}"
+              s:ds="{EC85D84F-AA78-402B-856F-EA706EB37270}"
+              s:par="SearchResultPage" />
+            <r
+              uid="{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}"
+              s:par="SearchResultPage={5E813DC6-9468-4D2D-ADE3-1346902817FD}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180809T044344Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{217FB968-CA59-47D4-B57E-F77F28792DFE}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Store Search Result
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Store Search Result

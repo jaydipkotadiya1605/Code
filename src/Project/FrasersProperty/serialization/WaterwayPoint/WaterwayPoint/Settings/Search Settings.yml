@@ -1,0 +1,17 @@
+﻿---
+ID: "7b6e5085-dac5-432b-a2e9-42c53a61bbad"
+Parent: "dc384d23-d7e8-4249-afb3-293f397532ca"
+Template: "0ad4f49e-8253-4134-81eb-675e526545df"
+Path: /sitecore/content/WaterwayPoint/Settings/Search Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180827T021207Z
+    - ID: "93678e0d-36e4-4257-983d-b3c08355412b"
+      Hint: SearchResultPage
+      Value: "{3E394060-EF6D-42CB-8D62-98D03EE9F184}"

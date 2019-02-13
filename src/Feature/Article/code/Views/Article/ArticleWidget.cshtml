@@ -1,0 +1,46 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.FrasersContent
+@using Sitecore.Foundation.Dictionary.Repositories
+@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Resources.Media
+@model Sitecore.Feature.Article.Models.ArticleWidgetItems
+<!-- widget -->
+<div class="widget deals">
+    <h2>@DictionaryPhraseRepository.Current.Get("/Widgets/Article Widget Title", "Most Wanted Deals")</h2>
+
+    @if (Model?.Items == null || !Model.Items.Any())
+    {
+        <div class="item clearfix">@Html.Sitecore().Dictionary(Constants.NoDataFound, Constants.NoDataFoundText)</div>
+        return;
+    }
+
+    @{
+        var options = MediaUrlOptions.Empty;
+        options.Width = 112;
+        options.Height = 81;
+    }
+
+    @foreach (var item in Model.Items)
+    {
+        if (item != null)
+        {
+            <!-- item -->
+            <div class="item clearfix">
+                <div class="thumb">
+                    <a href="@item.Url"><img src="@item.Item.ImageUrl(Templates.Article.Fields.Thumbnail, options)" alt="@item.Alt"></a>
+                </div>
+                <div class="info">
+                    <div class="middle">
+                        <div class="title"><a href="@item.Url">@item.Title</a></div>
+                        <div class="location"><a href="@item.StoreUrl">@item.StoreName</a></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /item -->
+        }
+    }
+    <div class="more-wrap">
+        <a href="@Model.LinkOfListPage" class="more rightarrow">@DictionaryPhraseRepository.Current.Get("/Widgets/Article Widget Link", "View All Good Deals")</a>
+    </div>
+</div>
+<!-- /widget -->

@@ -1,0 +1,20 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Device.Repositories
+
+@model IEnumerable<Sitecore.Feature.Store.Models.StoreCategoryViewModel>
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+}
+
+<div class="active category-open" style="@(!isMobileMode ? "" : "display: none")">@Html.Sitecore().Dictionary(Constants.Category, Constants.CategoryText)</div>
+<select name="store-category" id="store-category" class="category-select">
+    @if (isMobileMode)
+    {
+        <option disabled selected>@Html.Sitecore().Dictionary(Constants.Category, Constants.CategoryText)</option>
+    }
+    @foreach (var category in @Model)
+    {
+        <option value="@category.Id" @(category.IsSelected ? "selected" : "")>@category.Name</option>
+    }
+</select>

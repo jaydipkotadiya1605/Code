@@ -1,0 +1,24 @@
+﻿---
+ID: "46f31253-44cd-4cdf-b9e8-70c7296a446e"
+Parent: "019f8634-a79c-4724-ac41-80e3ed317a81"
+Template: "27fd9d20-18dc-4e07-bf2b-7c00d5dd0a69"
+Path: /sitecore/content/AnchorPoint/Settings/Robots Settings
+DB: master
+SharedFields:
+- ID: "375a10d1-51e9-4618-ab72-91d4b3e51537"
+  Hint: Content
+  Value: |
+    User-agent: *
+    Disallow: /sitecore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T034035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

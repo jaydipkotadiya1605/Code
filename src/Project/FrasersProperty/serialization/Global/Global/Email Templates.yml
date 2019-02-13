@@ -1,0 +1,14 @@
+﻿---
+ID: "f090084b-85c8-4db7-b85c-ecf61faf1c38"
+Parent: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Template: "8d50daef-9e3d-4c7b-aaa5-e9438a01b4f8"
+Path: /sitecore/content/Global/Email Templates
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T091905Z

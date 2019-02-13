@@ -1,0 +1,26 @@
+﻿---
+ID: "de1869a7-af55-42c6-b8c9-361dcd134e5a"
+Parent: "50c36047-0add-4e27-a02e-873d1cec85f5"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/1st/Blogs/Style
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 72
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Style" anchor="" linktype="internal" class="" title="Style" target="" querystring="?category=Style&amp;pageIndex=1" id="{67CA9B5D-D55B-4795-B1C2-7B270014FD02}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180822T103546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

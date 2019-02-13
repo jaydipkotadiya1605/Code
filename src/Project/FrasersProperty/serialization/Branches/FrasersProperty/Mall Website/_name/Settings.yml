@@ -1,0 +1,14 @@
+﻿---
+ID: "d9b8d336-9076-4601-8150-fda2d532df62"
+Parent: "be744968-7767-46d5-9da8-987f5e9acef5"
+Template: "4c82b6dd-fe7c-4144-bcb3-f21b4080568f"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T034016Z

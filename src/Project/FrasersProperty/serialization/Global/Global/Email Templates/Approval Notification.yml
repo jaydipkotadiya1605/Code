@@ -1,0 +1,63 @@
+﻿---
+ID: "ce74b05d-206a-464f-8da2-c6722c23ceb2"
+Parent: "f090084b-85c8-4db7-b85c-ecf61faf1c38"
+Template: "2f6f9983-5cbf-4b47-91f6-8f5dfbdcaca7"
+Path: /sitecore/content/Global/Email Templates/Approval Notification
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T091932Z
+    - ID: "37013884-0850-4493-823c-fa2b5548f635"
+      Hint: Title
+      Value: Approval Notification
+    - ID: "a4e04abd-d56c-4e4e-a190-7ea638845831"
+      Hint: Message
+      Value: |
+        <meta name="viewport" content="width=device-width" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Simple Transactional Email</title>
+        <table border="0" cellpadding="0" cellspacing="0" class="body">
+            <tbody>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td class="container">
+                    <div class="content"> <!-- START CENTERED WHITE CONTAINER -->
+                    <table class="main">
+                        <!-- START MAIN CONTENT AREA -->
+                        <tbody>
+                            <tr>
+                                <td class="wrapper">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                            <p>Dear [Receiver],</p>
+                                            Approved Item:&nbsp;[ItemName]
+                                            <p> </p>
+                                            <p>Link Url: [ItemURL]</p>
+                                            <p>Approved By: [CurrentActionUser]</p>
+                                            <p>Comment Submited: [SubmitComment]</p>
+                                            <p>Sincerely,</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <!-- END CENTERED WHITE CONTAINER -->
+                        </tbody>
+                    </table>
+                    </div>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "c0d436a3-7e25-4d14-bf04-41753f7967e2"
+      Hint: Subject
+      Value: "[Approval Notification]"

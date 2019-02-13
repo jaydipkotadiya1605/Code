@@ -1,0 +1,18 @@
+﻿---
+ID: "10ae951e-e55d-4bed-bdf5-467fed8b6905"
+Parent: "ddbc0a3f-ed36-4fbf-a0c6-af57a4943eb7"
+Template: "ddbc0a3f-ed36-4fbf-a0c6-af57a4943eb7"
+Path: /sitecore/templates/Foundation/Search/_PagedSearchResultsParameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T104845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

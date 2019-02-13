@@ -1,0 +1,39 @@
+﻿---
+ID: "909e2782-af45-4dbe-93f4-cf1d32f10a37"
+Parent: "17e7ce43-ffac-4c8d-8904-0eb2597e179d"
+Template: "06a0c187-bfbd-4875-b45f-ca8847ab77d8"
+Path: /sitecore/content/FrasersRewards/Home/Stores
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180611T102229Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{64AFC738-C7DA-4313-A13A-259679EEBB0B}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Stores
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "bb7a38c0-323c-4f81-8eb9-288abf7c4638"
+      Hint: MetaDescription
+      Value: Frasers Rewards
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Stores
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0

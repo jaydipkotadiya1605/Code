@@ -1,0 +1,61 @@
+﻿---
+ID: "9ecb6930-f147-45b5-9b4e-3a6cfd37b549"
+Parent: "a816fcd4-daea-46e0-8894-9ecb8683a7cb"
+Template: "aa134b00-c40a-4696-8752-9e8c214a2226"
+Path: /sitecore/content/AnchorPoint/Home/About AnchorPoint
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1088
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D4A1E0EF-54B3-4BEC-9B6A-EEDFFC3D9E7C}"
+              p:before="*"
+              s:ds="{69AFBFA5-7216-4EB6-A2CA-38D8AFB5093C}"
+              s:id="{0E2721B0-426A-48AA-BF68-9E0279AA29BD}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-wide-1_5fad4623-866c-4bd3-9a4a-072c5cb64551/col-wide-1_29cf8b2c-5146-4644-a590-376be82d30d3" />
+            <r
+              uid="{2C4FD7E9-C0B5-4FE4-89EC-BEED1075E1BA}"
+              p:after="r[@uid='{D4A1E0EF-54B3-4BEC-9B6A-EEDFFC3D9E7C}']"
+              s:id="{6A55790B-A8C6-4BA2-A93E-DADB4E7EEEA5}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-wide-1_5fad4623-866c-4bd3-9a4a-072c5cb64551/inner-row_0acc168e-cbff-47e9-8b3a-d2c4f5f10226" />
+          </d>
+        </r>
+    - ID: "125a4e47-7dc0-451f-b37b-2dd5176eafa9"
+      Hint: IsTabPage
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T091141Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{217FB968-CA59-47D4-B57E-F77F28792DFE}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: About AnchorPoint
+    - ID: "bb7a38c0-323c-4f81-8eb9-288abf7c4638"
+      Hint: MetaDescription
+      Value: About AnchorPoint
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: About AnchorPoint
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0

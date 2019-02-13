@@ -1,0 +1,30 @@
+﻿---
+ID: "ab285dfb-15db-473d-9f17-7e1322117836"
+Parent: "8f0cbbf0-73d3-4cc1-97d3-45df9a2ff358"
+Template: "8f0cbbf0-73d3-4cc1-97d3-45df9a2ff358"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Navigation Link/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{D496A0DF-0DAD-45CF-87C1-EFB53D7BA3B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180718T094128Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1

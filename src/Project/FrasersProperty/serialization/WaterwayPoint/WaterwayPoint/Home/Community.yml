@@ -1,0 +1,25 @@
+﻿---
+ID: "fc0ebc3c-ad51-4d06-9a88-5bbb67f1ae54"
+Parent: "1a1c73fe-5e69-4271-8973-59bf58463772"
+Template: "8f0cbbf0-73d3-4cc1-97d3-45df9a2ff358"
+Path: /sitecore/content/WaterwayPoint/Home/Community
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 547
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T083848Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Community
+    - ID: "e81c5d1d-e1de-47e7-a5c1-d3c77db7e75b"
+      Hint: Link
+      Value: |
+        <link id="{E23EE152-D93C-4700-8875-9DDEA31A040D}" querystring="" target="" text="" anchor="" title="" class="" url="/WaterwayPoint/Home/Community/Punggol Park Connector" linktype="internal" />

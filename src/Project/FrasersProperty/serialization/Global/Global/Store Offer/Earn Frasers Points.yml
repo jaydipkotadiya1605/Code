@@ -1,0 +1,30 @@
+﻿---
+ID: "55f759e2-0fcc-4faf-a46b-cdf16d08fcef"
+Parent: "d6cfdcdc-5437-4c86-a57d-18a402acf666"
+Template: "13ac68bf-a202-4ce2-8e04-262987229aa3"
+Path: /sitecore/content/Global/Store Offer/Earn Frasers Points
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T050152Z
+    - ID: "3ce55246-1d7b-4a99-862a-a69954a39bad"
+      Hint: IconCssClass
+      Value: fr
+    - ID: "5149bd0d-4544-403f-abed-eda3cbfd5017"
+      Hint: Key
+      Value: Earn Frasers Points
+    - ID: "6d254c59-c4d2-42ef-ac65-4e8570dd990a"
+      Hint: Order Number
+      Value: 1
+    - ID: "89deeb44-72ab-48a7-a040-b92a37068cd0"
+      Hint: Value
+      Value: Earn Frasers Points

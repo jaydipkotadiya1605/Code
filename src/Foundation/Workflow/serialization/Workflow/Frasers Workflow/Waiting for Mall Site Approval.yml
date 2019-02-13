@@ -1,0 +1,22 @@
+﻿---
+ID: "0cd981c2-2148-4159-a810-8eb6343a1124"
+Parent: "fb3ce825-f8c9-4a35-b76b-b5856e3e3b0e"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/Frasers Workflow/Waiting for Mall Site Approval
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Main Site Admin|pe|-item:read|pd|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T075850Z

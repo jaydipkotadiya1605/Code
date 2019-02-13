@@ -1,0 +1,21 @@
+﻿---
+ID: "013305bb-025d-47ea-a340-a4d7fd8db00b"
+Parent: "4df8e37b-1a68-45e2-9535-4d4d1745f415"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Event/_Event/Content/End Date
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Datetime
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T065531Z

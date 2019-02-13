@@ -1,0 +1,18 @@
+﻿---
+ID: "022abaad-664b-482c-818a-e8e9f031f7ea"
+Parent: "a0de2a34-4cf3-4bee-815d-bfad5e168bc4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Identity/_Header Link/Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T043202Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

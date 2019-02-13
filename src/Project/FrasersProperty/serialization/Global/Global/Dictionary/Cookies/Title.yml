@@ -1,0 +1,17 @@
+﻿---
+ID: "129de77a-4e09-4c0f-ad2d-308677863dab"
+Parent: "d824031a-3517-4d95-b2d7-6d9b20369353"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Cookies/Title
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T061727Z
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Frasers Property website.

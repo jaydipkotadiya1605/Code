@@ -1,0 +1,18 @@
+﻿---
+ID: "018c2684-2f60-4ad8-906d-e1738b3e05c7"
+Parent: "9dffd40a-53fe-4032-98d6-f4a5f35c15a3"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Global/Dictionary/Alerts
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T072446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

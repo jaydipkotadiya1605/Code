@@ -1,0 +1,34 @@
+﻿---
+ID: "420b6f98-72f3-4f5c-baaf-0496c2ff27ae"
+Parent: "31bd9839-c33f-4940-b75d-49b487634554"
+Template: "fc65fd9b-a685-4a1d-b2bc-5a96b0133162"
+Path: /sitecore/content/Global/Article And Event Tab Categories/Contests
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00743aa2-000a-4559-bbdb-834c64178990"
+      Hint: Article Category
+      Value: "{FA889469-DBE2-4E9C-95F9-83D7513B6D60}"
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: Contests
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190202T221431Z
+    - ID: "67111c0c-0ae5-4c27-b059-94609eb52b0f"
+      Hint: Hide in Sites
+      Type: Multilist
+      Value: "{6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}"
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: Contests
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 5

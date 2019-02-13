@@ -1,0 +1,22 @@
+﻿---
+ID: "fec4e87e-b692-4900-888b-d36a466da94d"
+Parent: "8b03816c-3fec-4406-8ce7-2399baaacff0"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Benefits/FAQ
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title="FAQ" target="" querystring="" id="{0FE566D5-6C72-47FF-A405-DE574C92BF56}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095351Z

@@ -1,0 +1,199 @@
+﻿---
+ID: "9681570a-6d1e-4ed1-8c2f-811897338618"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/RewardsTermsAndConditions
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Rewards | Terms & Conditions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T203245Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        					<strong>1.	Introduction</strong>
+        					<br /><br />
+        
+        					1.1	FPMS, property managers of the malls of Frasers Property Singapore ("<strong><u>Frasers Property Malls</u></strong>"), shall offer its loyalty service known as Frasers Experience ("<strong><u>Programme</u></strong>") on the App upon the terms and conditions as listed below in this annex ("<strong><u>FRx Terms</u></strong>") to each member of the Programme (a "<strong><u>Member</u></strong>").
+        					<br /><br />
+        
+        					1.2	The FRx Terms form part of the Agreement and will apply to your participation in the Programme, including your membership and any entitlement to benefits and privileges under the Programme (including the redemption of any such benefits and privileges). In the event of any conflict or inconsistency between the FRx Terms and any other provisions in the Agreement, these FRx Terms will prevail.
+        					<br /><br />
+        
+        					1.3	All capitalised terms in the FRx Terms will have the same meaning ascribed to them in the Agreement, unless indicated otherwise.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>2. Eligibility and Frasers Experience Membership</strong>
+        					<br /><br />
+        
+        					2.1	The applicant may register as a Member via the App or at any customer service counter of any Frasers Property ("<strong><u>Customer Service Counter</u></strong>"). In order to be eligible to become a Member, during the registration process, the applicant must provide his/her current, complete and accurate personal particulars as requested, including without limitation, his/her full name, NRIC number, passport number, work permit number, employment pass number or dependant’s pass number, date of birth, local address, contact numbers and such other information as may be required by FPMS from time to time.
+        					<br /><br />
+        
+        					2.2	The applicant may be required to produce his/her NRIC, passport, work permit, employment pass, dependent’s pass or any other form of identification acceptable to FPMS ("<strong><u>Form of Identification</u></strong>") for verification purposes in connection with the application.
+        					<br /><br />
+        
+        					2.3	The applicant represents and warrants that all information provided by him/her in connection with his/her application are accurate.
+        					<br /><br />
+        
+        					2.4	Only individuals aged 18 and above and who are residing in Singapore are eligible to apply for membership in the Programme.
+        					<br /><br />
+        
+        					2.5	The applicant acknowledges and agrees that the acceptance of his/her application is subject to the approval of FPMS at its sole and absolute discretion and that his/her application may be rejected by FPMS without assigning any reasons thereto.
+        					<br /><br />
+        
+        					2.6	Upon approval of an application, a Frasers Experience membership account shall be opened for the Member ("<strong><u>Frasers Experience Membership Account</u></strong>") and the Member shall be entitled to participate in the Programme and enjoy membership benefits and privileges under the Programme.
+        
+        					2.7	The Programme membership and its associated benefits and privileges are for the Member’s sole enjoyment and shall not be transferable. FPMS reserves the right to vary, amend and modify the benefits and privileges and these FRx Terms at its sole and absolute discretion without prior written notice.
+        					<br /><br />
+        
+        					2.8	Each Member can only register for one Frasers Experience Membership Account and it is non-transferable. By accepting the Programme membership, the Member agrees and undertakes to provide any merchants who are tenants or licencees located within the Frasers Property and are taking part in the Programme at FPMS’ sole discretion ("<strong><u>FRx Merchants</u></strong>") proof or verification of his/her identity on demand.
+        					<br /><br />
+        
+        					2.9	Unless otherwise terminated in accordance with these FRx Terms, the Programme membership shall be valid for such period determined by FPMS at the time of application.
+        					<br /><br />
+        
+        					2.10 Unless otherwise determined by FPMS in its sole discretion, the Programme membership (and any benefits from such membership) shall not be valid at: (a) any property which is not managed by Frasers Property; or (b) any merchant which is not a FRx Merchant.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>3. Frasers Points and Redemption</strong>
+        					<br /><br />
+        
+        					3.1	Frasers Points
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>The Member shall be entitled to earn points known as "Frasers Points" for the total purchase value at any Merchant outlet.</li>
+        						<li>Subject to Paragraph 5 below, Frasers Points will be awarded only to Members who scan their member QR code in the App at the point of payment at participating FRx Merchants or by such other means as determined by FPMS from time to time. Members who fail to do so shall not be entitled to retrospectively earn or credit any Frasers Points into their Frasers Experience Membership Account for that transaction.</li>
+        						<li>The Frasers Points accumulated by the Member will be credited to their Frasers Experience Membership Account within twenty-four (24) hours or such other time periods as shall be determined by FPMS once transaction is verified to be valid.</li>
+        						<li>FPMS shall have the sole discretion to deduct, cancel or reject/refuse to award Frasers Points for any purchases which in FPMS’s sole discretion is doubtful or not genuine or deduct, cancel or reject/refuse to award Frasers Points that have been wrongfully accorded.</li>
+        						<li>The Frasers Points earned and accumulated by the Member shall be valid only for the Redemption Year (as hereinafter defined) in which it is earned. A "Redemption Year" means a period of 12 months, starting 01 October and ending 30 September of the following year.</li>
+        					</ol>
+        
+        					3.2	Redeemable Rewards
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>Upon the accumulation of a pre-determined amount of Frasers Points, the Member may redeem the Frasers Points for "Redeemable Rewards". Redeemable Rewards may include, but are not limited to, gift cards and eVouchers which may be used at various merchants (including FRx Merchants, non-FRx Merchants and other third party merchants not located at Frasers Property). FPMS shall have the sole discretion to determine all terms relating to the redemption of such Redeemable Rewards, including but not limited to: (i) the types of Redeemable Rewards made available; (ii) the terms for redemption and use of each Redeemable Reward; (iii) the accrual rate of Frasers Points; and (iv) the number of Frasers Points required for each Redeemable Reward.</li>
+        						<li>Redemption of Frasers Points shall be made by the Member by submitting an online point redemption request via the App with their username and password. The Member shall provide an acknowledgement as may be required by FPMS upon redemption of any Frasers Points.</li>
+        						<li>Upon the Member’s request to redeem the Member’s Frasers Points to Redeemable Rewards, the Redeemable Rewards will be credited to the Member's App within twenty-four (24) hours or such longer time period as shall be determined by FPMS.</li>
+        						<li>Frasers Points shall only be redeemed by the Member for Redeemable Rewards during each Redemption Year in which it is earned and within the grace period given in accordance with Paragraph 3.2(e) below. </li>
+        						<li>Any Frasers Points that are not redeemed during the Redemption Year in which they are earned will expire and cannot be rolled over upon the expiry of the Redemption Year, save that the Member shall be given a three (3) month grace period following the expiry of the preceding Redemption Year to redeem any unused Frasers Points earned and accumulated at the end of such redemption year, failing which such Frasers Points shall expire and FPMS shall not be responsible to the Member for any unredeemed Frasers Points.</li>
+        						<li>The total Frasers Points accumulated by each Member shall determine the Member's eligibility to redeem specific Redeemable Rewards in each Redemption Year.</li>
+        						<li>The validity of the Redeemable Rewards redeemed by the Member shall have a 1 year validity from the redemption date unless otherwise stated.</li>
+        						<li>Redeemable Rewards earned that are not utilised within the validity period will expire. FPMS shall not be responsible to the Member for any unutilised Redeemable Rewards.</li>
+        						<li>Redeemable Rewards may be utilised within the validity period specified in Paragraph 3.2(g) above in accordance with the applicable terms of use of such Redeemable Reward.</li>
+        					</ol>
+        
+        					3.3	Instant Rewards
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>In addition to Frasers Points and Redeemable Rewards, the Member shall also be entitled to receive "Instant Rewards" which are rewards offered by the individual Frasers Property that may be redeemed by Members who spend a minimum amount (as may be determined by the individual Frasers Property) per day in the respective malls.
+        						<br /><br />
+        						Instant rewards may only be redeemed by Members who first scan their member QR code at participating FRx Merchants before personally presenting their member QR code on the day of the purchase at the Customer Service Counter of the relevant Frasers Property. Should the redemption require proof of payment, the actual receipts and/or payment card must be presented for verification. Please refer to https://www.FrasersExperience.com . for listing of participating FRx Merchants for eligibility of Frasers Points earning. All redemption tiers in respect of the Instant Rewards, including but not limited to setting of minimum and maximum redemption amounts, shall be determined by FPMS and shall be at the sole discretion of FPMS.
+        						</li>
+        						<li>The Instant Rewards and manner of redemption may vary amongst the different Frasers Property. All Instant Rewards are subject to availability.</li>
+        						<li>FPMS reserves the right to sight purchases or proof of payment before granting Instant Rewards redemption and/or Frasers Points earning at Customer Service Counters.</li>
+        					</ol>
+        
+        					3.4	Frasers Experience Membership Account
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>Once any Frasers Points or Redeemable Reward has been utilised, such Frasers Points or Redeemable Reward cannot be refunded or transferred back into the Member’s Frasers Experience Membership Account.</li>
+        						<li>The Member agrees and acknowledges that his/her Frasers Experience Membership Account, any Frasers Points earned under the Frasers Experience Membership Account, and any Redeemable Rewards redeemed may only be used by the Member in whose name the particular Frasers Experience Membership Account has been registered.</li>
+        						<li>Frasers Points accumulated or Redeemable Rewards redeemed under different Members’ Frasers Experience Membership Account are non-transferable and cannot be combined.</li>
+        						<li>Members may be able to check their Frasers Points balance and/or Redeemable Rewards they have redeemed via the App.</li>
+        						<li>The Member may notify FPMS of any dispute on the Frasers Points and/or Redeemable Rewards by email to FRHelp@frasersproperty.com or such other email address as may be informed by FPMS to the Member at any time or by written notice to FPMS at Frasers Experience Membership, 438 Alexandra Road, #21-00 Alexandra Point, Singapore 119958 within seven (7) days from the date of the transaction. FPMS’ determination of all disputes shall be final, binding and conclusive.</li>
+        					</ol>
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>4. Personal Data Protection</strong>
+        					<br /><br />
+        
+        					4.1	It is a continuing condition of Member’s participation in the Programme that the Member agrees and consents to (a) the terms of FPMS’ privacy policy as amended from time to time, available at <a href="https://www.frasersproperty.com/privacy-policy" target="_blank">https://www.frasersproperty.com/privacy-policy</a> (“<strong><u>Privacy Policy</u></strong>”), and (b) the terms of FPMS’ addendum to the Privacy Policy as amended from time to time, available at <a href="https://www.frasersexperience.com/privacy-policy-addendum" target="_blank">https://www.frasersexperience.com/privacy-policy-addendum</a> (“<strong><u>Privacy Policy Addendum</u></strong>”). The terms of the Privacy Policy and Privacy Policy Addendum are incorporated into this Agreement by reference.
+        					<br /><br />
+        
+        					4.2	The Member may at any time withdraw his/her consent to the collection, processing and use of his/her personal data by giving FPMS prior written notice of such withdrawal of consent. Please refer to the Privacy Policy for more information on how to do so. The Member agrees and acknowledges that if the Member withdraws his/her consent to the collection, processing and the use of his/her personal data, FPMS will not be able to administer the Member’s benefits and privileges under the Programme. Upon any such withdrawal of consent, the Member’s entitlement to participate in the Programme shall terminate in accordance with Paragraphs 4.3 and 4.4 below.
+        					<br /><br />
+        
+        					4.3	Within thirty (30) working days of FPMS’ receipt of the Member’s written notice of withdrawal of consent pursuant to Paragraph 4.2 above, the Member’s Programme membership and entitlement to benefits and privileges under the Programme shall terminate in accordance with these FRx Terms. Upon termination, FPMS shall be released and discharged from any further obligations to the Member.
+        					<br /><br />
+        
+        					4.4	If the Member withdraws his/her consent pursuant to Paragraph 4.2 above and/or terminates his/her Membership at any time and for any reason, all unused Frasers Points and Redeemable Rewards shall automatically be cancelled and no longer be available for use by the Member. Upon such termination, the Member’s Frasers Experience Membership Account shall cease to be valid with immediate effect and the Member shall also immediately cease to be entitled to any other benefits and privileges under the Programme.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>5. Downtime of the App</strong>
+        					<br /><br />
+        
+        					5.1	In the event of downtime of services available through the App:
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>Members can approach the Customer Service Counter at any Frasers Property Mall with their purchases receipt(s) within 7 days, or within the grace period determined by FPMS from time to time;</li>
+        						<li>Members can return to the respective retailer outlets with purchases receipts made during the downtime, for retrospective Frasers Point earning within 7 days.</li>
+        					</ol>
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>6.	Termination</strong>
+        					<br /><br />
+        
+        					6.1	The Member may terminate his/her membership at any time by giving FPMS fourteen (14) working days’ notice in writing.
+        					<br /><br />
+        
+        					6.2	FPMS may at its absolute discretion, without prior notice to the Member, suspend or terminate the Programme (in whole or in part) for any reason whatsoever as it deems fit, including but not limited to doubtful or non-genuine activity. FPMS also has the absolute discretion to immediately bar, terminate, change, suspend or cancel the membership or impose additional conditions on the usage of the App. Any failure or delay in taking such actions shall not constitute a waiver of its rights to enforce these FRx Terms.
+        					<br /><br />
+        
+        					6.3	If the Programme is suspended or terminated for whatever reason, FPMS shall not be liable to the Members for any losses or damages suffered or that may be suffered by the Member arising either directly or indirectly from the suspension or termination of the Programme.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>7. Miscellaneous</strong>
+        					<br /><br />
+        
+        					7.1	Any notice to be given to the Member shall be deemed to have been properly given if sent by prepaid post, email, SMS or any one form of communication mode last recorded in the FPMS’ database system.
+        					<br /><br />
+        
+        					7.2	FPMS shall not be responsible for (a) withdrawals of any of the FRx Merchants from the Programme, (b) Frasers Points and/or benefits cancellation caused by withdrawals, or (c) changes or discontinuance of the FRx Merchants which may affect the Frasers Points and/or benefits offered. The list of FRx Merchants are subject to change at any time without notice.
+        					<br /><br />
+        
+        					7.3	FPMS shall be entitled to, at any time and without the consent of or notice to the Members, assign or transfer the whole or part of its rights and obligations in relation to the Programme to any other person or entity.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>8. Limitation of Liabilities</strong>
+        					<br /><br />
+        
+        					8.1	For the avoidance of doubt, Clauses 6 to 8 of the User Terms and Conditions will apply in relation to each Member's participation in and use of the Programme, and in particular, FPMS will not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (direct or indirect) of or otherwise in connection with each Member's participation in and use of the Programme.

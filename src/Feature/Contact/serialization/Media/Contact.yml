@@ -1,0 +1,14 @@
+﻿---
+ID: "40092725-03fd-461f-9a68-1f8fd410620c"
+Parent: "4e5e3bfb-c253-4764-9f60-309172f9f592"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Contact
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T100018Z

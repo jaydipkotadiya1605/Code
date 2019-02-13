@@ -1,0 +1,181 @@
+﻿---
+ID: "eee30795-bcd5-480f-93f3-85abc183fec6"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/PrivacyPolicy
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Privacy Policy
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T051115Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: "{4C4E8FCD-AED7-4142-BFD3-B9B54465329C}"
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <ol>
+            <!-- section -->
+            <h2 class="grey">A. About This Policy</h2>
+            <li>This Policy has been adopted by Frasers Property Limited (&ldquo;Frasers&rdquo;), and other organisations related to Frasers (including its subsidiaries) (collectively the &ldquo;Frasers Property Group&rdquo;), including the hospitality and commercial businesses and properties owned and operated globally by the Frasers Property Group.</li>
+            <li>In this Policy, &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo; refers to Frasers, or any organisation within the Frasers Property Group, as appropriate. Although this Policy is in common use by the Frasers Property Group, except where applicable laws provide otherwise, each organisation is only responsible to you in relation to its own collection and use of your personal data, and its own actions.</li>
+            <li>We are committed to safeguarding your personal data. This Policy describes how we collect, use, disclose and process your personal data, and applies to personal data we collect about you.</li>
+            <li>This Policy supplements but does not supersede or replace any other consents you may have provided to us, or any other agreements or arrangements that you may have with us, in respect of your personal data.</li>
+            <!-- section -->
+            <h2 class="grey">B. Amendments to This Policy</h2>
+            <li>We review and may amend this Policy from time to time to reflect changes in applicable laws or the way we handle personal data. The updated Policy will supersede earlier versions and will apply to personal data provided to us previously.You are encouraged to re-visit our Policy from time to time to keep yourself updated on these changes. A copy of our current Policy is available on request or can also be found at https://www.frasersproperty.com/privacy-policy.</li>
+            <!-- section -->
+            <h2 class="grey">C. What Personal Data We Collect</h2>
+            <li><strong>What is personal data.</strong> &ldquo;Personal data&rdquo; is data that can be used to identify a natural person. Examples of personal data include name, address, contact details, identification numbers, financial information, IP address, transactional information based on your activities on our website and applications, telephone numbers, email address, images and any other information of a personal nature.</li>
+            <li><strong>Voluntary provision of personal data.</strong> We collect personal data that you voluntarily provide to us. What personal data we collect depends on the purposes for which the personal data is collected and what you have chosen to provide.
+            <br />
+            <br />
+            You can choose not to provide us with personal data. If you have provided consent, you also have the right to withdraw your consent by contacting us in accordance with paragraph 29. However, if you do so, it may not be possible for us to fulfil the purposes for which we require the personal data, including processing your transactions or providing you with the products and services that you require.</li>
+            <li><strong>Providing personal data belonging to others.</strong> If you provide the personal data of anyone other than yourself (e.g. your family members), you are responsible for informing him/her of the specific purposes for which we are collecting his/her personal data and to ensure that he/she has provided valid consent for your provision of his/her personal data to us.</li>
+            <li><strong>Accuracy and completeness or personal data.</strong> It is important that the personal data we hold about you is accurate and up to date. It is your responsibility to ensure that all personal data that you provide is accurate and complete, and to inform us of relevant changes to your personal data.</li>
+            <li><strong>Minors.</strong> If you are a minor under 16 years of age, please obtain consent from your parent or guardian before you submit any personal data to us. If you are a parent or guardian of a minor and you have reason to believe your child or ward has provided us with their personal data without your prior consent, please contact us to request for erasure of their personal data or for the minor to be unsubscribed from our mailing lists.</li>
+            <!-- section -->
+            <h2 class="grey">D. How We Collect Personal Data</h2>
+            <li><strong>Personal data you provide.</strong> We collect personal data that is relevant to our relationship with you. Your personal data may be collected by us, directly or indirectly, for instance:<br />
+            <br />
+            <ul>
+                <li>when you make a reservation or stay at the hospitality properties that we own or manage;</li>
+                <li>when you visit or make transactions at the retail and commercial establishments that we own or manage;</li>
+                <li>when you apply to be a member of any of our customer loyalty programs, or respond to our promotions, or subscribe to our mailing lists;</li>
+                <li>when you participate in competitions, contests or games organised by us;</li>
+                <li>when you attend events or functions organised by us, or conducted at our establishments, for example, property launches and sales events, promotional and marketing events and other social events;</li>
+                <li>when your images are captured by us via CCTV cameras while you are within the properties that we own or manage, or when photographs or videos of you are taken when you attend events or functions organised by us;</li>
+                <li>when you use our services or enter into transactions with us (or express an interest in doing so) including services and transactions in respect of properties that we develop or manage;</li>
+                <li>when you communicate with us by telephone, email, via our website or through other communication channels, for example, through social media platforms;</li>
+                <li>when you visit our websites, download or use our mobile applications, or register a user account with our websites or mobile applications;</li>
+                <li>when we seek information about you and receive your personal data in connection with your relationship with us, for example, if you are an investor or shareholder of organisations within the Frasers Property Group;</li>
+                <li>when you submit an employment, internship or secondment application to us or when you provide documents or information including your resume/CVs in connection with such applications; and/or</li>
+                <li>when you submit your personal data to us for any other reason.</li>
+            </ul>
+            </li>
+            <li><strong>Personal data provided by others.</strong> Depending on your relationship with us, we may also collect your personal data from third party sources, for example:<br />
+            <br />
+            <ul>
+                <li>from our business partners such as airlines, tour operators, travel agencies, reservation systems and third parties providing advertising, marketing and promotional services to us;</li>
+                <li>from your referees, educational institutions or previous employers (if you have applied to us for a job);</li>
+                <li>from your family members or friends who provide your personal data to us on your behalf; and/or</li>
+                <li>from public agencies or other public sources.</li>
+            </ul>
+            </li>
+            <!-- section -->
+            <h2 class="grey">E. Purposes for Collection, Use or Disclosure of Your Personal Data</h2>
+            <li><strong>General purposes.</strong> Generally, we collect, use, disclose and process your personal data for purposes connected or relevant to our business or to manage your relationship with us, such as:<br />
+            <br />
+            <ul>
+                <li>processing your transactions with us or to provide products and services to you;</li>
+                <li>administrative purposes, including finance, IT and HR purposes, quality assurance and staff training;</li>
+                <li>security and safety purposes, in connection with the properties that we own or manage, or events organised by us or conducted at our properties;</li>
+                <li>compliance with laws and regulations, internal policies and procedures, including audit, accounting, risk management and record keeping;</li>
+                <li>carrying out research and statistical analysis, including development of new products and services or evaluation and improvement of our existing products and services;</li>
+                <li>facilitating business asset transactions;</li>
+                <li>assisting you with your requests, enquiries and feedback;</li>
+                <li>enforcing legal obligations owed to us, or responding to complaints, litigation or investigations concerning us;</li>
+                <li>such purposes that may be informed to you when your personal data is collected; and/or</li>
+                <li>any other reasonable purposes related to the aforesaid.</li>
+            </ul>
+            </li>
+            <li> <strong>Marketing purposes.</strong> If you have given your consent, we may use your personal data for the purposes of marketing our products and services and those of our strategic partners and business associates for marketing and communication purposes. e.g. informing you of our latest activities, special offers and promotions. In order for us to market products and services which are of special interest and relevance to you, we may analyse and rely on your overall interaction with us (such as but not limited to your participation in promotions or events and your interactions with us).</li>
+            <li><strong>Legitimate interests and other legal basis for processing.</strong> In addition to collecting, using, disclosing and processing your personal data with your consent or for performance of a contract entered with you, we may also do so to support our legitimate business interests (provided that this does not override your interests or rights), for example:<br />
+            <br />
+            <ul>
+                <li><span style="text-decoration: underline;">Guests at our properties</span>: If you make a reservation or stay at the hospitality properties that we own or manage, we may (a) use and disclose your personal data to assist you in making arrangements that you request for, such as arranging for tours, airport transfers, restaurant reservations etc; (b) send you pre-stay communications, post-stay communications and satisfaction surveys; (c) invite you to join our customer loyalty programs or subscribe to our mailing lists; and (d) evaluate your preferences to improve and customise your experience for current and future reservations and stays at our hospitality properties.</li>
+                <li><span style="text-decoration: underline;">Loyalty programmes</span>: If you are a member of any of our customer loyalty programs, we may send you (a) marketing and promotional information about the products and services; (b) information on events at our properties which may be of interest to you; and (c) newsletters and magazines associated with our customer loyalty programs.</li>
+                <li><span style="text-decoration: underline;">Job seeker/employee</span>: If you are a job seeker, in addition to the specific position which you have applied for, we may disclose your personal data to companies within the Frasers Property Group for the purpose of offering additional employment opportunities.</li>
+                <li><span style="text-decoration: underline;">Investor/shareholder</span>: If you are an investor or shareholder of organisations within the Frasers Property Group, we may use your personal data to (a) send you information about them; (b) manage investor / shareholder relations; and (c) comply with regulatory requirements.</li>
+                <li><span style="text-decoration: underline;">Managing our business</span>: We may disclose your personal data to third parties who provide services to us, including our service providers and data processors (providing services such as hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, marketing, human resources, and professional services) and our consultants and professional advisors (such as accountants, lawyers, auditors).</li>
+            </ul>
+            </li>
+            <li><strong>Use permitted under applicable laws.</strong> We may also collect, use, disclose and process your personal data, without your knowledge or consent, where this is required or permitted by law.</li>
+            <li><strong>Contacting you.</strong> When we contact or send you information for the purposes described at Part E above, we may do so by post, e-mail, SMS, telephone or such other means provided by you. If you do not wish to receive any communication or information from us or wish to restrict the manner by which we may contact or send you information, you may contact us in accordance with paragraph 29.</li>
+            <!-- section -->
+            <h2 class="grey">F. Disclosure of Personal Data</h2>
+            <li><strong>Contacting you.</strong> When we contact or send you information for the purposes described at Part E above, we may do so by post, e-mail, SMS, telephone or such other means provided by you. If you do not wish to receive any communication or information from us or wish to restrict the manner by which we may contact or send you information, you may contact us in accordance with paragraph 29.</li>
+            <li><strong>Other disclosure.</strong> We may also disclose your personal data for the purposes described at Part E above or as required or permitted by law, for example, to:<br />
+            <br />
+            <ul>
+                <li>our third-party vendors and service providers, who are engaged to provide business, support, operational and/ or administrative functions such as auditing, legal, marketing, payment, fulfilment and delivery of orders.</li>
+                <li>third parties that we conduct joint marketing and cross promotions with.</li>
+                <li>regulatory authorities, statutory bodies or public agencies, including to support their investigations.</li>
+            </ul>
+            When disclosing personal data to third parties, we will (where appropriate and permissible) enter into contracts with these third parties to protect your personal data in a manner that is consistent with all applicable laws and/or ensure that they only process your personal data in accordance with our instructions.
+            </li>
+            <!-- section -->
+            <h2 class="grey">Transfer of Personal Data to Other Countries</h2>
+            <li><strong>Transfers.</strong> The Frasers Property Group operate in many different jurisdictions, including Singapore, Australia, China, Germany, Indonesia, the Philippines, Japan, Malaysia, the Netherlands, Spain, Thailand, United Kingdom and Vietnam. We may transfer your personal data for the purposes described at Part E above:<br />
+            <br />
+            <ul>
+                <li>amongst ourselves, from the jurisdiction where it is collected to any other jurisdictions that we operate in; and</li>
+                <li>to third parties in other jurisdictions where necessary.</li>
+            </ul>
+            </li>
+            <li><strong>Safeguards.</strong> We are committed to safeguarding your personal data when it is transferred across jurisdictions. We ensure that your personal data receives an adequate level of protection regardless of the jurisdiction to which it is transferred. For example, we may enter into contracts (or impose binding rules) with recipients to protect your personal data in a manner that is consistent with all applicable laws. You may obtain details of these safeguards by contacting us in accordance with paragraph 29.</li>
+            <!-- section -->
+            <h2 class="grey">Security and Retention of Personal Data</h2>
+            <li><strong>Unauthorised access.</strong> While precautions will be taken to ensure that the personal data you provide is protected against unauthorised or unintended access, we cannot be held responsible for unauthorised or unintended access that is beyond our control.</li>
+            <li><strong>Vulnerabilities.</strong> We do not guarantee that our systems or applications are invulnerable to security breaches, nor do we make any warranty, guarantee, or representation that your use of our systems or applications is safe and protected from viruses, worms, Trojan horses, and other vulnerabilities. We also do not guarantee the security of data that you choose to send us electronically. Sending such data is entirely at your own risk.</li>
+            <li><strong>Period of retention.</strong> We keep your personal data only for so long as we need the personal data to fulfil the purposes we collected it for, and to satisfy our business and/or legal purposes, including audit, accounting or reporting requirements.
+            <br />
+            <br />
+            How long we keep your personal data depends on the nature of the data, for example: we will keep personal data for at least the duration of the limitation period for bringing claims if the personal data may be required to commence or defend legal proceedings. Some information may be retained for longer, for example where we are required to do so by law. Typically, our data retention periods range from 3 to 15 years.</li>
+            <li><strong>Anonymised data.</strong> In some circumstances we may anonymise your personal data so that it can no longer be associated with you, in which case we are entitled to retain and use such data without restriction.</li>
+            <!-- section -->
+            <h2 class="grey">I. Your Rights</h2>
+            <li>Depending on the jurisdiction you are in or where we operate, you may enjoy certain rights at law in relation to our collection, use, disclosure and processing of your personal data. Such rights include:<br />
+            <br />
+            <ul>
+                <li>Access: you may ask us if we hold your personal data and, if we are, you can request access to your personal data. This enables you to receive a copy of and information on the personal data we hold about you.</li>
+                <li>Correction: you may request that any incomplete or inaccurate personal data we hold about you is corrected.</li>
+                <li>Erasure: you may ask us to delete or remove personal data that we hold about you in certain circumstances.</li>
+                <li>Restriction: you may withdraw consent for our use of your personal data, or ask us to suspend the processing of certain of your personal data about you, for example if you want us to establish its accuracy.</li>
+                <li>Portability: you may request the transfer of certain of your personal data to another party under certain conditions.</li>
+                <li>Objection: where we are processing your personal data based on a legitimate interest (or those of a third party) you may object to processing on this ground.</li>
+            </ul>
+            If you wish to make exercise your rights, you may contact us in accordance with paragraph 29. We may require that you submit certain forms or provide certain information to process your request. Where permitted by law, we may also charge you a fee to process your request.
+            </li>
+            <li><strong>Limitations.</strong> We may be permitted under applicable laws to refuse a request, for example, we may refuse (a) a request for erasure where the personal data is required for in connection with any claims; or (b) an objection request and continue processing your personal data based on compelling legitimate grounds for the processing.</li>
+            <li><strong>Complaints.</strong> If you are of the opinion that we have not complied with this Policy or we have infringed applicable data protection laws, you have a right to lodge a complaint with any data protection regulator or authority having jurisdiction over us.</li>
+            <!-- section -->
+            <h2 class="grey">J. Contacting Us</h2>
+            <li> If you have any feedback or issues in relation to your personal data, or about this Policy, or wish to make a complaint to us, you may contact the applicable Data Protection Officer in your region, as set out below:<br />
+            <br />
+            Singapore: <a href="mailto:dpo_sg@frasersproperty.com">dpo_sg@frasersproperty.com</a><br />
+            Australia: <a href="mailto:dpo_aus@frasersproperty.com">dpo_aus@frasersproperty.com</a><br />
+            China: <a href="mailto:dpo_chn@frasersproperty.com">dpo_chn@frasersproperty.com</a><br />
+            EU, excluding UK: <a href="mailto:dpo_eu@frasersproperty.com">dpo_eu@frasersproperty.com</a><br />
+            UK: <a href="mailto:dpo_uk@frasersproperty.com">dpo_uk@frasersproperty.com</a><br />
+            All Other Regions: <a href="mailto:dpo_aor@frasersproperty.com">dpo_aor@frasersproperty.com</a><br />
+            <br />
+            When you contact us, we may require that you submit certain forms or provide certain information, including verification of your identity, before we are able to respond.
+            </li>
+        </ol>
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: "4C4E8FCDAED74142BFD3B9B54465329C=69D3AB23-0971-4EF8-8FB6-2B1485870AA5"

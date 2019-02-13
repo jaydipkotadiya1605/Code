@@ -1,0 +1,8 @@
+﻿@model Sitecore.Feature.Identity.Models.MenuItems
+@if (Model?.Items != null && Model.Items.Count > 0)
+{
+    foreach (var item in Model.Items)
+    {
+        <li>@item.Url</li>
+    }
+}

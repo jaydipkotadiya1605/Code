@@ -1,0 +1,12 @@
+﻿@using Sitecore.Feature.Errors
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@if (Model == null)
+{
+    return;
+}
+
+<div class="refine-search">
+    <h5>@Html.Sitecore().Field(Templates.Error.Fields.Title, Model.Item)</h5>
+    <p>@Html.Sitecore().Field(Templates.Error.Fields.Subtitle, Model.Item)</p>
+</div>

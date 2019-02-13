@@ -1,0 +1,30 @@
+﻿---
+ID: "ed37b288-322a-44fb-bf34-7cd0c4f08cc2"
+Parent: "2b971402-bfa4-41b0-8dd2-678c9ac41c5d"
+Template: "5e6ece62-0357-40d5-a11e-06c577d9cb6a"
+Path: /sitecore/content/AnchorPoint/Home/Search Result/_Local/Search Header On Search Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13ac1397-0ff5-49e1-92eb-a903bd1798c2"
+      Hint: Title
+      Value: Results found for
+    - ID: "1fbec6c4-f3bc-4b00-a4b8-3ad05206b349"
+      Hint: Subtitle
+      Value: "Didn't find what you were looking for? Try new search terms."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T083033Z
+    - ID: "5a21ae5b-da72-46dc-ab15-0da32a86b424"
+      Hint: Placeholder Text
+      Value: Search
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d8365986-17a9-4257-8b04-aceb5efb36bf"
+      Hint: Button Search Text
+      Value: Search

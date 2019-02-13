@@ -1,0 +1,18 @@
+﻿---
+ID: "a4a634cf-723d-4324-b204-602f19167748"
+Parent: "30d6b92d-54d0-4e80-8a85-6303513514b9"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/content/AnchorPoint/Home/Good Deals/*
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 446
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T095033Z

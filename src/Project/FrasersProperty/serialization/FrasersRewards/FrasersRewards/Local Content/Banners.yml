@@ -1,0 +1,18 @@
+﻿---
+ID: "777327db-4818-4e68-8bf7-da32b9912091"
+Parent: "96849918-7e38-4a9d-97c1-0d65e3b1ed40"
+Template: "d668aad6-791c-4db0-ab9f-d78b182b569a"
+Path: /sitecore/content/FrasersRewards/Local Content/Banners
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180711T063615Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

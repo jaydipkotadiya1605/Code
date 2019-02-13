@@ -1,0 +1,36 @@
+﻿---
+ID: "dd56b485-0ea2-4744-aa24-a78bb6fa01e6"
+Parent: "b61a7304-3ed6-4e6e-a637-eb9d842a7ddf"
+Template: "5d5635db-f3e3-4171-973b-c83d522c111a"
+Path: /sitecore/content/WaterwayPoint/Local Content/Events/The Galactic Arena at Selected Frasers Centrepoint
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{57B7944E-5263-41B1-9446-0CA2BB63B3A7}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5b89a0-4344-47a8-816b-2a6c0c8cd82e"
+      Hint: Source ID
+      Value: "{57B7944E-5263-41B1-9446-0CA2BB63B3A7}"
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{57B7944E-5263-41B1-9446-0CA2BB63B3A7}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T050918Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: |
+        {4C4E8FCD-AED7-4142-BFD3-B9B54465329C}
+        {6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}

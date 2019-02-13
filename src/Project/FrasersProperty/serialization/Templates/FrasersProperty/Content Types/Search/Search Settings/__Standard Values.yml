@@ -1,0 +1,21 @@
+﻿---
+ID: "b1744584-cf3e-41ff-b2bd-4aa8c0f8487e"
+Parent: "0ad4f49e-8253-4134-81eb-675e526545df"
+Template: "0ad4f49e-8253-4134-81eb-675e526545df"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Search/Search Settings/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180824T090726Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "93678e0d-36e4-4257-983d-b3c08355412b"
+      Hint: SearchResultPage
+      Value: "{5E813DC6-9468-4D2D-ADE3-1346902817FD}"

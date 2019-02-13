@@ -1,0 +1,18 @@
+﻿---
+ID: "ff62cf8a-1192-4646-9ed0-c617fd356222"
+Parent: "f04df595-a791-4310-b1e9-0f362ad44ed9"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/2nd/Happenings/Mall Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Mall Events" anchor="" linktype="internal" class="" title="Mall Events" target="" querystring="category=Mall Event" id="{DE983778-0EB5-44BB-828C-77BB261398CF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T100431Z

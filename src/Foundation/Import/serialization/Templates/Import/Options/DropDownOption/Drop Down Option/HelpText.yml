@@ -1,0 +1,23 @@
+﻿---
+ID: "b5cbae6f-b934-4d25-b231-9373a6f7e3af"
+Parent: "2e83d0b9-7cf3-493a-8557-4f765ac30658"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Import/Options/DropDownOption/Drop Down Option/HelpText
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221223Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221223Z

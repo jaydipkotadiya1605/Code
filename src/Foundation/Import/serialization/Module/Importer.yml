@@ -1,0 +1,14 @@
+﻿---
+ID: "5055aeb0-cb35-4405-a51e-dd54021ed7e8"
+Parent: "08477468-d438-43d4-9d6a-6d84a611971c"
+Template: "25e0fa47-3411-4065-be2e-e511c4c86583"
+Path: /sitecore/system/Modules/Importer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T145354Z

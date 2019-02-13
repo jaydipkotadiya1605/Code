@@ -1,0 +1,28 @@
+﻿---
+ID: "01e03ec8-0aad-4869-ad3d-4154a2e57627"
+Parent: "c7c341f1-9fcb-4581-9745-6180a9eba9c4"
+Template: "0bd0a622-7ce0-47d9-b428-a1172171c3b8"
+Path: /sitecore/content/Global/Article Categories/Promotions
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Promotions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180620T044345Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "79aab1be-8792-47e6-b98d-184f81f73273"
+      Hint: Value
+      Value: Promotions
+    - ID: "9ae5b2dc-7f40-4890-8b00-ee612f40d3d8"
+      Hint: Key
+      Value: Promotions

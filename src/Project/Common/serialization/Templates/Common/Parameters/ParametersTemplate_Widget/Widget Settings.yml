@@ -1,0 +1,14 @@
+﻿---
+ID: "18c34da2-89ca-4402-9b20-f053e03c309f"
+Parent: "f095ad2d-63d8-4ed5-b4aa-c47193a3a0e8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_Widget/Widget Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T062335Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "90cc3e71-d4ba-4fb9-83b5-c0eed763304f"
+Parent: "83cbdbb7-2458-47a3-8249-2cabf06b31d1"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: "/sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Snippets/Section 2 Columns Image - Text"
+DB: core
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <section>
+    <div class="row">
+    	<div class="col col-12 col-md-6 mb-3"><img src="/-/media/feature/pagecontent/gc-card.jpg" alt="Gift Card"></div>
+    	<div class="col col-12 col-md-6">
+    		<h2 class="dark-thin">GIVE THE GIFT OF CHOICE</h2>
+    		With a Frasers Property Gift Card, you'll have access to hundreds of brands at participating Frasers Property malls, offices and business spaces across Singapore. Visit selected *<a href="giftcards-faq.html#csc">Customer Service Counters</a> at our malls to purchase a Frasers Property Gift Card today!
+    		<br /><br />
+    		Frasers Property Gift Cards can be loaded with values starting from $10 to $500 in denominations of $10.
+    	</div>
+    </div>
+    </section>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T083058Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: |
+        <img height="16"  src="/sitecore/shell/Themes/FrasersProperty/Section2ColumnsImageText.png" border="0" alt="Section (2 Columns: Image + Text)" />Section (2 Columns: Image + Text)

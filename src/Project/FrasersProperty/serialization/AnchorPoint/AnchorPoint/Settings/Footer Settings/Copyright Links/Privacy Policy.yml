@@ -1,0 +1,22 @@
+﻿---
+ID: "c7ce8062-e211-41b0-9655-b2d0d0b4371e"
+Parent: "dcafad2b-ad2b-48f5-8c18-68e6ad088e27"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Copyright Links/Privacy Policy
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Privacy Policy" anchor="" linktype="internal" class="" title="Privacy Policy" target="" querystring="" id="{9A418733-AA2D-4B4A-85DB-B89E230907E7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T065410Z

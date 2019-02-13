@@ -1,0 +1,114 @@
+﻿---
+ID: "fa639aec-0b0c-4a7a-b8f0-ab9d3a7f89a3"
+Parent: "619ed081-078f-45cd-bc6f-ebc9d2d88f4c"
+Template: "ebfe0dc6-e9e5-4cb4-8076-3cf6e0a4d916"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/Contact Us
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 888
+- ID: "d79d9ddd-2774-42f4-94c3-50c892f6e13d"
+  Hint: JavascriptCodeTop
+  Value: 
+- ID: "f19e8a50-9950-4861-9e66-9598a1898e71"
+  Hint: InheritAssets
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ff35d56-2384-4845-87e2-eb93768035cc"
+      Hint: Receiver Name
+      Value: Main admin
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T023311Z
+    - ID: "26ae7575-792f-4108-a050-fc86762c30e2"
+      Hint: Private API Key
+      Value: 
+    - ID: "37013884-0850-4493-823c-fa2b5548f635"
+      Hint: Title
+      Value: Contact Us Page
+    - ID: "4ce23ca3-0663-4c79-8c59-eeb5b251c6fe"
+      Hint: Contact Page Title
+      Value: "How Can We Help?"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Contact Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5ed37496-1555-4255-a5ed-b13d39f143ad"
+      Hint: Contact Page Sub Title
+      Value: "Get in touch - we’re here to help you."
+    - ID: "6399b12b-5b01-4ac0-a382-2c2aed485bd1"
+      Hint: JavaScriptFileTop
+      Value: "https://www.google.com/recaptcha/api.js"
+    - ID: "6ca85acc-5dfe-428f-96fa-39a1d37f933f"
+      Hint: No Reply Email
+      Value: 
+    - ID: "8cfce156-a215-42d6-87d2-0f92e1f404f1"
+      Hint: Receiver Email
+      Value: 
+    - ID: "a4e04abd-d56c-4e4e-a190-7ea638845831"
+      Hint: Message
+      Value: |
+        <meta name="viewport" content="width=device-width" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Simple Transactional Email</title>
+        <table border="0" cellpadding="0" cellspacing="0" class="body">
+            <tbody>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td class="container">
+                    <div class="content"> <!-- START CENTERED WHITE CONTAINER -->
+                    <table class="main">
+                        <!-- START MAIN CONTENT AREA -->
+                        <tbody>
+                            <tr>
+                                <td class="wrapper">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                            <p>Dear [Receiver],</p>
+                                            <p>&nbsp;</p>
+                                            Contact Info Submitted:
+                                            <p>&nbsp;</p>
+                                            <p> Name: [Name]</p>
+                                            <p> Email: [Email]</p>
+                                            <p> Contact Number: [ContactNo]</p>
+                                            <p> Message: [Message]</p>
+                                            <p>Thanks</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                            <!-- END CENTERED WHITE CONTAINER -->
+                        </tbody>
+                    </table>
+                    </div>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "c0d436a3-7e25-4d14-bf04-41753f7967e2"
+      Hint: Subject
+      Value: Notify from contact us page
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Contact Us
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0
+    - ID: "ed78e746-bd29-4a2b-9901-f122d200c36c"
+      Hint: Public API Key
+      Value: 

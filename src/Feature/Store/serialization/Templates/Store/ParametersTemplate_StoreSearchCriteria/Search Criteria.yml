@@ -1,0 +1,14 @@
+﻿---
+ID: "30d6b872-d00c-4d2f-bd3e-731335d9ee2b"
+Parent: "5fc3377b-3ccb-4551-b42e-7a317ca34149"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Store/ParametersTemplate_StoreSearchCriteria/Search Criteria
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T073011Z

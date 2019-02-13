@@ -1,0 +1,14 @@
+﻿---
+ID: "4f3d7685-c639-4698-a4da-728e54fe972a"
+Parent: "faffaaa9-92eb-4a98-bc6c-b68033cff805"
+Template: "faffaaa9-92eb-4a98-bc6c-b68033cff805"
+Path: /sitecore/templates/Feature/Search/ParametersTemplate_GeneralSearchResult/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T054848Z

@@ -1,0 +1,80 @@
+﻿---
+Username: |
+  frasersproperty\MainSiteAdmin
+Email: test365@mailinator.com
+Comment: 
+Created: "2018-08-13T04:44:53.0000000Z"
+IsApproved: True
+Properties:
+- Key: |
+    /frasersproperty\mainsiteadmin/Content Editor/Sections/Collapsed
+  Value: "?Main Site=0&Hidden Fields=0&Banner=0&Mall Site=0&Schedulable Setting=0&Workflow=1&Statistics=0"
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/Panes/PFB3CE825F8C94A35B76BB5856E3E3B0E
+  Value: visible
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/Ribbon/My Strip
+  Value: "{D33A0641-9F1C-4984-8342-0655C3D0F123}"
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/Sections/FB3CE825F8C94A35B76BB5856E3E3B0E_0CD981C221484159A8108EB6343A1124_section/Collapsed
+  Value: false
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/Sections/FB3CE825F8C94A35B76BB5856E3E3B0E_52FC6AC9F0C44FC08508E6D1D429061D_section/Collapsed
+  Value: false
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/Sections/FB3CE825F8C94A35B76BB5856E3E3B0E_6C811026F1744E3DAE92031A87F1F011_section/Collapsed
+  Value: false
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: |
+    /frasersproperty\mainsiteadmin/UserOptions.ContentEditor.ShowSystemFields
+  Value: false
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: FullName
+  Value: Main Site Admin
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: IsAdministrator
+  Value: False
+  ValueType: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: Portrait
+  Value: office/16x16/default_user.png
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: ProfileItemId
+  Value: "{AE4C4969-5B7E-4B4E-9042-B2D8701CE214}"
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: False
+- Key: digestcredentialhash
+  Value: 92dd2286b66f47954435fc78eca1bb96
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: digestcredentialhashwithoutdomain
+  Value: 65ffdddf8b1f4a869ead18019b1dcab7
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+- Key: sc_RssSalt
+  Value: wS7lQVbj7C1X/GdB2f01tSJD
+  ValueType: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+  IsCustom: True
+Roles:
+  MemberOf: |
+    frasersproperty\Main Site Admin
+  MemberOf: |
+    sitecore\Author
+  MemberOf: |
+    sitecore\Designer
+  MemberOf: |
+    sitecore\Sitecore Client Publishing

@@ -1,0 +1,39 @@
+﻿---
+ID: "1ca86fe0-e443-463d-a75f-510eb57d9e4d"
+Parent: "83cbdbb7-2458-47a3-8249-2cabf06b31d1"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Snippets/Orange Section
+DB: core
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <section class="orangebox">
+    	<div class="row align-items-center">
+    		<div class="col col-12 col-md-8">
+    			<h2>GET UPGRADED TO THE FRASERS REWARDS ELITE CLUB</h2>
+    			<br />
+    			Spend $8,000 or more for an upgrade to Frasers Rewards Elite the following redemption year and enjoy DOUBLE value when you redeem for Digital Gift Cards!
+    			<br />
+    			<br />
+    			(500 Frasers Points = 1% Rebate in Digital Gift Cards for Frasers Rewards Elite members)
+    		</div>
+    	<div class="col col-12 col-md-4 my-3 text-center"><img src="/-/media/feature/pagecontent/fr-elite.png" alt="Frasers Rewards Elite" /></div>
+    	</div>
+    </section>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T074032Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: |
+        <img height="16"  src="/sitecore/shell/Themes/FrasersProperty/OrangeSection.png" border="0" alt="Orange Section"/>Orange Section

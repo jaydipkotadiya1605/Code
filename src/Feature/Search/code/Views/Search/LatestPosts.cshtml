@@ -1,0 +1,35 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Feature.Search
+@using Sitecore.Foundation.Alerts.Extensions
+@model Sitecore.Feature.Search.ViewModels.FraserRewardsViewModel
+
+@if (Model == null)
+{
+    @Html.PageEditorInfo(Html.Sitecore().Dictionary(Constants.NoLatestPostFound, Constants.NoLatestPostFoundText))
+    return;
+}
+<div class="widget latest">
+    <h2>@Model.Title</h2>
+    <div class="list">
+         @if (Model.Results.Any())
+         {
+             foreach (var article in Model.Results)
+             {
+            <div class="item">
+                <div class="title">
+                    <a href="@article.Url">@article.Title</a>
+                </div>
+                @if (!string.IsNullOrEmpty(article.Category))
+                {
+                    <div class="category">@Html.Sitecore().DictionaryField(Constants.In, Constants.InText) <a href="@article.CategoryUrl">@article.Category</a></div>
+                }
+            </div>
+             }
+         }
+         else
+         {
+            <div class="item">@Html.Sitecore().Dictionary(Sitecore.Foundation.FrasersContent.Constants.NoDataFound, Sitecore.Foundation.FrasersContent.Constants.NoDataFoundText)</div>
+         }
+
+    </div>
+</div>

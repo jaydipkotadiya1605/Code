@@ -1,0 +1,26 @@
+﻿@using Sitecore.Data.Items
+@using System.Collections.Generic
+@using Sitecore.Feature.Identity
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+
+@model IEnumerable<Sitecore.Feature.Identity.Models.MobileFooterModel>
+
+@if (Model == null || Model.Count() == 0)
+{
+    return;
+}
+
+@foreach (var item in Model)
+{
+        <li>
+            @if (item.IsExternalLink)
+            {
+                <a href="@item.ItemUrl" target="_blank">@item.Name</a>
+            }
+            else
+            {
+                <a href="@item.ItemUrl">@item.Name</a>
+            }
+     
+        </li>
+}

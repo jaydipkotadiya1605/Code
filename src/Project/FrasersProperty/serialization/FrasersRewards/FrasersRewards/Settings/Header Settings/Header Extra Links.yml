@@ -1,0 +1,18 @@
+﻿---
+ID: "e68100ab-63d9-4b64-8a2c-bbcb6e271b03"
+Parent: "fa5e1a02-e73a-4c72-8ad2-b0d366125fcb"
+Template: "c6a18d6f-dfe2-43db-b7fe-e4bd68c4c77e"
+Path: /sitecore/content/FrasersRewards/Settings/Header Settings/Header Extra Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T125255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,28 @@
+﻿---
+ID: "9975acdc-b809-4877-9dee-6f6e1cf7ccbe"
+Parent: "cd7ceb87-4cda-495e-be67-1bbb8c696d39"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Item Resolver Settings/Store Routing Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: 
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{5D406680-B088-46E8-9734-7370F2F6E9ED}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T045148Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

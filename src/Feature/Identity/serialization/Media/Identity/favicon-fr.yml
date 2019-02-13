@@ -1,0 +1,46 @@
+﻿---
+ID: "67aaa3b0-635a-4cbd-bc3f-d7f302a4cee9"
+Parent: "c986440b-2ec7-499a-85ae-98c08634ef71"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/Identity/favicon-fr"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/67AAA3B0635A4CBDBC3FD7F302A4CEE9.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 16
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "78110ebe-6b0f-461a-93ab-6223ce302956"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAipJREFUOBGFkk1oE1EQx2feW0WoraShzcHEBkyKLbnloujFHlSooBfBQzwIQk4eQk9ugqxakHgRvJR6FEEaLIJ46E1QAh5MSYjQbkFEsheVNJoWMe6+N85GNjSQtA/2vdn5+M1/dh/APutBoTB3zzTn90kBMSxYKpUkKfUIAZaKxeLosLyhALtaLRBAGoi+u+32jA8cBBkIWMznb2giiwu2WMGi1npto1ZbGgTgeP+6b5oZ7rzMgeeAaIPWd/n9NdsrSJSOxOMPs9msG1T1AE8sa6ztuleIKIqI71nBNAcnOFGw7xxDUmyXhZRPjxpGNWdZP32I4W/+ug2wC+XyC9jZ6ULfpNPr9XD4BCEe0QAbDE0y5BR/2NyuUmtc0h0JW7FkQQOZANjiynecVGG7gagPsd0RJDsE1ApNjn7ASqUnvduVNx6LGDKTAqmjoOgqe84CwSyH6gi0SgLXOWUEgGIs/6PwpKNF5zIRTBiGfCZYGo07m3VQehwQbjK0wUrOI8JjQrjAsFX+lWckQo08taCgs0laREKTx6yxL7bdnTeQ0zyZisFfbxbJW2b5Uwz8JqRxHZTnd8yx748AkQk5W6+Cmr57EP78qSFRe9w5wiM4hxHmtFJ3NMECAf5GFJf2FvuQPgUBdXsqOY8CHe3pPI9wjcd0UYiLoa/22yDnwPNXPHG6GU3Q/2f61oEFgxKa0eTL7VhiZVAs8PUuUuDYe7aN45n4yA++R8PXP9Lc4RMy9TmmAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 624
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 16 x 16
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 16
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T100316Z
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Frasers Rewards
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: FrasersReward Favicon

@@ -1,0 +1,32 @@
+﻿---
+ID: "c13af191-6819-45ad-b475-ab9841c743c5"
+Parent: "7bd2c826-d916-4890-922a-7fd63e0e9bf2"
+Template: "5d406680-b088-46e8-9734-7370f2f6e9ed"
+Path: /sitecore/content/WaterwayPoint/Local Content/Stores/10 10 MOTHER and CHILD ESSENTIALS
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24685ba6-1a7d-4907-b7d2-bdf13a538e03"
+      Hint: Unit No
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20190129T222243:636843973634364474Z"
+    - ID: "40a19311-9ee7-4cde-a9ce-2747b338b2b5"
+      Hint: Logo
+      Value: |
+        <image mediaid="{AFAE526B-D198-464A-9E80-AC4B94D05C8E}" />
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: 10 10 MOTHER and CHILD ESSENTIALS
+    - ID: "842869b0-46f9-4b25-8b3f-ec7ce1d6c8e6"
+      Hint: Description
+      Value: 10 10 MOTHER and CHILD ESSENTIALS Description
+    - ID: "b9d4826f-56c7-4f2b-9520-648769fa42df"
+      Hint: Store Name
+      Value: 10 10 MOTHER and CHILD ESSENTIALS
+    - ID: "c446b54a-c016-4251-b3e9-e477846cd147"
+      Hint: Wing
+      Value: "{FF67FF7E-5305-4386-BFF4-0D0A09A2AA6A}"

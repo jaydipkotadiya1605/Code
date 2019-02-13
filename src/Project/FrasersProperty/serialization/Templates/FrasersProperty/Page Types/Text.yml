@@ -1,0 +1,31 @@
+﻿---
+ID: "3c409aa3-905d-4e15-a945-858ac69482ac"
+Parent: "50aa5a9a-d84c-41bc-b9a4-214ef6993700"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Page Types/Text
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/text_rich.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {BF668C01-168B-4F4E-BDFD-B7EBA56A644C}
+    {D88CCD80-D851-470D-AF11-701FF23504E7}
+    {D22123A6-A875-40D8-8D18-2100D9F117E9}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{062B2D3A-D3AB-47C4-BF45-FF4B7C5D4CED}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T045715Z

@@ -1,0 +1,29 @@
+﻿---
+ID: "7005dd79-934b-4ada-94dd-ca653179945f"
+Parent: "19ebccb4-95dd-48dd-a742-c147458c55d4"
+Template: "74713dba-ac0d-4a12-bc9e-f607bb2c8ed1"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Header Settings/Social Links/Instagram
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T082307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b8119e3-0258-47aa-baf7-6f3093f53167"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.instagram.com/waterway_point/" anchor="" target="" />
+    - ID: "73122077-c90e-4fc3-9954-0e2287f934f9"
+      Hint: CssClass
+      Value: ig
+    - ID: "ab91d564-2b6a-48f1-aac0-de65ea773de2"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8F377585-1E55-47AB-A54B-34E4CDFC5963}" />

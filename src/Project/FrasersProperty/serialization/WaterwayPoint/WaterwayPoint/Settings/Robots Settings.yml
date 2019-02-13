@@ -1,0 +1,24 @@
+﻿---
+ID: "defbd7d4-d3c5-46a3-a39a-07003d71b13c"
+Parent: "dc384d23-d7e8-4249-afb3-293f397532ca"
+Template: "27fd9d20-18dc-4e07-bf2b-7c00d5dd0a69"
+Path: /sitecore/content/WaterwayPoint/Settings/Robots Settings
+DB: master
+SharedFields:
+- ID: "375a10d1-51e9-4618-ab72-91d4b3e51537"
+  Hint: Content
+  Value: |
+    User-agent: *
+    Disallow: /sitecore
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T034111Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

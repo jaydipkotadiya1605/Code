@@ -1,0 +1,32 @@
+﻿---
+ID: "c6fc283d-67a9-43af-8943-794aa2a55457"
+Parent: "619ed081-078f-45cd-bc6f-ebc9d2d88f4c"
+Template: "3702a209-cb39-4aa8-8249-7aec2b5adba9"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/Search Result
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7CF44964-D950-4B00-872B-5FBB230D3ACC}"
+              s:ds="{D358437F-C53F-4178-A2EC-25206BDCC71C}"
+              s:par="SearchResultPage={5E813DC6-9468-4D2D-ADE3-1346902817FD}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T075956Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

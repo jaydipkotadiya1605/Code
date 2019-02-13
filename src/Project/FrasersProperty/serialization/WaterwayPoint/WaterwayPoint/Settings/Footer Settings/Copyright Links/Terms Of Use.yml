@@ -1,0 +1,18 @@
+﻿---
+ID: "7aef3e86-43ee-4515-bc6f-2a90ee06c927"
+Parent: "8647905f-67b3-4db3-91fe-6c62b4eaaa14"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Copyright Links/Terms Of Use
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Terms of use" anchor="" linktype="internal" class="" title="Terms of use" target="" querystring="" id="{A8813277-D246-481C-A31B-A19EF2B93DA8}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T065349Z

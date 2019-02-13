@@ -1,0 +1,14 @@
+﻿---
+ID: "b3c084f9-d8ee-4e49-ad7c-8f81b0f964dd"
+Parent: "5055aeb0-cb35-4405-a51e-dd54021ed7e8"
+Template: "cdc2a4e9-1c55-4f15-8218-9167e69c6adc"
+Path: /sitecore/system/Modules/Importer/Maps
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T224924Z

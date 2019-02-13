@@ -1,0 +1,32 @@
+﻿---
+ID: "d8365986-17a9-4257-8b04-aceb5efb36bf"
+Parent: "60d79ee0-bb56-4371-98bb-08df5ab1752a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Search/_Search Header/Header Search/Button Search Text
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: 
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T063733Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

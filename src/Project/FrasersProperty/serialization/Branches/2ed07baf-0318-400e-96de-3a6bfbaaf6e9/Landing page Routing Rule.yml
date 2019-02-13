@@ -1,0 +1,28 @@
+﻿---
+ID: "b37ce8ca-b393-4e7c-bccc-c1429255dc7d"
+Parent: "2ed07baf-0318-400e-96de-3a6bfbaaf6e9"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Settings/Item Resolver Settings/Landing page Routing Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: 
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{24F3889D-C63B-452D-B158-7601EB790305}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180814T025559Z
+    - ID: "981dc08b-b585-4eb1-9507-766998633625"
+      Hint: Include Site Name
+      Type: Checkbox
+      Value: 0

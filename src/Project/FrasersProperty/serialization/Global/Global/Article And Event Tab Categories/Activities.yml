@@ -1,0 +1,30 @@
+﻿---
+ID: "fa2835de-feec-45d0-9abc-4a8a83232b1a"
+Parent: "31bd9839-c33f-4940-b75d-49b487634554"
+Template: "fc65fd9b-a685-4a1d-b2bc-5a96b0133162"
+Path: /sitecore/content/Global/Article And Event Tab Categories/Activities
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: Activities
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190202T221451Z
+    - ID: "9400a2fc-b45f-425e-99a9-aabdac09ea43"
+      Hint: Event Category
+      Value: "{F1348469-2B17-41BB-94F0-BE1CEBA2A014}"
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: Activities
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 6

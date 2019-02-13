@@ -1,0 +1,34 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.FrasersContent
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+
+<!-- filter-dropdown (mobile) -->
+<div class="container filter-dropdown">
+    @if (Model?.Items != null)
+    {
+        <div class="row">
+            @{
+                var currentItem = Model.Items.FirstOrDefault(x => x.IsCurrentItem);
+                if (currentItem != null)
+                {
+                    <div class="selected" id="tab-category-filter-mobile-text" onclick="addSub()">
+                        @Html.Sitecore().Field(Templates.TabCategory.Fields.Key, currentItem.Item)
+                    </div>
+                }
+            }
+            <!-- sub-menu -->
+            <div class="sub">
+                <div class="content" id="tab-category-filter-mobile-dropdown">
+                    @foreach (var item in Model.Items)
+                    {
+                        var title = Html.Sitecore().Field(Templates.TabCategory.Fields.Key, item.Item);
+                        var value = Html.Sitecore().Field(Templates.TabCategory.Fields.Value, item.Item).ToString();
+                        <a href="#" data-name="@value">@title</a>
+                    }
+                </div>
+            </div>
+            <!-- /sub-menu -->
+        </div>
+     }
+</div>
+<!-- /filter-dropdown (mobile) -->

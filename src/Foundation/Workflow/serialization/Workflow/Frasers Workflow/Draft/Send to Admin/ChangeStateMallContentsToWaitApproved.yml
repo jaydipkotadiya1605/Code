@@ -1,0 +1,22 @@
+﻿---
+ID: "46e40026-7271-47fa-91ea-cdeb4cd07ead"
+Parent: "e93f9118-76cc-496d-bc40-b0e0bb7e3047"
+Template: "66882e97-c8aa-4e37-8901-7a8aa35ed2ed"
+Path: /sitecore/system/Workflows/Frasers Workflow/Draft/Send to Admin/ChangeStateMallContentsToWaitApproved
+DB: master
+SharedFields:
+- ID: "a291a22b-99e2-46bb-a27b-8ec744275396"
+  Hint: Type
+  Value: Sitecore.Foundation.Workflow.Steps.ChangeStateMallContentsToWaitApproved, Sitecore.Foundation.Workflow
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T083632Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

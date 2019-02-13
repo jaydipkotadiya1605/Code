@@ -1,0 +1,14 @@
+﻿---
+ID: "6b1af575-bd2f-464c-9a70-4407d4be860e"
+Parent: "54c85709-8f36-485f-94f7-3590c2fab09a"
+Template: "0b5f9423-1efc-44ef-ab02-97332cd0e54e"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Local Content/Teasers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T072415Z

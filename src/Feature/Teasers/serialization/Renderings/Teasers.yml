@@ -1,0 +1,14 @@
+﻿---
+ID: "aaa1f749-54b0-4753-9fd9-860484472964"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Renderings/Feature/Teasers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T040727Z

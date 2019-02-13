@@ -1,0 +1,20 @@
+﻿---
+ID: "a9ea8057-a5da-4dbe-b989-f0f46cd6ef76"
+Parent: "2d5de923-c2d3-47ba-ac33-8d6b05aba063"
+Template: "db98ad47-b168-4183-a16f-3bf64b188443"
+Path: /sitecore/content/Global/Banner Categories/Shout Out
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d8bd2d6-a8af-428d-b398-96f0e7986db5"
+      Hint: Key
+      Value: Shout Out
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T100919Z
+    - ID: "3175f9d5-cfb8-4a26-848a-3231308bdb36"
+      Hint: Value
+      Value: Shout Out

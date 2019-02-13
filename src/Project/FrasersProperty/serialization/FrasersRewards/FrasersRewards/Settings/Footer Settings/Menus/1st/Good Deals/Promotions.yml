@@ -1,0 +1,22 @@
+﻿---
+ID: "9d378777-8f51-4693-99ac-53ecc8a4a275"
+Parent: "445049ec-c5a6-4ba3-b23b-7b1b994318f3"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Good Deals/Promotions
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Promotions" anchor="" linktype="internal" class="" title="Promotions" target="" querystring="category=Promotions" id="{1114E294-2EDB-44F2-BB66-C822E01D58CC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095442Z

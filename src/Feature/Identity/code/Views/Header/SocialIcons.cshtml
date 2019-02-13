@@ -1,0 +1,11 @@
+﻿@model Sitecore.Feature.Identity.Models.SocialItems
+
+@if (Model?.Items != null && Model.Items.Count > 0)
+{
+    <ul class="social-icons app-icons">
+        @foreach (var item in Model.Items)
+        {
+            <li><a href="@item.Link" class="@item.Css" target="_blank" title="@item.Name"><img src="@item.IconUrl" alt="@item.Name" />@item.IconPostText</a></li>
+        }
+    </ul>
+}

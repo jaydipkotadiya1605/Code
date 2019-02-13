@@ -1,0 +1,18 @@
+﻿---
+ID: "19a4dc5a-32fa-4280-a617-cd0b3b781a38"
+Parent: "dc384d23-d7e8-4249-afb3-293f397532ca"
+Template: "3bbefab1-43b0-40d2-bf07-570b873bf68f"
+Path: /sitecore/content/WaterwayPoint/Settings/Item Resolver Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180711T060248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "8058583d-8dc9-4d71-ba25-7aeee8b97aeb"
+Parent: "eab811ad-2bdd-40c7-a452-00b953d240b0"
+Template: "ebfe0dc6-e9e5-4cb4-8076-3cf6e0a4d916"
+Path: /sitecore/content/FrasersTower/Home/Contact Us
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T094926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

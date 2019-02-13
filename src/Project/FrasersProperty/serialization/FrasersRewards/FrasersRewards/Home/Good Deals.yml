@@ -1,0 +1,105 @@
+﻿---
+ID: "1114e294-2edb-44f2-bb66-c822e01d58cc"
+Parent: "17e7ce43-ffac-4c8d-8904-0eb2597e179d"
+Template: "f94f676b-1e3c-4e88-9f20-340acf59b64e"
+Path: /sitecore/content/FrasersRewards/Home/Good Deals
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}"
+          s:par="SearchResultPage={5E813DC6-9468-4D2D-ADE3-1346902817FD}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{35C99962-220E-4D94-A32A-958996142D24}"
+              p:before="*"
+              s:ds="{C470440B-81EC-4377-8BB6-A336D405391D}"
+              s:id="{CAE14136-1BAD-467C-BAA0-9981EEDB6FCF}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4/inner-row_83de1adf-1a02-4002-bd16-36cd3d501275/col-wide-1_99f3f2b0-e17b-4c12-86a7-3c54f061eec7" />
+            <r
+              uid="{99F3F2B0-E17B-4C12-86A7-3C54F061EEC7}"
+              p:after="r[@uid='{35C99962-220E-4D94-A32A-958996142D24}']"
+              s:ds=""
+              s:id="{B87F6745-6F9A-476D-BEB2-4072BD2FB082}"
+              s:par="Col Class={68B73629-2BAA-42B1-ACF1-297EC99D787E}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4/inner-row_83de1adf-1a02-4002-bd16-36cd3d501275" />
+            <r
+              uid="{F1290D3C-6DBE-415F-9176-3655CA320611}"
+              p:after="r[@uid='{99F3F2B0-E17B-4C12-86A7-3C54F061EEC7}']"
+              s:id="{C920CB79-CF90-4BE1-A1E4-E71407EF962D}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4/inner-row_83de1adf-1a02-4002-bd16-36cd3d501275" />
+            <r
+              uid="{83DE1ADF-1A02-4002-BD16-36CD3D501275}"
+              p:after="r[@uid='{F1290D3C-6DBE-415F-9176-3655CA320611}']"
+              s:ds=""
+              s:id="{570F6040-6CD5-4560-8820-25655D510980}"
+              s:par="Row Class={818BD1D1-0AD6-42DB-85DD-4B5FC61FA943}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4" />
+            <r
+              uid="{9407E6A9-1927-4C65-A53C-B3E69A9BBFF2}"
+              p:after="r[@uid='{83DE1ADF-1A02-4002-BD16-36CD3D501275}']"
+              s:ds="{C470440B-81EC-4377-8BB6-A336D405391D}"
+              s:id="{C98F05FA-DF90-4E73-88DA-829E8AA1CB19}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4" />
+            <r
+              uid="{9C54E10A-3218-4FAD-8114-BB4D22CBF4FD}"
+              p:after="r[@uid='{9407E6A9-1927-4C65-A53C-B3E69A9BBFF2}']"
+              s:ds=""
+              s:id="{2A418329-7B23-44D2-9031-8BE5ADA7DDAA}"
+              s:par="PageIndex=0&amp;PageSize=9"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_03f955ce-25e9-472e-8396-9f7c8b43bab4" />
+            <r
+              uid="{03F955CE-25E9-472E-8396-9F7C8B43BAB4}"
+              p:after="r[@uid='{9C54E10A-3218-4FAD-8114-BB4D22CBF4FD}']"
+              s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0" />
+            <r
+              uid="{AD09B742-2DB8-4BB8-8CF3-A5B148FC2EE0}"
+              s:ds=""
+              s:par="Css Page Class=content gooddeals-listing" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T025850Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{704F881E-1A90-4907-9C9E-96DDDD377BD9}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Good Deals
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Good Deals
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1

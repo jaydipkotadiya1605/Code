@@ -1,0 +1,14 @@
+﻿---
+ID: "2ed07baf-0318-400e-96de-3a6bfbaaf6e9"
+Parent: "d0d1af2c-2a67-4c7f-bf7f-09570fee7521"
+Template: "3bbefab1-43b0-40d2-bf07-570b873bf68f"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Settings/Item Resolver Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T065727Z

@@ -1,0 +1,16 @@
+﻿---
+ID: "aef2f2a9-c7c1-49e7-835b-6bc7986a5c90"
+Parent: "b231c6e3-3274-47f5-9a6f-1e8f66f69d76"
+Template: "24f3889d-c63b-452d-b158-7601eb790305"
+Path: /sitecore/content/FrasersRewards/Local Content/Articles/Fathers Day Specials at Ichiban Boshi
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20190129T104527:636843555273385152Z"
+    - ID: "31c583d0-fd40-47d8-81c7-df52eda0ed97"
+      Hint: Category
+      Value: "{01E03EC8-0AAD-4869-AD3D-4154A2E57627}"

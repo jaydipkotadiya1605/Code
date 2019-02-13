@@ -1,0 +1,85 @@
+﻿---
+ID: "7e8ffd14-51be-487b-b1eb-d584e6967915"
+Parent: "be744968-7767-46d5-9da8-987f5e9acef5"
+Template: "8d91ac70-349c-48e6-8b9a-3d56723edcc5"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Home
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{23B0857C-2DF3-4509-96EF-F4780AB7891C}"
+          p:after="r[@uid='{01D535E7-80BC-4672-A30F-EF7FE2BF21E4}']"
+          s:ds="{7831F356-E198-4DCB-87EB-18875C7F8BE8}"
+          s:id="{EA790C8E-2993-4F93-ABF0-D7969AF132AD}"
+          s:par=""
+          s:ph="top-main-menu" />
+        <r
+          uid="{2DDF6588-F1A9-40B6-9290-FBF76547810C}"
+          p:after="r[@uid='{23B0857C-2DF3-4509-96EF-F4780AB7891C}']"
+          s:ds="{AFC79CF9-766C-4BEC-BF72-FDB15B55D0C6}"
+          s:id="{7308B986-80B7-412F-96E6-20DD05E5C5AD}"
+          s:par=""
+          s:ph="top-social-icon" />
+        <r
+          uid="{458150A2-F12D-4D68-B5ED-05A926F1B409}"
+          p:after="r[@uid='{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}']"
+          s:ds=""
+          s:id="{6A55790B-A8C6-4BA2-A93E-DADB4E7EEEA5}"
+          s:par=""
+          s:ph="map-location" />
+        <r
+          uid="{DB848880-FBBC-47A4-9363-7EA225BDE98C}"
+          p:after="r[@uid='{458150A2-F12D-4D68-B5ED-05A926F1B409}']"
+          s:id="{0C888E57-C01E-4036-8842-1AD2F7D1B53F}"
+          s:ph="footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AFBF1C8F-EE32-4137-9AAB-45192EE79A50}"
+              s:ds="{1B10B173-D9CC-4A67-ADD5-D8D72877D99E}" />
+            <r
+              uid="{BC3D2B30-DB9F-4129-B718-B76DF204A8D6}"
+              s:par="Types=%7B24F3889D-C63B-452D-B158-7601EB790305%7D%7C%7B6620FA0A-49E6-4CAE-8872-395425075DC8%7D%7C%7B5D5635DB-F3E3-4171-973B-C83D522C111A%7D&amp;PageIndex&amp;PageSize=6" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030958Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: |
+        {64AFC738-C7DA-4313-A13A-259679EEBB0B}
+        {217FB968-CA59-47D4-B57E-F77F28792DFE}
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Home
+    - ID: "bb7a38c0-323c-4f81-8eb9-288abf7c4638"
+      Hint: MetaDescription
+      Value: Home
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Home

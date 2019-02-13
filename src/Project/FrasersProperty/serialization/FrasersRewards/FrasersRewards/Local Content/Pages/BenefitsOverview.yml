@@ -1,0 +1,119 @@
+﻿---
+ID: "69e8734a-f080-47e0-818f-4b91a6e19f35"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/BenefitsOverview
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Benefits | Overview
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T093907Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <p><img alt="Scan Your Frasers Rewards QR Code" src="-/media/dda6d8b88c28409b9f0b664a440817b6.ashx?w=730&amp;h=442" /></p>
+        <p><h2 class="dark text-center">Click on the icons below to download or update the latest Frasers Rewards Mobile App, available from 25 May 2018.</h2></p>
+        <div class="row">
+        <div class="col col-12 col-md-6 mb-3 text-center text-md-right">
+        <a href="https://play.google.com/store/apps/details?id=com.frasersrewards.app" target="_blank">
+        <img alt="Download from Google Play" src="-/media/96235c392a734c8a9b7cd17530633a3e.ashx?h=60&amp;w=189" /></a>
+        </div>
+        <div class="col col-12 col-md-6 mb-3 text-center text-md-left">
+        <a href="https://itunes.apple.com/sg/app/frasers-rewards/id1038861781?mt=8" target="_blank">
+        <img alt="Download from Apple Store" src="-/media/c6f211d01b8b4b2dbfbd677d69c8f4cb.ashx" /></a>
+        </div>
+        </div>
+        <br />
+        <div class="embed-video" style="padding-bottom: 52.9%;"><iframe allow="autoplay; encrypted-media" frameborder="0" height="200" src="https://www.youtube.com/embed/iBdarpO0WxU" width="560"></iframe></div>
+        <div class="bluebar text-center"><img alt="Enjoy These Perks" src="-/media/b471481f0dae46d183cc919345e3daa5.ashx" /></div>
+        <p>&nbsp;</p>
+        <section class="border-bottom">
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-4 mb-3 text-center"><img alt="Frasers 2x Points" src="-/media/9f66ff83caad468ba36277c46866e20f.ashx" /></div>
+        <div class="col col-12 col-md-8">
+        <h2 class="pink">Earn Frasers Points at Participating Retailers across all malls</h2>
+        That&rsquo;s more than 1,100 retailers (including supermarkets) to choose from.
+        <div class="blue-text">
+        <div class="row">
+        <div class="col col-md-6">Non-supermarket purchases:</div>
+        <div class="col col-md-6">$10 = 10 Frasers Points</div>
+        </div>
+        <div class="row">
+        <div class="col col-md-6">Supermarket purchases:</div>
+        <div class="col col-md-6">$10 = 2 Frasers Points</div>
+        </div>
+        (Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily)
+        </div>
+        </div>
+        </div>
+        </section>
+        <section class="border-bottom">
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-4 mb-3 text-center"><img alt="Frasers 24 x 7" src="-/media/07cc19c28e00448a8cec2421159496d9.ashx" /></div>
+        <div class="col col-12 col-md-8">
+        <h2 class="pink">REDEEM POINTS TO DIGITAL GIFT CARDS ANYTIME, ANYWHERE</h2>
+        Convert your Frasers Points to Digital Gift Cards which will be instantly loaded to your Frasers Rewards e-wallet.
+        </div>
+        </div>
+        </section>
+        <section>
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-4 mb-3 text-center"><img alt="Frasers 2x Points" src="-/media/9f66ff83caad468ba36277c46866e20f.ashx" /></div>
+        <div class="col col-12 col-md-8">
+        <h2 class="pink">EARN BONUS<sup>#</sup> FRASERS POINTS</h2>
+        Enjoy double points during your Birthday month or check in-app notifications for other seasonal bonus# point promotions
+        </div>
+        </div>
+        </section>
+        <section class="orangebox">
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-8">
+        <h2>GET UPGRADED TO THE FRASERS REWARDS ELITE CLUB</h2>
+        <br />
+        Spend $8,000 or more for an upgrade to Frasers Rewards Elite the following redemption year and enjoy DOUBLE value when you redeem for Digital Gift Cards!
+        <br />
+        <br />
+        (500 Frasers Points = 1% Rebate in Digital Gift Cards for Frasers Rewards Elite members)
+        </div>
+        <div class="col col-12 col-md-4 my-3 text-center"><img alt="Frasers Elite" src="-/media/5be91ca1322f4c52866a7e51aef467a7.ashx" /></div>
+        </div>
+        </section>
+        <br />
+        <br />
+        <h2>Participating Malls</h2>
+        <p>Anchorpoint | Bedok Point | Causeway Point | Changi City Point | China Square Centra| | Eastpoint Ma|| | Northpoint City | Robertson Wa|k | The Centrepoint | Va||ey Point | Waterway Point | YewTee Point</p>
+        <section class="tnc no-border">
+        <h2>Terms &amp; Conditions</h2>
+        <ul>
+            <li>Frasers Points are issued over 12 months from 01 October of the current year to 30 September of the following year. This is known as a redemption year.</li>
+            <li>Frasers Points can be redeemed anytime from 01 October of the current year to 30 September of the following year. Balance unredeemed points will be forfeited.<br />
+            E.g: Frasers Points earned from 01 October 2017 to 30 September 2018 must be redeemed by 31 December 2018.</li>
+            <li>Frasers Points can be earned instantly by scanning your Frasers Rewards QR code when paying in-store at participating retailers at the malls of Frasers Property. For supermarket spend, points can be earned by submitting the receipt image via the Frasers Rewards mobile app within 24 hours of making a purchase.</li>
+            <li>Each transaction must have a minimum purchase value of $10 to qualify for point earning.</li>
+            <li>Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily.</li>
+            <li>Check our <a href="~/link.aspx?_id=909E2782AF454DBE93F4CF1D32F10A37&amp;_z=z">website</a> for a list of participating retailers.</li>
+            <li>Other <a href="~/link.aspx?_id=AC842FC108D34A9681213FAD6E0ACD3C&amp;_z=z">terms &amp; conditions</a> apply.</li>
+        </ul>
+        </section>

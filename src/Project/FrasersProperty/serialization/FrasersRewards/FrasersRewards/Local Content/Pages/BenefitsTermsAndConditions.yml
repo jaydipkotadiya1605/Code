@@ -1,0 +1,330 @@
+﻿---
+ID: "f2ec6470-5273-434f-8773-6f25237284ae"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/BenefitsTermsAndConditions
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Benefits | Terms and Conditions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095540Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        Frasers Property Management Services Pte Ltd ("<strong>FPMS</strong>"), property managers of malls Frasers Property Singapore, shall offer its loyalty service known as Frasers Rewards (<strong>"Programme"</strong>) upon the terms and conditions as listed below ("Terms &amp; Conditions") to each member of the Programme (a "<strong>Member</strong>").
+        <br />
+        <br />
+        The Programme shall be governed by these Terms &amp; Conditions.
+        <br />
+        <br />
+        The submission of a duly signed application for membership at the Customer Service Counter any designated malls of Frasers Property or online at <a href="http://www.frasersrewards.com">www.FrasersRewards.com</a> or on the Frasers Rewards Mobile Application ("App") is deemed to be an acceptance of these Terms &amp; Conditions.
+        <br />
+        <br />
+        The Programme membership and Members' entitlement to benefits and privileges under the Programme, including the redemption of any benefits and privileges, shall be in accordance with these Terms &amp; Conditions.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 1 &ndash; ELIGIBILITY AND FRASERS REWARDS MEMBERSHIP</h2>
+        <br />
+        1. In order to be eligible to become a Member, during the registration process, the applicant must provide his/her current, complete and accurate personal particulars as requested, including without limitation, his/her full name, NRIC number, passport number, work permit number, employment pass number or dependant's pass number, date of birth, local address, contact numbers and such other information as may be required by FPMS from time to time.
+        <br />
+        <br />
+        2. The applicant may be required to produce his/her NRIC, passport, work permit, employment pass, dependent's pass or any other form of identification acceptable to FPMS ("<strong>Form of Identification</strong>") for verification purposes in connection with the application.
+        <br />
+        <br />
+        3. The applicant represents and warrants that all information provided by him/her in connection with his/her application are accurate.
+        <br />
+        <br />
+        4. Only individuals aged 18 and above and who are residing in Singapore are eligible to apply for membership in the Programme.
+        <br />
+        <br />
+        5. The applicant acknowledges and agrees that the acceptance of his/her application is subject to the approval of FPMS at its sole and absolute discretion and that his/her application may be rejected by FPMS without assigning any reasons thereto.
+        <br />
+        <br />
+        6. Upon approval of an application, a Frasers Rewards membership account shall be opened for the Member ("<strong>Frasers Rewards Membership Account</strong>") and the Member shall be entitled to participate in the Programme and enjoy membership benefits and privileges under the Programme.
+        <br />
+        <br />
+        7. The Programme membership and its associated benefits and privileges are for the Member's sole enjoyment and shall not be transferable. FPMS reserves the right to vary, amend and modify the benefits and privileges and these Terms &amp; Conditions of the Programme at its sole and absolute discretion without prior written notice.
+        <br />
+        <br />
+        8. Each Member can only register for one Frasers Rewards Membership Account and it is non-transferable. By accepting the Frasers Rewards membership, the Member agrees and undertakes to provide any merchants who are tenants or licencees located within Frasers Property and are taking part in the Programme at FPMS' sole discretion ("<strong>Merchants</strong>") proof or verification of his/her identity on demand.
+        <br />
+        <br />
+        9. Unless otherwise terminated in accordance with these Terms &amp; Conditions, the Programme membership shall be valid for such period determined by FPMS at the time of application.
+        <br />
+        <br />
+        10. The Member may only enjoy his/her Frasers Rewards membership benefits within Frasers Property at the Merchants' outlets. The Frasers Rewards membership shall not be valid at any other mall or at any other outlet of the Merchants not located within Frasers Property, unless determined otherwise by FPMS.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 2 &ndash; MEMBERSHIP REWARDS &amp; REDEMPTION</h2>
+        <br />
+        11. <span style="text-decoration: underline;">Frasers Points</span>
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>The Member shall be entitled to earn points known as "Frasers Points" for the total purchases value at any Merchant outlets.</li>
+            <li>Subject to clause 37 below, Frasers Points will be awarded only to Members who scan their member QR code in the Frasers Rewards mobile app at the point of payment at participating retailer outlets or by such other means as determined by FPMS from time to time. Members who fail to do so shall not be entitled to retrospectively earn or credit any Frasers Points into their Frasers Rewards Membership Account for that transaction.</li>
+            <li>The Frasers Points accumulated by the Member will be credited to their Frasers Rewards Membership Account within seven (7) working days or such other time periods as shall be determined by FPMS once transaction is verified to be valid.</li>
+            <li>FPMS shall have the sole discretion to deduct, cancel or reject/refuse to award Frasers Points for any (s) which in FPMS's sole discretion is doubtful or not genuine or deduct, cancel or reject/refuse to award Frasers Points that have been wrongfully recorded.</li>
+            <li>The Frasers Points earned and accumulated by the Member shall be valid only for the <strong>Redemption Year</strong> (as hereinafter defined) in which it is earned. A "Redemption Year" means a period of 12 months, starting 01 October and ending 30 September of the following year.</li>
+        </ol>
+        12. <span style="text-decoration: underline;">Rebates</span>
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>Upon the accumulation of a pre-determined amount of Frasers Points, the Member may convert the Frasers Points into "<strong>Rebates</strong>". FPMS shall have the sole discretion to determine the value of each Frasers Point, the terms for accrual and the conversion rate of Frasers Points to Rebates.</li>
+            <li>Conversion of Frasers Points shall be made by the Member by personally attending and presenting their Form of Identification at the point of redemption at Customer Service Counter of any designated malls of Frasers Property or by submitting an online point conversion request via the App with their Login ID and assigned password. The Member shall provide an acknowledgement as may be required by FPMS upon conversion of any Frasers Points.</li>
+            <li>Upon the Member's request to convert the Member's Frasers Points to Rebates, the Rebates will be credited to the his/her Frasers Rewards e-wallet in their Frasers Rewards App within twenty-four (24) hours or such longer time period as shall be determined by FPMS.</li>
+            <li>Frasers Points shall only be converted by the Member to Rebates during each Redemption Year in which it is earned and within the grace period given in accordance with clause 12(b) above.</li>
+            <li>Any Frasers Points that is not converted during the Redemption Year in which it is earned will expire and cannot be rolled over upon the expiry of the redemption year, save that the Member shall be given a three (3) months grace period following the expiry of the preceding Redemption Year to convert any unused Frasers Points earned and accumulated at the end of such redemption year, failing which such Frasers Points shall expire and FPMS shall not be responsible to the Member for any unconverted Frasers Points.</li>
+            <li>The total Frasers Point accumulated by each Member shall determine the Member's eligibility for conversion to Rebates in each Redemption Year.</li>
+            <li>The Rebates earned and accumulated by the Member shall have a 1-year validity from the conversion date unless otherwise stated.</li>
+            <li>Rebates earned that are not utilised within the validity period will expire. FPMS shall not be responsible to the Member for any unutilised Rebates.</li>
+            <li>Rebates may be utilised within the validity period specified in clause 12(h) above in any one of the forms below:-<br />
+            <br />
+            <ul>
+                <li>to offset the whole or part of the retail prices of selected goods or services;</li>
+                <li>for redemption of selected gift items (subject to availability); or</li>
+                <li>such other mode as may be determined by FPMS from time to time.</li>
+            </ul>
+            </li>
+        </ol>
+        13. <span style="text-decoration: underline;">Instant Rewards</span>
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>In addition to Frasers Points and Rebates, the Member shall also be entitled to receive "<strong>Instant Rewards</strong>" which are rewards offered by the individual malls of Frasers Property that may be redeemed by Members who spend a minimum amount (as may be determined by the individual malls of Frasers Property) per day in the respective malls.
+            <br />
+            <br />
+            Instant rewards may only be redeemed by Members who first scan their member QR code at participating retailer outlets before personally presenting their member QR code on the day of the purchase at the Customer Service Counter at designated malls of Frasers Property. Should the redemption require proof of payment, the actual receipts and/or payment card must be presented for verification. Please refer to Stores for listing of participating retailer outlets for eligibility of Frasers Points earning and rewards redemption. All redemption tiers in respect of the Instant Rewards, including but not limited to setting of minimum and maximum redemption amounts, shall be determined by FPMS and shall be at the sole discretion of FPMS.
+            </li>
+            <li>The Instant Rewards and manner of redemption may vary amongst the different malls of Frasers Property. All Instant Rewards are subject to availability.</li>
+            <li>The redemption of Instant Rewards will not cause any Frasers Points and/or Rebates Cards to be deducted from the Member's Frasers Rewards Membership Account.</li>
+            <li>FPMS reserves the right to sight purchases or proof of payment before granting Instant Rewards redemption and/or Point Earning at Customer Service.</li>
+        </ol>
+        14. <span style="text-decoration: underline;">Frasers Rewards Membership Account</span>
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>Once any Frasers Points or Rebates has been utilised, such Frasers Points or Rebates cannot be refunded or transferred back into the Member's Frasers Rewards Membership Account.</li>
+            <li>The Member agrees and acknowledges that his/her Frasers Rewards Membership Account and any Frasers Points and Rebates earned under the Frasers Rewards Membership Account may only be used by the Member in whose name the particular Frasers Rewards Membership Account has been registered.</li>
+            <li>Frasers Points and/or Rebates accumulated under different Members' Frasers Rewards Membership Account are non-transferable and cannot be combined.</li>
+            <li>Members may be able to check their Frasers Points and/or Rebates balance via the App or at Customer Service Counter of any designated malls Frasers Property located at the individual malls Frasers Property.</li>
+            <li>The Member may notify FPMS of any dispute on the Frasers Points and/or Rebates by email to <a href="mailto:FRHelp@frasersproperty.com">FRHelp@frasersproperty.com</a> or such other email address as may be informed by FPMS to the Member at any time or by written notice to FPMS at Frasers Rewards Membership, 438 Alexandra Road, #21-00 Alexandra Point, Singapore 119958 within seven (7) days from the date of the transaction. FPMS' determination of all disputes shall be final, binding and conclusive.</li>
+        </ol>
+        15. <span style="text-decoration: underline;">Frasers Rewards Gift Card</span>
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>The Frasers Rewards Gift Card is the property of FPMS and the Frasers Rewards Gift Card is not a charge card and is not redeemable for cash. All stored value in Frasers Rewards Gift Card will be automatically transferred to the e-wallet in the Frasers Rewards app by 25 May.</li>
+            <li>The Member shall immediately inform FPMS upon discovering his/her Frasers Rewards Gift Card, that is tagged to his/her Frasers Rewards Membership Account, to be lost, stolen or damaged by email to <a href="mailto:FRHelp@frasersproperty.com">FRHelp@frasersproperty.com</a> or by written notice to FPMS at Frasers Rewards Membership, 438 Alexandra Road, #21 00 Alexandra Point, Singapore 119958 or in person at Customer Service Counter of any malls of Frasers Property. If the notification is made by the Member in person at Customer Service Counter of any malls Frasers Property, the Member shall follow up with written notification of the lost, stolen or damaged Frasers Rewards Gift Card by email to FPMS within seven (7) days from the notification date (which shall be the date the Member notified the loss or damage of the Frasers Rewards Gift Card in person at Customer Service Counter at the malls of Frasers Property).</li>
+            <li>The lost, stolen or damaged Frasers Rewards Gift Card may be replaced subject to payment of a replacement fee of $10.00 for each lost, stolen or damaged Frasers Rewards Gift Card. The application for a replacement Frasers Rewards Gift Card may be rejected by FPMS without assigning any reasons thereto.</li>
+            <li>Upon notification in accordance with clause 14 (d) above, FPMS will invalidate the lost, stolen or damaged Frasers Rewards Gift Card within a reasonable time without further notice to the relevant cardholder. FPMS disclaims any and all liability for any losses or damages that may be suffered by the Member arising either directly or indirectly from the invalidation of the Frasers Rewards Gift Card or any delay in cancelling the Frasers Rewards Gift Card.</li>
+        </ol>
+        <h2 class="dark">SECTION 3 &mdash; PERSONAL DATA PROTECTION</h2>
+        <br />
+        16. The Member hereby agrees and consents that the personal particulars collected, as required under Clause 1, together with information relating to, or any particulars of, the Member's redemption transactions and any other information or data collected relating to, or derived from, the Member's profile (collectively, "Information") may be held in a secure database system managed by FPMS and/or a data intermediary on behalf of FPMS.
+        <br />
+        <br />
+        17. The Member acknowledges and agrees that the collection, use and processing of his/her Information during the registration process is necessary in order for FPMS:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>to register and administer benefits and privileges under the Programme;</li>
+            <li>to facilitate the Member's access to <a href="http://www.frasersrewards.com"></a>www.FrasersRewards.com or the creation of the Frasers Rewards Membership Account;</li>
+            <li>subject to clause 15 (c) above, to provide the Member with information on catalogues and promotional materials in relation to the Programme and other promotional and marketing materials relating to Merchants' services and products ("<strong>Promotional Materials</strong>");</li>
+            <li>to provide notifications as required under these Terms &amp; Conditions;</li>
+            <li>to provide notifications on the accumulation of Frasers Points, conversion of Frasers Points to Rebates, collection of prizes and lucky draws and/or redemption of rewards under and in connection with the Member's participation in the Programme ("<strong>Member Alerts</strong>");</li>
+            <li>to answer the Member's queries or to provide the Member with assistance in any other way (including without limitation resolving complaints and handling requests);</li>
+            <li>to meet and comply with any applicable rules, law, regulations, code of practices or guidelines issued by any legal or regulatory body which are binding on FPMS; and</li>
+            <li>to use for purposes which are reasonably related to the aforesaid.</li>
+        </ol>
+        18. Notifications may be provided via letters, phone calls, SMS and/or emails to the Member.
+        <br />
+        <br />
+        19. The Member consents and authorises FPMS and/or its data intermediary to collect and/or use and/or process his/her Information for the purposes stated in clause 17, in accordance with FPMS' <a href="#">Data Protection and Privacy Statement</a>.
+        <br />
+        <br />
+        20. The Member also consents and authorises FPMS and/or its data intermediary to disclose the his/her Information to the following entities for the purposes stated in clause 17:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>Frasers Property Limited and its subsidiaries and their associate companies ("FPL Group");</li>
+            <li>third-party vendors and service providers (such as subcontractors, agents or network operators) who are employed to perform business, support, operational and/or functions such as marketing, payment, fulfilment and delivery of orders;</li>
+            <li>Merchants and third parties with whom FPMS conducts joint marketing and/or cross-promotions and who provide benefits or rewards under the Programme; or</li>
+            <li>FPMS or FPL Group's professional advisors (such as auditors or lawyers).</li>
+        </ol>
+        The Member acknowledges that certain of the above entities may be located outside Singapore. Where this is the case, the Member consents and authorizes the transfer of his/her Information overseas from time to time. FPMS shall carry out such transfers in accordance with relevant data protection laws. FPMS may also disclose his/her Information as permitted or required by law.
+        <br />
+        <br />
+        21. The Member may at any time request from FPMS for the Member's Information in the possession or under the control of FPMS and for any information about the ways in which the personal data may have been used or disclosed in the past one (1) year from the date of the request.
+        <br />
+        <br />
+        22. In respect of any change of the Member's Information, the Member shall immediately:
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>notify FPMS of the change of particulars in writing at <a href="mailto:dpo_sg@frasersproperty.com">dpo_sg@frasersproperty.com</a>;</li>
+            <li>be personally present at Customer Service Counter of any designated malls of Frasers Property to update the Member's Information; or</li>
+            <li>personally effect self-updating of particulars via the app.</li>
+        </ol>
+        23. For the purposes of verifying and updating the Member's Information, the Member shall without delay furnish evidence or proof of the Member's change in personal particulars to FPMS directly via post or to the Customer Service Counter staff at the malls of Frasers Property. All Members who effect self-updating of their particulars via the App shall furnish such evidence or proof upon request by FPMS.
+        <br />
+        <br />
+        24. FPMS shall take all practicable steps to update the Member's Information within thirty (30) working days of receipt of the written notification provided that FPMS is satisfied that there are reasonable grounds for the update of the Member's Information and FPMS shall not be liable for any losses or damages that may be suffered by the Member arising either directly or indirectly from FPMS' delay in updating the Member's Information in the event that FPMS is not satisfied on reasonable grounds that any written request for the update to the Member's Information is valid and acceptable to FPMS in its sole discretion.
+        <br />
+        <br />
+        25. The Member may at any time withdraw his/her consent to the collection, processing and use of his/her Information by giving FPMS prior written notice of such withdrawal of consent. The Member may contact FPMS for such purposes at <a href="mailto:dpo_sg@frasersproperty.com">dpo_sg@frasersproperty.com</a>. The Member agrees and acknowledges that if the Member withdraws his/her consent to the collection, processing and the use of his/her Information, FPMS will not be able to administer the Member's benefits and privileges under the Programme and/or send Member Alerts. Upon any such withdrawal of consent, the Member's entitlement to participate in the Programme shall terminate in accordance with clauses 26 and 27 below.
+        <br />
+        <br />
+        26. Within thirty (30) working days of FPMS' receipt of the Member's written notice of withdrawal of consent pursuant to clause 25 above, the Member's Programme membership and entitlement to benefits and privileges under the Programme shall terminate in accordance with these Terms &amp; Conditions. Upon termination, FPMS shall be released and discharged from any further obligations to the Member.
+        <br />
+        <br />
+        27. If the Member withdraws his/her consent pursuant to clause 25 above and/or terminates his/her Membership at any time and for any reason, all unused Frasers Points and Rebates shall automatically be cancelled and no longer be available for use by the Member. Upon such termination, the Member's Frasers Rewards Membership Account shall cease to be valid with immediate effect and the Member shall also immediately cease to be entitled to any other benefits and privileges under the Programme.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 4 &mdash; PROMOTIONAL MATERIALS</h2>
+        <br />
+        28. Upon submitting the application for the Programme, the Member may opt in to receive Promotional Materials. If the Member opts in to receive Promotional Materials the Member acknowledges, agrees and consents that his/her Information may be used for the purposes of sending him/her Promotional Materials as referred to in clause 17.
+        <br />
+        <br />
+        29. If the Member subsequently chooses not to receive Promotional Materials, the Member shall notify FPMS by prior written notice and within thirty (30) working days of FPMS's receipt of the Member's written notice, FPMS will cease sending Promotional Materials to the Member.
+        <br />
+        <br />
+        30. The Member shall not hold FPMS and the Merchants liable for any losses or damages that may be suffered by the Member arising either directly or indirectly from delay or non-receipt of the Promotional Materials or error in the Promotional Materials, if any.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 5 &mdash; THE APP</h2>
+        <br />
+        31. Subject to these Terms &amp; Conditions, FPMS grants the Member a personal, non-exclusive, non-transferable, limited and revocable license to use the App for personal and/or non-commercial use only on an Apple iPhone, iPad, iPod Touch or an Android device (each a "<strong>Device</strong>") owned or controlled by the Member ("<strong>User License</strong>"). Any use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the Application or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App ("Content") is prohibited. The User License also governs any updates to, or supplements or replacements for, this App unless separate terms accompany such updates, supplements or replacements, in which case the separate terms will apply.
+        <br />
+        <br />
+        32. All copyright, trademarks, design rights, patents and other intellectual property rights (registered and unregistered) found or comprised in the App and the Content belongs to FPMS and/or third party. Nothing in these Terms &amp; Conditions shall grant the Member the right or license to use any trade mark, design right or copyright owned by FPMS or by third parties (as the case may be) in the App and the Content except as expressly provided.
+        <br />
+        <br />
+        33. The Member shall be fully responsible for:-
+        <ol class="alpha">
+            <li>maintaining the confidentiality of the Member's security details (e.g. login ID and password) and shall take all reasonable precautions to prevent unauthorized and fraudulent use;</li>
+            <li>the correctness of all information which are supplied through the App;</li>
+            <li>all activity that occurs under the Member's Frasers Rewards Membership Account and communications transmitted or apparently transmitted from the Device and through the App (including any input errors, network transmission errors or instructions given without your authorization); and</li>
+            <li>ensuring that any information either shown or stored on the Device is kept secure.</li>
+        </ol>
+        34. Use by the Member of the App and any Content and any information supplied by the user, including but not limited to Information, transaction history, survey responses and queries,("<strong>User Information</strong>") transmitted in connection with the App is limited to the contemplated functionality. The Member agrees that his/her use of the App and any Content must comply with these Terms &amp; Conditions. In no event may the App be used in a manner that:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>infringes or violates the rights of any other party (including but not limited to rights of publicity or other proprietary rights);</li>
+            <li>is unlawful, fraudulent or deceptive;</li>
+            <li>gains unauthorized access to FPMS computer network or user accounts;</li>
+            <li>encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;</li>
+            <li>violates these Terms &amp; Conditions; or</li>
+            <li>attempts to damage, disable, overburden or impair the FPMS servers or networks.</li>
+        </ol>
+        35. Further to Clause 23, the Member agrees that it shall not:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>use technology or other means to access the App or Content that is not authorized by FPMS;</li>
+            <li>access the personal data or usage details of other users of the App;</li>
+            <li>use or launch any automated system, including without limitation, "robots", "spiders" or "offline readers", to access the App or Content; or</li>
+            <li>attempt to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment</li>
+        </ol>
+        36. FPMS makes no representations or warranties of any kind, express or implied, with respect to the services provided, including, without limitation, any representation or warranty that the App is fit for a particular purpose, of satisfactory quality, reliable, accurate, non-infringing or free of defects or errors, completely secure or able to operate on an uninterrupted basis and FPMS hereby expressly disclaims the same. FPMS may, if it deems appropriate in its sole discretion and with or without prior notice, update, modify, release new versions of, restrict, suspend or terminate any of the services provided.
+        <br />
+        <br />
+        37. Notwithstanding the above clause 36, in the event of downtime of services available through the App:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>Members can approach the Customer Service Counter at one of the malls of Frasers Property with their purchases receipt(s) within 7 days, or within the grace period determined by FPMS from time to time; or</li>
+            <li>Members can upload their purchases receipt(s) within 7 days, or within the grace period determined by FPMS from time to time, upon the uptime of services available through the App; or</li>
+            <li>Members can return to the respective retailer outlets with purchases receipts made during the downtime, for retrospective point earning within 7 days</li>
+        </ol>
+        38. The App may use or link to websites, services and other resources owned and operated by third parties. These third party websites and resources have their own terms of use as updated from time to time. FPMS does not accept any responsibility or liability for any third party website or resources, and the Member shall access and use such third party services or content at his/her own risk.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 6 &mdash; TERMINATION</h2>
+        <br />
+        39. The Member may terminate his/her membership at any time by giving FPMS fourteen (14) working days' notice in writing.
+        <br />
+        <br />
+        40. FPMS may at its absolute discretion, without prior notice to the Member, suspend or terminate the Programme (in whole or in part) for any reason whatsoever as it deems fit, including but not limited to doubtful or non-genuine activity. FPMS also has the absolute discretion to immediately bar, terminate, change, suspend or cancel the membership or impose additional conditions on the usage of the App. Any failure or delay in taking such actions shall not constitute a waiver of its rights to enforce these Terms &amp; Conditions.
+        <br />
+        <br />
+        41. If the Programme is suspended or terminated for whatever reason, FPMS shall not be liable to the Members for any losses or damages suffered or that may be suffered by the Member arising either directly or indirectly from the suspension or termination of the Programme.
+        <br />
+        <br />
+        <h2 class="dark">SECTION 7 &mdash; INDEMNITY</h2>
+        <br />
+        42. The Member hereby agrees to indemnify, release and discharge FPMS and its authorised agents from all damages, claims, demands, liabilities, judgments, actions and suits and agrees to hold FPMS and its authorised agents harmless against any liability for any loss, penalty, damage, costs and expenses (including but not limited to legal costs) which the Member may incur by reason of or arising either directly or indirectly from or in connection with the Member's use of the App and/or any other participation in the Programme, including without limitation:-
+        <br />
+        <br />
+        <ol class="alpha">
+            <li>the Member's breach of any of the provisions of these Terms &amp; Conditions and/or any other agreement made between the Member and FPMS;</li>
+            <li>any infringement by the Member of any intellectual property, including copyrights, rights of confidence, moral rights, privacy rights or other rights, of any person or entity;</li>
+            <li>the Member's inability to use the App;</li>
+            <li>the failure or malfunction of the Member's Device (including but not limited to any liability arising in relation to any virus or unavailability of the App);</li>
+            <li>the Member's Frasers Rewards Gift Card being lost, stolen or damaged;</li>
+            <li>the accumulation, conversion, redemption and/or any other use of the Frasers Points or Rebates under the Member's Frasers Rewards Membership Account;</li>
+            <li>the failure of any of the Merchants in crediting any Frasers Points or Rebates or any errors, delays or omissions in the crediting or recording of Frasers Points or Rebates for whatever reasons (including but not limited to malfunction or interruption of the Frasers Points recording system and/or App, civil commotion, fire, or other force majeure events beyond the control of all parties concerned);</li>
+            <li>any action taken or omitted to be taken in good faith by FPMS and its authorised agents pursuant to any instructions, notice or request by the Member;</li>
+            <li>the enforcement of these Terms &amp; Conditions and/or the recovery of any sums owed by the Member in respect of the Programme; or</li>
+            <li>claims of third parties which may be brought or asserted in respect of the Programme.</li>
+        </ol>
+        <h2 class="dark">SECTION 8 &mdash; OTHER TERMS</h2>
+        <br />
+        43. To the full extent permitted by law, FPMS hereby disclaims any and all such warranties, representations or statements made or given by the Merchants of the Programme, condition of the Merchants' outlets, and/or the benefits or privileges or rewards. The Member shall waive all claims against FPMS arising from such disputes, warranties, representations or statements.
+        <br />
+        <br />
+        44. Notwithstanding any other terms or conditions, FPMS shall not be liable for any loss, damage, inconvenience, embarrassment, cost and expense of any nature (including without limitation for any act, omission neglect or wilful default on the part of their agents, contractors, correspondents and/or their respective officers and employees) arising out of or in connection with the Programme which in any way may be suffered or incurred by the Member or by any other person in respect of or in connection with the Programme, including without limitation the Member's entitlement to Frasers Points and/or Rebates.
+        <br />
+        <br />
+        45. FPMS may notify the Member of changes in the Terms &amp; Conditions by publishing such changes via website, email or by such other means of communication as FPMS may determine in its absolute discretion from time to time.
+        <br />
+        <br />
+        46. By participating in the Programme, all Members agree to be bound by the Terms &amp; Conditions herein and all amendments, additions, replacements and modifications as may be made by FPMS from time to time.
+        <br />
+        <br />
+        47. All fees paid under these Terms &amp; Conditions are not refundable unless otherwise provided.
+        <br />
+        <br />
+        48. Any notice to be given to the Member shall be deemed to have been properly given if sent by prepaid post, email, SMS or any one form of communication mode last recorded in the FPMS' database system.
+        <br />
+        <br />
+        49. FPMS shall not be responsible for (a) withdrawals of any of the Merchants from the Programme, (b) Frasers Points and/or benefits cancellation caused by withdrawals, or (c) changes or discontinuance of the Merchants which may affect the Frasers Points and/or benefits offered. Participating Merchants are subject to change at any time without notice.
+        <br />
+        <br />
+        50. Time shall be of the essence in respect of the Terms &amp; Conditions but no failure to exercise or delay in or partial exercising of any of FPMS' rights, power or remedies shall operate as waiver.
+        <br />
+        <br />
+        51. FPMS shall be entitled to, at any time and without the consent of or notice to the Members, assign or transfer the whole or part of its rights and obligations in relation to the Programme or the Frasers Rewards Gift Card to any other person or entity.
+        <br />
+        <br />
+        52. The English version of the Terms &amp; Conditions shall prevail over all other versions of the Terms &amp; Conditions and any other publicity information relating to the Programme.
+        <br />
+        <br />
+        53. These Terms &amp; Conditions shall be interpreted and enforced in accordance with the laws of Singapore and the Member hereby submits to the non-exclusive jurisdiction of the courts of Singapore.
+        <br />
+        <br />
+        54. These Terms &amp; Conditions are not intended to confer rights on a third party under the Contracts (Rights of Third Parties) Act (Cap. 53B) to enforce or enjoy the benefit of any provision of these Terms &amp; Conditions.

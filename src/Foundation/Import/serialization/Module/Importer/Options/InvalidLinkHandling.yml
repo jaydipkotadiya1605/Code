@@ -1,0 +1,18 @@
+﻿---
+ID: "1b0ef765-75fb-47c0-8a79-566476bbfe99"
+Parent: "22eeb294-1e03-40fc-9f8c-650626068378"
+Template: "7cafa297-c1e8-4a22-a220-ee514bc2036f"
+Path: /sitecore/system/Modules/Importer/Options/InvalidLinkHandling
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221848Z

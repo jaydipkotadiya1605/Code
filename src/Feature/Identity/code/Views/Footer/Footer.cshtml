@@ -1,0 +1,57 @@
+﻿@using Sitecore.Data.Items
+@using Sitecore.Feature.Identity
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Feature.Identity.Models.FooterModel
+
+@if (@Model == null)
+{
+    return;
+}
+
+<footer class="container-fluid">
+    <div class="container">
+        <div class="row">
+            <div class="col col-md-4 offset-md-1">
+                <div class="logo">@Model.Logo</div>
+                @if (Model.IncludeHeaderSocialIcons)
+                {
+                    foreach (var item in Model.SocialIcons.Items)
+                    {
+                        <a href="@item.Link" class="social @item.Css" target="_blank">@item.Link.Split('/').Last().ToLower()</a>
+                    }
+                }
+            </div>
+            @if (@Model.Menu != null)
+            {
+                foreach (Item group in @Model.Menu.Children)
+                 {
+                     <div class="col col-md-3">
+                         @foreach (var menus in group.Children.Where(x => x.IsDerived(Templates.FooterLink.ID)))
+                         {
+                             var css = string.Empty;
+                             if (!Sitecore.Context.PageMode.IsExperienceEditorEditing)
+                             {
+                                 css = menus.LinkFieldOptions(Templates.FooterLink.Fields.Link, LinkFieldOption.Class);
+                             }
+                             if (menus.HasChildren)
+                             {
+                                    <div class="block">
+                                         @Html.Sitecore().Field(Templates.FooterLink.Fields.Link, menus, new {@class = string.Concat("title ", @css)})
+                                         @foreach (var item in menus.Children.Where(x => x.IsDerived(Templates.FooterLink.ID)))
+                                         {
+                                             @Html.Sitecore().Field(Templates.FooterLink.Fields.Link, item)
+                                         }
+                                    </div>
+                             }
+                             else
+                             {
+                                @Html.Sitecore().Field(Templates.FooterLink.Fields.Link, menus, new { @class = string.Concat("title ", @css) })
+                             }
+                         }
+                     </div>
+                 }
+            }
+        </div>
+    </div>
+</footer>

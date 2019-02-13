@@ -1,0 +1,22 @@
+﻿---
+ID: "f1f520f9-45f7-4e45-8626-95f82e388fb9"
+Parent: "f1793990-a420-45c0-9a2b-2e2b312e3a75"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/2nd/Other Links/About Frasers Property
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="About Frasers Property" linktype="external" url="http://frasersproperty.com/sg" anchor="" title="About Frasers Property" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060300Z
+    - ID: "8caac899-17f3-4ef1-83ea-a4bd6c372c93"
+      Hint: Show On Mobile
+      Type: Checkbox
+      Value: 1

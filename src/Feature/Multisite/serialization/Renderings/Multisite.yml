@@ -1,0 +1,14 @@
+﻿---
+ID: "439d9b70-2c76-481b-9cc9-c05dc0abbd40"
+Parent: "da61ad50-8fdb-4252-a68f-b4470b1c9fe8"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Multisite
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180611T015643Z

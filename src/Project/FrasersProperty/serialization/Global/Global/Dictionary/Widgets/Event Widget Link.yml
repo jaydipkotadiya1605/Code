@@ -1,0 +1,21 @@
+﻿---
+ID: "8f301311-1bb3-4647-b147-7a21cec97acd"
+Parent: "42a0cd6a-cae0-47a6-a3ed-ed3ada15e266"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Widgets/Event Widget Link
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T072356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: View Full Calendar

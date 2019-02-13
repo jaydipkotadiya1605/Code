@@ -1,0 +1,25 @@
+﻿---
+ID: "7f47f76e-aec4-461f-aa10-19ea15ade2bd"
+Parent: "4a972157-de96-441a-a965-5f94b5cf738d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Lookup Values/Wing
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/shopping (1).png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {2E49D7BB-6D3A-4B76-8D26-38A8FE30DAC7}
+    {79B8A85F-6749-419D-9200-2C6067994E7C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T095200Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "18367b2a-a6b1-4ec4-a376-3eea2a2ea502"
+Parent: "83cbdbb7-2458-47a3-8249-2cabf06b31d1"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Snippets/Mall List
+DB: core
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <ul class="no-margin">
+        <li>Anchorpoint,</li>
+        <li>Bedok Point,</li>
+        <li>Causeway Point,</li>
+        <li>Changi City Point,</li>
+        <li>China Square Central,</li>
+        <li>Eastpoint Mall,</li>
+        <li>Northpoint City,</li>
+        <li>Robertson Walk,</li>
+        <li>The Centrepoint,</li>
+        <li>Valley Point,</li>
+        <li>YewTee Point and</li>
+        <li>Waterway Point</li>
+    </ul>
+    <br />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T080205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: |
+        <img height="16"  src="/sitecore/shell/Themes/FrasersProperty/MallList.png" border="0" alt="Mall List"/>Mall List

@@ -1,0 +1,29 @@
+﻿---
+ID: "c920cb79-cf90-4be1-a1e4-e71407ef962d"
+Parent: "a033c041-5aee-4b43-a0f7-119f790553d5"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Common/Inner Columns/Inner Column 4
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Common/Sublayouts/Inner/Inner Column 4.cshtml
+- ID: "7d24e54f-5c16-4314-90c9-6051aa1a7da1"
+  Hint: Parameters Template
+  Value: "{873E336F-5125-403C-B585-833F10C7054F}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D2EB2286-47D7-499A-A183-57BA15A750C2}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T025252Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

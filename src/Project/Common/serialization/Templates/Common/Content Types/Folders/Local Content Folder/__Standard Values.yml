@@ -1,0 +1,36 @@
+﻿---
+ID: "e67f0e52-2a45-42eb-ba3c-3a3284c43f1e"
+Parent: "c85be8fc-2d84-403e-8168-ff09fc74c878"
+Template: "c85be8fc-2d84-403e-8168-ff09fc74c878"
+Path: /sitecore/templates/Project/Common/Content Types/Folders/Local Content Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {D668AAD6-791C-4DB0-AB9F-D78B182B569A}
+    {68BF855C-205C-4578-BFBE-DA0F4B1FE2AA}
+    {28F186D8-101C-4BCE-BAC6-39803D436537}
+    {24C25159-9565-4B90-8583-18CA41E1932B}
+    {9B65F886-900C-44C9-A2B0-BA609810EB6D}
+    {E3938AE8-0021-4A64-B646-CDCE6A04FA90}
+    {0B5F9423-1EFC-44EF-AB02-97332CD0E54E}
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082156Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

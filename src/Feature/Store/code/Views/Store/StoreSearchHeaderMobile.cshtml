@@ -1,0 +1,14 @@
+﻿@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Dictionary.Extensions
+<div class="store-filter">
+    <div class="container">
+        <section>
+            <h1>@Html.Sitecore().Dictionary(Constants.FilterBy, Constants.FilterByText)</h1>
+            @Html.Sitecore().Rendering(Constants.MallRenderingId)
+            @Html.Sitecore().Rendering(Constants.StoreAlphabetRenderingId)
+            @Html.Sitecore().Rendering(Constants.StoreCategoryRenderingId)
+            @Html.Sitecore().Rendering(Constants.StoreWingRenderingId)
+        </section>
+        @Html.Sitecore().Rendering(Constants.StoreOfferRenderingId)
+    </div>
+</div>

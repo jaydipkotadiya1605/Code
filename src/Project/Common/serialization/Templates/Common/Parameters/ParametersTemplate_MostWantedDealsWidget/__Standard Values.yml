@@ -1,0 +1,18 @@
+﻿---
+ID: "3595e5c2-13de-4b61-a876-083359095cad"
+Parent: "3d40150b-fc21-408a-8f05-a7bb10ff3a47"
+Template: "3d40150b-fc21-408a-8f05-a7bb10ff3a47"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_MostWantedDealsWidget/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180802T084443Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

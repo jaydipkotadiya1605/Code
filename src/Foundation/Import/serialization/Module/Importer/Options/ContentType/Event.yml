@@ -1,0 +1,21 @@
+﻿---
+ID: "e084e612-1ce4-45b4-9c00-7ff8ebadb330"
+Parent: "bbfbe4e2-c8c9-41f3-b993-53a47f938d99"
+Template: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Path: /sitecore/system/Modules/Importer/Options/ContentType/Event
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T050940Z
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: Event

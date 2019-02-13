@@ -1,0 +1,7 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Theming.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="col col-md-4 @Model.Rendering.GetColumnClass()">
+    @Html.Sitecore().DynamicPlaceholder("col-narrow-1", Model.Rendering.GetUseStaticPlaceholderNames())
+</div>

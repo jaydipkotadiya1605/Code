@@ -1,0 +1,23 @@
+﻿---
+ID: "01ab7b70-f13d-4d85-a977-9c31d0189f34"
+Parent: "27036534-e941-4ec6-9a77-ee2cc6f55d76"
+Template: "27036534-e941-4ec6-9a77-ee2cc6f55d76"
+Path: /sitecore/templates/Project/Common/Content Types/Open Graph Type Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{36A8E330-1161-40A3-BF45-5991B9655822}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

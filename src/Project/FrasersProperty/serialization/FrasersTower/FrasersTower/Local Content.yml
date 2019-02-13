@@ -1,0 +1,14 @@
+﻿---
+ID: "92bcfe43-1f9d-4bac-a0ab-3a5d9fef6939"
+Parent: "71a88e3c-6cad-4281-8918-9ca5b93e97cf"
+Template: "c85be8fc-2d84-403e-8168-ff09fc74c878"
+Path: /sitecore/content/FrasersTower/Local Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082312Z

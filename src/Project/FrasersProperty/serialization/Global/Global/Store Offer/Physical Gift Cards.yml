@@ -1,0 +1,35 @@
+﻿---
+ID: "81ab1a87-2468-4dae-b573-d91cac729697"
+Parent: "d6cfdcdc-5437-4c86-a57d-18a402acf666"
+Template: "13ac68bf-a202-4ce2-8e04-262987229aa3"
+Path: /sitecore/content/Global/Store Offer/Physical Gift Cards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190130T220107Z
+    - ID: "3ce55246-1d7b-4a99-862a-a69954a39bad"
+      Hint: IconCssClass
+      Value: giftcard
+    - ID: "5149bd0d-4544-403f-abed-eda3cbfd5017"
+      Hint: Key
+      Value: Physical Gift Cards
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "67111c0c-0ae5-4c27-b059-94609eb52b0f"
+      Hint: Hide in Sites
+      Type: Multilist
+      Value: |
+        {6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}
+        {875A246A-4F98-4F8B-BDA6-477C268B0607}
+        {71A88E3C-6CAD-4281-8918-9CA5B93E97CF}
+        {4C4E8FCD-AED7-4142-BFD3-B9B54465329C}
+    - ID: "89deeb44-72ab-48a7-a040-b92a37068cd0"
+      Hint: Value
+      Value: Physical Gift Cards

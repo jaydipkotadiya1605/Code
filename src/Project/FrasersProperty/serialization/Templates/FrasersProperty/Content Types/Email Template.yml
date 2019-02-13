@@ -1,0 +1,29 @@
+﻿---
+ID: "2f6f9983-5cbf-4b47-91f6-8f5dfbdcaca7"
+Parent: "7a06efda-d413-4cc8-91bf-2e4847f54a3b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Email Template
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: ApplicationsV2/16x16/document_edit.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{31CDA6AA-6F72-4443-AAED-CC8E33C442BC}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{522431A3-5147-4ACC-B355-DDEA0731C41E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T091510Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

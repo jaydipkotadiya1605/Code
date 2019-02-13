@@ -1,0 +1,32 @@
+﻿---
+ID: "1b10b173-d9cc-4a67-add5-d8d72877d99e"
+Parent: "6293ce9f-e757-4f62-b1f6-100cd7cfdaa0"
+Template: "f9cfcf6c-8ca9-4ea7-b3bc-7b0482fc98ac"
+Path: /sitecore/content/AnchorPoint/Local Content/Teasers/FrasersRewards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T064407Z
+    - ID: "38afafec-80ba-49eb-a17d-b3fc29659a2c"
+      Hint: Teaser Link
+      Value: |
+        <link id="{58DDA147-527C-45F6-948E-3A7F925BA5BD}" querystring="" text="" anchor="" url="/FrasersRewards/Home/Benefits/Overview" title="" class="" linktype="internal" />
+    - ID: "4a56287d-18ac-48db-b825-8be11400af1a"
+      Hint: Teaser Image
+      Value: |
+        <image mediaid="{6E75308B-38CF-4F92-A856-291FEDFE448B}" alt="Frasers Reward" height="" width="" hspace="" vspace=""></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6eb20209-0617-4a8b-a56d-8b9d3732a027"
+      Hint: Teaser Summary
+      Value: "Frasers Rewards is a point-based loyalty programme accepted at 12 malls of Frasers Property."
+    - ID: "9c054856-f0e7-44d3-adb5-5d8447fd5959"
+      Hint: Teaser Title
+      Value: FrasersRewards

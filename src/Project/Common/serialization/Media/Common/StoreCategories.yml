@@ -1,0 +1,44 @@
+﻿---
+ID: "d5c71035-59b3-4725-b99b-f1be8d15ceff"
+Parent: "8ad55b8e-73bb-409b-95e6-9516990835b8"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Common/StoreCategories
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/d5c7103559b34725b99bf1be8d15ceff.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 377
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f6ef4617-0099-464b-a9ee-7a6ca6d474c9"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2228
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 377 x 58
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 58
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T024809Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anonymous

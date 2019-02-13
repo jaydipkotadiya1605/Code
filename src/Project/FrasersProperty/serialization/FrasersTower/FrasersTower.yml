@@ -1,0 +1,36 @@
+﻿---
+ID: "71a88e3c-6cad-4281-8918-9ca5b93e97cf"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "cd58a566-9a4c-4afb-9eec-96b416b54669"
+Path: /sitecore/content/FrasersTower
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|ar|fraser\Mall Site Author|pe|-item:create|-item:write|-item:delete|-item:read|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|-item:read|ar|fraser\Main Site Admin|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:delete|+item:write|+item:create|+item:read|ar|frasersproperty\Mall Site Admin|pe|-item:read|pd|-item:read|ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|ar|fraser\Mall Site Admin|pe|-item:create|-item:write|-item:delete|-item:rename|-item:read|pd|-item:create|-item:delete|-item:rename|-item:write|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12614b52-3914-4054-a3cc-afee27d363bc"
+      Hint: Site Code
+      Value: FRT
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030504Z
+    - ID: "d390b56f-6f6c-4da7-832c-2ed4c44733e5"
+      Hint: Site Name
+      Value: Frasers Tower
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{EC69950C-3757-4453-9B39-C74D1398FC27}" />

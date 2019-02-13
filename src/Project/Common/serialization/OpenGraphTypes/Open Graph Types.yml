@@ -1,0 +1,14 @@
+﻿---
+ID: "8f8f990d-fab8-48ef-8447-6881d2f72a86"
+Parent: "256655ec-8f3a-45b5-ad90-b63bc25b8067"
+Template: "27036534-e941-4ec6-9a77-ee2cc6f55d76"
+Path: /sitecore/system/Settings/Feature/Open Graph Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080742Z

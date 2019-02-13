@@ -1,0 +1,14 @@
+﻿---
+ID: "7dfe4b18-6894-414d-9561-dd5c2ae64b4c"
+Parent: "de983778-0eb5-44bb-828c-77bb261398cf"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/content/AnchorPoint/Home/Happenings/*
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T095040Z

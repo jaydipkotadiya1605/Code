@@ -1,0 +1,21 @@
+﻿---
+ID: "3b9393af-488e-4c09-9f8e-b72c32dc07da"
+Parent: "619ed081-078f-45cd-bc6f-ebc9d2d88f4c"
+Template: "06a0c187-bfbd-4875-b45f-ca8847ab77d8"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/Stores
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T071620Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Stores
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

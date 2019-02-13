@@ -1,0 +1,24 @@
+﻿---
+ID: "99f481d0-46cf-40f8-9159-42a237ddbffd"
+Parent: "a67852d0-0bf3-4b34-9ef9-80ca972a75e1"
+Template: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Path: /sitecore/system/Modules/Importer/Options/ExistingItemHandling/AddVersion
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: AddVersion
+    - ID: "b5cbae6f-b934-4d25-b231-9373a6f7e3af"
+      Hint: HelpText
+      Value: Adds a new version if item exists already

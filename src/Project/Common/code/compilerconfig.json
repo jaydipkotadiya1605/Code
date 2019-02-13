@@ -1,0 +1,22 @@
+[
+    {
+        "outputFile": "styles/fonts.css",
+        "inputFile": "scss/fonts.scss",
+        "sourceMap": false
+    },
+    {
+        "outputFile": "styles/responsive.css",
+        "inputFile": "scss/responsive.scss",
+        "sourceMap": false
+    },
+    {
+        "outputFile": "styles/style.css",
+        "inputFile": "scss/style.scss",
+        "sourceMap": false
+    },
+    {
+        "outputFile": "styles/style-extend.css",
+        "inputFile": "scss/style-extend.scss",
+        "sourceMap": false
+    }
+]

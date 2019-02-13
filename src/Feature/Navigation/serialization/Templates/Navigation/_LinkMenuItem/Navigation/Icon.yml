@@ -1,0 +1,21 @@
+﻿---
+ID: "427df8ea-6adf-4889-9e10-2cef1ff0c990"
+Parent: "fb9a5ba1-8239-4ecf-bb53-7cd96f59e63b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Navigation/_LinkMenuItem/Navigation/Icon
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180608T070640Z

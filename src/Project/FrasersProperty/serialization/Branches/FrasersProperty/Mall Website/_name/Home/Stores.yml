@@ -1,0 +1,21 @@
+﻿---
+ID: "e128f85f-2674-4ac4-9914-015c578b4c46"
+Parent: "7e8ffd14-51be-487b-b1eb-d584e6967915"
+Template: "06a0c187-bfbd-4875-b45f-ca8847ab77d8"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Home/Stores
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T071529Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Stores
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

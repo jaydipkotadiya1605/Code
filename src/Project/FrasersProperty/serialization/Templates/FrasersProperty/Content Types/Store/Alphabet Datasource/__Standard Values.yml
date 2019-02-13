@@ -1,0 +1,23 @@
+﻿---
+ID: "6ccfa79d-883c-43de-abf6-8635b64551ee"
+Parent: "a28ec2d6-336d-42ff-bbc0-45dc2575cc7b"
+Template: "a28ec2d6-336d-42ff-bbc0-45dc2575cc7b"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Store/Alphabet Datasource/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{66D95284-43F6-46B7-950D-1CE4EF64D772}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T091105Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

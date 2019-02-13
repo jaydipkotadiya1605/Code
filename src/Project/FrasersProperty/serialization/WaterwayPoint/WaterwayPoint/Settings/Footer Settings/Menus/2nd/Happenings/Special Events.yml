@@ -1,0 +1,18 @@
+﻿---
+ID: "20f9110e-3e09-480c-8b3f-d04bc9f81ea7"
+Parent: "13d3d143-710c-4b8c-b056-76683afdd51e"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/2nd/Happenings/Special Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Special Events" anchor="" linktype="internal" class="" title="Special Events" target="" querystring="category=Special Event" id="{07375B0D-1C19-443C-92C0-C4B876D93EE7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T100438Z

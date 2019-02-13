@@ -1,0 +1,14 @@
+﻿---
+ID: "6936c34e-559d-4c65-9496-09a3abb23910"
+Parent: "8329244e-b078-423d-ac5b-a394bcc6c441"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Enquiry/_EnquiryTemplate/Enquiry
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T074450Z

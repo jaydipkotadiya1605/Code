@@ -1,0 +1,18 @@
+﻿---
+ID: "704f881e-1a90-4907-9c9e-96dddd377bd9"
+Parent: "553d3cc1-b549-4aa1-9ed9-e8e06e14a683"
+Template: "cd047791-c29a-4596-aeee-db5e70421c1f"
+Path: /sitecore/system/Settings/Feature/Metadata/Frasers Rewards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T030543Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

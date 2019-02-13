@@ -1,0 +1,73 @@
+﻿---
+ID: "cc11af5f-653a-49b3-a5d5-a32ad6d4d039"
+Parent: "44bca4e9-9a42-4d80-bb0b-f7157f4faf11"
+Template: "10863561-7398-4c5d-8a99-b075b90c4e41"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Class Translation/Head3
+DB: core
+SharedFields:
+- ID: "2b6bd0bd-7b87-4e8d-99c8-16bbe70e7de0"
+  Hint: Key
+  Value: Head3
+- ID: "caf92d8d-e76c-41a0-9567-6c5f86b63abf"
+  Hint: Value
+  Value: Heading3
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Head3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T125757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Head3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T130745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20060130T125510
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125510
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 見出し 3
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T131417Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

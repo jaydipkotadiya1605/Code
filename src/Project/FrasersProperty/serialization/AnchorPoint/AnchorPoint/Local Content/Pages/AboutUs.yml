@@ -1,0 +1,87 @@
+﻿---
+ID: "69afbfa5-7216-4eb6-a2ca-38d8afb5093c"
+Parent: "617d1879-982f-457e-9b90-0afd5c94b288"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/AnchorPoint/Local Content/Pages/AboutUs
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: About Us
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180809T042520Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{6C811026-F174-4E3D-AE92-031A87F1F011}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <p>Waterway Point is a four-storey retail and lifestyle hub located in the heart of Punggol, beside Punggol MRT/LRT station. It is the retail component of Watertown, Singapore&rsquo;s first integrated waterfront residential and retail development by the consortium of Frasers Property Limited, Far East Organization and Sekisui House Ltd. Watertown features a 992-residential unit development in addition to the retail and lifestyle hub.</p>
+        <p>With a net lettable area of 370,824 sq ft, Waterway Point will offer a diverse range of retail, dining, entertainment and education offerings. Waterway Point will be the flagship waterfront leisure destination for Punggol&rsquo;s residents and visitors from across the island.</p>
+        <p><img alt="wwp-directions" src="-/media/feature/contact/wwp-directions.png" /></p>
+        <h2>Getting Here</h2>
+        <br />
+        <p><span style="text-decoration: underline;">By Train.</span><br />
+        <br />
+        1) Alight at Punggol MRT/LRT Station (NE17/PTC)<br />
+        2) Walk through Exit A and walk down Waterway Point's 24-hour Boardwalk.</p>
+        <p><span style="text-decoration: underline;">By Bus</span><br />
+        <br />
+        1) Take Bus Service Nos: Nos. <a href="http://www.transitlink.com.sg/eservice/eguide/service_route.php?service=3" target="_blank">3 (from Tampines)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=034" target="_blank">34 (from Changi)</a>, <a href="http://www.transitlink.com.sg/eservice/eguide/service_route.php?service=43" target="_blank">43 (from Upper East Coast Terrace)</a>, <a href="http://www.transitlink.com.sg/eservice/eguide/service_route.php?service=50" target="_blank">50 (from Bishan)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=62" target="_blank">62 (from Geylang)</a>, <a href="http://www.transitlink.com.sg/eservice/eguide/service_route.php?service=82" target="_blank">82 (Punggol Loop)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=83" target="_blank">83 (from Sengkang)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=084" target="_blank">84 (Punggol Loop)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=85" target="_blank">85 (from Yishun)</a>, <a href="http://www.transitlink.com.sg/eservice/eguide/service_route.php?service=119" target="_blank">119 (Punggol Loop)</a>, <a href="http://www.sbstransit.com.sg/journeyplan/servicedetails.aspx?serviceno=136#" target="_blank">136 (from Ang Mo Kio)</a>.<br />
+        2) Alight at Punggol Interchange then walk about 5 mins to Waterway Point.</p>
+        <p><span style="text-decoration: underline;">By Car/Taxi</span></p>
+        <p>1) Drive from CTE (Central Expressway)<br />
+        - Head north on CTE<br />
+        - Keep right and merge onto TPE<br />
+        - Take exit 9 for Punggol Road<br />
+        - Continue on Punggol Road and turn left onto Punggol Central.<br />
+        - Waterway Point will be on the left
+        </p>
+        <p>2) Drive from KPE (Kallang - Paya Lebar Expressway)<br />
+        - Head northeast on KPE.<br />
+        - Take the exit towards SLE/Jln Kayu/Punggol Road.<br />
+        - Take exit 9 for Punggol Road.<br />
+        - Continue on Punggol Road and turn left onto Punggol Central.<br />
+        - Waterway Point will be on the left.
+        </p>
+        <p>3) Drive from TPE (Tampines Expressway)<br />
+        - Head northeast on TPE.<br />
+        - Take exit 10 for Sengkang East Road towards Punggol Way.<br />
+        - Continue on Punggol Way and turn right onto Punggol Field.<br />
+        - Turn left onto Punggol Place.<br />
+        - Turn left onto Punggol Central.<br />
+        - Waterway Point will be on the left.
+        </p>
+        <p>4) The taxi stand and carpark entrance are both located along Punggol Central.</p>
+        <h2>Parking</h2>
+        <p>1st hour or part thereof: $1.20 for first hour<br />
+        Every subsequent half hour or part thereof: $0.60<br />
+        Motorcycle: $0.80 per entry</p>
+        <h2>Free Shuttle Bus Service</h2>
+        <p>Below are the diferent shuttle bus service routes to Waterway Point.</p>
+        <p><a href="-/media/feature/contact/wwp-bus01.png" target="_blank"><img alt="wwp-bus01" src="-/media/feature/contact/wwp-bus01.png" /></a></p>
+        <p><a href="-/media/feature/contact/wwp-bus02.png" target="_blank"><img alt="wwp-bus02" src="-/media/feature/contact/wwp-bus02.png" /></a></p>
+        <p>Click <a href="-/media/feature/contact/wwp-shuttbus-schedule.pdf" target="_blank">here</a> to view routes schedule.</p>
+        <h2>Customer Service Counter</h2>
+        <p>East Wing, Level 1<br />
+        Opening Hours: 10am to 10pm<br />
+        Redemption Hours: 11am to 9.30pm</p>
+        <p>For general enquires or feedback on Frasers Property Singapore, please email us at <a href="mailto:promo@frasersproperty.com">promo@frasersproperty.com</a></p>
+        <p>For leasing enquiries please complete the online <a href="/enquiry-us?type=leasing">enquiry form</a>.<br />
+        We will contact you should there be suitable space available.</p>
+        <p><em>***All information is accurate at the time of updating the website.<br />
+        Visit Customer Service at East Wing, Level 1, or call (65) 6812 7300 for more information.</em></p>

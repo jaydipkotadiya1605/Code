@@ -1,0 +1,18 @@
+﻿---
+ID: "22eeb294-1e03-40fc-9f8c-650626068378"
+Parent: "5055aeb0-cb35-4405-a51e-dd54021ed7e8"
+Template: "e3b6cb82-4880-4288-b483-b5dcd6c64d66"
+Path: /sitecore/system/Modules/Importer/Options
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

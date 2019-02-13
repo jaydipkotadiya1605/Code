@@ -1,0 +1,30 @@
+﻿---
+ID: "1a9aed6b-a8c8-41ce-ae0c-99fbc59ae9ee"
+Parent: "d046e7a5-9ee2-4cba-8484-c601561f66d9"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-narrow-1"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "col-narrow-1"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {049459DD-4EA6-4B05-A686-96C901129A02}
+    {00717D73-7624-46B7-8EAF-0D40FFA24EF3}
+    {2631753D-E992-409F-8537-593ED6127FF4}
+    {1E63F2AA-9900-4B6A-BC1D-23FF99F052AD}
+    {78F7F747-2558-4330-ADC0-A2118A76147C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150921T020150Z

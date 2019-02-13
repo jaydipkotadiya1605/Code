@@ -1,0 +1,14 @@
+﻿---
+ID: "5b18a53c-c078-4f64-9d90-b94b53d7485a"
+Parent: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/ItemResolver/Item Resolver Rule/Rule
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T043200Z

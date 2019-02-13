@@ -1,0 +1,12 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="row">
+    <div class="col col-12 col-md-8 main">
+        @Html.Sitecore().DynamicPlaceholder("col-wide-1", Model.Rendering.GetUseStaticPlaceholderNames())
+    </div>
+    <div class="col col-4 sidebar">
+        @Html.Sitecore().DynamicPlaceholder("col-narrow-1", Model.Rendering.GetUseStaticPlaceholderNames())
+    </div>
+    @Html.Sitecore().Placeholder("map-location")
+</div>

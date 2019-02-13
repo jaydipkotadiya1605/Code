@@ -1,0 +1,141 @@
+﻿---
+ID: "a0fbaf16-0cd2-406a-8fa2-e0a32cbd6fc7"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/FAQsMembership
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FAQs | Membership
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T153643Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        					<!-- item -->
+        					<div class="qns">1. What is Frasers Experience?</div>
+        					<div class="ans">
+        						Frasers Experience (FRx) is Frasers Property Singapore's new multi-feature app, providing shoppers with a new way to shop, dine and play. Launched to replace the previous Frasers Rewards app, FRx provides an enhanced customer experience, bringing greater ease and utility to shoppers across 14 Frasers Property Singapore developments.
+        						<br /><br />
+        						<ul class="no-margin">
+        							<li>Alexandra Technopark,</li>
+        							<li>Anchorpoint,</li>
+        							<li>Bedok Point,</li>
+        							<li>Causeway Point,</li>
+        							<li>Changi City Point,</li>
+        							<li>China Square Central,</li>
+        							<li>Eastpoint Mall,</li>
+        							<li>Frasers Tower,</li>
+        							<li>Northpoint City,</li>
+        							<li>Robertson Walk,</li>
+        							<li>The Centrepoint,</li>
+        							<li>Valley Point,</li>
+        							<li>YewTee Point and</li>
+        							<li>Waterway Point</li>
+        						</ul>
+        						<br />
+        						The latest version of Frasers Experience now comes in the form of a mobile application (app), which you can download from the App Store (for iOS mobile devices) or Google Play Store (for Android mobile devices) from 17 November 2017.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">2. Who qualifies to apply for Frasers Experience?</div>
+        					<div class="ans">
+        						Frasers Experience is open to all local residents aged 18 years and above, holding a valid Singapore NRIC or foreign work permit. Tourists and shoppers holding on to employment pass, dependant pass and student pass are encouraged to visit the Customer Service Counter of any participating malls of Frasers Property for assistance.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">3. How do I download the Frasers Experience app?</div>
+        					<div class="ans">
+        						Click <a href="https://frx.onelink.me/Zzci/FRx" target="_blank">here</a> to download the app or search for "Frasers Experience" in the App Store or Google Play.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">4. How do I login if I am registering to be a member for the first time?</div>
+        					<div class="ans">
+        						<ul>
+        							<li>Download the app and register with your email address and an alpha-numeric password of your choice. Your password is case sensitive.</li>
+        							<li>Complete the email verification process and you are now ready to start earning with Frasers Experience, simply scan your Frasers Experience QR Code in-store to earn Frasers Points instantly.</li>
+        							<li>Remember to visit Customer Service to update your date of birth to enjoy double points during your birthday month.</li>
+        						</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">5. Do I need to activate my Frasers Experience membership account at Customer Service?</div>
+        					<div class="ans">
+        						You can immediately begin to earn points and rewards by scanning your Frasers Experience QR code at participating  Frasers Property stores before making payment.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">6. Can I enjoy free parking or gift with purchase (GWP) redemptions with the new Frasers Experience?</div>
+        					<div class="ans">
+        						<ul>
+        							<li>Yes. Simply shop and have your Frasers Experience QR code scanned at participating retailers to earn Frasers Points and clock your transactions. Once you meet the minimum spend requirements, you will receive an in-app notification alerting you to collect your GWP from Customer Service.</li>
+        							<li>Likewise for free parking, meet the individual mall’s minimum spending requirements by scanning your Frasers Experience QR code at participating retailers. Should you drive, scan your Frasers Experience QR code at Customer Service to redeem a parking coupon for 1 free hour, applicable only on weekdays.</li>
+        							<li>Scan your Frasers Experience member QR code once at Customer Service to facilitate collection of Free Parking coupons and/or GWPs.</li>
+        						</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">7. Must I be a Frasers Experience member to enjoy all promotions and lucky draws conducted by malls of Frasers Property?</div>
+        					<div class="ans">
+        						<ul>
+        							<li>Yes, you will need to sign up for a complimentary Frasers Experience membership to qualify for all promotions and lucky draws conducted by malls of Frasers Property unless otherwise stated.</li>
+        							<li>Only a one-time registration is required to qualify for all future promotions including lucky draws. You may download the Frasers Experience app and register today.</li>
+        						</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">8. Is there a membership fee?</div>
+        					<div class="ans">
+        						No, the membership fee is currently waived.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">9. What is the duration of my membership?</div>
+        					<div class="ans">
+        						Unless the membership is terminated or suspended, the membership will be valid as long as the Frasers Experience loyalty programme is in operation.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">10. Is the Frasers Experience membership transferrable?</div>
+        					<div class="ans">
+        						No, Frasers Experience membership is non-transferrable. Friends and family members keen on enjoying the same benefits can download the Frasers Experience mobile app.
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">11. What should I do if I have more queries?</div>
+        					<div class="ans">
+        						Drop us an email at <a href="mailto:FRHelp@frasersproperty.com">FRHelp@frasersproperty.com</a> or approach the Customer Service Counter of any participating malls of Frasers Property for assistance.
+        					</div>
+        					<!-- /item -->

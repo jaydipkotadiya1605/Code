@@ -1,0 +1,14 @@
+﻿---
+ID: "4532e434-dcdd-44f1-bafa-6f93ff60da6c"
+Parent: "07375b0d-1c19-443c-92c0-c4b876d93ee7"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/content/WaterwayPoint/Home/Happenings/*
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T095040Z

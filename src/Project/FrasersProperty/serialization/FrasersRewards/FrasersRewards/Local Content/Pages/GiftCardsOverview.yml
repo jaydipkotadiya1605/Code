@@ -1,0 +1,135 @@
+﻿---
+ID: "deaefc4e-9b1f-49b8-94e6-112be4405863"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/GiftCardsOverview
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1800
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gift Cards | Overview
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095752Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <section>
+        					<h1>GIVE THE GIFT OF CHOICE</h1>
+        					
+        					<p><br />Give the gift of choice. Besides redeeming a Digital Gift Card, you can soon send your loved ones Digital Gift Cards  when our e-gifting function launches in December 2018.</p>
+        					<div class="row">
+        						<div class="col col-lg-10"><img src="-/media/03e953234fa64de2817e50f062a0164e.ashx" alt="" /></div>
+        					</div>
+        					</section>
+        
+        					<br />
+        
+        					<section>
+        						<div class="row">
+        							<div class="col col-12 col-md-12 col-lg-7 col-xl-6">
+        								<div class="frx-dgc-header purple">
+        									REDEEM
+        								</div>
+        								<div class="screenshot" style="left:15px;">
+        									<img src="-/media/67000323e9c746b2994fb4c8f22e20c4.ashx" alt="" class="height300" />
+        								</div>
+        							</div>
+        							<div class="col col-12 col-md-12 col-lg-5">	
+        								<div class="frx-rewards-line purple"></div>
+        								Use Frasers Points to redeem a Digital Gift Card. 
+        								Start using your Digital Gift Card to offset full or partial payments in-store.
+        							</div>
+        						</div>
+        					</section>
+        
+        					<br />
+        
+        					<section>
+        						<div class="row">
+        							<div class="col col-12 col-md-12 col-lg-7 col-xl-6">
+        								<div class="frx-dgc-header yellow">
+        									BUY
+        								</div>
+        								<div class="screenshot" style="left:10px;">
+        									<img src="-/media/5ff3f884903f4c7a8a761168860b1afe.ashx" alt="" class="lr-float mr-2" />
+        									<img src="-/media/baca46ed91814f4abd49023a6053bace.ashx" alt="" class="lr-float" />
+        								</div>
+        							</div>
+        							<div class="col col-12 col-md-12 col-lg-5">	
+        								<div class="frx-rewards-line yellow"></div>
+        								Simply buy a Digital Gift Card in the Frasers Experience (FRx) app or at our Customer Service counters. 
+        								<br /><br />
+        								Show someone you’re thinking of them by sending them a Digital Gift Card. Look out for our e-gifting function, available in Dec 2018.
+        							</div>
+        						</div>
+        					</section>
+        
+        					<br />
+        
+        					<section>
+        						<div class="row">
+        							<div class="col col-12 col-md-12 col-lg-7 col-xl-6">
+        								<div class="frx-dgc-header pink">
+        									ADD
+        								</div>
+        								<div class="screenshot" style="left:15px;">
+        									<img src="-/media/8f73d1b2f6e243c8946b5b300415dcba.ashx" alt="" class="height300" />
+        								</div>
+        							</div>
+        							<div class="col col-12 col-md-12 col-lg-5">	
+        								<div class="frx-rewards-line pink"></div>
+        								No more worrying about misplacing your gift cards. Your Digital Gift Cards can be stored snug and safe in the e-wallet of your FRx app.
+        								<br /><br />
+        
+        								Whether you’ve received a Digital Gift Card from a friend or bought one at any of our Customer Service counters, simply add the card into your e-wallet and start using it any time.
+        							</div>
+        						</div>
+        					</section>
+        
+        					<br /><br />
+        
+        					<section>
+        					<div class="row align-items-center">
+        						<div class="col col-12 col-md-12 frx-dgc-easy">
+        							<h2>Using your Digital Gift Card is super easy - <span>just present either of these at participating Frasers Property stores.</span></h2>
+        							<br />
+        						</div>
+        						<div class="col col-12 col-md-12 text-center">
+        							<img src="-/media/05fa724866454023ad58aa57e6f93a5a.ashx" alt="" />
+        						</div>
+        					</div>
+        					</section>
+        
+        					<br /><br />
+        
+        					<br />
+        
+        					<section class="text-center">
+        						<div class="row">
+        							<div class="col-12">
+        								<a href="https://frx.onelink.me/Zzci/FRx" target="_blank">
+        									<img src="-/media/ee808256b8bf4e3f8bdf7776486c86c0.ashx" alt="" />
+        								</a>
+        							</div>
+        						</div>
+        					</section>

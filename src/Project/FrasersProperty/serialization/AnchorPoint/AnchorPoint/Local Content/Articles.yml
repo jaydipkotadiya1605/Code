@@ -1,0 +1,18 @@
+﻿---
+ID: "d9b4deee-1125-4f1a-93c0-f4937286fc04"
+Parent: "558f91d4-3da9-41d4-a42e-eeb1a3fc6f03"
+Template: "24c25159-9565-4b90-8583-18ca41e1932b"
+Path: /sitecore/content/AnchorPoint/Local Content/Articles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082657Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

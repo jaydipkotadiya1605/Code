@@ -1,0 +1,14 @@
+﻿---
+ID: "019f8634-a79c-4724-ac41-80e3ed317a81"
+Parent: "6df2de9f-bd8e-403c-a3b7-0dc00a676075"
+Template: "4c82b6dd-fe7c-4144-bcb3-f21b4080568f"
+Path: /sitecore/content/AnchorPoint/Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T034016Z

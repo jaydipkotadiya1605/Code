@@ -1,0 +1,180 @@
+﻿---
+ID: "57b7944e-5263-41b1-9446-0ca2bb63b3a7"
+Parent: "5e94d7cc-8523-431b-9a2c-50cbc0b06ab0"
+Template: "5d5635db-f3e3-4171-973b-c83d522c111a"
+Path: /sitecore/content/FrasersRewards/Local Content/Events/The Galactic Arena at Selected Frasers Centrepoint
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "004bc4ae-0aad-47bf-b18b-c75cfa9364c8"
+      Hint: Title
+      Value: The Galactic Arena at Selected Frasers Centrepoint
+    - ID: "013305bb-025d-47ea-a340-a4d7fd8db00b"
+      Hint: End Date
+      Value: 20180829T170000Z
+    - ID: "0477b953-4588-4520-aefe-52b6e87566fd"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{4978B240-6FF7-461D-9364-5F018763D33E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180727T090556Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: The Galactic Arena at Selected Frasers Centrepoint
+    - ID: "68d9c908-a52b-4a0d-8be1-2d44caf70ca6"
+      Hint: Image
+      Value: |
+        <image mediaid="{4978B240-6FF7-461D-9364-5F018763D33E}" />
+    - ID: "81b58390-e8e1-4de1-830b-d3552abe445e"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; margin-right: 0px; margin-bottom: 20px; margin-left: 0px;"><span>Step inside the Galactic Arena with no spending tagged and embark on an adventure in a galaxy far, far away.&nbsp;&nbsp;</span></p>
+        <div id="cke_pastebin" style="color: #333333;"><span>Affirm your light side or dark side allegiance and dress the part in a STAR WARSTM&nbsp;Family Makeover, immerse yourself in a VR experience, learn to fly a Millennium Falcon drone, find the right path for BB-8 in a maze, and finish off your adventure with some retail therapy.<br />
+        </span></div>
+        <div class="tableFrame" style="color: #333333;">
+        <table border="1" cellpadding="5" cellspacing="5" style="background-color: transparent; width: 740px; border-spacing: 0px;">
+            <tbody>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><strong>Mall</strong></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><strong>Date/Time/Venue</strong></td>
+                    <td style="padding: 10px; text-align: left;"><strong>Types of Activity</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43655&amp;t=the-galactic-arena-at-the-centrepoint" target="_blank" style="color: #ff0000;">The Centrepoint</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">17 to 26 November 2017<br />
+                    12pmto8pm<br />
+                    Level 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Flight Academy<br />
+                    &bull;Droid Maze<br />
+                    &bull;NERF Gun<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43658&amp;t=the-galactic-arena-at-changi-city-point" target="_blank" style="color: #ff0000;">Changi City Point</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">21 to 26 November 2017<br />
+                    12pm to 8pm<br />
+                    Basement 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Droid Doc<br />
+                    &bull; NERF Gun<br />
+                    &bull;PS4 Mission<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43660&amp;t=the-galactic-arena-at-eastpoint-mall" target="_blank" style="color: #ff0000;">Eastpoint Mall</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">28 November to<br />
+                    3 December 2017<br />
+                    12pm to 8pm<br />
+                    Level 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Flight Academy<br />
+                    &bull;Droid Maze<br />
+                    &bull;Droid Doc<br />
+                    &bull; NERF Gun<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43661&amp;t=the-galactic-arena-at-yewtee-point" target="_blank" style="color: #ff0000;">YewTee Point</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">28 November to<br />
+                    3 December 2017<br />
+                    12pm to 8pm<br />
+                    Level 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;NERF Gun<br />
+                    &bull;PS4 Mission<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43662&amp;t=the-galactic-arena-at-causeway-point" target="_blank" style="color: #ff0000;">Causeway Point</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">5 to 10 December 2017<br />
+                    12pm to 8pm<br />
+                    Level 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Flight Academy<br />
+                    &bull;Droid Maze<br />
+                    &bull;Droid Doc<br />
+                    &bull;NERF Gun<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43663&amp;t=the-galactic-arena-at-anchorpoint" target="_blank" style="color: #ff0000;">Anchorpoint</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">5 to 10 December 2017<br />
+                    Basement 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;Droid Maze<br />
+                    &bull;NERF Gun<br />
+                    &bull; PS4 Mission<br />
+                    &bull;Merchandise Fair</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43664&amp;t=the-galactic-arena-at-waterway-point" target="_blank" style="color: #ff0000;">Waterway Point</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">12 to 17 December 2017<br />
+                    12pmto 8pm<br />
+                    Level 1, West Wing, Village Square</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Flight Academy<br />
+                    &bull;Droid Maze<br />
+                    &bull;Droid Doc<br />
+                    &bull;NERF Gun<br />
+                    &bull;PS4 Mission<br />
+                    &bull; Lenovo Jedi Challenge<br />
+                    &bull;Merchandise Fair from 11am to 9pm</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43665&amp;t=the-galactic-arena-at-bedok-point" target="_blank" style="color: #ff0000;">Bedok Point</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">12 to 17 December 2017<br />
+                    12pm to 8pm<br />
+                    Level 1 Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull; Droid Maze<br />
+                    &bull;NERF Gun<br />
+                    &bull; PS4 Mission</td>
+                </tr>
+                <tr>
+                    <td style="width: 150px; padding: 10px; text-align: left;"><a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=43666&amp;t=the-galactic-arena-at-northpoint-city" target="_blank" style="color: #ff0000;">Northpoint City</a></td>
+                    <td style="width: 150px; padding: 10px; text-align: left;">19 to 24 December 2017<br />
+                    12pm to 9pm<br />
+                    Level 1 South Atrium</td>
+                    <td style="padding: 10px; text-align: left;">&bull;STAR WARS<span>TM</span>Family Makeover<br />
+                    &bull;Flight Academy<br />
+                    &bull;Droid Maze<br />
+                    &bull;Droid Doc<br />
+                    &bull;NERF Gun<br />
+                    &bull;PS4 Mission<br />
+                    &bull;Merchandise Fair<br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <span style="color: #333333;"><br />
+        </span>
+        <div id="cke_pastebin" style="color: #333333;"><span><br />
+        </span></div>
+        <div id="cke_pastebin" style="color: #333333;"><span>*All information is correct at the time of updating the website and subject to change without prior notice. Visit Customer Service Counter for more information.</span></div>
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: "{4C4E8FCD-AED7-4142-BFD3-B9B54465329C}"
+    - ID: "9b4e265b-2bfa-4665-85d0-8c15f2f07a14"
+      Hint: Expiry Date
+      Value: 
+    - ID: "c64ad6dc-cf30-412e-8406-75641e1d15de"
+      Hint: Start Date
+      Value: 20180812T170000Z
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: The Galactic Arena at Selected Frasers Centrepoint
+    - ID: "db364bb7-9f54-4264-a25f-3b184fb7d089"
+      Hint: Summary
+      Value: "Battle it out at the Galactic Arena in our 9 malls where you’ll be faced with exciting missions like getting a family makeover to dress as your favourite STAR WARSTM character, flying a Millennium Falcon drone and plenty more fun from 17 November to 24 December 2017!"
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: "4C4E8FCDAED74142BFD3B9B54465329C=DD56B485-0EA2-4744-AA24-A78BB6FA01E6"

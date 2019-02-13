@@ -1,0 +1,25 @@
+﻿---
+ID: "34ebe3fd-d4be-43b0-891d-56407181b446"
+Parent: "6ca755bb-b1bf-49e2-969f-4deba1a6da85"
+Template: "6ca755bb-b1bf-49e2-969f-4deba1a6da85"
+Path: /sitecore/templates/Project/Common/Content Types/Folders/Leasing Resources Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180731T043815Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

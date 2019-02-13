@@ -1,0 +1,14 @@
+﻿---
+ID: "bc0b6a71-f477-48b7-af44-47d9ed7cb796"
+Parent: "2db06657-1cc1-45a3-8638-7d4548f1fb25"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Multisite/ParametersTemplate_Malls/List Style
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T050745Z

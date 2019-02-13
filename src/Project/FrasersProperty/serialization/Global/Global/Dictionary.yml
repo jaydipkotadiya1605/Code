@@ -1,0 +1,27 @@
+﻿---
+ID: "9dffd40a-53fe-4032-98d6-f4a5f35c15a3"
+Parent: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/content/Global/Dictionary
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/16x16/book_red.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {EC4DD3F2-590D-404B-9189-2A12679749CC}
+    {98E4BDC6-9B43-4EB2-BAA3-D4303C35852E}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T105623Z

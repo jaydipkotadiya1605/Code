@@ -1,0 +1,27 @@
+﻿---
+ID: "98f7c460-f892-485d-8274-7ceba7bae23b"
+Parent: "ed457164-209e-4256-9f9d-8c39a56f8e85"
+Template: "317a4f55-f36e-4e6e-a411-85883bfd4496"
+Path: /sitecore/templates/Foundation/Import/Branches/OutputMap/$name/Fields/Field1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T155459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T155459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

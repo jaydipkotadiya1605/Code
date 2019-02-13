@@ -1,0 +1,23 @@
+﻿---
+ID: "ec36670b-0445-4e3c-a410-33f575890066"
+Parent: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Footer/Footer Link/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{282693F4-F958-4B55-A4AD-7C0F291BDBBB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T045517Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

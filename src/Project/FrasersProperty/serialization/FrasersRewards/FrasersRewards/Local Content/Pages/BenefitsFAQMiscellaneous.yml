@@ -1,0 +1,87 @@
+﻿---
+ID: "83339f55-2e41-4bd6-af6b-80e7519920a6"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/BenefitsFAQMiscellaneous
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Benefits | FAQ | Miscellaneous
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095328Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <!-- item -->
+        <div class="qns">1. How does this new programme affect existing members like myself?</div>
+        <div class="ans">
+        <ul>
+            <li>You no longer need to take a photo of receipts for submission, with exception of supermarket receipts. You may now earn Frasers points instantly by having a participating retailers scan your Frasers Rewards QR code in-store at point of payment.</li>
+            <li>You can now redeem your Frasers Points for Digital Gift Cards via the Frasers Rewards app. The Digital Gift Cards will be loaded to your Frasers Rewards E-Wallet and may be used at participating Frasers Property retailers. </li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">2. How do I update my personal particulars?</div>
+        <div class="ans">You can edit your particulars by updating your PROFILE page on the mobile app. Do remember to visit Customer Service to input your date of birth to enjoy double points during your birthday month.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">3. How can I change my password?</div>
+        <div class="ans">You can change your password by selecting the CHANGE PASSWORD from the main menu.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">4. How can I reset my password?</div>
+        <div class="ans">Select FORGOT PASSWORD on the mobile app and follow through the steps to reset your Password.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">5. How do I receive updates on the latest promotions and lucky draw campaigns?</div>
+        <div class="ans">
+        <ul>
+            <li>Depending on the preferred options you have selected during registration, you can receive our promotional materials via the following channels:<br />
+            <br />
+            <ul class="no-margin">
+                <li>Electronic Direct Mailers</li>
+                <li>SMS</li>
+                <li>In-app notifications</li>
+            </ul>
+            </li>
+            <li>You may also update your preferences via the PROFILE page on the mobile app.</li>
+            <li>Please note that by unsubscribing from our promotional mailing list, you will still receive email and/or SMS alerts on your Frasers Points, rebates, lucky draw and redemptions.</li>
+            <li>Should you opt out from receiving member alerts in addition to promotional material, the onus is on you to track your Frasers Points and Digital Gift Cards through the mobile app. Frasers Property will only contact you via mail should you win any of the lucky draws.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">6. How can I terminate my Frasers Rewards membership?</div>
+        <div class="ans">
+        <ul>
+            <li>You can approach the Customer Service Counter of any participating malls of Frasers Property to terminate your Frasers Rewards membership or by writing in to us at <a href="mailto:FRHelp@frasersproperty.com">FRHelp@frasersproperty.com</a>.</li>
+            <li>All Frasers Points, Digital Gift Cards and the associated benefits will be forfeited upon termination of membership and cannot be transferred to another account.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">7. What should I do if I have more queries?</div>
+        <div class="ans">Drop us an email at <a href="mailto:FRHelp@frasersproperty.com">FRHelp@frasersproperty.com</a> or approach the Customer Service Counter of any participating malls of Frasers Property for assistance.</div>
+        <!-- /item -->

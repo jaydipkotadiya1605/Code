@@ -1,0 +1,29 @@
+﻿---
+ID: "d0106890-da05-4854-9757-f061b5ae1208"
+Parent: "7b7e8928-3e3c-4990-bc73-e9eec771726c"
+Template: "7b7e8928-3e3c-4990-bc73-e9eec771726c"
+Path: /sitecore/templates/Project/Common/Content Types/Category/Banner Category Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{DB98AD47-B168-4183-A16F-3BF64B188443}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T100358Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

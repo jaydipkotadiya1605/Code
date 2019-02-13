@@ -1,0 +1,11 @@
+﻿@model Sitecore.Feature.Errors.Models.ItemNotFoundModel
+@if (Model == null)
+{
+    return;
+}
+
+<div class="refine-search">
+    <h5>@Model.Title</h5>
+    <p>@Model.Subtitle</p>
+    @Html.Sitecore().Placeholder("errors-content")
+</div>

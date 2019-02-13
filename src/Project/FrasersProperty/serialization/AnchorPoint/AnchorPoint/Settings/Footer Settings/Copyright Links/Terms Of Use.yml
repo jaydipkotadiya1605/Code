@@ -1,0 +1,18 @@
+﻿---
+ID: "0632e91b-aa80-4297-abc1-43a7843f7ad1"
+Parent: "dcafad2b-ad2b-48f5-8c18-68e6ad088e27"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Copyright Links/Terms Of Use
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Terms of use" anchor="" linktype="internal" class="" title="Terms of use" target="" querystring="" id="{30B3142B-47A8-4323-AFDB-BF1110DE3AA8}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T065349Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "6a33cad7-5219-4d13-a1d2-3a750a65eeff"
+Parent: "31bd9839-c33f-4940-b75d-49b487634554"
+Template: "fc65fd9b-a685-4a1d-b2bc-5a96b0133162"
+Path: /sitecore/content/Global/Article And Event Tab Categories/Promotions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00743aa2-000a-4559-bbdb-834c64178990"
+      Hint: Article Category
+      Value: "{FA889469-DBE2-4E9C-95F9-83D7513B6D60}"
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: Promotions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190202T221252Z
+    - ID: "67111c0c-0ae5-4c27-b059-94609eb52b0f"
+      Hint: Hide in Sites
+      Type: Multilist
+      Value: 
+    - ID: "9400a2fc-b45f-425e-99a9-aabdac09ea43"
+      Hint: Event Category
+      Value: "{43C0340C-951B-4F12-8B96-BC56400DA05E}"
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: Promotions
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 2

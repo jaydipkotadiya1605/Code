@@ -1,0 +1,48 @@
+﻿---
+ID: "ae4ed96d-ac4d-4b36-abbd-42a06318313c"
+Parent: "617d1879-982f-457e-9b90-0afd5c94b288"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/AnchorPoint/Local Content/Pages/GiftCards
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gift Cards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T082944Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <section>
+        <div class="row">
+        <div class="col col-12 col-md-6 mb-3"><img src="-/media/a9e5092508f84663abebd401792e09b9.ashx?h=224&amp;w=350" alt="Gift Card" /></div>
+        <div class="col col-12 col-md-6">
+        <h2 class="dark-thin">GIVE THE GIFT OF CHOICE</h2>
+        With a Frasers Property Gift Card, you'll have access to hundreds of brands at participating Frasers Property malls, offices and business spaces across Singapore. Visit selected *<a href="~/link.aspx?_id=A5CD9A0C73FE4294BAE9C6A4AEA3A015&amp;_z=z" title="Customer Service Counters">Customer Service Counters</a> at our malls to purchase a Frasers Property Gift Card today!
+        <br />
+        <br />
+        Frasers Property Gift Cards can be loaded with values starting from $10 to $500 in denominations of $10.	</div>
+        </div>
+        </section>
+        <br />
+        <a href="~/link.aspx?_id=58DDA147527C45F6948E3A7F925BA5BD&amp;_z=z" class="full-btn" title="GO TO Frasers Experience WEBSITE">GO TO Frasers Experience WEBSITE</a>

@@ -1,0 +1,18 @@
+﻿---
+ID: "1067c19d-8a16-4ee8-afcf-7ac58997a4a9"
+Parent: "fce515d5-554e-40ce-8fdd-f27aa7fca710"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Home/Landing Page/*
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T055310Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

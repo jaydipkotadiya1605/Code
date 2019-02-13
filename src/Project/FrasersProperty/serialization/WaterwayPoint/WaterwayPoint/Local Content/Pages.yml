@@ -1,0 +1,14 @@
+﻿---
+ID: "0559bb3b-07d1-48bf-aa18-ba4c3979f0f5"
+Parent: "b22858c8-fba9-4b4b-8378-ecb6085a4787"
+Template: "28f186d8-101c-4bce-bac6-39803d436537"
+Path: /sitecore/content/WaterwayPoint/Local Content/Pages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T044556Z

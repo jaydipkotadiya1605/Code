@@ -1,0 +1,36 @@
+﻿---
+ID: "77ab4a03-1e8c-4a42-baee-b9d58353f56e"
+Parent: "9ec00b16-0af9-49c3-b5cc-c044fea9d4fb"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Event/Event And Article List
+DB: master
+SharedFields:
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{15F872B0-31E9-4298-80AC-2DF77E6EF6C3}"
+- ID: "94069f66-609c-48b0-8281-521c30fb269d"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: EventAndArticleList
+- ID: "e514a1eb-ddba-44f7-8528-82ca2280f778"
+  Hint: JavaScript assets
+  Value: |
+    /js/search/load-more.js
+    /js/event-filter.js
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.Event.Controllers.EventController,Sitecore.Feature.Event
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190203T171121Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

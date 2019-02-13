@@ -1,0 +1,27 @@
+﻿@using Sitecore.Mvc.Presentation
+@using Sitecore.Feature.Multisite.Extensions
+@using Sitecore.Foundation.Device.Repositories
+@using Sitecore.Feature.Multisite
+@using Sitecore.Foundation.Dictionary.Extensions
+
+@model IEnumerable<Sitecore.Feature.Multisite.Models.MallViewModel>
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+}
+
+
+@if (Model != null && RenderingContext.Current != null)
+{
+<div class="@(isMobileMode ? "" : "property-filter") @RenderingContext.Current.Rendering.GetListClass()">
+    <select name="store-mall" id="store-mall">
+        @if (DeviceRepository.IsMobileOrTablet)
+        {
+            <option disabled selected>@Html.Sitecore().Dictionary(Constants.Property, Constants.PropertyText)</option>
+        }
+        @foreach (var mall in @Model)
+        {
+            <option value="@mall.Id" @(mall.IsSelected ? "selected" : "")>@mall.Name</option>
+        }
+    </select>
+</div>
+}

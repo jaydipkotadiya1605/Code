@@ -1,0 +1,18 @@
+﻿---
+ID: "38c766fc-d4ce-4a7b-98a6-42d6b9b13edf"
+Parent: "e6f7506c-9694-417b-b554-7c62d03294d1"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Social/Facebook
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180827T081544Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

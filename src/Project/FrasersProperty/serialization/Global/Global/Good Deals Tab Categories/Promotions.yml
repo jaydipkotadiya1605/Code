@@ -1,0 +1,27 @@
+﻿---
+ID: "f1f0f93a-6b91-496b-9066-2bcc97e7169a"
+Parent: "c470440b-81ec-4377-8bb6-a336d405391d"
+Template: "f513cf2f-f4d9-4fc5-8fd2-ef670dc7fdda"
+Path: /sitecore/content/Global/Good Deals Tab Categories/Promotions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: Promotions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T102116Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: Promotions
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 2

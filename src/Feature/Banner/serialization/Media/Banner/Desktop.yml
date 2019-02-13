@@ -1,0 +1,14 @@
+﻿---
+ID: "a7686393-df0d-4269-b93b-2eb1b4b120ab"
+Parent: "b43a6367-fb8d-4ac7-a0a9-92329036744d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Banner/Desktop
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T045344Z

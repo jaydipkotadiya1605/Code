@@ -1,0 +1,19 @@
+﻿---
+ID: "ed457164-209e-4256-9f9d-8c39a56f8e85"
+Parent: "b01cf4a2-8940-4f0a-a32a-6d6e225e04ce"
+Template: "475a5bbd-3a5a-47cc-a65d-c1b1ac5773f0"
+Path: /sitecore/templates/Foundation/Import/Branches/OutputMap/$name/Fields
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T150106Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T150106Z

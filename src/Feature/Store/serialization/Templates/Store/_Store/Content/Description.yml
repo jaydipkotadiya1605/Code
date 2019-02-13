@@ -1,0 +1,25 @@
+﻿---
+ID: "842869b0-46f9-4b25-8b3f-ec7ce1d6c8e6"
+Parent: "3ba367ee-c1d4-4ca6-a7ac-b59efc053b68"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Store/_Store/Content/Description
+DB: master
+SharedFields:
+- ID: "9c903e29-650d-4af2-b9bd-526d5c14a1a5"
+  Hint: Validator Bar
+  Type: tree list
+  Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 350
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T042724Z

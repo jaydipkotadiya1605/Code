@@ -1,0 +1,9 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Theming.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<section class="container @Model.Rendering.GetSectionClass()">
+    @Html.Sitecore().DynamicPlaceholder("header-sub-layout", Model.Rendering.GetUseStaticPlaceholderNames())
+    @Html.Sitecore().DynamicPlaceholder("column", Model.Rendering.GetUseStaticPlaceholderNames())
+</section>
+@Html.Sitecore().DynamicPlaceholder("section", Model.Rendering.GetUseStaticPlaceholderNames())

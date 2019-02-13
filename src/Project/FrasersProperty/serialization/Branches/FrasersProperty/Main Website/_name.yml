@@ -1,0 +1,18 @@
+﻿---
+ID: "fb446317-67a9-44fc-864e-8a3186cf6c92"
+Parent: "4b62ffac-53c9-430d-8855-ef1e076a6aa9"
+Template: "3c7f4f00-8981-4532-8ea8-8e6b05621911"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T033831Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

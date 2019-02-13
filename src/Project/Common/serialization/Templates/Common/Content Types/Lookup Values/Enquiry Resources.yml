@@ -1,0 +1,28 @@
+﻿---
+ID: "5b2c6c77-d101-4d64-9030-a55e8a7f4232"
+Parent: "4a972157-de96-441a-a965-5f94b5cf738d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Lookup Values/Enquiry Resources
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: ApplicationsV2/16x16/scroll.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {35B1AD85-AD0B-4DF9-A3FD-79CCC63585A1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T070025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "88487015-5298-4d17-9792-c590159d5363"
+Parent: "b5979aea-e416-4d3d-b403-e55a016fb2d4"
+Template: "b5979aea-e416-4d3d-b403-e55a016fb2d4"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_PageStyle/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180716T110839Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

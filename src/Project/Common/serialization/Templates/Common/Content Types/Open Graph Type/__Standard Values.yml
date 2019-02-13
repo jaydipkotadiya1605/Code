@@ -1,0 +1,21 @@
+﻿---
+ID: "c0c2a426-4d30-4435-acd8-80c3ef5ea92c"
+Parent: "36a8e330-1161-40a3-bf45-5991b9655822"
+Template: "36a8e330-1161-40a3-bf45-5991b9655822"
+Path: /sitecore/templates/Project/Common/Content Types/Open Graph Type/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080525Z
+    - ID: "2dd9234b-6dbf-47e2-a0d8-802930c499f7"
+      Hint: Name
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

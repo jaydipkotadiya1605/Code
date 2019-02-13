@@ -1,0 +1,14 @@
+﻿---
+ID: "f3d0488a-36b4-43dc-8991-969b06df75a7"
+Parent: "207b1f0d-fcf2-4f86-b270-a20fd012ceb8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Validation Rules/Field Rules/Multisite
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180723T035944Z

@@ -1,0 +1,14 @@
+﻿@using Sitecore.Feature.Search
+@using Sitecore.Foundation.Dictionary.Extensions
+
+<div class="row searchbar">
+    <div class="col col-2 close">
+        <a href="#" onclick="closeSearch()"><img src="@Url.Content("~/images/assets/icon-x.svg")" alt="@Html.Sitecore().Dictionary(Constants.CloseButton, Constants.CloseButtonText)" /></a>
+    </div>
+    <div class="col col-8 textfield">
+        <input type="text" placeholder="@Html.Sitecore().Dictionary(Constants.ShortSearchPlaceholder, Constants.ShortSearchPlaceholderText)">
+    </div>
+    <div class="col col-2 search-icon">
+        <a href="javascript:void(0)" title="@Html.Sitecore().Dictionary(Constants.SearchButton, Constants.SearchButtonText)"><img src="@Url.Content("~/images/assets/icon-search.svg")" alt="@Html.Sitecore().Dictionary(Constants.SearchButton, Constants.SearchButtonText)" /></a>
+    </div>
+</div>

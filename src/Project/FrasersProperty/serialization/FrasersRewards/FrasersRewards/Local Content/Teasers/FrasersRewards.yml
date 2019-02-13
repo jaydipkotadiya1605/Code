@@ -1,0 +1,32 @@
+﻿---
+ID: "7b513299-9126-4e04-a5ac-207d7f320886"
+Parent: "7a06f085-4707-41e4-8559-59524083ee73"
+Template: "f9cfcf6c-8ca9-4ea7-b3bc-7b0482fc98ac"
+Path: /sitecore/content/FrasersRewards/Local Content/Teasers/FrasersRewards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T064407Z
+    - ID: "38afafec-80ba-49eb-a17d-b3fc29659a2c"
+      Hint: Teaser Link
+      Value: |
+        <link id="{58DDA147-527C-45F6-948E-3A7F925BA5BD}" querystring="" text="" anchor="" url="/FrasersRewards/Home/Benefits/Overview" title="" class="" linktype="internal" />
+    - ID: "4a56287d-18ac-48db-b825-8be11400af1a"
+      Hint: Teaser Image
+      Value: |
+        <image mediaid="{E506919F-3C05-4195-89C1-D951ECB61B04}" alt="Frasers Reward" height="38" width="208" hspace="" vspace=""></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6eb20209-0617-4a8b-a56d-8b9d3732a027"
+      Hint: Teaser Summary
+      Value: "Tap into a world of instant rewards and convenient services with the Frasers Experience (FRx) app. With FRx, you can earn Frasers Points, pay in-store, redeem rewards, book events & facilities, make reservations and more - all from your phone."
+    - ID: "9c054856-f0e7-44d3-adb5-5d8447fd5959"
+      Hint: Teaser Title
+      Value: FrasersRewards

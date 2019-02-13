@@ -1,0 +1,39 @@
+﻿---
+ID: "8dc3d1ae-bd9d-424b-ac3a-609e6785f693"
+Parent: "5e94d7cc-8523-431b-9a2c-50cbc0b06ab0"
+Template: "6620fa0a-49e6-4cae-8872-395425075dc8"
+Path: /sitecore/content/FrasersRewards/Local Content/Events/2018 Renault Sport F1 Showcase
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "004bc4ae-0aad-47bf-b18b-c75cfa9364c8"
+      Hint: Title
+      Value: 2018 Renault Sport F1
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{428C52DB-B533-4FC0-90C4-ECBC7216F7F2}"
+              s:par="Link to List Page={C7EE9398-E702-4B77-8305-5A2E2F1A37E3}&amp;Number of Scores=5" />
+            <r
+              uid="{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}"
+              s:par="SearchResultPage={5E813DC6-9468-4D2D-ADE3-1346902817FD}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20190130T084538:636844347389014866Z"
+    - ID: "81b58390-e8e1-4de1-830b-d3552abe445e"
+      Hint: Description
+      Value: |
+        <div id="cke_pastebin" style="color: #333333;"><span>Discover the pinnacle of motorsport engineering with Renault Sport Formula OneTM&nbsp;Team's prototype car and engage with RENAULT and INFINITI's dynamic range on display.</span></div><div id="cke_pastebin" style="color: #333333;"><span><br /></span></div><div id="cke_pastebin" style="color: #333333;"><span>Immerse yourself in a range of exhilarating activities including the Virtual Reality Pit-stop Challenge and miniature F1TMpedal car racetrack for children, whilst capturing all the excitement at the GIF photo booth.</span></div><div id="cke_pastebin" style="color: #333333;"><span><br /></span></div><div id="cke_pastebin" style="color: #333333;"><span>This is an event not to be missed!</span></div><div id="cke_pastebin" style="color: #333333;"><span><br /></span></div><div id="cke_pastebin" style="color: #333333;"><span>*All information is correct at the time of updating the website and subject to change without prior notice. Visit Customer Service Counter, Level 2 (North Wing) for more information.</span></div>
+    - ID: "db364bb7-9f54-4264-a25f-3b184fb7d089"
+      Hint: Summary
+      Value: Northpoint City, Level 1, North and South Atriums10 to 16 September 201810am to 10pm

@@ -1,0 +1,25 @@
+﻿---
+ID: "24efebaf-9644-4ab1-bdef-6a07376e4508"
+Parent: "5aff6c08-109b-4b6e-80d5-b640d600820e"
+Template: "5aff6c08-109b-4b6e-80d5-b640d600820e"
+Path: /sitecore/templates/Project/Common/Content Types/Folders/Enquiry Resources Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180731T043815Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

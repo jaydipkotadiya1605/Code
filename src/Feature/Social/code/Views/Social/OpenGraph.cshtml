@@ -1,0 +1,12 @@
+﻿@using Sitecore.Feature.Social.Models
+
+@model OpenGraphMetadata
+
+@if (Model != null)
+{
+    <meta property="og:title" content="@Model.Title" />
+    <meta property="og:image" content="@Model.ImageUrl" />
+    <meta property="og:description" content="@Model.Description" />
+    <meta property="og:url" content="@Model.ItemUrl" />
+    <meta property="og:type" content="@Model.Type" />
+} 

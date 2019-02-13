@@ -1,0 +1,17 @@
+﻿---
+ID: "1ca1cdd5-2ffc-4221-a076-451862e54143"
+Parent: "a114a69e-c60b-4b14-933d-50620d9dccae"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Search/Short Search Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T102108Z
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Search for ...

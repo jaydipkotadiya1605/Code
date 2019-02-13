@@ -1,0 +1,106 @@
+﻿---
+ID: "60eae922-c544-4719-9261-b428a06ee370"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/TermsOfUse
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Terms Of Use
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T044546Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: "{4C4E8FCD-AED7-4142-BFD3-B9B54465329C}"
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <p>This Web Site (which bears the domain name "www.frasersrewards.com") is owned managed and/or operated by Frasers Property Management Services Pte Ltd ("FPMS"). Please note that access to and the use of any information, services or materials including text, graphics, links or other items found on this Web Site is subject to the terms and conditions set out below (the "Terms of Use").</p>
+        <p>By accessing or using this Web Site, you acknowledge your agreement to be bound by the Terms of Use. If you do not agree to be bound by the Terms of Use, please do not use this Web Site.</p>
+        <h2 class="grey">General</h2>
+        <br />
+        <p>Information and data found in or published by this Web Site (the "Content") is derived from sources FPMS considers to be reliable. FPMS may also provide certain services through this Web Site (the "Services"). However, FPMS does not:</p>
+        <ol class="alpha">
+            <li>warrant the accuracy, reliability, correctness or completeness of the Content;</li>
+            <li>make or give any express or implied representation, warranty or condition, as to the results to be attained from the use of the Content or the Services;</li>
+            <li>make or give any representation, warranty or condition that the Content, the Services or Web Site will meet your requirements, or will be uninterrupted, timely, secure, or error free;</li>
+            <li>make or give any warranty or condition that defects in any software utilised or provided in conjunction with this Web Site will be corrected;</li>
+            <li>make or give any express or implied representations, warranties or conditions of merchantability, satisfactory quality or fitness for a particular purpose or use with regard to the Content, the Services or this Web Site.</li>
+        </ol>
+        <br />
+        <p>Except as set out herein, all warranties, representations or conditions, whether express or implied, are hereby excluded. FPMS expressly disclaims any liability for errors or omissions in connection with the Content, the Services or this Web Site.</p>
+        <p>
+        </p>
+        <h2 class="grey">Intellectual Property</h2>
+        <br />
+        <p>All intellectual property rights (including copyrights, trade marks and other similar rights) to all materials and information (including pictures, graphics, text, page headers, buttons, images, animated pictures and sound) found in or published by this Web Site are owned by or licensed to FPMS, its service providers and/or professional advisors. Save as provided below, you may not reproduce, retransmit, disseminate, sell, distribute, publish, broadcast, circulate or commercially exploit any part of this Web Site or the Content in any manner without the express written consent of FPMS.</p>
+        <p>You also acknowledge that this Web Site, including but not limited to the text, content, photographs, video, audio and graphics thereon, has been specially designed by FPMS for presentation in a unique format and appearance (collectively "Look and Feel"), and that such Look and Feel is the subject of copyright or other applicable moral or intellectual property rights.</p>
+        <p>Permission is granted to electronically copy and/or print hard copies of pages from this Web Site solely for your own personal non-commercial purposes only. Any other use of this Web Site or the Content is strictly prohibited, unless the written permission of FPMS is first obtained in writing.</p>
+        <h2 class="grey">Restrictions on Deep Linking and Framing Activities</h2>
+        <br />
+        <p>FPMS is concerned about the integrity of this Web Site when it is accessed in a manner solely determined by third parties or viewed in a setting solely created by third parties. Specifically, FPMS is concerned with activities such as linking to an internal or subsidiary page of this Web Site that is located one or several levels down from the home page of this Web Site ("Deep Linking") and incorporating any part of this Web Site as part of your own web page ("Framing"). In this regard, without limiting the provisions contained herein, you must make a specific request for, and secure permission from, FPMS prior to Deep Linking to, or Framing, any part of this Web Site or the Content, or engaging in similar activities. Deep Linking to or Framing any part of this Web Site or the Content may only be carried out if you have obtained express prior written permission from FPMS.</p>
+        <h2 class="grey">Responsibility For Transmission and Use of Web Site</h2>
+        <br />
+        <p>You are solely responsible for the content of any of your transmissions through this Web Site. Your use of this Web Site is subject to all applicable laws and regulations (whether having the force of law or not), and you agree that you shall:</p>
+        <ol class="alpha">
+            <li>not use this Web-site, the Content or the Services for illegal purposes;</li>
+            <li>not interfere with or disrupt computer networks or systems connected to, supporting or hosting this Web Site;</li>
+            <li>comply with all regulations, policies and procedures of networks connected to or which may be hosting this Web Site</li>
+        </ol>
+        <br />
+        <p>You cannot use this Web Site or the Services for transmitting any unlawful, harassing, libellious, abusive, threatening, harmful, vulgar, obscene or otherwise objectionable material of any kind or nature. You are also prohibited from transmitting any material that encourages conduct that could constitute a criminal offence, give rise to civil liability or otherwise violate any applicable law or regulation.</p>
+        <p>You also may not take any action that imposes an unreasonable or disproportionately large load on this Web Site or the Services or its associated infrastructure (including any computers supporting this Web Site or the Services).</p>
+        <h2 class="grey">Links To Other Web Sites</h2>
+        <br />
+        <p>FPMS makes no warranties about any other web site you may access directly or indirectly via this Web Site. Any such web site is independent from this Web Site, and FPMS has no control over, or responsibility with respect to the information provided or activities undertaken by any such web site. A link between this Web Site and another web site does not mean that FPMS endorses that web site. You should make your own independent decision regarding interactions or communications with any web site.</p>
+        <h2 class="grey">Forums/Messaging Services</h2>
+        <br />
+        <p>In providing any electronic discussion forum, chat room, bulletin board or messaging service via this Web Site, FPMS is acting only as a conduit for the expression by clients of FPMS and/or members of the public, of opinions and/or information. FPMS has no control over the opinions or information that may be transmitted or published via any such electronic discussion forum, chat room, bulletin board or messaging service and FPMS disclaims all liability for all such opinions or information (whether expressed or implied).</p>
+        <h2 class="grey">Software</h2>
+        <br />
+        <p>In order to access or use the Web Site, the Content or the Services, you may have to install certain computer programs or software plug-ins (such as java applets), which may be licensed or provided to you by third parties or by ourselves, into your computer system or other equipment (the "Software"). Where the Software is provided by FPMS, FPMS grants you a non-exclusive and non-transferable license to use the Software provided that you are permitted only to: (a) load the Software into and use it on a single computer which is under your control; and (b) use the Software for private and personal purposes only. Notwithstanding that we may state that the Software is necessary to access or use the Web Site, the Content or the Services, we make no warranty of merchantability, satisfactory quality or fitness for any particular purpose with respect to the Software or source of the Software, or that the Software or source of the Software is free of defects or computer virus.</p>
+        <h2 class="grey">Risks</h2>
+        <br />
+        <p>Due to the nature of the Internet, you must acknowledge and accept the risks of the possibility of: (a) unauthorised copying, amendment, recording or reading of or interference with messages or this Web Site by third parties; (b) delay in or inability to access or use this Web Site due to any hardware, software, system or connection failure, error, omission, interruption, delay in transmission or computer virus; and (c) loss of data or information that may occur due to any cause whatsoever, including any failure of any electrical, electronic, computer, microprocessor, recording or communication system of FPMS or any other party, and you release FPMS from any claim which you may have as a result of your assuming such risks.</p>
+        <h2 class="grey">Governing Law and Jurisdiction</h2>
+        <br />
+        The Terms of Use is governed by and shall be construed in accordance with the laws of the Republic of Singapore and you hereby consent to submit to the non-exclusive jurisdiction of the Singapore Courts.
+        <p>&nbsp;</p>
+        <p>
+        </p>
+        <h2 class="grey">Frasers Property Singapore Web Site Privacy Policy</h2>
+        <br />
+        <p>The following describes the privacy policy of FPMS Management Services Pte Ltd ("FPMS") for information received from or about you during visits to the Frasers Property Singapore Web Site (the "Web Site").</p>
+        <p>The amount and type of information received depends on how you use the Web Site. FPMS may collect and store information during normal Web Site usage such as the name of your internet access service provider, the other web sites that referred you to the Web Site, the pages you request, and the date and time of those requests.</p>
+        <p>FPMS may use this information to generate statistics and measure site activity to improve the usefulness of customer visits.</p>
+        <p>During normal usage of the Web Site, FPMS does not collect or store information that will individually identify you (such as name, mailing address, e-mail address or phone number).</p>
+        <p>However, FPMS may request such information to provide you with a service or correspondence (such as the Gift Registry Service and promotional material). Such information (including your name, mailing address, e-mail address, type of request or other information) is collected, stored and used in a manner appropriate to the nature of your request and is used to fulfill it.</p>
+        <p>Information you provide to FPMS is used to improve the services we provide you or for the development of its business and is not provided to any unrelated company for that company's independent use.</p>
+        <p>If you decide without request by FPMS, to send it information that will identify you, for example in a message containing comments about this web site or otherwise, FPMS will use such information to identify you but will not generally use it except to address or resolve the matter identified in your message. If FPMS changes this privacy policy, the revised policy will be posted on the web site and only apply to data collected after the effective date of the revised policy. Your continued use of this web site following any new policy that is posted will be deemed your conclusive acceptance of the modified policy.</p>
+        <p>Please also do take note of the Terms of Use of the Web Site.</p>
+        <p>© Frasers Property Singapore</p>
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: "4C4E8FCDAED74142BFD3B9B54465329C=A56C9B37-6DB4-4F5A-ACF6-D34F1A5AE4D9"

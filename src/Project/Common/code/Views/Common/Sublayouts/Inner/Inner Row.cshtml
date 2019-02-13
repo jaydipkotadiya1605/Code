@@ -1,0 +1,6 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Theming.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+<div class="row @Model.Rendering.GetRowClass()">
+    @Html.Sitecore().DynamicPlaceholder("inner-row", Model.Rendering.GetUseStaticPlaceholderNames())
+</div>

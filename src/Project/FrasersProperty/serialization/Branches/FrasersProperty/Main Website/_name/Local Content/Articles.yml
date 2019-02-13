@@ -1,0 +1,18 @@
+﻿---
+ID: "43c8defc-e103-4fdc-bc68-e9c056044d56"
+Parent: "b55ca9f4-39cf-4a78-b8dd-9e158f2051e1"
+Template: "24c25159-9565-4b90-8583-18ca41e1932b"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Local Content/Articles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T041519Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

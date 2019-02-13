@@ -1,0 +1,74 @@
+﻿---
+ID: "c3245969-b502-4800-badd-c8521cb2097d"
+Parent: "ee98da5f-d626-4d70-b004-1ba7a37074dd"
+Template: "3c8bd8a1-280b-4278-bb8b-21fa3b87af0f"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Toolbar 2/Justify Full
+DB: core
+BranchID: "b9ed3ccb-9ec5-4c8c-825b-3dbc2eb0e676"
+SharedFields:
+- ID: "7cf6da87-047d-447d-99e9-d1e355330db3"
+  Hint: Click
+  Value: JustifyFull
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: da
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Anvend lige margener
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T125653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Vollständig ausrichten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T130619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20060130T125611
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125611
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 両端揃え
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170407T131306Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

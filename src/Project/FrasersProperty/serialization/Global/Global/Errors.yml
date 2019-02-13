@@ -1,0 +1,24 @@
+﻿---
+ID: "fff30a2a-7147-4c9d-ad2d-4198479893b0"
+Parent: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Global/Errors
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/about.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {5E6ECE62-0357-40D5-A11E-06C577D9CB6A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T040111Z

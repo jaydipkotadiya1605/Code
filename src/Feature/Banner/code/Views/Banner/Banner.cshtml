@@ -1,0 +1,51 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Dictionary.Extensions
+@using System.Web.Script.Serialization
+@model Sitecore.Feature.Banner.Models.BannerItems
+@{
+    var jsonData = new JavaScriptSerializer().Serialize(Model.MiniItems);
+    var containerClass = string.Empty;
+    if (!Sitecore.Context.PageMode.IsExperienceEditor && !Sitecore.Context.PageMode.IsExperienceEditorEditing)
+    {
+        containerClass = "slides";
+    }
+}
+
+<div class="row">
+    @if (Model?.Items != null && Model.Items.Count > 0)
+    {
+        <div class="col col-md-8 @containerClass">
+            @foreach (var bannerItem in Model.Items)
+            {
+                <div>
+                    <a href="@bannerItem.Link">@Html.Sitecore().ImageField(Sitecore.Foundation.FrasersContent.Templates.Banner.Fields.Image, bannerItem.Item, cssClass: "d-none d-md-block", disableWebEditing: true)</a>
+                    <a href="@bannerItem.Link">@Html.Sitecore().ImageField(Sitecore.Foundation.FrasersContent.Templates.Banner.Fields.MobileImage, bannerItem.Item, cssClass: "d-block d-md-none", disableWebEditing: true)</a>
+                </div>
+                if (string.IsNullOrEmpty(containerClass))
+                {
+                    break;
+                }
+            }
+        </div>
+        <div class="col col-md-4 panel">
+            <div class="category">@Model.Items[0].Category</div>
+            <div class="title">@Model.Items[0].Title</div>
+            <a href="@Model.Items[0].Link" class="more rightarrow">@Html.Sitecore().Dictionary("/Website/Read More", "Read More")</a>
+        </div>
+        @Html.Hidden("jsonData", jsonData)
+    }
+    else
+    {
+        <div class="col col-md-8">
+            @Html.Sitecore().Dictionary("/Website/No Data Found", "No Data Found")
+        </div>
+    }
+</div>
+
+@if (!Sitecore.Context.PageMode.IsExperienceEditor && !Sitecore.Context.PageMode.IsExperienceEditorEditing)
+{
+    <script type="text/javascript">
+        if (typeof jsonData !== "undefined")
+            var sliderData = JSON.parse(jsonData.value);
+    </script>
+}

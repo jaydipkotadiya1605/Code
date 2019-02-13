@@ -1,0 +1,13 @@
+﻿@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Dictionary.Extensions
+
+@model Sitecore.Feature.Store.Models.StoreQuicFinderViewModel
+
+<section class="store-finder" id="storeQuickFinder">
+    <h1>@Html.Sitecore().Dictionary(Constants.StoreQuickFinder, Constants.StoreQuickFinderText)</h1>
+    <div class="searchbar clearfix">
+        <input type="hidden" id="searchResultPageUrl" value="@Model.SearchResultPageUrl" />
+        <input id="keyword" name="keyword" type="text" placeholder="@Html.Sitecore().Dictionary(Constants.SearchStore, Constants.SearchStoreText)">
+        <a href="javascript:void(0)" class="btn @(Sitecore.Context.PageMode.IsExperienceEditor ? "disabled" : "" )" id="btnStoreSearch">@Html.Sitecore().Dictionary(Constants.Search, Constants.SearchText)</a>
+    </div>
+</section>

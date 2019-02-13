@@ -1,0 +1,14 @@
+﻿---
+ID: "bdcec77e-c65d-4f9c-bbc9-625409bb200e"
+Parent: "84f57772-978b-4262-a88c-19e021500d06"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_RowStyle/Row Style
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T024928Z

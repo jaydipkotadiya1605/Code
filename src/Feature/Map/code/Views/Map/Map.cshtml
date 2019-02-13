@@ -1,0 +1,17 @@
+﻿@model Sitecore.Feature.Map.Models.MapLocation
+
+@if (Model == null)
+{
+    return;
+}
+@{
+    var parameter = $"q={string.Join("+", Model.ShopName.ToLower().Split(' '))}&sll={Model.Lattitude},{Model.Longitude}";
+    var url = "https://maps.google.com/maps?" + parameter +"&output=embed";
+}
+<!-- map -->
+<section class="container map">
+    <div class="col">
+        <iframe src="@url" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+</section>
+<!-- /map -->

@@ -1,0 +1,22 @@
+﻿---
+ID: "da8b305b-371a-4382-9518-8b413ca0334c"
+Parent: "46e50272-089f-4fd4-8ad2-d04352ea2cb1"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/2nd/Frasers Experience
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Frasers Experience" anchor="" linktype="internal" class="" title="Frasers Experience" target="" querystring="" id="{BDB3F10B-7817-4647-9EE2-8498E5319A2C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T091624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,20 @@
+﻿---
+ID: "84aeed92-d25d-4b1f-a18c-7e1987ce47d6"
+Parent: "1b0ef765-75fb-47c0-8a79-566476bbfe99"
+Template: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Path: /sitecore/system/Modules/Importer/Options/InvalidLinkHandling/Skip
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T224514Z
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: Skip
+    - ID: "b5cbae6f-b934-4d25-b231-9373a6f7e3af"
+      Hint: HelpText
+      Value: Skips updating of the field if the link item is not found

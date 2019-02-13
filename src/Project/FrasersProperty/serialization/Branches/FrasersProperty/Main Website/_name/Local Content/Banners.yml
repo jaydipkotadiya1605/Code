@@ -1,0 +1,18 @@
+﻿---
+ID: "611b1ae0-7b98-44d0-85df-34f5b26a2864"
+Parent: "b55ca9f4-39cf-4a78-b8dd-9e158f2051e1"
+Template: "d668aad6-791c-4db0-ab9f-d78b182b569a"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Local Content/Banners
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T041510Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

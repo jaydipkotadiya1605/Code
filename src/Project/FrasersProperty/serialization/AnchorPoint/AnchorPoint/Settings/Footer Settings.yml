@@ -1,0 +1,14 @@
+﻿---
+ID: "572fd91d-1560-4a9b-8f63-9393b397a2e8"
+Parent: "019f8634-a79c-4724-ac41-80e3ed317a81"
+Template: "06bf4651-240d-4dca-9830-ce4bc82782f6"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T071553Z

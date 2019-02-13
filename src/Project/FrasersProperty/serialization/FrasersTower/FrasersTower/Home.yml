@@ -1,0 +1,18 @@
+﻿---
+ID: "eab811ad-2bdd-40c7-a452-00b953d240b0"
+Parent: "71a88e3c-6cad-4281-8918-9ca5b93e97cf"
+Template: "8d91ac70-349c-48e6-8b9a-3d56723edcc5"
+Path: /sitecore/content/FrasersTower/Home
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030958Z

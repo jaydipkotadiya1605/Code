@@ -1,0 +1,21 @@
+﻿---
+ID: "882a17a4-f1a1-4f7a-929a-43b2f0e107c1"
+Parent: "f095ad2d-63d8-4ed5-b4aa-c47193a3a0e8"
+Template: "f095ad2d-63d8-4ed5-b4aa-c47193a3a0e8"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_Widget/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T062630Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d2ecf52f-5681-415c-a0db-25ee880b66bd"
+      Hint: Number of Scores
+      Value: 5

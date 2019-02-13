@@ -1,0 +1,75 @@
+﻿@using Sitecore.Feature.Contact.Model
+@using Sitecore.Feature.Contact.Extensions
+@using Sitecore.Feature.Contact
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Dictionary.Extensions
+@using FrasersContent = Sitecore.Foundation.FrasersContent;
+@model  ContactFormVm
+@{
+    string status = Request.Params["status"];
+    string apiCapchaKey = Model.PageItem.Fields[FrasersContent.Templates.ContactFormMainSite.Fields.GoogleCapchaPublicKey].Value;
+}
+
+<div class="heading">
+    @Html.Sitecore().Field(FrasersContent.Templates.ContactFormMainSite.Fields.ContactPageTitle, Model.PageItem)
+    <div class="subtitle">@Html.Sitecore().Field(FrasersContent.Templates.ContactFormMainSite.Fields.ContactPageSubTitle, Model.PageItem)</div>
+    <div class="note">@Html.Sitecore().Dictionary("/Website/ContactPage/Messages/RequireField", "* Denotes required field")</div>
+</div>
+@using (Html.BeginRouteForm(Sitecore.Mvc.Configuration.MvcSettings.SitecoreRouteName, FormMethod.Post, new { novalidate = "novalidate", @class = "contactform", encType = "multipart/form-data" }))
+{
+    @Html.Sitecore().FormHandler("Contact", "Submit")
+    if (Model != null && ViewData["Status"] != null)
+    {
+        if (ViewData["Status"].Equals(Status.Error))
+        {
+            <div class="submit-status" style="background-color:red; display: block;">
+                @Html.SummaryServerError(ViewData.ModelState)
+            </div>
+        }
+    }
+    if (status != null && status.Equals(Status.Success.ToString()))
+    {
+        <div class="submit-status" style="display: block;">
+            @Html.Sitecore().Dictionary("/Website/ContactPage/Messages/Thank you message", "Thank you for your submission. We will get back to you as soon as we can.")
+        </div>
+    }
+    <section class="personal-info">
+        <div class="item">
+            <label for="name">@Html.Sitecore().Dictionary("/Website/ContactPage/Fields/Name", "Name*")</label>
+            @Html.LowerTextBoxFor(m => m.Name, Html.Sitecore().Dictionary("/Website/ContactPage/PlaceHolderMessages/Enter your name", "Enter your name"))
+            @Html.ValidationMessageFor(m => m.Name)
+        </div>
+        <div class="item">
+            <label for="email">@Html.Sitecore().Dictionary("/Website/ContactPage/Fields/Email", "Email*")</label>
+            @Html.LowerTextBoxFor(m => m.Email, Html.Sitecore().Dictionary("/Website/ContactPage/PlaceHolderMessages/Enter your email address", "Enter your email address"))
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+        <div class="item">
+            <label for="contactno">@Html.Sitecore().Dictionary("/Website/ContactPage/Fields/Contact Number", "Contact Number*")</label>
+            @Html.LowerTextBoxFor(m => m.ContactNo, Html.Sitecore().Dictionary("/Website/ContactPage/PlaceHolderMessages/Enter your contact number", "Enter your contact number"))
+            @Html.ValidationMessageFor(m => m.ContactNo)
+        </div>
+    </section>
+    <section class="general-enquiry">
+        <div class="item">
+            <label for="message">@Html.Sitecore().Dictionary("/Website/ContactPage/Fields/Your Message", "Your Message*")</label>
+            @Html.LowerTextAreaFor(m => m.Message)
+            @Html.ValidationMessageFor(m => m.Message)
+        </div>
+    </section>
+    <section class="last-steps">
+        <div class="item file-upload">
+            <label>@Html.Sitecore().Dictionary("/Website/ContactPage/Fields/Upload Supporting Documents", "Upload Supporting Documents")</label>
+            <p>@Html.Sitecore().Dictionary("/Website/ContactPage/Messages/Upload File", "Attach any relevant documents such as photos or documents here. We accept any .pdf, .doc, .docx, .jpg, .jpeg and .png files. Maximum file size is 5 mb.")</p>
+            @Html.TextBoxFor(m => m.UploadFile, new { type = "file", name = "UploadFile", id = "fileupload", accept = ".pdf,.doc,.docx,.jpg, .jpeg, .png" })
+            <div class="error">@Html.ValidationMessageFor(m => m.UploadFile)</div>
+        </div>
+        <div class="item">
+            <div class="g-recaptcha" data-sitekey="@apiCapchaKey"></div>
+        </div>
+        <div class="item">
+            <input type="submit" class="btn">
+        </div>
+    </section>
+    @Html.AntiForgeryToken()
+}

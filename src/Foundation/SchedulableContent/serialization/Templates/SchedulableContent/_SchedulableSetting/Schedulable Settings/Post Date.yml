@@ -1,0 +1,21 @@
+﻿---
+ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+Parent: "66b1fc0c-3cd8-4ad3-8b64-d73ef74b5963"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/SchedulableContent/_SchedulableSetting/Schedulable Settings/Post Date
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Datetime
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T035928Z

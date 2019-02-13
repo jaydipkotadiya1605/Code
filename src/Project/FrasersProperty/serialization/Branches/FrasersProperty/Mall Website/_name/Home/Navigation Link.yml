@@ -1,0 +1,17 @@
+﻿---
+ID: "a7c84baa-affd-4977-9d4a-f8aa0d129c69"
+Parent: "7e8ffd14-51be-487b-b1eb-d584e6967915"
+Template: "8f0cbbf0-73d3-4cc1-97d3-45df9a2ff358"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Home/Navigation Link
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T071605Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Navigation Link

@@ -1,0 +1,31 @@
+﻿@using Sitecore.Foundation.Device.Repositories
+@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Feature.Store
+@model IEnumerable<Sitecore.Feature.Store.Models.StoreOfferViewModel>
+
+@if (Model == null)
+{
+    return;
+}
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+    int index = 0;
+}
+
+<section id="store-offer" class="@(isMobileMode ? "legend" : "")">
+    @if (isMobileMode)
+    {
+        <h1>
+            @Html.Sitecore().Dictionary(Constants.MoreFilters, Constants.MoreFiltersText)
+        </h1>
+    }
+    @foreach (var offer in @Model)
+    {
+        index++;
+        <div class="item small-icon @offer.IconCssClass" data-id="@offer.Id">@offer.Name</div>
+        if (isMobileMode && index > 0 && (index % 2) == 0)
+         {
+             <hr />
+         }
+    }
+</section>

@@ -1,0 +1,25 @@
+﻿---
+ID: "9b7f71dc-d008-446c-b817-713c835455ac"
+Parent: "80613302-4491-404e-8374-27b8567c805e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_PageStyle/Style/Css Page Class
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/content/Global/Style Folder/*[@@templatename='Style']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180716T110627Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,27 @@
+﻿---
+ID: "66d95284-43f6-46b7-950d-1ce4ef64d772"
+Parent: "9b942860-4a32-407b-9d57-1bbfd94e5873"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Store/Alphabet
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/spellcheck2.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {5D1F33F2-D893-4EC6-8177-8C284C9740DA}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B0E4FAF2-B8D9-4E96-A6DF-2FC99BF1B8EC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T090945Z

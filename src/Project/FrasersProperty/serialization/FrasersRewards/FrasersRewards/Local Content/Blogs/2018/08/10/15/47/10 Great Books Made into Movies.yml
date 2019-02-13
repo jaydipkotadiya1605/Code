@@ -1,0 +1,114 @@
+﻿---
+ID: "c730e895-0be2-4a0c-ad9f-5e0b62cbc63d"
+Parent: "a94c5aa6-81dc-4eea-89f2-7df59809536b"
+Template: "9b2e84ce-c0f2-4acd-8282-74ed1b293c19"
+Path: /sitecore/content/FrasersRewards/Local Content/Blogs/2018/08/10/15/47/10 Great Books Made into Movies
+DB: master
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Type: Checkbox
+  Value: 0
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{A085BED3-74A3-4317-BB5D-27D21AF7FC93}"
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: 
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T072925Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: 10 Great Books Made into Movies
+    - ID: "594cbb70-cc6f-4b29-a55b-fba6b1c548fd"
+      Hint: Category
+      Type: Multilist
+      Value: |
+        {FEE99FC4-4FD2-49AF-A614-BA50F398BDC9}
+        {BBE8B5E9-CE9B-4190-9D39-082A92DB3483}
+        {FCA062FA-C991-493F-A448-42D3A3CF40BC}
+        {3B859A40-A2F7-4E0C-8945-7A4BD7147055}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6704aa4e-bfc7-4161-8787-87983d71e9f6"
+      Hint: Body
+      Value: |
+        <p>Ever made a resolution to read more but gave up in Chapter 1? Don&rsquo;t worry, you&rsquo;re not alone! Reading can seem daunting, but it can be really fun! With much of the movie magic this year inspired by and adapted from books, now&rsquo;s the best time to delve into books and discover the stories that made your favourite films! Here&rsquo;s a look at a few books made into movies this year, plus one remarkable title that inspired a film about its author&rsquo;s life. We&rsquo;ve also got recommendations on other fantastic reads that have been adapted for the big screen, so read on to find out what they are!</p>
+        <h4><strong>Recent Cinematic Releases</strong></h4>
+        <p><strong>1.</strong>&nbsp;<strong><em>The Guernsey Literary &amp; Potato Peel Pie Society</em> by Mary Ann Shaffer &amp; Annie Barrows</strong>If its quirky title isn&rsquo;t enough to hook you, then its premise just might. Set in post-WWII Britain, this novel is written as a series of letters between Juliet Ashton, a young author in 1946 London, and members of a book-club living in Guernsey island that&rsquo;s situated between France and England. Intrigued by their lives during the Nazi occupation, Juliet visits the island and finds friendship and romance there. Through the epistolary form, this best-selling novel will transport you intimately to the worlds of each character. And though set in a grim wartime backdrop, its delightful prose and rich characters will have you fall more in love with literature. Its film adaptation was released recently, starring the alluring Lily James.</p>
+        <a href="https://www.popular.com.sg/the-guernsey-literary-and-potato-peel-pie-society-6545202.html"><em>The Guernsey Literary &amp; Potato Peel Pie Society</em></a> available at POPULAR Bookstore at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=3607">Causeway Point</a>, <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=6025">Eastpoint Mall</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4133">Northpoint City</a>.
+        <p>Catch <em>The Guernsey Literary &amp; Potato Peel Pie Society </em>now in theatres.</p>
+        <p><iframe src="https://www.youtube.com/embed/gG0Z7dNzKc4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+        <p><strong>2.</strong>&nbsp;<strong>&ldquo;How to Talk to Girls at Parties&rdquo; from <em>Fragile Things</em> by Neil Gaiman</strong>Nominated for the Hugo Award in 2007 for Best Short Story, &ldquo;How to Talk to Girls at Parties&rdquo; is a sci-fi story set in the punk era of the 1970s. Teenagers Vic and Enn end up at a bizarre party, where they discover a beautiful group of women who turn out to be other-worldly creatures. Although the premise sounds simple, it is a poetic piece infused with Gaiman&rsquo;s sharp characterization and dry humour. The other stories in <em>Fragile Things</em> are also full of imagination, comedy and terror, making this book an extraordinary ride. The film, <em>How to Talk to Girls at Parties</em> stars a whimsical-looking Elle Fanning and features a more upbeat interpretation of the story. Grab the book and catch the movie soon to decide which you prefer!</p>
+        <a href="https://www.popular.com.sg/fragile-things-short-fictions-and-wonders-2897507.html"><em>Fragile Things</em></a> available at POPULAR Bookstore at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=3607">Causeway Point</a>, <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=6025">Eastpoint Mall</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4133">Northpoint City</a>.
+        <p>Catch <em>How to Talk to Girls at Parties</em> now in theatres.</p>
+        <p><iframe src="https://www.youtube.com/embed/nWzHaRM8jeo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+        <p><strong>3.&nbsp;<em>Frankenstein</em> by Mary Shelley</strong></p>
+        <p>Would you believe that literature&rsquo;s most iconic monster was created by an 18-year-old girl?</p>
+        <p>While we may be more familiar with the green-skinned creature and its maker Victor Frankenstein, what&rsquo;s more remarkable is the gutsy woman behind this famed figure of fear. In 1816, Shelley started this book out of a dare by fellow writer Lord Byron, and published it two years later when she was just 20. If you haven&rsquo;t read this gothic-horror, we guarantee you&rsquo;d be devouring this haunting and enduring work.</p>
+        <p>Although <em>Frankenstein</em> is considered by some as the pioneering science-fiction novel, Shelley&rsquo;s personal life was full of drama and tragedy. Experience the author&rsquo;s trials in the film <em>Mary Shelley,</em> with Elle Fanning also as the leading lady. Here, she plays the unstoppable genius defying social conventions to produce one of the world&rsquo;s most terrifying tales.</p>
+        <p><em>Frankenstein</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4353">The Centrepoint</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p>Catch <em>Mary Shelley</em> now in theatres.</p>
+        <p><iframe src="https://www.youtube.com/embed/Z6JqFYroayo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+        <h4><strong>Coming Soon to Cinemas</strong></h4>
+        <strong>4.&nbsp;<em>Crazy Rich Asians</em> by Kevin Kwan</strong>A comedic novel set in none other than our sunny island, this book draws from Kevin Kwan&rsquo;s own experience living among the wealthy in Singapore. This madcap spin on high-society life here is about American-born Chinese Rachel Chu, who accompanies her boyfriend to Singapore for his best friend's wedding. She gets unexpectedly thrusted into the lives of Asia's rich elites and hilarious events ensue. The highly-anticipated Hollywood adaptation directed by Jon M. Chu, includes local actors Pierre Png, Fiona Xie and Tan Kheng Hua. If you haven&rsquo;t read it yet, be sure to grab the book before the movie hits our screens later this year!
+        <p><em>Crazy Rich Asians</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4353">The Centrepoint</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p><iframe src="https://www.youtube.com/embed/ZQ-YX-5bAs0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+        <p><strong>5.&nbsp;<em>Mary Poppins</em></strong><strong> by Pamela Lyndon Travers</strong></p>
+        <p>Perhaps better known for its film adaptation that made Julie Andrews a household name, Mary Poppins is a series of 8 children&rsquo;s books by P.L Travers, written between 1934 and 1988. Travers chronicles the adventures of the Banks family after a magical nanny shows up at their home when she gets blown in by an East wind. Along with wonderful illustrations, these books are full of fun and imagination. So, if you&rsquo;re looking for something to occupy the little ones that doesn&rsquo;t involve digital screens, pick up these classic books and make the school holidays fun with some good ol&rsquo; story-telling! The latest Mary Poppins movie will also be out later this year, with Emily Blunt replacing Andrews as the titular nanny.</p>
+        <p><em>Mary Poppins</em> books are available at Yishun Public Library at <a href="http://www.northpointcity.com.sg/store-detail.php?CategoryID=594&amp;StoreID=15114">Northpoint City</a>.</p>
+        <p><iframe src="https://www.youtube.com/embed/PzcaR1N0pTI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+        <p>Now that we&rsquo;ve piqued your interest for all fantastic fiction this year, here&rsquo;s a throwback to a couple of classic and acclaimed movies that you can rediscover by picking up the books that made them!
+        </p>
+        <h4><strong>Timeless Classics</strong></h4>
+        <strong>6.&nbsp;<em>Series of Unfortunate Events</em> by Lemony Snicket</strong>This collection of 13 children books with a macabre twist is guaranteed to keep the kids engrossed for a long while. The books follow the lives of orphans­­,&nbsp;Violet,&nbsp;Klaus, and&nbsp;Sunny Baudelaire and their sinister custodian&nbsp;Count Olaf. To complicate matters, the Count has an eye on the children&rsquo;s inheritance and devises plots to get rid of them. Not your conventional childhood, we bet. This quirky and off-beat vibe is what makes this series a great read, even for adults. So, bag home the entire box set and get ready for some binge reading! This series had been made into a film starring Jim Carrey and was also adapted by Netflix last year.
+        <p>&nbsp;</p>
+        <p><em>A Series of Unfortunate Events</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p><strong>7.&nbsp;<em>Life of Pi</em> by Yann Martel</strong></p>
+        <p>Barack Obama read this novel with his daughter and was so taken by it that he personally wrote to the author in praise of the book. A story of spiritual and fantastic dimensions, this Man Booker Prize winning book tells of the voyage of Pi, with a tiger named Richard Parker after a shipwreck. Through the journey, Pi and Parker encounter many challenges and eventually develop a lasting bond. Its blockbuster movie adaptation garnered a slew of awards, including Best Original Screenplay at the Golden Globes and an Oscar for Ang Lee&rsquo;s directing.</p>
+        <p><em>Life of Pi</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p><strong>8.&nbsp;<em>Gone Girl</em> by Gillian Flynn</strong>This is an absolute page-turner for those who like action that&rsquo;s dark and twisted. A husband becomes a suspect in his wife&rsquo;s disappearance and their contrasting narratives will keep you guessing on whose account is true. Throw in a few twists and turns along with gore, and this is the perfect thriller. Its film adaptation was also well-received, with Rosamund Pike&rsquo;s icy portrayal as the female lead landing her a Best Actress nomination at the 2015 Academy Awards.</p>
+        <p><em>Gone Girl</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4353">The Centrepoint</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p><strong>9.</strong>&nbsp;<strong><em>The Lovely Bones</em> by Alice Sebold</strong></p>
+        <p>Told from the perspective of a gruesomely murdered 14-year-old Susie Salmon, this story doesn&rsquo;t shy away from heavy themes while remaining a charmingly ethereal tale. As Susie watches from heaven, the lives of her family, a detective and her murderer unfold in complex ways. Peter Jackson of Lord of the Rings fame directed the movie adaptation, lending his fantastical eye to the visually stunning film.</p>
+        <p><em>The Lovely Bones</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p><strong><em>10. Fight Club</em> by Chuck Palahniuk</strong></p>
+        <p>A movie with a young Brad Pitt pulling punches is a hard one to miss. The cult classic was adapted from the novel written in 1996 by Palahniuk, known for his mind-bending psychological thrillers. In this story, which is also the author&rsquo;s most-known work, an unnamed narrator suffers from serious insomnia and his life changes after meeting a stranger, Tyler Durden. They end up running Fight Club, which initially seem like a good way to let off steam but becomes something much more sinister. You would know better than to talk about Fight Club after reading the book.</p>
+        <p><em>Fight Club</em> available at Times Bookstores at <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=4353">The Centrepoint</a> and <a href="http://www.frasersrewards.com/store-detail.php?CategoryID=594&amp;StoreID=8681">Waterway Point</a>.</p>
+        <p>So, go on and plunge head first into these books! We&rsquo;ll see you at our bookstores!</p>
+    - ID: "6b90e446-94d5-493c-9e7e-6956f7db35d8"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{6BE02500-68D2-46EE-ACE8-C89FE591881A}" />
+    - ID: "6ef0d4e4-2fae-49ce-b150-dc2405a383a4"
+      Hint: Summary
+      Value: "Ever made a resolution to read more but gave up in Chapter 1? Don’t worry, you’re not alone! Reading can seem daunting, ..."
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 20180805T170000Z
+    - ID: "914dd69d-8f23-4d70-a42d-20a631020c2c"
+      Hint: Author
+      Value: Annie Ting
+    - ID: "a77fffed-e1f3-4cc1-95ae-06ce63ec8877"
+      Hint: Title
+      Value: 10 Great Books Made into Movies
+    - ID: "b3ac3362-d195-46be-b223-9eb630a30db2"
+      Hint: Banner
+      Value: |
+        <image mediaid="{6BE02500-68D2-46EE-ACE8-C89FE591881A}" />
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: 10 Great Books Made into Movies

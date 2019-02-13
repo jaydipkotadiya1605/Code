@@ -1,0 +1,43 @@
+﻿---
+ID: "645c6860-7591-4b63-b536-3ddd101d4e28"
+Parent: "617d1879-982f-457e-9b90-0afd5c94b288"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/AnchorPoint/Local Content/Pages/FrasersExperience
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Frasers Experience
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T082603Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <p><img alt="Scan Your Frasers Rewards QR Code" src="-/media/dda6d8b88c28409b9f0b664a440817b6.ashx?h=442&amp;w=730" /></p>
+        <p /><h2 class="dark text-center">Click on the icons below to download or update the latest Frasers Experience Mobile App, available from 25 May 2018.</h2><p />
+        <div class="row app-icons">
+        <div class="col col-12 col-md-6 mb-3 text-center text-md-right"><a href="https://play.google.com/store/apps/details?id=com.frasersrewards.app" target="_blank" title="Download from Google Play"><img alt="Download from Google Play" src="-/media/96235c392a734c8a9b7cd17530633a3e.ashx" /></a></div>
+        <div class="col col-12 col-md-6 mb-3 text-center text-md-left"><a href="https://itunes.apple.com/sg/app/frasers-rewards/id1038861781?mt=8" target="_blank" title="Download from Apple Store"><img alt="Download from Apple Store" src="-/media/c6f211d01b8b4b2dbfbd677d69c8f4cb.ashx" /></a></div>
+        </div>
+        <br />
+        <a href="~/link.aspx?_id=58DDA147527C45F6948E3A7F925BA5BD&amp;_z=z" class="full-btn" title="GO TO FRASERS EXPERIENCE WEBSITE">GO TO FRASERS EXPERIENCE WEBSITE</a>

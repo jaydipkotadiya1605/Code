@@ -1,0 +1,38 @@
+﻿---
+ID: "556203f0-29f3-47d4-97ce-223366003fc5"
+Parent: "5aca7ca0-aad1-46f3-b87a-881e2207ba7d"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Article/Article Rich Text Editor
+DB: master
+SharedFields:
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 0
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Article/ArticleRichText.cshtml
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 0
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{9F6C1785-23E1-4D2D-B792-0C0F46A1AEAB}" />
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T075952Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

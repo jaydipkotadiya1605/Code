@@ -1,0 +1,27 @@
+﻿---
+ID: "56424c90-672f-442e-8d69-c2016b226393"
+Parent: "15f872b0-31e9-4298-80ac-2df77e6ef6c3"
+Template: "15f872b0-31e9-4298-80ac-2df77e6ef6c3"
+Path: /sitecore/templates/Feature/Event/_Event And Article Parameter/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190203T175349Z
+    - ID: "922761bb-8fae-4d75-b170-0bf3cae621f1"
+      Hint: PageIndex
+      Value: 0
+    - ID: "9d8821ff-1696-455a-ad41-0c905c1d11e3"
+      Hint: PageSize
+      Value: 9
+    - ID: "fcfebf55-0b0d-4c0f-9e8f-647fbb82fa04"
+      Hint: Event and Article Tab
+      Value: "{31BD9839-C33F-4940-B75D-49B487634554}"

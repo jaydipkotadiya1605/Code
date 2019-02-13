@@ -1,0 +1,24 @@
+﻿---
+ID: "785dd640-8d79-4676-a826-3d8be734ee6f"
+Parent: "fc65fd9b-a685-4a1d-b2bc-5a96b0133162"
+Template: "fc65fd9b-a685-4a1d-b2bc-5a96b0133162"
+Path: /sitecore/templates/Project/Common/Content Types/Category/EventsAndArticlesTab/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190202T220045Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: $name

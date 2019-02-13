@@ -1,0 +1,26 @@
+﻿---
+ID: "8168be19-cfdf-4df7-8054-bfdc8191ab3b"
+Parent: "f1793990-a420-45c0-9a2b-2e2b312e3a75"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/2nd/Other Links/Contact Us
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Contact Us" anchor="" linktype="internal" class="" title="Contact Us" target="" querystring="" id="{CEA537FE-C5BC-4175-BBD9-2B45CD76F7A5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060223Z
+    - ID: "8caac899-17f3-4ef1-83ea-a4bd6c372c93"
+      Hint: Show On Mobile
+      Type: Checkbox
+      Value: 1

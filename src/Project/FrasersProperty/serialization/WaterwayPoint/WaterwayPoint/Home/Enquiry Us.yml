@@ -1,0 +1,206 @@
+﻿---
+ID: "4985d96e-0e9f-4b3e-ac24-a5ddb976dc31"
+Parent: "1a1c73fe-5e69-4271-8973-59bf58463772"
+Template: "8edf328f-3ece-403f-a7dd-75e123cf1c02"
+Path: /sitecore/content/WaterwayPoint/Home/Enquiry Us
+DB: master
+SharedFields:
+- ID: "b3ba9ea9-d0a1-49df-9f4b-28fa5d353dc8"
+  Hint: JavascriptCodeBottom
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B6B2D094-8C72-41F9-A81D-D2939A09BEE5}"
+          s:ds="{1AE2084E-EB95-4EBD-BA7A-CE7633526150}"
+          s:par="" />
+        <r
+          uid="{F0E06183-A71C-43C0-9F7B-05B384EAA0D8}"
+          s:ds="{537B53B2-ECAD-4C5A-A3F8-7D0E02E090E4}"
+          s:par="" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F2B3A6CC-AB4A-45BF-8E0F-0DDCE44C0479}"
+              p:before="*"
+              s:id="{74D3E7A1-B2B2-4500-AD66-8AEEFF53A700}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-wide-1_5fad4623-866c-4bd3-9a4a-072c5cb64551/col-wide-1_29cf8b2c-5146-4644-a590-376be82d30d3" />
+          </d>
+        </r>
+    - ID: "0ff35d56-2384-4845-87e2-eb93768035cc"
+      Hint: Receiver Name
+      Value: Mall site admin
+    - ID: "125a4e47-7dc0-451f-b37b-2dd5176eafa9"
+      Hint: IsTabPage
+      Type: Checkbox
+      Value: 1
+    - ID: "2268e826-33b0-4bd3-a5cf-0660d0cf63df"
+      Hint: Message
+      Value: |
+        <table border="0" cellpadding="0" cellspacing="0" class="body">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td class="container" style="text-align: left;">
+                    <div class="content">
+                    <table class="main">
+                        <tbody>
+                            <tr>
+                                <td class="wrapper" style="text-align: left;">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align: left;">
+                                            <p>Dear [Receiver],</p>
+                                            <p>&nbsp;</p>
+                                            Contact Info Submitted:
+                                            <p>&nbsp;</p>
+                                            <p>Name: [Name]</p>
+                                            <p>Email: [Email]</p>
+                                            <p>Contact Number: [ContactNo]</p>
+                                            Space: [EnquirySpaceSelected]<br />
+                                            <br />
+                                            Existing Shop Name: [ExistingShopName]<br />
+                                            <br />
+                                            Trade/ Merchandise: [TradeOrMerchandise]<br />
+                                            <br />
+                                            Area Required (sq ft): [AreaRequired]<br />
+                                            <br />
+                                            M &amp; E Requirements (if any): [M_E_Requirements]
+                                            <p>Thanks</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                    </td>
+                    <td style="text-align: left;"><br />
+                    <br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T160319Z
+    - ID: "26ae7575-792f-4108-a050-fc86762c30e2"
+      Hint: Private API Key
+      Value: 6Le5l2cUAAAAALlesDm8rF7khUv_C8cANqmK76N3
+    - ID: "37013884-0850-4493-823c-fa2b5548f635"
+      Hint: Title
+      Value: General Enquiry
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{0027BD0A-D6B1-4ECF-91AA-46D0C94E90D7}"
+    - ID: "4ce23ca3-0663-4c79-8c59-eeb5b251c6fe"
+      Hint: Contact Page Title
+      Value: "How Can We Help?"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Enquiry
+    - ID: "5ed37496-1555-4255-a5ed-b13d39f143ad"
+      Hint: Contact Page Sub Title
+      Value: "Get in touch - we’re here to help you."
+    - ID: "6399b12b-5b01-4ac0-a382-2c2aed485bd1"
+      Hint: JavaScriptFileTop
+      Value: "https://www.google.com/recaptcha/api.js"
+    - ID: "6ca85acc-5dfe-428f-96fa-39a1d37f933f"
+      Hint: No Reply Email
+      Value: thanh.nq@niteco.se
+    - ID: "843278d6-2a48-42be-9393-871521278552"
+      Hint: Subject
+      Value: Notify from Leasing enquiry page
+    - ID: "8cfce156-a215-42d6-87d2-0f92e1f404f1"
+      Hint: Receiver Email
+      Value: thanh.nq@niteco.se
+    - ID: "a4e04abd-d56c-4e4e-a190-7ea638845831"
+      Hint: Message
+      Value: |
+        <table border="0" cellpadding="0" cellspacing="0" class="body">
+            <tbody>
+                <tr>
+                    <td style="text-align: left;">
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td class="container" style="text-align: left;">
+                    <div class="content">
+                    <table class="main">
+                        <tbody>
+                            <tr>
+                                <td class="wrapper" style="text-align: left;">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                        <tr>
+                                            <td style="text-align: left;">
+                                            <p>Dear [Receiver],</p>
+                                            <p>&nbsp;</p>
+                                            Contact Info Submitted:
+                                            <p>&nbsp;</p>
+                                            <p>Name: [Name]</p>
+                                            <p>Email: [Email]</p>
+                                            <p>Contact Number: [ContactNo]</p>
+                                            <p>Message: [Message]</p>
+                                            <p>Thanks</p>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </div>
+                    </td>
+                    <td style="text-align: left;"><br />
+                    <br />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "c0d436a3-7e25-4d14-bf04-41753f7967e2"
+      Hint: Subject
+      Value: Notify from general enquiry page
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Enquiry Us
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0
+    - ID: "ed290d78-4241-42a0-8c62-b3e25c4bb48b"
+      Hint: Title
+      Value: Leasing Enquiry
+    - ID: "ed78e746-bd29-4a2b-9901-f122d200c36c"
+      Hint: Public API Key
+      Value: 6Le5l2cUAAAAABtRFov0w5kxjaDPhhPkJWeGgCSi

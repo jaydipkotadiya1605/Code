@@ -1,0 +1,100 @@
+﻿---
+ID: "1eb1a68d-4342-4284-9e6f-7f982e3359df"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/FAQsTroubleshooting
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FAQs | Troubleshooting
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T153903Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        					<div class="qns">1. Why can't I find the app?</div>
+        					<div class="ans">We have 2 versions of the Frasers Experience App at <a href="https://itunes.apple.com/us/app/frasers-experience/id1441727505?ls=1&amp;mt=8" target="_blank">App Store</a> (for iOS mobile devices) and <a href="https://play.google.com/store/apps/details?id=com.frasersexperience.app" target="_blank">Google Play</a> (for Android devices). Download the relevant app for your mobile phone. The latest version of the app will only be ready on 17 November 2017.</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">How do I log in if I am not a Frasers Experience member?</div>
+        					<div class="ans">
+        					<ul>
+        						<li>If you are currently not a Frasers Experience member, please download the app and select JOIN NOW on the home screen. Complete the sign up form and check your email account for a verification email. Once verified, your Frasers Experience account will be activated. Use your email address as your Username with the password that you have registered with. </li>
+        					</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">3. I can’t remember my password.</div>
+        					<div class="ans">
+        					<ul>
+        						<li>To reset your password, click on the NEED HELP button on the home screen of the Frasers Experience app. All passwords are case sensitive.</li>
+        						<li>After you complete this step, please check for email or SMS notification containing the reset instructions.</li>
+        					</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">4. I have not received the verification email.</div>
+        					<div class="ans">Please also check your email spam folder. If you still cannot locate it, please contact us at <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a></div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">5. I have not received the password reset instructions.</div>
+        					<div class="ans">Please also check your email spam folder. If you still cannot locate it, please contact us at <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a></div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">6. How may I change my password?</div>
+        					<div class="ans">You may change your password by going to "SETTINGS" from the main menu then selecting "CHANGE PASSWORD".</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">7. How do I know if my mobile device is compatible with the Frasers Experience mobile app?</div>
+        					<div class="ans">
+        					<ul>
+        						<li>For users on iOS mobile platform: Frasers Experience app is optimised for iOS 11 or later.</li>
+        						<li>For users on Android mobile platform: Frasers Experience app requires Android 7 or later.</li>
+        					</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">8. How do I know if my mobile device has sufficient storage space to download the Frasers Experience mobile app?</div>
+        					<div class="ans">
+        						<ul>
+        							<li>Check the available storage space on your mobile device with the following steps:<br /><br />
+        							<ul>
+        								<li>For users on iOS mobile platform: go to Settings &gt; General &gt; About &gt; Available</li>
+        								<li>For users on Android mobile platform: go to Settings &gt; System &gt; Storage &gt; Available Space</li>
+        							</ul>
+        							</li>
+        						</ul>
+        					</div>
+        					<!-- /item -->
+        
+        					<!-- item -->
+        					<div class="qns">9. I’m having difficulty using the mobile app due to device or software incompatibility?</div>
+        					<div class="ans">You may select HELP from the main menu and submit a Help Ticket. The technical support team will be in contact with you.</div>

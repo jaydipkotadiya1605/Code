@@ -1,0 +1,91 @@
+﻿---
+ID: "d55b66cc-38d8-4a37-8e14-c10bdf3df5c2"
+Parent: "a94c5aa6-81dc-4eea-89f2-7df59809536b"
+Template: "9b2e84ce-c0f2-4acd-8282-74ed1b293c19"
+Path: /sitecore/content/FrasersRewards/Local Content/Blogs/2018/08/10/15/47/My Favourite Playtime Instagram Contest
+DB: master
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Type: Checkbox
+  Value: 0
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{A085BED3-74A3-4317-BB5D-27D21AF7FC93}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T103114Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Blog
+    - ID: "594cbb70-cc6f-4b29-a55b-fba6b1c548fd"
+      Hint: Category
+      Type: Multilist
+      Value: "{B07080C6-8C51-4A0D-BE78-8438332F4D58}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6704aa4e-bfc7-4161-8787-87983d71e9f6"
+      Hint: Body
+      Value: |
+        <p><img alt="" class="alignnone size-full wp-image-11387" src="https://www.pluspoint.sg/wp-content/uploads/2018/06/740x500.png" width="740" height="500" /></p>
+        <p>Don&rsquo;t you just love a #throwback to the simpler and more carefree times of your childhood? Reminisce those fun times in our My Favourite Playtime Instagram Contest and stand to win a $20 Frasers Property digital gift card!</p>
+        <p>Look out for our contest post on Instagram @fraserspropertysingapore, and leave us a comment telling us about your favourite play activity when you were young. It could have been a beloved toy, a simple game of tag, or even an ingenious game you made up with your buddies. Plus, don&rsquo;t forget to tag a friend in your comment &ndash; it could be your childhood partner-in-crime or anyone whom you&rsquo;d like to share this memory with!</p>
+        <p>Be sure to download or update your Frasers Rewards App, as the digital gift card will be stored in your eWallet if you win.</p>
+        <p>This contest ends on 20 June, 11.59pm and five winners will be announced on 27 June 2018.</p>
+        <p>Participants of this contest must be at least 18 years old, residing in Singapore and Frasers Rewards Members. By participating in this contest, you agree to be bound by its Terms &amp; Conditions.</p>
+        <h4><strong>Terms &amp; Conditions:</strong></h4>
+        <p>This Contest is open to all persons currently residing in Singapore with a permanent residential address, over 18 years of age, except employees of Frasers Property Management Services Pte Ltd, its advertising agencies, retail tenants of Frasers Property Singapore, their immediate families or anyone else connected with this promotion. No third-party entries, bulk entries or entries submitted by agents will be accepted.</p>
+        <p>Frasers Property Singapore reserves the right to verify the eligibility of each participant and may require such information as it considers reasonably necessary for the purpose of verifying the eligibility of an entry. The prizes may be withheld until and unless Frasers Property Singapore is satisfied with the verification.</p>
+        <p>1. The contest is &ldquo;My Favourite Playtime Instagram Contest&rdquo; and the &ldquo;contest period&rdquo; is from 13 to 20 June 2018 (23:59pm). Winners will be announced on 27 June 2018.</p>
+        <p>2. Prizes are as follows:</p>
+        <p>Five (5) winners will each receive a $20 Frasers Property Digital Gift Card.</p>
+        <p>3. To qualify for the contest:</p>
+        <p>Participants must be over 18 years of age at the start of the contest period,&nbsp;<span style="text-decoration: underline;">must have a valid Instagram account (for verification purposes)</span>&nbsp;and must be a follower of the&nbsp;<span style="text-decoration: underline;">Frasers Property Singapore&rsquo;s Instagram page</span>.&nbsp;<span style="text-decoration: underline;">Participants with private Instagram accounts will be disqualified.</span>&nbsp;Frasers Property Singapore reserves the right to disqualify any entry submitted by a&nbsp;participant with a fictitious or phantom Instagram profile.</p>
+        <p>One (1) entry by a participant consists&nbsp;of their answer to the question: &ldquo;What is your favourite childhood play activity when you were young". The entry will be posted in the comments section of Frasers Property Singapore&rsquo;s Instagram contest post.</p>
+        <p><span style="text-decoration: underline;">A maximum of one (1) entry per person is allowed for the Instagram contest</span>. Where a participant submits two (2) or more entries, the last submission will be accepted and the rest of the entries will be void.</p>
+        <p>Participant&rsquo;s details must be provided after they are selected as a winner (i.e. the first and last two characters of their NRIC eg. S9xxxxx8K, Full Name as per NRIC, E-mail Address, Contact Number and Date of Birth).</p>
+        <p>4. The official time is Singapore Instagram time. Any entry posted after the cut-off time will not be considered.</p>
+        <p>5. At the end of the contest period, all eligible entries will be compiled. Frasers Property Singapore will select five (5) winners from Instagram. The winner will be announced on 27 June 2018, via a winners&rsquo; announcement post on Instagram.</p>
+        <p>6. For avoidance of doubt, the eligibility of all entries would be subject to Frasers Property Singapore&rsquo;s decision. All matters relating to the Contest is final, conclusive and&nbsp;binding on all participants and no correspondence will be entertained.</p>
+        <p>7. All winners will be determined by Management of Frasers Property Singapore (whose decision shall be final) on 21 June 2018 after the closing of the entry period and notified on 27 June 2018 via a winners&rsquo; announcement on the Frasers Property Singapore&rsquo;s&nbsp;Instagram Page.</p>
+        <p>8. All participants selected as winners in this Contest must contact Frasers Property Singapore via Instagram Direct Message within 7 days of the announcement of the winners. Selected winners must provide the first and last two characters of their NRIC eg. S9xxxxx8K, Full Name as per NRIC, E-mail Address, Contact Number and Date of Birth for verification purposes to determine their eligibility for the prize.</p>
+        <p>9. Each prize is awarded conditionally upon acceptance and if a winner is unable to be contacted within 7 days upon the announcement of the winners, a supplementary winner may be drawn at the Management of Frasers Property Singapore&rsquo;s discretion.</p>
+        <p>10. If any prize is unclaimed or declined after one month from the date of our email notification to the winner, the prize shall be deemed as unclaimed or unaccepted. Frasers Property Singapore will not be responsible should any winner fail to redeem the prize within the specified date.</p>
+        <p>11. Frasers Property Singapore assumes no responsibility and is not liable for any costs, charges or expenses which a winner may be required to pay at any time in connection with a Prize or in order to attend a prize presentation or prize collection.</p>
+        <p>12. Frasers Property Singapore reserves the right to provide substitute prize(s) of similar value should the specified prize becomes unavailable. Cash will not be offered and the prizes are not transferable.</p>
+        <p>13. In the event of actual or suspected fraud or abuse, such as but not limited to plagiarism, and/ or errors affecting the proper operation of this Contest, including the allocation of more prizes than are available, Frasers Property Singapore reserves the right to (a) end or suspend the Contest, (b) amend these terms &amp; conditions, (c) declare void the notification of winner(s) and reselection of winner(s), or any combination of these resolution methods.</p>
+        <p>14. Data of each participant will be collected, stored and processed for the purposes of administering and assessing this Contest. By joining this contest, participants consent to and grant Frasers Property Singapore the right to use the contest submission (images/ videos) for marketing, promotion and/ or advertisement purposes, including print, audio-visual and social media, without restriction or limitation and for unlimited number of times.</p>
+        <p>15. By joining this Contest, you agree that you have read and understood the privacy policy found at our <a href="http://www.frasersrewards.com/content.php?CategoryID=590">website</a> (&ldquo;Privacy Policy&rdquo;) and consent to the collection, use and disclosure of your personal data in accordance with the Privacy Policy.</p>
+        <p>16. Frasers Property Singapore&rsquo;s decision on the contest results is deemed as final and no correspondence shall be entertained.</p>
+        <p>17. Frasers Property Singapore reserves the right to suspend, cancel or amend the promotion and/or review and revise these terms and conditions at any time without giving prior notice. By continuing to take part in the contest subsequent to any revision of these terms and conditions, each participant shall be deemed to have agreed to any such new or amended terms.</p>
+    - ID: "6b90e446-94d5-493c-9e7e-6956f7db35d8"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{6BE02500-68D2-46EE-ACE8-C89FE591881A}" />
+    - ID: "6ef0d4e4-2fae-49ce-b150-dc2405a383a4"
+      Hint: Summary
+      Value: "Don’t you just love a #throwback to the simpler and more carefree times of your childhood? Reminisce those fun times in ..."
+    - ID: "914dd69d-8f23-4d70-a42d-20a631020c2c"
+      Hint: Author
+      Value: Annie Ting
+    - ID: "a77fffed-e1f3-4cc1-95ae-06ce63ec8877"
+      Hint: Title
+      Value: My Favourite Playtime Instagram Contest
+    - ID: "b3ac3362-d195-46be-b223-9eb630a30db2"
+      Hint: Banner
+      Value: |
+        <image mediaid="{6BE02500-68D2-46EE-ACE8-C89FE591881A}" />
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Blog

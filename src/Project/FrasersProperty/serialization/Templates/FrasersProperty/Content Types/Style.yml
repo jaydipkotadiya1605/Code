@@ -1,0 +1,25 @@
+﻿---
+ID: "72a6ff0e-a1dd-42ea-b38a-77d13ef856d9"
+Parent: "7a06efda-d413-4cc8-91bf-2e4847f54a3b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Style
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/painters_palette.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{C2AC5C42-A05C-4F51-854E-730C9BCA06D1}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B7D4EE1A-8D0B-4916-9845-3D150DD5912C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180716T101719Z

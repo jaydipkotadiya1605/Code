@@ -1,0 +1,14 @@
+﻿---
+ID: "617d1879-982f-457e-9b90-0afd5c94b288"
+Parent: "558f91d4-3da9-41d4-a42e-eeb1a3fc6f03"
+Template: "28f186d8-101c-4bce-bac6-39803d436537"
+Path: /sitecore/content/AnchorPoint/Local Content/Pages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T044556Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "a33303fe-da33-40e0-8e10-c474bc6a1514"
+Parent: "52fc6ac9-f0c4-4fc0-8508-e6d1d429061d"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/Frasers Workflow/Waiting for Main Site Approval/Reject Main Content
+DB: master
+SharedFields:
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{6C811026-F174-4E3D-AE92-031A87F1F011}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Main Site Author|pe|-item:read|pd|-item:read|ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T081712Z

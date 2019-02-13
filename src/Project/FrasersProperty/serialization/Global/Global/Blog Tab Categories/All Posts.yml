@@ -1,0 +1,28 @@
+﻿---
+ID: "c54a61c1-a22c-4439-a8ec-0dfcc3d52f1f"
+Parent: "1e609cde-8167-4ef5-81a1-edf81cec8cf6"
+Template: "f513cf2f-f4d9-4fc5-8fd2-ef670dc7fdda"
+Path: /sitecore/content/Global/Blog Tab Categories/All Posts
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T083446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: All Posts
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 1

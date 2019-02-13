@@ -1,0 +1,14 @@
+﻿---
+ID: "94462b41-def9-464b-8a09-11ee52b57b2c"
+Parent: "2e49d7bb-6d3a-4b76-8d26-38a8fe30dac7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Store/_Wing/Wing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T094908Z

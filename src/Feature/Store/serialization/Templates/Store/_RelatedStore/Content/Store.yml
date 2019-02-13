@@ -1,0 +1,28 @@
+﻿---
+ID: "d352d897-0d6e-44be-abfd-6901f36e63d8"
+Parent: "81e3ec56-6415-41a1-a5b0-90fdec028985"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Store/_RelatedStore/Content/Store
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{C85BE8FC-2D84-403E-8168-FF09FC74C878}/{E3938AE8-0021-4A64-B646-CDCE6A04FA90}/{5D406680-B088-46E8-9734-7370F2F6E9ED}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multisite Grouped DropLink
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180802T094951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "a08aee89-4cd8-497b-895e-dc4a6cb1f0b2"
+Parent: "2ed07baf-0318-400e-96de-3a6bfbaaf6e9"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Settings/Item Resolver Settings/Event Routing Rule
+DB: master
+SharedFields:
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{6620FA0A-49E6-4CAE-8872-395425075DC8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180814T040459Z

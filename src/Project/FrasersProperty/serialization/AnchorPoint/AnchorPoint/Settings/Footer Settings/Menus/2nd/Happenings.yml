@@ -1,0 +1,22 @@
+﻿---
+ID: "f04df595-a791-4310-b1e9-0f362ad44ed9"
+Parent: "952b47fb-f892-4ee9-a8f4-d7515b3b8e26"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/2nd/Happenings
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Happenings" anchor="" linktype="internal" class="" title="Happenings" target="" querystring="" id="{DE983778-0EB5-44BB-828C-77BB261398CF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T100422Z

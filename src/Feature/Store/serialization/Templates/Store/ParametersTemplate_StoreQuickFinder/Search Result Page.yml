@@ -1,0 +1,14 @@
+﻿---
+ID: "93ca108a-c0ad-4d46-8243-0254a35bfa54"
+Parent: "e302f1e7-79f6-4c9e-88fb-279e9cd4f48f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Store/ParametersTemplate_StoreQuickFinder/Search Result Page
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180727T073847Z

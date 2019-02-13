@@ -1,0 +1,29 @@
+﻿---
+ID: "34ef4e0c-638f-4b11-90ea-5226c75842d5"
+Parent: "93ca108a-c0ad-4d46-8243-0254a35bfa54"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Store/ParametersTemplate_StoreQuickFinder/Search Result Page/SearchResultPage
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droptree
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Search Result Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180727T073847Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

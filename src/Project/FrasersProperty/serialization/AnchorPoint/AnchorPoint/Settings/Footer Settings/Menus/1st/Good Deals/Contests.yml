@@ -1,0 +1,18 @@
+﻿---
+ID: "bf81f9b3-a8ca-4aa1-8c9f-8f816968e0f7"
+Parent: "ab3bd8c1-9933-42e5-acf6-3795334ae0b2"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/1st/Good Deals/Contests
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Contests" anchor="" linktype="internal" class="" title="Contests" target="" querystring="category=Contests" id="{30D6B92D-54D0-4E80-8A85-6303513514B9}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095448Z

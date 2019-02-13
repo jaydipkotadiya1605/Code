@@ -1,0 +1,18 @@
+﻿---
+ID: "d351c267-858b-42bb-8b96-f798b9c16b4f"
+Parent: "b6c4bbb8-5f5c-49b2-9adf-034b3d8cd99d"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/AnchorPoint/Local Content/Blogs/2018/08/18/17/38
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180818T174018Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

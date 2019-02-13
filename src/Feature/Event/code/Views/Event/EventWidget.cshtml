@@ -1,0 +1,47 @@
+﻿@using Sitecore.Foundation.Dictionary.Repositories
+@using Sitecore.Foundation.FrasersContent
+@using Sitecore.Foundation.Dictionary.Extensions
+@model Sitecore.Feature.Event.Models.EventItems
+<!-- widget -->
+<div class="widget events">
+    <h2>@DictionaryPhraseRepository.Current.Get("/Widgets/Event Widget Title", "Upcoming Events")</h2>
+    @if (Model == null || Model.Items == null || Model.Items.Count() == 0)
+    {
+        <div class="item clearfix">@Html.Sitecore().Dictionary(Constants.NoDataFound, Constants.NoDataFoundText)</div>
+    }
+
+    @foreach (var item in Model.Items)
+    {
+        if (item != null)
+        {
+            <!-- item -->
+            <div class="item clearfix">
+                <div class="date">
+                    @if ((item.StartDate != null && item.EndDate != null) || (item.EndDate != DateTime.MinValue))
+                    {
+                        if (item.StartDate.Date <= DateTime.Today)
+                        {
+                            <div class="middle">TODAY</div>
+                        }
+                        else
+                        {
+                            <div class="middle">@item.StartDate.ToString("d MMM")<span>@item.StartDate.ToString("yyyy")</span></div>
+                        }
+                    }
+                </div>
+                <div class="info">
+                    <div class="middle">
+                        <div class="title"><a href="@item.Url">@item.Title</a></div>
+                        <div class="location">@item.Mall</div>
+                    </div>
+                </div>
+                </div>
+            <!-- /item -->
+        }
+    }
+    <div class="more-wrap">
+        <a href="@ViewBag.Link" class="more rightarrow">@DictionaryPhraseRepository.Current.Get("/Widgets/Event Widget Link", "View Full Calendar")</a>
+    </div>
+
+</div>
+<!-- /widget -->

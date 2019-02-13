@@ -1,0 +1,14 @@
+﻿---
+ID: "a15d8a36-6141-41ce-9807-78bd77dcaaf1"
+Parent: "7a06efda-d413-4cc8-91bf-2e4847f54a3b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T075636Z

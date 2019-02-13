@@ -1,0 +1,14 @@
+﻿---
+ID: "7a06f085-4707-41e4-8559-59524083ee73"
+Parent: "96849918-7e38-4a9d-97c1-0d65e3b1ed40"
+Template: "0b5f9423-1efc-44ef-ab02-97332cd0e54e"
+Path: /sitecore/content/FrasersRewards/Local Content/Teasers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T064345Z

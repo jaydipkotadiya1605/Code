@@ -1,0 +1,33 @@
+﻿---
+ID: "bbefc90a-ea73-4f63-8e91-485b398587cb"
+Parent: "537b53b2-ecad-4c5a-a3f8-7d0e02e090e4"
+Template: "74713dba-ac0d-4a12-bc9e-f607bb2c8ed1"
+Path: /sitecore/content/WaterwayPoint/Settings/Header Settings/Social Links/Facebook
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T082101Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b8119e3-0258-47aa-baf7-6f3093f53167"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.facebook.com/fps.WaterwayPoint" anchor="" target="" />
+    - ID: "73122077-c90e-4fc3-9954-0e2287f934f9"
+      Hint: CssClass
+      Value: fb
+    - ID: "8fcff3a4-3d0c-4060-895f-ec7ce17317a6"
+      Hint: Icon Mobile
+      Value: |
+        <image mediaid="{63787863-F78B-48A2-B562-219A2F5EEFAD}" />
+    - ID: "ab91d564-2b6a-48f1-aac0-de65ea773de2"
+      Hint: Icon
+      Value: |
+        <image mediaid="{0519C722-97A6-41AC-AC05-315F47243F8E}" />

@@ -1,0 +1,26 @@
+﻿@using Sitecore.Feature.PageContent
+@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.IsDerived(Templates.PageContent.ID) ?? true)
+{
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.PageContent.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model?.Item?.ID, Model?.Rendering?.Item?.ID)
+    return;
+}
+
+@if (Model.Item.FieldHasValue(Templates.PageContent.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+{
+    <h2>
+        @Html.Sitecore().Field(Templates.PageContent.Fields.Summary.ToString(), Model.Item)
+    </h2>
+}
+
+@if (Model.Item.FieldHasValue(Templates.PageContent.Fields.Html) || Sitecore.Context.PageMode.IsExperienceEditor)
+{
+    <div class="textbody">
+        @Html.Sitecore().Field(Templates.PageContent.Fields.Html.ToString(), Model.Item)
+    </div>
+}

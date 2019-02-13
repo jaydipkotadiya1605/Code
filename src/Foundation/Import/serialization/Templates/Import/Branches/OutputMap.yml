@@ -1,0 +1,31 @@
+﻿---
+ID: "3f71cb00-2e0d-47ba-8043-01d66e2a6926"
+Parent: "5d99e019-56b4-46b8-a4c3-ec9635b02dcd"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Foundation/Import/Branches/OutputMap
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/goto_branch.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T150005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150703T150005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

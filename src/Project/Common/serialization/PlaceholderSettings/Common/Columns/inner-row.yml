@@ -1,0 +1,31 @@
+﻿---
+ID: "4c1d7cab-b692-4bf5-b815-708ac5918d76"
+Parent: "d046e7a5-9ee2-4cba-8484-c601561f66d9"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Columns/inner-row"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "inner-row"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {ED7D0423-F5ED-4FEB-8A9B-B0F1838F3472}
+    {C920CB79-CF90-4BE1-A1E4-E71407EF962D}
+    {ABAA71D7-D331-4A32-80BD-78D6EDB4B567}
+    {B87F6745-6F9A-476D-BEB2-4072BD2FB082}
+    {6A55790B-A8C6-4BA2-A93E-DADB4E7EEEA5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T041556Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,261 @@
+﻿---
+ID: "bb56a321-4002-4aaa-a892-5a92ca5aa211"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/FAQsRewards
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: FAQs | Rewards
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T153734Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <div class="qns">
+        	1. What benefits do I enjoy as a Frasers Experience member?</div>
+        <div class="ans">
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Earn Frasers Points at participating retailers across our malls. That's more than 1,200 retailers (including supermarkets) to choose from.</strong></li>
+        	</ul>
+        	<br />
+        	Frasers Points can be earned by having your Frasers Experience QR code scanned at participating retailers when paying in-store. Points will be awarded instantly and an in-app notification will be sent to inform you if you qualify for added rewards.<br />
+        	<br />
+        	<div class="text-center">
+        		<img alt="" src="-/media/23ba20494d0f4993a4e7307931ad6c64.ashx" /></div>
+        	<br />
+        	<br />
+        	Frasers Points are issued over 12 months from 01 October of the current year to 30 September of the following year (1 redemption year).
+        	<div class="blue-text">
+        		<div class="row">
+        			<div class="col col-md-6">
+        				Non-supermarket purchases:</div>
+        			<div class="col col-md-6">
+        				$10 = 10 Frasers Points</div>
+        		</div>
+        		<div class="row">
+        			<div class="col col-md-6">
+        				Supermarket purchases:</div>
+        			<div class="col col-md-6">
+        				$10 = 2 Frasers Points</div>
+        		</div>
+        		(Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily)</div>
+        	<br />
+        	<br />
+        	<strong>Example:</strong>
+        	<div class="table-wrap"><table>
+        		<tbody>
+        			<tr>
+        				<td>
+        					<b>Day</b></td>
+        				<td>
+        					<b>Purchases</b></td>
+        				<td>
+        					<b>Total Spending</b></td>
+        				<td>
+        					<b>Frasers Points Earned</b></td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 1</td>
+        				<td>
+        					Shopping at Watsons</td>
+        				<td>
+        					$120</td>
+        				<td>
+        					120 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 1</td>
+        				<td>
+        					Shopping at Cold Storage</td>
+        				<td>
+        					$250</td>
+        				<td>
+        					50 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 2</td>
+        				<td>
+        					Dining at Swensen’s</td>
+        				<td>
+        					$115</td>
+        				<td>
+        					110 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 2</td>
+        				<td>
+        					Shopping at Charles &amp; Keith</td>
+        				<td>
+        					$250</td>
+        				<td>
+        					250 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 3</td>
+        				<td>
+        					Shopping at Harvey Norman</td>
+        				<td>
+        					$510</td>
+        				<td>
+        					500 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					Day 3</td>
+        				<td>
+        					Dining at Ichiban</td>
+        				<td>
+        					$ 50</td>
+        				<td>
+        					0 Points</td>
+        			</tr>
+        			<tr>
+        				<td>
+        					<strong>Total</strong></td>
+        				<td>
+        					&nbsp;</td>
+        				<td>
+        					<strong>$1,295</strong></td>
+        				<td>
+        					<strong>1,030 Points</strong></td>
+        			</tr>
+        		</tbody>
+        	</table></div>
+        	<br />
+        	(A minimum transaction value of $10 from a participating retailer is required to qualify for Frasers Points. Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily.)<br />
+        	<br />
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Earn Digital Gift Cards anytime, anywhere</strong></li>
+        	</ul>
+        	Convert your Frasers Points to Digital Gift Cards whenever you receive an in-app notification. All Digital Gift Cards will be instantly loaded to your e-wallet in the Frasers Experience app.<br />
+        	<br />
+        	<div class="blue-text">
+        		Frasers Experience member: Every 500 Points = 0.5% rebate value in Digital Gift Cards<br />
+        		Frasers Experience Elite member: Every 500 Points = 1% rebate value in Digital Gift Cards</div>
+        	<br />
+        	<br />
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Earn Bonus Frasers Points</strong></li>
+        	</ul>
+        	Enjoy double points during your Birthday month or check in-app notifications for other seasonal bonus point promotions. Should you not have updated your profile to include your date of birth, please do so at Customer Service to enjoy this benefit.<br />
+        	<br />
+        	<em>(Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily.)</em><br />
+        	<br />
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Redeem Frasers Points and Shop for Free</strong></li>
+        	</ul>
+        	You will receive an in-app notification whenever you obtain a minimum of 500 Frasers Points. You can redeem these Frasers Points for Digital Gift Cards anytime from 1 October of the current year to 31 December of the following year, through the Frasers Experience mobile app or the Customer Service Counter of any participating malls of Frasers Property.<br />
+        	<br />
+        	Do note that points earned in different periods cannot be combined for redemption.<br />
+        	<br />
+        	<img alt="" src="-/media/ef72219cd1ab498096a1d57aad07c8fe.ashx" /><br />
+        	<br />
+        	To use the Digital Gift Cards, simply present your Frasers Experience QR code to be scanned at participating retailers at the malls of Frasers Property to offset full or partial payment of your purchases.<br />
+        	<br />
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Redeem Free Gift with Purchase (GWP)</strong></li>
+        	</ul>
+        	Look out for our exclusive gifts offered during seasonal mall promotions. Simply shop and have your Frasers Experience QR code scanned at participating retailers to earn Frasers Points and clock your transactions. Once you meet the minimum spend requirements, you will receive an in-app notification alerting you to collect your GWP from Customer Service.<br />
+        	<br />
+        	Simply scan your Frasers Experience QR Code at the Customer Service Counter and make your redemption selection via the self-help tablets.<br />
+        	<br />
+        	<ul>
+        		<li style="color: rgb(0, 179, 173);">
+        			<strong>Year Round Free Weekday Parking</strong></li>
+        	</ul>
+        	Qualify for 1 hour of complimentary weekday parking from Monday to Friday, including Public Holidays. Meet the individual mall’s minimum spending requirements and scan your Frasers Experience QR code at participating retailers. To collect your parking coupon, proceed to customer Service Counter and scan your Frasers Experience QR Code.<br />
+        	<br />
+        	Minimum spend to qualify for free parking is as follows:<br />
+        	<br />
+        	<ul>
+        		<li>
+        			$10 (in a single transaction) - Anchorpoint, Bedok Point, China Square Central, Robertson Walk, Valley Point and YewTee Point.</li>
+        		<li>
+        			$50 (in a maximum of 5 transactions) - Causeway Point, Changi City Point, Northpoint, The Centrepoint and Waterway Point.</li>
+        	</ul>
+        	<em>(Redemption is limited to the first 200 members at The Centrepoint, first 100 members at Northpoint City and first 50 members at the rest of the malls except for Eastpoint Mall.</em><br />
+        	<br />
+        	<em>All shoppers visiting Eastpoint Mall will enjoy 1 hour of free weekday parking between 12pm and 2pm, except during Public Holidays. No minimum spend is required.)</em><br />
+        	&nbsp;</div>
+        <!-- /item --><!-- item --><div class="qns">
+        	2. How do I earn Frasers Points?</div>
+        <div class="ans">
+        	<ul>
+        		<li>
+        			Have your Frasers Experience (FRx) QR code scanned by participating retailers during payment to earn Frasers Points, except for supermarket purchases. Each transaction must be a minimum of $10 to qualify for point earning.</li>
+        		<li>
+        			Point awarding for supermarket purchases from Cold Storage will be processed solely at mall customer service counters from 22 October 2018. Point awarding for purchases from FairPrice stores will be processed at participating FairPrice Customer Service counters from 1 October 2018.</li>
+        		<li>
+        			Frasers Points can be earned for <strong>purchases at FairPrice</strong> stores by presenting your same-day FairPrice store receipt(s) and scanning your Frasers Experience (FRx) QR code at FairPrice Customer Service counters located within the malls of Frasers Property (except for YewTee Point). Please approach YewTee Point's customer service personnel at level 1 for assistance with the awarding of Frasers Points.</li>
+        		<li>
+        			Points will be awarded instantly and an in-app notification will be sent to inform you if you qualify for added rewards such as gifts-with-purchase (GWPs).</li>
+        		<li>
+        			To view a history of your transactions, visit the Frasers Experience (FRx) app and select e-wallet in the menu page.</li>
+        	</ul>
+        </div>
+        <!-- /item --><!-- item --><div class="qns">
+        	3. Where can I find the QR code?</div>
+        <div class="ans">
+        	<ul>
+        		<li>
+        			Log on to your Frasers Experience mobile app, select the QR code icon on the top right corner of your screen.</li>
+        	</ul>
+        </div>
+        <!-- /item --><!-- item --><div class="qns">
+        	4. How many Frasers Points can I earn in a day?</div>
+        <div class="ans">
+        	<ul>
+        		<li>
+        			Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily, regardless of total spend value within the redemption year.</li>
+        	</ul>
+        </div>
+        <!-- /item --><!-- item --><div class="qns">
+        	5. Will I get to use my Frasers Points and Digital Gift Cards immediately?</div>
+        <div class="ans">
+        	<ul>
+        		<li>
+        			You can pay with your Digital Gift Cards and earn Frasers Points instantly when you have your Frasers Experience QR code scanned by a participating retailer as part of the payment process. An in app notification will be sent whenever points are credited to your account.</li>
+        		<li>
+        			Frasers Points can be redeemed any time from 01 October of the current year to 30 September of the following year, with a 3-month grace period thereafter.</li>
+        	</ul>
+        	E.g: Frasers Points earned from 01 October 2018 to 30 September 2019 must be redeemed by 31 December 2019. Balance unredeemed points will be forfeited.</div>
+        <!-- /item --><!-- item --><div class="qns">
+        	6. How can I view my account details?</div>
+        <div class="ans">
+        	<ul>
+        		<li>
+        			You may view your account balance by logging in to your account on the Frasers Experience app and selecting E-WALLET from the main menu.</li>
+        	</ul>
+        </div>

@@ -1,0 +1,151 @@
+﻿---
+ID: "f4d43cba-8d8d-4a87-8176-c3d8fb639dfe"
+Parent: "18860360-3407-4ea9-9a76-95a3e53b8288"
+Template: "f62b4cd7-754c-4461-810f-2b6bd2c92a0d"
+Path: /sitecore/client/Applications/Importer/ImporterDialog/PageSettings/DataImportTabs/Options
+DB: core
+SharedFields:
+- ID: "deab3795-056f-4421-adf0-758844461b72"
+  Hint: Placeholder Name
+  Value: Import Options
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=0&amp;Id=OptionsBorder"
+          ph=""
+          uid="{CD18415E-EECC-4727-95AC-4A115D6030CF}" />
+        <r
+          id="{442BD093-FBAD-4E36-BC08-489E16C82D08}"
+          par="Header=Standard+Options&amp;IsCollapsible=0&amp;Id=StandardOptionsExpander"
+          ph="OptionsBorder.Content"
+          uid="{3EE2C63B-2E74-47B0-867F-AD227EB22A6B}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=TargetLanguageBorder"
+          ph="StandardOptionsExpander.Body"
+          uid="{9FCC093F-073B-46A0-BD42-D1339C589BA7}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Target+Language&amp;Id=TargetLanguageLabel"
+          ph="TargetLanguageBorder.Content"
+          uid="{10E38312-30FC-4114-B1C1-A6F8D3DFDE8B}" />
+        <r
+          id="{33A02142-2DBD-4034-AEA2-BDF215EB2451}"
+          par="Query=%2fsitecore%2fsystem%2fLanguages%2f*&amp;Database=master&amp;Id=LanguagesDataSource"
+          ph="TargetLanguageBorder.Content"
+          uid="{3E9B9593-EAE0-4BC6-8289-F99EDF881E29}" />
+        <r
+          id="{25D357D3-3648-4336-9B53-55EED7CFA078}"
+          par="IsEnabled=1&amp;WidthPolicy=%7b10E1CB3E-660F-4C5E-9F25-F67C4637D463%7d&amp;Items=%7bBinding+LanguagesDataSource.Items%7d&amp;IsVisible=1&amp;Id=TargetLanguageCombo"
+          ph="TargetLanguageBorder.Content"
+          uid="{8CD4C927-7D21-4316-9007-C7D1D01C5280}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=FirstRowAsColumnNamesBorder"
+          ph="StandardOptionsExpander.Body"
+          uid="{69EB306D-7B72-4B5A-B30B-8ACF41023B80}" />
+        <r
+          id="{3824DAB6-745A-468A-9D75-044591E72FB5}"
+          par="Id=FirstRowAsColumnNamesCheckBox"
+          ph="FirstRowAsColumnNamesBorder.Content"
+          uid="{3B999A10-52D4-4128-8408-1212DF63DB37}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=First+Row+As+Column+Names&amp;Id=FirstRowAsColumnNamesLabel"
+          ph="FirstRowAsColumnNamesBorder.Content"
+          uid="{51360125-B158-4D25-B893-AFA27D9AEE3B}" />
+        <r
+          id="{442BD093-FBAD-4E36-BC08-489E16C82D08}"
+          par="Header=Advanced+Options&amp;IsCollapsible=1&amp;IsVisible=1&amp;Id=AdvancedOptionsExpander"
+          ph="OptionsBorder.Content"
+          uid="{A713AF4E-B8DA-46AC-B728-B1A0347E06CB}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=ExistingItemHandlingBorder"
+          ph="AdvancedOptionsExpander.Body"
+          uid="{7E45E41F-915E-4606-AC50-6735D06EA568}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Existing+Item+Handling&amp;Id=ExistingItemHandlingLabel"
+          ph="ExistingItemHandlingBorder.Content"
+          uid="{12836085-DD74-49E6-A85A-A69573F3F1CB}" />
+        <r
+          id="{33A02142-2DBD-4034-AEA2-BDF215EB2451}"
+          par="Query=%2fsitecore%2fsystem%2fModules%2fImporter%2fOptions%2fExistingItemHandling%2f*&amp;Database=master&amp;Id=ExistingItemHandlingDataSource"
+          ph="ExistingItemHandlingBorder.Content"
+          uid="{012D33DA-388D-48E5-9B78-1E98B4019549}" />
+        <r
+          id="{25D357D3-3648-4336-9B53-55EED7CFA078}"
+          par="Items=%7bBinding+ExistingItemHandlingDataSource.Items%7d&amp;DisplayFieldName=Name&amp;ValueFieldName=Name&amp;Id=ExistingItemHandling"
+          ph="ExistingItemHandlingBorder.Content"
+          uid="{EDB35FC9-7B13-4271-B946-E78FF63B8E87}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=InvalidLinkHandlingBorder"
+          ph="AdvancedOptionsExpander.Body"
+          uid="{D807681D-99A3-4C27-BC11-85AF84EA760E}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Invalid+Link+Handling&amp;Id=InvalidLinkHandlingLabel"
+          ph="InvalidLinkHandlingBorder.Content"
+          uid="{F1EA1427-8DEA-4FF6-A2DD-73DBFFA24858}" />
+        <r
+          id="{33A02142-2DBD-4034-AEA2-BDF215EB2451}"
+          par="Query=%2fsitecore%2fsystem%2fModules%2fImporter%2fOptions%2fInvalidLinkHandling%2f*&amp;Database=master&amp;Id=InvalidLinkHandlingDataSource"
+          ph="ExistingItemHandlingBorder.Content"
+          uid="{53B8468C-ED21-4E57-A976-D9BCA239852E}" />
+        <r
+          id="{25D357D3-3648-4336-9B53-55EED7CFA078}"
+          par="Items=%7bBinding+InvalidLinkHandlingDataSource.Items%7d&amp;DisplayFieldName=Name&amp;ValueFieldName=Name&amp;Id=InvalidLinkHandling"
+          ph="InvalidLinkHandlingBorder.Content"
+          uid="{78B4C2D6-1FCC-404F-8AA4-52677EDA78BF}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=CsvDelimiterBorder"
+          ph="AdvancedOptionsExpander.Body"
+          uid="{E9CE149A-13E9-42FA-9901-3CF8B06A5AA1}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=CSV+Delimiter&amp;Id=CsvDelimiterLabel"
+          ph="CsvDelimiterBorder.Content"
+          uid="{0F827F97-DEB3-4362-8D33-A4641D0835C9}" />
+        <r
+          id="{57F86E9A-1844-45CE-BF8A-62900AE17A92}"
+          par="IsEnabled=1&amp;IsVisible=1&amp;Id=CsvDelimiter"
+          ph="CsvDelimiterBorder.Content"
+          uid="{2977AC15-5F1B-46E6-9E89-B182383F17D9}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=MultipleValuesImportSeparatorBorder"
+          ph="AdvancedOptionsExpander.Body"
+          uid="{FCA2CB83-4A0A-40F3-BD61-78C2C3FE1D5F}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Multiple+Values+Separator&amp;Tooltip=Separator+for+multi-select+fields&amp;Id=MultipleValuesImportSeparatorLabel"
+          ph="MultipleValuesImportSeparatorBorder.Content"
+          uid="{0AECDB1C-B365-4390-94E4-FAE57137229F}" />
+        <r
+          id="{57F86E9A-1844-45CE-BF8A-62900AE17A92}"
+          par="IsEnabled=1&amp;IsVisible=1&amp;Id=MultipleValuesImportSeparator"
+          ph="MultipleValuesImportSeparatorBorder.Content"
+          uid="{66BDDFE7-F92D-4341-B5C7-FF224B7224F4}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160107T140245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

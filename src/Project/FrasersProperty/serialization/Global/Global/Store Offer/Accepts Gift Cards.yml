@@ -1,0 +1,37 @@
+﻿---
+ID: "c517696f-81a7-4aae-a9dd-2566a3d509bc"
+Parent: "d6cfdcdc-5437-4c86-a57d-18a402acf666"
+Template: "13ac68bf-a202-4ce2-8e04-262987229aa3"
+Path: /sitecore/content/Global/Store Offer/Accepts Gift Cards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190131T201030Z
+    - ID: "5149bd0d-4544-403f-abed-eda3cbfd5017"
+      Hint: Key
+      Value: Accepts Gift Cards
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "67111c0c-0ae5-4c27-b059-94609eb52b0f"
+      Hint: Hide in Sites
+      Type: Multilist
+      Value: 
+    - ID: "6d254c59-c4d2-42ef-ac65-4e8570dd990a"
+      Hint: Order Number
+      Value: 2
+    - ID: "89deeb44-72ab-48a7-a040-b92a37068cd0"
+      Hint: Value
+      Value: Accepts Gift Cards
+    - ID: "afa51595-7cfb-495d-9173-89cdce18787a"
+      Hint: Linked Offers
+      Type: Multilist
+      Value: |
+        {80FE60BA-90EE-4B25-BFE3-8A7D3EA0F59D}
+        {81AB1A87-2468-4DAE-B573-D91CAC729697}

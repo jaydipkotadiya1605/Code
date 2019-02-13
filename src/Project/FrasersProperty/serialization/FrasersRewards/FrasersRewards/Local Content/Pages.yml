@@ -1,0 +1,14 @@
+﻿---
+ID: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Parent: "96849918-7e38-4a9d-97c1-0d65e3b1ed40"
+Template: "28f186d8-101c-4bce-bac6-39803d436537"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T042644Z

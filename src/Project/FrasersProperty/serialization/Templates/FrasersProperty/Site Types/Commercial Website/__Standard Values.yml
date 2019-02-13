@@ -1,0 +1,31 @@
+﻿---
+ID: "96fce43c-aecf-4843-bf9c-cc3f959b44a3"
+Parent: "cd58a566-9a4c-4afb-9eec-96b416b54669"
+Template: "cd58a566-9a4c-4afb-9eec-96b416b54669"
+Path: /sitecore/templates/Project/FrasersProperty/Site Types/Commercial Website/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|fraser\Mall Site Admin|pe|-item:create|-item:write|-item:delete|-item:rename|-item:read|pd|-item:create|-item:delete|-item:rename|-item:write|-item:read|ar|fraser\Main Site Admin|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:delete|+item:write|+item:create|+item:read|ar|fraser\Mall Site Author|pe|-item:create|-item:write|-item:delete|-item:read|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030340Z
+    - ID: "d390b56f-6f6c-4da7-832c-2ed4c44733e5"
+      Hint: Site Name
+      Value: 
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: 

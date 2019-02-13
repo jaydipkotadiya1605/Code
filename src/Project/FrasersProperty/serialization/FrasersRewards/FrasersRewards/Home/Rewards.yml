@@ -1,0 +1,25 @@
+﻿---
+ID: "c8c671aa-5d5d-4cc2-ac90-88ce97c6fe3a"
+Parent: "17e7ce43-ffac-4c8d-8904-0eb2597e179d"
+Template: "8f0cbbf0-73d3-4cc1-97d3-45df9a2ff358"
+Path: /sitecore/content/FrasersRewards/Home/Rewards
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T202743Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Rewards
+    - ID: "e81c5d1d-e1de-47e7-a5c1-d3c77db7e75b"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1B901E69-B7D8-4316-9611-4B9C9BC15F46}" />

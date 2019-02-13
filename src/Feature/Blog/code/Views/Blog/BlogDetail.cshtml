@@ -1,0 +1,14 @@
+﻿@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.IsDerived(Sitecore.Foundation.FrasersContent.Templates.Blog.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Sitecore.Foundation.FrasersContent.Templates.Blog.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+<div class="textbody">
+    @Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Blog.Fields.Body, Model.Item)
+</div>

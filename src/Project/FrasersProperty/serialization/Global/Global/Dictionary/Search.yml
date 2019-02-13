@@ -1,0 +1,14 @@
+﻿---
+ID: "a114a69e-c60b-4b14-933d-50620d9dccae"
+Parent: "9dffd40a-53fe-4032-98d6-f4a5f35c15a3"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Global/Dictionary/Search
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T044031Z

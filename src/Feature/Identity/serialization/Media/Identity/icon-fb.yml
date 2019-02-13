@@ -1,0 +1,44 @@
+﻿---
+ID: "0519c722-97a6-41ac-ac05-315f47243f8e"
+Parent: "c986440b-2ec7-499a-85ae-98c08634ef71"
+Template: "c97ba923-8009-4858-bdd5-d8be5fccecf7"
+Path: "/sitecore/media library/Feature/Identity/icon-fb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/0519c72297a641acac05315f47243f8e.ashx?h=16&thn=1&w=16"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T082224Z
+    - ID: "3eb149f8-de14-4220-a8f4-9e723cfae5d9"
+      Hint: Extension
+      Value: png
+    - ID: "5be6c122-84c9-4661-a0c9-3718909c8dad"
+      Hint: Size
+      Value: 211
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "611ba5dd-8d26-4c9b-a95d-900ac94cb32a"
+      Hint: Height
+      Value: 16
+    - ID: "6405cc9e-9ca1-44a1-adf8-0decf05071ce"
+      Hint: Dimensions
+      Value: 8 x 16
+    - ID: "aba5ce58-6d8f-43a4-b4fa-b181651347dd"
+      Hint: Mime Type
+      Value: image/png
+    - ID: "d8e619c3-2d16-47f4-ad3b-c68103df86c2"
+      Hint: Width
+      Value: 8
+    - ID: "dbbe7d99-1388-4357-bb34-ad71edf18ed3"
+      Hint: Blob
+      BlobID: "c7dcb761-142c-4fd3-b253-6214804ff9d2"
+      Value: iVBORw0KGgoAAAANSUhEUgAAAAgAAAAQCAYAAAArij59AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAGBJREFUeNpi/P//PwMUCABxAxAbMCBAAQsS5wAQ6zOgAgEmKMMBiyQYMDFgB4FAzAgyFZeCDXAW0JEH/uMGCbhMgIEHhBSArQBhBzSjYeIMBE0YEgpgsfkAiBuxKQAIMABjwUPlsUnECAAAAABJRU5ErkJggg==

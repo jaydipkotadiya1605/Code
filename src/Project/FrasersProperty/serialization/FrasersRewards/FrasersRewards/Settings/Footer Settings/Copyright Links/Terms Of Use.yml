@@ -1,0 +1,18 @@
+﻿---
+ID: "ddd26492-4ed7-4866-9ace-675cf192eaff"
+Parent: "072b8f81-04cb-48e2-843a-8858feed4fce"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Copyright Links/Terms Of Use
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Terms of use" anchor="" linktype="internal" class="" title="Terms of use" target="" querystring="" id="{92C0755D-205E-4C2C-B411-CAF9A75B8B0E}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T065349Z

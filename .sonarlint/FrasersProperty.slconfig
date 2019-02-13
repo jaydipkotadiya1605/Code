@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://frasers.niteco.se:9000/",
+  "Organization": null,
+  "ProjectKey": "frasersproperty",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWRkVdGVBDefG4ESao79",
+      "ProfileTimestamp": "2018-07-04T15:08:23+07:00"
+    }
+  }
+}

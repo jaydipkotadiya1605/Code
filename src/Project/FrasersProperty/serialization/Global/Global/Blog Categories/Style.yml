@@ -1,0 +1,24 @@
+﻿---
+ID: "bbe8b5e9-ce9b-4190-9d39-082a92db3483"
+Parent: "ea99f9bc-728c-4e1e-aecf-46709bd2cc7d"
+Template: "0e1d7b3e-2852-49bd-a7e6-6b2e5ba0b46f"
+Path: /sitecore/content/Global/Blog Categories/Style
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180620T050120Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b61a7758-deb3-44d4-abf9-48d85d612c30"
+      Hint: Key
+      Value: Style
+    - ID: "d1170e59-438b-4ff8-874d-0438dfe2ddf7"
+      Hint: Value
+      Value: Style

@@ -1,0 +1,23 @@
+﻿---
+ID: "7bd2c826-d916-4890-922a-7fd63e0e9bf2"
+Parent: "b22858c8-fba9-4b4b-8378-ecb6085a4787"
+Template: "e3938ae8-0021-4a64-b646-cdce6a04fa90"
+Path: /sitecore/content/WaterwayPoint/Local Content/Stores
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|frasersproperty\WaterwayPointAuthor|pe|-item:create|-item:write|-item:delete|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

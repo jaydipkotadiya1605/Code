@@ -1,0 +1,27 @@
+﻿---
+ID: "3ce5e660-c051-4609-a037-1f483305698c"
+Parent: "50aa5a9a-d84c-41bc-b9a4-214ef6993700"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Page Types/Store Search Result Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/selection_view.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {BF668C01-168B-4F4E-BDFD-B7EBA56A644C}
+    {D88CCD80-D851-470D-AF11-701FF23504E7}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{FA9A596C-0648-43CD-919E-81A648696DAD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180809T043825Z

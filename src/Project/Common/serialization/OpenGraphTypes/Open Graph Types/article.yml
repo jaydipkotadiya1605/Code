@@ -1,0 +1,17 @@
+﻿---
+ID: "ec6ba596-9b74-47a8-af3e-16428bea7f2b"
+Parent: "8f8f990d-fab8-48ef-8447-6881d2f72a86"
+Template: "36a8e330-1161-40a3-bf45-5991b9655822"
+Path: /sitecore/system/Settings/Feature/Open Graph Types/article
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080803Z
+    - ID: "2dd9234b-6dbf-47e2-a0d8-802930c499f7"
+      Hint: Name
+      Value: article

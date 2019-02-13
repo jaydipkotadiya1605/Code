@@ -1,0 +1,27 @@
+﻿@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Device.Repositories
+@using Sitecore.Foundation.Dictionary.Extensions
+@model IEnumerable<Sitecore.Feature.Store.Models.WingViewModel>
+
+@if (Model == null)
+{
+    return;
+}
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+}
+
+@if (Model.ToList().Count > 0)
+{
+    <div class="active wing-open" style="@(!isMobileMode ? "" : "display: none")">@Html.Sitecore().Dictionary(Constants.Wing, Constants.WingText)</div>
+    <select name="store-wing" id="store-wing" class="wing-select">
+        @if (isMobileMode)
+        {
+            <option disabled selected>@Html.Sitecore().Dictionary(Constants.Wing, Constants.WingText)</option>
+        }
+        @foreach (var wing in Model)
+        {
+            <option value="@wing.Id">@wing.Name</option>
+        }
+    </select>
+}

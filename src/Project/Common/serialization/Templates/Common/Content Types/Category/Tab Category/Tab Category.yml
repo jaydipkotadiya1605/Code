@@ -1,0 +1,14 @@
+﻿---
+ID: "b622e27f-e0cb-47a0-b62d-915f60a3a6e5"
+Parent: "f513cf2f-f4d9-4fc5-8fd2-ef670dc7fdda"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Common/Content Types/Category/Tab Category/Tab Category
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T101707Z

@@ -1,0 +1,146 @@
+﻿---
+ID: "98ec47ef-053d-4c1e-abc8-2dcf7bcabc0b"
+Parent: "3702a209-cb39-4aa8-8249-7aec2b5adba9"
+Template: "3702a209-cb39-4aa8-8249-7aec2b5adba9"
+Path: /sitecore/templates/Project/FrasersProperty/Page Types/Search Result/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4FAD9886-DDA6-49BB-84F3-42776BD87D9D}">
+        <r
+          id="{DA8E72DF-A70B-4BBC-9567-9C365B95BC39}"
+          ph="head"
+          uid="{1FEFCF8E-1A87-4A0E-B503-B9D6A6947A16}" />
+        <r
+          id="{1211FF1D-8276-43D6-9F66-AFEFC669E8D9}"
+          ph="header"
+          uid="{3D34C146-9F6E-43FC-8CE5-7CEBD699831F}" />
+        <r
+          id="{CCBE2D3E-641F-4913-8825-33AC0969CEFC}"
+          ph="top-menu"
+          uid="{01D535E7-80BC-4672-A30F-EF7FE2BF21E4}" />
+        <r
+          id="{A47C8288-7D4C-45FF-B75F-4AEDBF58A02D}"
+          ph="main-nav"
+          uid="{A9768556-F4D2-4A65-8D33-948FA10E3E36}" />
+        <r
+          id="{54BF7217-1EBC-4DD1-9ACB-FCA9E36FEA1A}"
+          ph="main-nav"
+          uid="{2B43E685-E4FD-4BB1-BD24-8982A41CDCA2}" />
+        <r
+          id="{98003FB4-317B-4702-A554-CD01929DBC40}"
+          ph="search-menu-item"
+          uid="{37B9ABE5-DC23-4CA1-969F-BA6A3F602CC9}" />
+        <r
+          id="{92BF63F4-073C-4C65-B27D-78CDAFBFC27C}"
+          ph="mobile-logo"
+          uid="{7A6CB82C-3A71-4CA5-B5C4-06ADA0DEBEAB}" />
+        <r
+          id="{D0A19AB3-1156-4326-87D7-7DA19024D259}"
+          ph="mobile-main-nav"
+          uid="{A0DAD001-A89B-4D7D-B126-7A8C8E51B312}" />
+        <r
+          id="{CCBE2D3E-641F-4913-8825-33AC0969CEFC}"
+          ph="mobile-top-menu"
+          uid="{A33426D7-BA75-4B8D-A0DE-95D4B77FCA6F}" />
+        <r
+          id="{C0B0B678-A208-46A4-A013-CC71883CC2B4}"
+          ph="search-bar"
+          uid="{8A5BC748-B66E-4C18-A2B1-66D11347B8CA}" />
+        <r
+          ds=""
+          id="{2B69C1BE-74E1-4767-8EA7-4184060FBBBE}"
+          par="Css Page Class=content search-listing"
+          ph="page-layout"
+          uid="{CE1B7209-52B4-46D8-A73A-C3E4AAEBBB20}" />
+        <r
+          id="{6EAE4373-82F3-4BF3-AC04-5EAFB67FBDC2}"
+          ph="search-overlay"
+          uid="{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}" />
+        <r
+          id="{E9B810ED-4F72-43AD-8731-DE85A1DFC257}"
+          ph="footer"
+          uid="{1C284A2E-453E-445B-9595-73867035944F}" />
+        <r
+          id="{A0689CBB-F979-4340-9B8E-162515BD14D8}"
+          ph="footer"
+          uid="{A06ACD01-E8C8-482F-87F5-F5B1A96208F8}" />
+        <r
+          id="{AA998EED-DD2A-4F19-BA02-373452EF8C91}"
+          ph="footer"
+          uid="{EFC01712-F73C-4C8E-8B83-7363D7C00190}" />
+        <r
+          id="{B74F92E1-2007-43E1-9B92-4316F9F826A6}"
+          ph="footer"
+          uid="{B2DD03D7-35EC-4BD6-AE7E-494FE448B81F}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7CF44964-D950-4B00-872B-5FBB230D3ACC}"
+              p:before="*"
+              s:ds=""
+              s:id="{4CF016B0-A77A-46A1-9BAE-213ED25DEDF6}"
+              s:par="SearchResultPage"
+              s:ph="/page-layout/column_ce1b7209-52b4-46d8-a73a-c3e4aaebbb20" />
+            <r
+              uid="{D16D8F14-1DBB-41FC-A2AF-BD574C9AB805}"
+              p:after="r[@uid='{7CF44964-D950-4B00-872B-5FBB230D3ACC}']"
+              s:ds=""
+              s:id="{1960C772-BFB1-40A4-AC6E-02624F314B0A}"
+              s:par="PageIndex&amp;PageSize=3&amp;Hidden=1"
+              s:ph="/page-layout/column_ce1b7209-52b4-46d8-a73a-c3e4aaebbb20" />
+            <r
+              uid="{E4A0FB76-3ABC-4032-A8A1-7013FFA845DB}"
+              p:after="r[@uid='{D16D8F14-1DBB-41FC-A2AF-BD574C9AB805}']"
+              s:ds=""
+              s:id="{64149E53-9387-4D88-BE78-26022F4D719A}"
+              s:par="Types=%7B24F3889D-C63B-452D-B158-7601EB790305%7D&amp;IsCurrentSite=1&amp;PageIndex&amp;PageSize=3&amp;SearchResultPage&amp;Title=Good%20Deals&amp;NotFoundMessage=Sorry%2C%20there%20are%20no%20Good%20Deals%20matching%20the%20filters%20set.&amp;Hidden=1"
+              s:ph="/page-layout/column_ce1b7209-52b4-46d8-a73a-c3e4aaebbb20" />
+            <r
+              uid="{FF52AE87-E85D-4713-9359-0D745AFD8953}"
+              p:after="r[@uid='{E4A0FB76-3ABC-4032-A8A1-7013FFA845DB}']"
+              s:ds=""
+              s:id="{64149E53-9387-4D88-BE78-26022F4D719A}"
+              s:par="Types=%7B9B2E84CE-C0F2-4ACD-8282-74ED1B293C19%7D%7C%7B6620FA0A-49E6-4CAE-8872-395425075DC8%7D%7C%7B5D5635DB-F3E3-4171-973B-C83D522C111A%7D&amp;IsCurrentSite=1&amp;PageIndex&amp;PageSize=3&amp;SearchResultPage&amp;Title=More%20from%20Frasers%20Property&amp;NotFoundMessage=Sorry%2C%20there%20are%20no%20Frasers%20Property%20matching%20the%20filters%20set.&amp;Hidden=1"
+              s:ph="/page-layout/column_ce1b7209-52b4-46d8-a73a-c3e4aaebbb20" />
+            <r
+              uid="{05EA081A-E6C4-4D53-8C46-F4C9F270F62F}"
+              p:after="r[@uid='{FF52AE87-E85D-4713-9359-0D745AFD8953}']"
+              s:ds=""
+              s:id="{C4E15184-C1D0-46A9-9669-DB67636AAA98}"
+              s:par=""
+              s:ph="/page-layout/header-sub-layout_ce1b7209-52b4-46d8-a73a-c3e4aaebbb20" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T073125Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: $name

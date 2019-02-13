@@ -1,0 +1,25 @@
+﻿@using Sitecore.Foundation.Dictionary.Repositories
+@model Sitecore.Feature.Map.Models.ContactInfo
+
+@if (Model == null)
+{
+    return;
+}
+<div class="quick-info">
+    <section>
+        <div class="title">@DictionaryPhraseRepository.Current.Get("/Website/Find Us", "Find Us")</div>
+        @Model.FindUs
+    </section>
+    <section>
+        <div class="title">@DictionaryPhraseRepository.Current.Get("/Website/Call Us", "Call Us")</div>
+        @Model.CallUs
+    </section>
+    <section>
+        <div class="title">@DictionaryPhraseRepository.Current.Get("/Website/Open From", "Open From")</div>
+        @Model.OpenFrom
+    </section>
+    <section>
+        <div class="title">@DictionaryPhraseRepository.Current.Get("/Website/Customer Service Counter", "Customer Service Counter")</div>
+        @Model.CustomerServiceCounter
+    </section>
+</div>

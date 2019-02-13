@@ -1,0 +1,22 @@
+﻿---
+ID: "09c1914c-1abc-4cd8-83b7-1f92d0c71918"
+Parent: "875a246a-4f98-4f8b-bda6-477c268b0607"
+Template: "4c82b6dd-fe7c-4144-bcb3-f21b4080568f"
+Path: /sitecore/content/FrasersRewards/Settings
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Main Site Author|pe|-item:create|-item:write|-item:delete|-item:rename|pd|-item:create|-item:write|-item:delete|-item:rename|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T034016Z

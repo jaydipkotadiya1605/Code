@@ -1,0 +1,14 @@
+﻿---
+ID: "3883a8ee-3ad5-42eb-9afc-5653adf3c5f3"
+Parent: "d9b8d336-9076-4601-8150-fda2d532df62"
+Template: "06bf4651-240d-4dca-9830-ce4bc82782f6"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Footer Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T071553Z

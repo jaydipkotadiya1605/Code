@@ -1,0 +1,22 @@
+﻿---
+ID: "fcb994c7-ada8-4259-ab9c-afe7d62b684e"
+Parent: "2ed07baf-0318-400e-96de-3a6bfbaaf6e9"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Settings/Item Resolver Settings/Special Event Routing Rule
+DB: master
+SharedFields:
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{5D5635DB-F3E3-4171-973B-C83D522C111A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180814T040510Z
+    - ID: "981dc08b-b585-4eb1-9507-766998633625"
+      Hint: Include Site Name
+      Type: Checkbox
+      Value: 0

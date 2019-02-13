@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,oDAAoD;AAIpD,4CAA4C;AAI5C,4CAA4C;AAI5C,yDAAyD",
+"sources": ["../scss/style-extend.scss"],
+"names": [],
+"file": "style-extend.css"
+}

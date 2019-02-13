@@ -1,0 +1,21 @@
+﻿---
+ID: "0027bd0a-d6b1-4ecf-91aa-46d0c94e90d7"
+Parent: "704f881e-1a90-4907-9c9e-96dddd377bd9"
+Template: "18cdd4ce-cdbe-4bdc-9d5a-6249f7f0ec17"
+Path: /sitecore/system/Settings/Feature/Metadata/Frasers Rewards/Waterway Point
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T040932Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7bdbba5f-c7e6-45c2-82f5-010ded013588"
+      Hint: Keyword
+      Value: Waterway Point

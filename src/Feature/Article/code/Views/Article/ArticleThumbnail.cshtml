@@ -1,0 +1,36 @@
+﻿@using Sitecore.Foundation.FrasersContent
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.Alerts
+@using Sitecore.Foundation.Alerts.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+    if (!Model?.Item?.IsDerived(Templates.Article.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Sitecore.Foundation.FrasersContent.Templates.Article.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+
+    var categoryItem = ((Sitecore.Data.Fields.ReferenceField)Model.Item.Fields[Templates.Article.Fields.Category]).TargetItem;
+    var thumbnailField = ((Sitecore.Data.Fields.ImageField)Model.Item.Fields[Templates.Article.Fields.Thumbnail]);
+    string altText = thumbnailField.Alt;
+    if (string.IsNullOrEmpty(altText))
+    {
+        altText = Model.Item.Fields[Templates.Article.Fields.Title].Value;
+    }
+}
+<div class="post-list">
+    <div class="item clearfix">
+        <div class="thumb">
+            <img src="@Model.Item.ImageUrl(Templates.Article.Fields.Thumbnail)" alt="@altText">
+        </div>
+        <div class="text">
+            @if (categoryItem != null)
+            {
+                <div class="category">@Html.Sitecore().Field(Templates.ArticleCategory.Fields.Value, categoryItem)</div>
+            }
+            <div class="title">@Html.Sitecore().Field(Templates.Article.Fields.Title, Model.Item)</div>
+            <div class="excerpt">@Html.Sitecore().Field(Templates.Article.Fields.Summary, Model.Item)</div>
+        </div>
+    </div>
+</div>

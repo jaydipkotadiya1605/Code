@@ -1,0 +1,50 @@
+﻿---
+ID: "28d90a24-8e33-40cf-a1df-ca863d3789ef"
+Parent: "6ee64d59-5cf4-4b22-aa4e-7d9058f69b4d"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Blog/Blog List
+DB: master
+SharedFields:
+- ID: "1084d3d2-0457-456a-abbc-eb4cc0966072"
+  Hint: VaryByQueryString
+  Type: Checkbox
+  Value: 0
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{DDBC0A3F-ED36-4FBF-A0C6-AF57A4943EB7}"
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 0
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 0
+- ID: "94069f66-609c-48b0-8281-521c30fb269d"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: BlogList
+- ID: "e514a1eb-ddba-44f7-8528-82ca2280f778"
+  Hint: JavaScript assets
+  Value: "/js/search/load-more.js"
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.Blog.Controllers.BlogController,Sitecore.Feature.Blog
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T075759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

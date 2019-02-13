@@ -1,0 +1,14 @@
+﻿---
+ID: "df995ce0-53ca-4e3e-9a20-73b47be02de7"
+Parent: "e1827e2c-443c-4c34-a938-2fd96f9085e8"
+Template: "fb3e6f36-19f3-422c-800c-c41868355e08"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095059Z

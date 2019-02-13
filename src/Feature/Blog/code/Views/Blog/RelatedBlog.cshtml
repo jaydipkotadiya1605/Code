@@ -1,0 +1,37 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Blog.Models.BlogItems
+
+<!-- related -->
+@if (Model != null && Model.Items != null)
+{
+    if (Model.Items.Any())
+    {
+    <section class="container related stores">
+        <!-- heading -->
+        <div class="heading">
+            @Html.Sitecore().Dictionary(Sitecore.Foundation.FrasersContent.Constants.BlogDictionary.RelatedBlogTitle, Sitecore.Foundation.FrasersContent.Constants.BlogDictionary.RelatedBlogTextDefault)
+        </div>
+        <!-- /heading -->
+        <!-- blog list -->
+        <div class="list clearfix">
+        @foreach (var item in Model.Items)
+        {
+            if (item != null)
+            {
+                <div class="item">
+                    <a href="@item.Url">
+                        <img src="@item.Item.ImageUrl(Sitecore.Foundation.FrasersContent.Templates.Blog.Fields.Thumbnail)" alt="@item.Alt">
+                    </a>
+                    <div class="greywrap">
+                        <div class="storename"><a href="@item.Url">@item.Title</a></div>
+                    </div>
+                </div>
+            }
+        }
+        </div>
+        <!-- blog list -->
+    </section>
+    }
+}
+<!-- /related -->

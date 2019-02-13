@@ -1,0 +1,11 @@
+﻿@model Sitecore.Feature.Identity.Models.SocialItems
+
+@if (Model?.Items != null && Model.Items.Count > 0)
+{
+    <div class="social-btns clearfix">
+        @foreach (var item in Model.Items)
+        {
+            <a href="@item.Link" target="_blank" class="icon" title="@item.Name"><img src="@item.MobileIconUrl" alt="@item.Name" /></a>
+        }
+    </div>
+}

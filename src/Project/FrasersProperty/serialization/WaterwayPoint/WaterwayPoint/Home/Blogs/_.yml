@@ -1,0 +1,18 @@
+﻿---
+ID: "30bf3554-03c6-4a7f-a915-d9ec64682893"
+Parent: "67ca9b5d-d55b-4795-b1c2-7b270014fd02"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/content/WaterwayPoint/Home/Blogs/*
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T081255Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "2b971402-bfa4-41b0-8dd2-678c9ac41c5d"
+Parent: "8771331d-7a29-4142-a0b7-410f3d76369b"
+Template: "fff5f245-ffc0-4022-a998-9b07aa5e761f"
+Path: /sitecore/content/AnchorPoint/Home/Search Result/_Local
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T083016Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

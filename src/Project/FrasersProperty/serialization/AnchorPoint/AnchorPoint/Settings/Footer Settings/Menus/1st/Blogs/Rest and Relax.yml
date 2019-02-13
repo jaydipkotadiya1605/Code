@@ -1,0 +1,22 @@
+﻿---
+ID: "434d3475-c8e2-4726-9258-92cd59a43662"
+Parent: "9cea046e-571b-4c6a-8bf3-4278e3abfc11"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/1st/Blogs/Rest and Relax
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Rest &amp; Relax" anchor="" linktype="internal" class="" title="Rest &amp; Relax" target="" querystring="?category=rr&amp;pageIndex=1" id="{060A9B4A-F516-4BE3-A5E6-E149116F63E6}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180822T103546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

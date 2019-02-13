@@ -1,0 +1,42 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Feature.Search
+@using Sitecore.Foundation.Alerts.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Search.ViewModels.FraserRewardsViewModel
+
+@if (Model == null || Model.TotalNumberOfResults == 0)
+{
+    @Html.PageEditorInfo(Html.Sitecore().Dictionary(Constants.NoLatestPostFound, Constants.NoLatestPostFoundText))
+    return;
+}
+
+<div class="heading">
+    @Model.Title
+</div>
+<div class="post-list">
+    @foreach (var item in Model.Results)
+    {
+        <div class="item clearfix" id="@item.Id">
+            <div class="thumb">
+                <a href="@item.Url">
+                    <img src="@(item.Media?.ImageUrl())" alt="@(item.Media?.Alt ?? item.Title)">
+                </a>
+            </div>
+            <div class="text">
+                <div class="category">@item.Category</div>
+                <div class="title">
+                    <a href="@item.Url">@item.Title</a>
+                </div>
+                <div class="excerpt">@item.Description</div>
+                <a href="@item.Url" class="more rightarrow">@Html.Sitecore().DictionaryField(Constants.Readmore, Constants.ReadmoreText)</a>
+            </div>
+        </div>
+    }
+    @if (Model.HasPaging)
+    {
+        <a href="javascript:void(0)" class="full-btn loadmore @(Sitecore.Context.PageMode.IsExperienceEditor ? "disabled" : "" )" id="load-more" data-rendering-id="@Model.RenderingId"
+           data-page-index="@Model.PageIndex" data-page-size="@Model.PageSize" data-anchor="#@(Model.Results.LastOrDefault()?.Id)">
+            @Html.Sitecore().DictionaryField(Constants.LoadMore, Constants.LoadMoreText)
+        </a>
+    }
+</div>

@@ -1,0 +1,14 @@
+﻿---
+ID: "10a4f612-7a30-4c3c-af10-a9735e113236"
+Parent: "9289bb92-30d0-476d-bfe1-ac9a847abb56"
+Template: "b93d5bc5-8708-434d-b908-dd03b838d29a"
+Path: /sitecore/content/Global/Style Folder/Row Styles/Column Styles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T025757Z

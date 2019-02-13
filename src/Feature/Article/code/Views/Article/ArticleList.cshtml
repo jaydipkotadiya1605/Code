@@ -1,0 +1,41 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.FrasersContent
+@model Sitecore.Feature.Article.Models.ArticleItems
+
+@if (Model != null && Model.Items != null && Model.Items.Any())
+{
+    <!-- threebox-wrapper -->
+    <div class="row threebox-wrapper gooddeals">
+    @foreach (var item in Model.Items)
+    {
+        if (item != null)
+        {
+         <!-- item -->
+        <div class="col col-lg-4 col-6 item" id="@item.Id">
+            <div class="thumb">
+                <a href="@item.Url">
+                   <img src="@item.Item.ImageUrl(Sitecore.Foundation.FrasersContent.Templates.Article.Fields.Thumbnail)" alt="@item.Alt">
+                </a>
+            </div>
+            <div class="text">
+                <div class="title"><a href="@item.Url">@item.Title</a></div>
+                <a href="@item.Url" class="more rightarrow">@Html.Sitecore().Dictionary("/Website/Read More", "Read More")</a>
+            </div>
+        </div>
+        <!-- /item -->
+        }
+    }
+    </div>
+    <!-- /threebox-wrapper -->
+}
+else
+{
+    <div class="row threebox-wrapper">
+        <div class="col col-lg-4 col-6 item">@Html.Sitecore().Dictionary(Constants.NoDataFound, Constants.NoDataFoundText)</div>
+    </div>
+}
+@if (Model.HasMoreResult)
+{
+    <a href="javascript:void(0)" class="full-btn loadmore" id="load-more"  data-page-index="@Model.PageIndex" data-page-size="@Model.PageSize" data-anchor="#@(Model.Items.LastOrDefault()?.Id)">@Html.Sitecore().Dictionary(Sitecore.Foundation.FrasersContent.Constants.LoadMore, Sitecore.Foundation.FrasersContent.Constants.LoadMoreText)</a>
+}

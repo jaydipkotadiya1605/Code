@@ -1,0 +1,26 @@
+﻿---
+ID: "57e6f5d3-338d-4107-94cc-1dec8d39ed66"
+Parent: "1de22666-3730-4bed-bbc6-123dc385bb33"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/1st/Other Links/About AnchorPoint
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="About AnchorPoint" anchor="" linktype="internal" class="" title="About AnchorPoint" target="" querystring="" id="{9ECB6930-F147-45B5-9B4E-3A6CFD37B549}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T091806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

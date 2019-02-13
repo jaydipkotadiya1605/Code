@@ -1,0 +1,31 @@
+﻿---
+ID: "58289ff9-ad99-4799-93b3-f824bfdd466b"
+Parent: "a1e45b2d-4cf4-4f4a-b922-6ebb7175dd64"
+Template: "a1e45b2d-4cf4-4f4a-b922-6ebb7175dd64"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Header/Header Settings/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C6A18D6F-DFE2-43DB-B7FE-E4BD68C4C77E}
+    {C0666526-56C5-42FA-A8CF-F70FBFDA0508}
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T071435Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

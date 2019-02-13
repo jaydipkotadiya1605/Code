@@ -1,0 +1,56 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Feature.Search
+@model Sitecore.Feature.Search.ViewModels.FraserRewardsViewModel
+
+@if (Model == null)
+{
+    return;
+}
+
+<div id="searchResults" style="display: none">
+    <input id="totalNumberOfResults" value="@Model.TotalNumberOfResults" />
+</div>
+
+@if (Model.IsHiddenIfNotFound)
+{
+    return;
+}
+
+<div class="result-header">@Model.Title</div>
+@if (Model == null || Model.TotalNumberOfResults == 0)
+{
+    <div class="list clearfix">
+        <div class="text-center">@Model.NotFoundMessage</div>
+    </div>
+    return;
+}
+
+<div class="row threebox-wrapper">
+    @foreach (var item in Model.Results)
+    {
+        <div class="col col-lg-4 col-6 item" id="@item.Id">
+            <div class="thumb">
+                <a href="@item.Url">
+                    <img src="@(item.Media?.ImageUrl())" alt="@(item.Media?.Alt ?? item.Title)">
+                </a>
+            </div>
+            <div class="text">
+                <div class="title">
+                    <a href="@item.Url">@item.Title</a>
+                </div>
+                <a href="@item.Url" class="more rightarrow">@Html.Sitecore().DictionaryField(Constants.Readmore, Constants.ReadmoreText)</a>
+            </div>
+        </div>
+    }
+</div>
+
+@if (Model.HasPaging)
+{
+    <div class="more-wrap">
+        <a href="javascript:void(0)" class="full-btn @(Sitecore.Context.PageMode.IsExperienceEditor ? "disabled" : "" )" data-rendering-id="@Model.RenderingId"
+           data-page-index="@Model.PageIndex" data-page-size="@Model.PageSize" data-anchor="#@(Model.Results.LastOrDefault()?.Id)">
+            @Html.Sitecore().DictionaryField(Constants.LoadMore, Constants.LoadMoreText)
+        </a>
+    </div>
+}

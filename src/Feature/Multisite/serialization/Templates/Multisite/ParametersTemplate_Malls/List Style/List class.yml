@@ -1,0 +1,25 @@
+﻿---
+ID: "e83680f0-876d-48ed-b710-2ee7d17c7b8c"
+Parent: "bc0b6a71-f477-48b7-af44-47d9ed7cb796"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Multisite/ParametersTemplate_Malls/List Style/List Class
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/content/Global/Style Folder/List Styles/*[@@templatename='Style']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T050745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,31 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Feature.Store
+@model Sitecore.Feature.Store.Models.RelatedStoresViewModel
+
+@if (Model?.Stores == null || !Model.Stores.Any())
+{
+    return;
+}
+
+<section class="container related stores">
+    <div class="heading">
+        @Html.Sitecore().Dictionary(Constants.RelatedStores, Constants.RelatedStoresText)
+    </div>
+    <div class="list clearfix">
+        @foreach (var store in Model.Stores)
+        {
+            <div class="item">
+                <a href="@store.Url">
+                    <img src="@store.Logo.Src" alt="@store.Logo.Alt">
+                </a>
+                <div class="greywrap">
+                    <div class="storename">
+                        <a href="@store.Url">
+                            @store.StoreName
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</section>

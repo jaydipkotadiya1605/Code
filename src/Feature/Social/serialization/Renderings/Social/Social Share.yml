@@ -1,0 +1,37 @@
+﻿---
+ID: "ac398b3e-cad8-4f37-a54a-c2a17ab0bff1"
+Parent: "3857af89-14f5-43a0-9207-1ffd26fc7986"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Social/Social Share
+DB: master
+SharedFields:
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 0
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Social/SocialShare.cshtml
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 0
+- ID: "e514a1eb-ddba-44f7-8528-82ca2280f778"
+  Hint: JavaScript assets
+  Value: "/js/remove-add-this-css.js"
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T092822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

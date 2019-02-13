@@ -1,0 +1,25 @@
+﻿---
+ID: "36a8e330-1161-40a3-bf45-5991b9655822"
+Parent: "6d29c843-0fa9-47e2-9402-eabc609dc29d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Open Graph Type
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/graph_triangle.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{14B6A156-97A2-451A-8953-9461A696DCFF}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{C0C2A426-4D30-4435-ACD8-80C3EF5EA92C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080444Z

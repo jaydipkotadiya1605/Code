@@ -1,0 +1,22 @@
+﻿---
+ID: "fa50a26a-c7da-458c-b44b-5a4583a68a30"
+Parent: "46e50272-089f-4fd4-8ad2-d04352ea2cb1"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/2nd/Stores
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Stores" anchor="" linktype="internal" class="" title="Stores" target="" querystring="" id="{F4681E00-8886-4F17-81A7-95925A4D202D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060342Z

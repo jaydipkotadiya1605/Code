@@ -1,0 +1,18 @@
+﻿---
+ID: "afc79cf9-766c-4bec-bf72-fdb15b55d0c6"
+Parent: "cd85a6d7-b64a-45f6-b118-fb4f025becdb"
+Template: "c0666526-56c5-42fa-a8cf-f70fbfda0508"
+Path: /sitecore/content/AnchorPoint/Settings/Header Settings/Social Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T081901Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

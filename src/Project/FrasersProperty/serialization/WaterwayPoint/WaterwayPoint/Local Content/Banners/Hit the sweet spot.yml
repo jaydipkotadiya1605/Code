@@ -1,0 +1,40 @@
+﻿---
+ID: "cbe462b1-3673-4184-925f-da315e6708cd"
+Parent: "221d491f-8217-482c-a746-7004eb243570"
+Template: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Path: /sitecore/content/WaterwayPoint/Local Content/Banners/Hit the sweet spot
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{F2643A12-2A7E-4FA5-BB91-CDD9A3383932}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5b89a0-4344-47a8-816b-2a6c0c8cd82e"
+      Hint: Source ID
+      Value: "{F2643A12-2A7E-4FA5-BB91-CDD9A3383932}"
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{F2643A12-2A7E-4FA5-BB91-CDD9A3383932}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T051017Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 20180101T094600Z
+    - ID: "9b4e265b-2bfa-4665-85d0-8c15f2f07a14"
+      Hint: Expiry Date
+      Value: 

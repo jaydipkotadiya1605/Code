@@ -1,0 +1,35 @@
+﻿---
+ID: "35d7ee9c-1b43-4abc-b74d-70cc38f6cd62"
+Parent: "c986440b-2ec7-499a-85ae-98c08634ef71"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/Identity/icon-frx"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/35d7ee9c1b434abcb74d70cc38f6cd62.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1f7d2c5b-fda8-4998-88ee-0b415700cb8b"
+  Value: PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNi4zNG1tIiBoZWlnaHQ9IjM5LjY0bW0iIHZpZXdCb3g9IjAgMCAxMDMuMDIgMTEyLjM2Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmljb24tZnJ4PC90aXRsZT48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03NS4zNCw3My43bC0xNS4xLDM4LjY2SDcyLjdsOS0yNC40OW03LjQ2LTE3LjEzTDEwMywzNS40Nkg5MC4xOUw4Mi44Myw1NS44OSIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTExLjYsNDQuMzFIMjcuMjVWMzIuNjVIMTEuNnYtMjFIMzNWMEgwVjc3SDExLjZaTTQxLC4wNlY3N2gxMS42VjQ4aDcuNzNsMjYuODMsNjQuMzdIOTkuNjlsLTI4LjM4LTY5YTE4LDE4LDAsMCwwLDYuMi0xMy44MVYxOC40MXEwLTguMzQtNC0xM1E2OSwuMDYsNTkuMjguMDZaTTY2LjIyLDI5LjgzYTYuNDksNi40OSwwLDAsMS0xLjk0LDQuNzIsNi4zMyw2LjMzLDAsMCwxLTQuNjksMmgtN1YxMS45MWg3cTYuNjMsMCw2LjYzLDYuNjlaIi8+PC9zdmc+
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 582
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T122328Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

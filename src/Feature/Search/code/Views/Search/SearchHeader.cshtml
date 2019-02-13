@@ -1,0 +1,15 @@
+﻿@model Sitecore.Feature.Search.ViewModels.SearchHeaderViewModel
+
+<div class="refine-search">
+    <input id="searchResultPageUrl" type="hidden" value="@Model.SearchResultPageUrl" />
+    <h5><span id="totalNumberOfResults"></span>&#32;@Model.Title&#32;<span id="searchKeyword"></span></h5>
+    <p>@Model.Subtitle</p>
+    <div class="row">
+        <div class="col col-8 col-md-10">
+            <input id="keyword" type="text" class="search-field" placeholder="@Model.PlaceholderText">
+        </div>
+        <div class="col col-4 col-md-2">
+            <a href="javascript:void(0)" class="btn  @(Sitecore.Context.PageMode.IsExperienceEditor ? "disabled" : "" )" id="btnSearch" title="@Model.ButtonSearchText">@Model.ButtonSearchText</a>
+        </div>
+    </div>
+</div>

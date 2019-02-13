@@ -1,0 +1,25 @@
+﻿---
+ID: "c039194e-5984-4f25-9e3d-6feb4771b3f2"
+Parent: "fb3e6f36-19f3-422c-800c-c41868355e08"
+Template: "fb3e6f36-19f3-422c-800c-c41868355e08"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Footer/Datasources/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {FB3E6F36-19F3-422C-800C-C41868355E08}
+    {282693F4-F958-4B55-A4AD-7C0F291BDBBB}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095941Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

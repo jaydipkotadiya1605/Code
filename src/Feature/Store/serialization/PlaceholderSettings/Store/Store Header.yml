@@ -1,0 +1,40 @@
+﻿---
+ID: "f1159dad-c0bf-4810-aa64-4427d43e6004"
+Parent: "b891417f-f4be-4993-b933-ccd267611642"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Store/Store Header
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "store-header"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {570F6040-6CD5-4560-8820-25655D510980}
+    {B87F6745-6F9A-476D-BEB2-4072BD2FB082}
+    {ABAA71D7-D331-4A32-80BD-78D6EDB4B567}
+    {C920CB79-CF90-4BE1-A1E4-E71407EF962D}
+    {ED7D0423-F5ED-4FEB-8A9B-B0F1838F3472}
+    {773B230D-BFD5-414A-B5AD-B589AF41564F}
+    {FFC6D6CE-CBBD-40A0-8610-31F5FE3019CD}
+    {514C5950-7FB9-46FA-B1E0-160965DB63F4}
+    {8B857E61-7855-43C0-8162-E83A5DB87988}
+    {EF4DD19F-F5B3-4D10-9BDF-B1976FAD7F00}
+    {4CF016B0-A77A-46A1-9BAE-213ED25DEDF6}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180723T024253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

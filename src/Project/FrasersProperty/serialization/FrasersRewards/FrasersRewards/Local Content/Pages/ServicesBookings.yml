@@ -1,0 +1,55 @@
+﻿---
+ID: "a85ad055-2dc7-4bf5-8d95-8a4dd27fe740"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/ServicesBookings
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Services | Bookings
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T201809Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <h1>MORE THAN JUST AN APP.</h1>
+        
+        					<p><br />Get connected with the community and avail yourself to various amenities – all at your fingertips.</p>
+        
+        					<div class="row align-items-center">
+        						<div class="col col-12 col-md-5 col-lg-4 col-xl-3 text-center text-md-left">
+        							<img src="-/media/168af05ec83440f88f1775e24e5db3e4.ashx" alt="" />
+        							<br /><br /><br />
+        						</div>
+        						<div class="col col-12 col-md-7">
+        							<div class="frx-rewards-line purple"></div>
+        							<p><strong style="color:#262261">From interesting workshops to family-friendly activities and festive specials, be a part of the fun.  Register for our events with your FRx app.</strong>
+        							<br /><br />
+        							
+        							You can also look forward to booking function rooms, futsal courts and more at selected locations of Frasers Property in 2019.
+        							<br /><br />
+        
+        							<a href="http://frasersexperience.com/app-terms-of-use/#bookings" target="_blank">Terms &amp; Conditions apply</a></p>
+        						</div>
+        					</div>

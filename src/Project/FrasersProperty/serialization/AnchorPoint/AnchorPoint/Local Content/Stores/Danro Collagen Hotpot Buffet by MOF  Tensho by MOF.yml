@@ -1,0 +1,84 @@
+﻿---
+ID: "291e1a78-6343-4313-b7ea-94046b1278d5"
+Parent: "ae3ccd03-07fe-4658-ab91-f5caab390b0a"
+Template: "5d406680-b088-46e8-9734-7370f2f6e9ed"
+Path: /sitecore/content/AnchorPoint/Local Content/Stores/Danro Collagen Hotpot Buffet by MOF  Tensho by MOF
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f1aef8e-0e98-4d1b-b32a-b37f07658931"
+      Hint: Store Categories
+      Type: Multilist
+      Value: |
+        {A739FF93-D02C-4D17-8FD6-94C23C64ABE6}
+        {450D9565-119A-4FA4-841B-6C4E5E77E66F}
+        {F721C9BE-FFB6-434C-A3AA-6A592025C8BA}
+    - ID: "1beb7714-80dc-4642-ab25-ba6b916e29e6"
+      Hint: New Date
+      Value: 
+    - ID: "1d8ec12c-2f42-4813-8013-1c28b8b88315"
+      Hint: Opening Hours
+      Value: "11:30am to 10pm"
+    - ID: "24685ba6-1a7d-4907-b7d2-bdf13a538e03"
+      Hint: Unit No
+      Value: "West Wing, #B1-13"
+    - ID: "2502dc6e-89e3-4887-80f6-e6747100f821"
+      Hint: Brands
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180726T081128Z
+    - ID: "40a19311-9ee7-4cde-a9ce-2747b338b2b5"
+      Hint: Logo
+      Value: |
+        <image mediaid="{F0938449-310F-4252-847F-5697CF31CBC9}" />
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{217FB968-CA59-47D4-B57E-F77F28792DFE}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d6ecbb5-c929-4f47-acc6-a185aaf49aab"
+      Hint: Store Offers
+      Type: Multilist
+      Value: |
+        {80FE60BA-90EE-4B25-BFE3-8A7D3EA0F59D}
+        {55F759E2-0FCC-4FAF-A46B-CDF16D08FCEF}
+    - ID: "828e5081-96e1-4d71-ac4b-e43fca6690d4"
+      Hint: Keywords
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "842869b0-46f9-4b25-8b3f-ec7ce1d6c8e6"
+      Hint: Description
+      Value: |
+        <p>BreadTalk opened its next new concept outlet in Waterway Point, Punggol. With an interesting repertoire of over 50 brand new items, the new collection is all about bringing good quality natural ingredients to customers - which is BreadTalk's answer to the global call by consumers for more natural food options. Ingredients such as Japanese-milled flour, pure butter from New Zealand and Hokkaido milk are globally sourced and carefully handpicked by its three Masterchefs hailing from Japan, Taiwan and Singapore.</p>
+        <p>Each creation is the fruition of the Masterchefs' combined international culinary experience and technical expertise - with the focus on bringing a harmony of textures, flavor and ingredients suited for the Asian palate. These include a wide variety of soft euro breads and the rarely used rice-flour as key ingredient in the new cake collection. In addition, discerning folks who are watchful of what they eat will be pleased to note BreadTalk does not add artificial elements, additives or preservatives during the baking or cooking processes, thus making BreadTalk a very natural choice to visit when you are at Waterway Point!</p>
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 
+    - ID: "8f83bc03-e92d-4461-94a4-7b77dc6afed9"
+      Hint: Phone Number
+      Value: 6385 3630
+    - ID: "b45a9bc9-dc37-47d8-9235-3e448cee2e57"
+      Hint: Contact
+      Value: "West Wing, #B1-13"
+    - ID: "b9d4826f-56c7-4f2b-9520-648769fa42df"
+      Hint: Store Name
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "bb7a38c0-323c-4f81-8eb9-288abf7c4638"
+      Hint: MetaDescription
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Danro Collagen Hotpot Buffet by MOF / Tensho by MOF
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 1

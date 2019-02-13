@@ -1,0 +1,66 @@
+﻿---
+ID: "8771331d-7a29-4142-a0b7-410f3d76369b"
+Parent: "a816fcd4-daea-46e0-8894-9ecb8683a7cb"
+Template: "3702a209-cb39-4aa8-8249-7aec2b5adba9"
+Path: /sitecore/content/AnchorPoint/Home/Search Result
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 629
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{40512E37-3E97-4F79-901B-B5FD379D2A7E}"
+          p:after="*[1=2]"
+          s:id="{E7AE3F87-CF66-40F2-A9F5-33ECF08BC777}"
+          s:ph="head" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7CF44964-D950-4B00-872B-5FBB230D3ACC}"
+              s:ds="{ED37B288-322A-44FB-BF34-7CD0C4F08CC2}" />
+            <r
+              uid="{E4A0FB76-3ABC-4032-A8A1-7013FFA845DB}"
+              s:par="Types={24F3889D-C63B-452D-B158-7601EB790305}&amp;IsCurrentSite=1&amp;PageIndex&amp;PageSize=3&amp;Title=Good Deals&amp;NotFoundMessage=Sorry, there are no Good Deals matching the filters set.&amp;SearchResultPage" />
+            <r
+              uid="{FF52AE87-E85D-4713-9359-0D745AFD8953}"
+              s:par="Types={9B2E84CE-C0F2-4ACD-8282-74ED1B293C19}|{6620FA0A-49E6-4CAE-8872-395425075DC8}|{5D5635DB-F3E3-4171-973B-C83D522C111A}&amp;IsCurrentSite=1&amp;PageIndex&amp;PageSize=3&amp;Title=More from Frasers Property&amp;NotFoundMessage=Sorry, there are no Frasers Property matching the filters set.&amp;SearchResultPage" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T075956Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{217FB968-CA59-47D4-B57E-F77F28792DFE}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Search Result
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Search Result

@@ -1,0 +1,36 @@
+﻿---
+ID: "fc4953f5-f765-4d8f-b959-2655799833e6"
+Parent: "83cbdbb7-2458-47a3-8249-2cabf06b31d1"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Snippets/App Download
+DB: core
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <div class="row">
+    <div class="col col-12 col-md-6 mb-3 text-center text-md-right">
+    <a href="https://play.google.com/store/apps/details?id=com.frasersrewards.app" target="_blank" title="Download from Google Play">
+    <img alt="" src="/-/media/feature/pagecontent/button-googleplay.png" /></a>
+    </div>
+    <div class="col col-12 col-md-6 mb-3 text-center text-md-left">
+    <a href="https://itunes.apple.com/sg/app/frasers-rewards/id1038861781?mt=8" target="_blank" title="Download from Apple Store">
+    <img alt="" src="/-/media/feature/pagecontent/button-appstore.png" /></a>
+    </div>
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T072955Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: |
+        <img height="16"  src="/sitecore/shell/Themes/FrasersProperty/AppDownload.png" border="0" alt="App Download"/>App Download

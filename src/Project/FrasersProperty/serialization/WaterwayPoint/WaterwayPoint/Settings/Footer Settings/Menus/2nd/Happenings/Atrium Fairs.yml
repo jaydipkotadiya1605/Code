@@ -1,0 +1,22 @@
+﻿---
+ID: "8746e65b-89f7-4d81-a530-90a05e623f39"
+Parent: "13d3d143-710c-4b8c-b056-76683afdd51e"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/2nd/Happenings/Atrium Fairs
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Artium Fairs" anchor="" linktype="internal" class="" title="Artium Fairs" target="" querystring="category=Artium Fair" id="{07375B0D-1C19-443C-92C0-C4B876D93EE7}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T100445Z

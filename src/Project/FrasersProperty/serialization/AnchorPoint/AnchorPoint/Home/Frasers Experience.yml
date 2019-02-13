@@ -1,0 +1,63 @@
+﻿---
+ID: "4e8f54d5-6f47-4ac9-b0ad-79ab16ea4313"
+Parent: "a816fcd4-daea-46e0-8894-9ecb8683a7cb"
+Template: "d496a0df-0dad-45cf-87c1-efb53d7ba3b7"
+Path: /sitecore/content/AnchorPoint/Home/Frasers Experience
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 675
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{348D21D6-4B5E-4E63-9E53-635F0EB7CBE6}"
+              s:par="Categories={12434553-2126-49BB-A139-B14F6A9F486E}|{01E03EC8-0AAD-4869-AD3D-4154A2E57627}&amp;Link to List Page&amp;Is Store Page&amp;Number of Scores=5" />
+            <r
+              uid="{C56952E4-4CB2-4CF2-B7F2-0E42E3C033DB}">
+              <p:d />
+            </r>
+            <r
+              uid="{1965EF67-347A-4DC4-8B11-784C786708BE}"
+              p:after="r[@uid='{CD94E3E8-C598-4699-9FDF-2192C34A0BF5}']"
+              s:ds="{645C6860-7591-4B63-B536-3DDD101D4E28}"
+              s:id="{0E2721B0-426A-48AA-BF68-9E0279AA29BD}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-wide-1_ae89ed87-2654-44c8-9fc7-c286ac87e105" />
+            <r
+              uid="{0324D67C-C2CE-4A24-BE7E-FD1210FF5BDF}"
+              s:par="SearchResultPage={5E813DC6-9468-4D2D-ADE3-1346902817FD}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T081547Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{217FB968-CA59-47D4-B57E-F77F28792DFE}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Frasers Experience
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Frasers Experience
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0

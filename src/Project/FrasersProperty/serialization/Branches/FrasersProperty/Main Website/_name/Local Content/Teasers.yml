@@ -1,0 +1,14 @@
+﻿---
+ID: "e7dd2b00-6efd-452c-bd9b-8389d22bf478"
+Parent: "b55ca9f4-39cf-4a78-b8dd-9e158f2051e1"
+Template: "0b5f9423-1efc-44ef-ab02-97332cd0e54e"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Local Content/Teasers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180813T042926Z

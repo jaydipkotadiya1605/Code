@@ -1,0 +1,83 @@
+﻿---
+ID: "f2e0358b-c765-4b3d-81c5-a0cf8389ac03"
+Parent: "18860360-3407-4ea9-9a76-95a3e53b8288"
+Template: "f62b4cd7-754c-4461-810f-2b6bd2c92a0d"
+Path: /sitecore/client/Applications/Importer/ImporterDialog/PageSettings/DataImportTabs/Mapping
+DB: core
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "deab3795-056f-4421-adf0-758844461b72"
+  Hint: Placeholder Name
+  Value: Import Mapping
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=0&amp;Id=MappingBorder"
+          ph=""
+          uid="{BC38FBCC-EAC0-4BCE-A3AC-4A61C8D70B4D}" />
+        <r
+          id="{442BD093-FBAD-4E36-BC08-489E16C82D08}"
+          par="Header=Mapping+Details&amp;IsCollapsible=0&amp;IsOpen=1&amp;Id=MappingExpander"
+          ph="MappingBorder.Content"
+          uid="{817710C7-F97F-4929-9C1D-AFC188D96C8B}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="PaddingType=All&amp;UsePadding=1&amp;Id=ContentTypeMappingBorder"
+          ph="MappingExpander.Body"
+          uid="{EE01CCF1-B0C9-4504-A9EF-974EDC022AC2}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Content+Type&amp;Id=ContentType"
+          ph="ContentTypeMappingBorder.Content"
+          uid="{03D99B62-63C9-4A3C-A586-6197B205FEAD}" />
+        <r
+          id="{33A02142-2DBD-4034-AEA2-BDF215EB2451}"
+          par="Query=%2fsitecore%2fsystem%2fModules%2fImporter%2fOptions%2fContentType%2f*&amp;Database=master&amp;Id=ContentTypeDataSource"
+          ph="ContentTypeMappingBorder.Content"
+          uid="{0B9B04B1-B69D-48F0-B588-A36DF87CD008}" />
+        <r
+          id="{25D357D3-3648-4336-9B53-55EED7CFA078}"
+          par="Items=%7bBinding+ContentTypeDataSource.Items%7d&amp;ValueFieldName=Name&amp;Id=ContentType"
+          ph="ContentTypeMappingBorder.Content"
+          uid="{26962C1A-D668-4FA9-A609-F1B8E38A4699}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="PaddingType=All&amp;UsePadding=1&amp;Id=LogInfoBorder"
+          ph="MappingExpander.Body"
+          uid="{049E7913-34A2-4FA8-8D2E-BB6CD5BA9D3B}" />
+        <r
+          id="{7717EB6C-9F90-4C58-826D-5E87722A0318}"
+          par="TextType=Text&amp;Id=LogInfo"
+          ph="LogInfoBorder.Content"
+          uid="{57DA2090-C5C6-4AA9-B2DF-FCFD4675C436}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="PaddingType=All&amp;UsePadding=1&amp;Id=ImportButtonBorder"
+          ph="MappingExpander.Body"
+          uid="{5BBF39A0-3CDF-4289-8BE3-CA52975F8061}" />
+        <r
+          id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}"
+          par="ButtonType=Primary&amp;Text=Import&amp;Click=javascript%3aapp.UploadFiles()%3b&amp;Id=ImportButton"
+          ph="ImportButtonBorder.Content"
+          uid="{F8ACD832-2530-468C-94AD-8CD3A48CCB26}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160111T215830Z
+    - ID: "aea872fb-aa91-4d1a-b877-3ca6fbbb4fd4"
+      Hint: Header
+      Value: Mapping

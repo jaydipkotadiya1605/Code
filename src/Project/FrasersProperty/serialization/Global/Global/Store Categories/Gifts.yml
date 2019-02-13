@@ -1,0 +1,318 @@
+﻿---
+ID: "450d9565-119a-4fa4-841b-6c4e5e77e66f"
+Parent: "5415efc9-ad12-410c-afcd-59a644e1a7b7"
+Template: "803dc367-7aed-4a95-b261-00fbdfdf1d0c"
+Path: /sitecore/content/Global/Store Categories/Gifts
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gifts
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061442Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061443Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061443Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061444Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061444Z
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061448Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061448Z
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061449Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061449Z
+  - Version: 6
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061452Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061452Z
+  - Version: 7
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T061454Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T061454Z
+  - Version: 8
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064540Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064540Z
+  - Version: 9
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064541Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064541Z
+  - Version: 10
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064543Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064543Z
+  - Version: 11
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064548Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064548Z
+  - Version: 12
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064550Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064550Z
+  - Version: 13
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064553Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064553Z
+  - Version: 14
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064555Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064555Z
+  - Version: 15
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064611Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064611Z
+  - Version: 16
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064619Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064619Z
+  - Version: 17
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064620Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064620Z
+  - Version: 18
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064635Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064635Z
+  - Version: 19
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064635Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064635Z
+  - Version: 20
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064638Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064638Z
+  - Version: 21
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064648Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064648Z
+  - Version: 22
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180622T064651Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Gifts
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Gifts
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180622T064651Z

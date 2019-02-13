@@ -1,0 +1,246 @@
+﻿@import "/styles/bootstrap.min.css";
+
+@font-face {
+    font-family: 'DuplicateIonic-Regular';
+    src: url("/fonts/DuplicateIonic-Regular.eot") format("embedded-opentype");
+    src: url("/fonts/DuplicateIonic-Regular.otf") format("opentype"), url("/fonts/DuplicateIonic-Regular.woff") format("woff"), url("/fonts/DuplicateIonic-Regular.ttf") format("truetype"), url("/fonts/DuplicateIonic-Regular.svg#DuplicateIonic-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DuplicateIonic-Medium';
+    src: url("/fonts/DuplicateIonic-Medium.eot") format("embedded-opentype");
+    src: url("/fonts/DuplicateIonic-Medium.otf") format("opentype"), url("/fonts/DuplicateIonic-Medium.woff") format("woff"), url("/fonts/DuplicateIonic-Medium.ttf") format("truetype"), url("/fonts/DuplicateIonic-Medium.svg#DuplicateIonic-Medium") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DuplicateIonic-Bold';
+    src: url("/fonts/DuplicateIonic-Bold.eot") format("embedded-opentype");
+    src: url("/fonts/DuplicateIonic-Bold.otf") format("opentype"), url("/fonts/DuplicateIonic-Bold.woff") format("woff"), url("/fonts/DuplicateIonic-Bold.ttf") format("truetype"), url("/fonts/DuplicateIonic-Bold.svg#DuplicateIonic-Bold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BurlingamePro-Regular';
+    src: url("/fonts/DuplicateIonic-Regular.eot") format("embedded-opentype");
+    src: url("/fonts/BurlingamePro-Regular.otf") format("opentype"), url("/fonts/BurlingamePro-Regular.woff") format("woff"), url("/fonts/BurlingamePro-Regular.ttf") format("truetype"), url("/fonts/BurlingamePro-Regular.svg#DuplicateIonic-Regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BurlingamePro-Medium';
+    src: url("/fonts/DuplicateIonic-Medium.eot") format("embedded-opentype");
+    src: url("/fonts/BurlingamePro-Medium.otf") format("opentype"), url("/fonts/BurlingamePro-Medium.woff") format("woff"), url("/fonts/BurlingamePro-Medium.ttf") format("truetype"), url("/fonts/BurlingamePro-Medium.svg#DuplicateIonic-Medium") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BurlingamePro-Bold';
+    src: url("/fonts/DuplicateIonic-Bold.eot") format("embedded-opentype");
+    src: url("/fonts/BurlingamePro-Bold.otf") format("opentype"), url("/fonts/BurlingamePro-Bold.woff") format("woff"), url("/fonts/BurlingamePro-Bold.ttf") format("truetype"), url("/fonts/BurlingamePro-Bold.svg#DuplicateIonic-Bold") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.textbody {
+    font-size: 15px;
+    color: #6B6767;
+    line-height: 130%;
+    font-family: 'Helvetica',Arial,sans-serif;
+}
+
+    .textbody h1, .textbody h2, .textbody h3, .textbody h4 {
+        color: #E2051B;
+        font-size: 18px;
+        font-family: BurlingamePro-Bold, serif;
+        margin: 0;
+        line-height: 140%;
+    }
+
+        .textbody h1.grey, .textbody h2.grey, .textbody h3.grey, .textbody h4.grey {
+            color: #666;
+        }
+
+    .textbody h2 {
+        font-size: 16px;
+    }
+
+        .textbody h2.dark {
+            color: #555;
+            font-size: 18px;
+        }
+
+        .textbody h2.dark-thin {
+            color: #333;
+            text-transform: uppercase;
+            font-family: BurlingamePro-Medium, serif;
+            font-size: 20px;
+            margin-bottom: 10px;
+            line-height: 130%;
+        }
+
+        .textbody h2.pink {
+            color: #F16A7C;
+            text-transform: uppercase;
+            font-family: BurlingamePro-Medium, serif;
+            font-size: 20px;
+            margin-bottom: 10px;
+            line-height: 130%;
+        }
+
+    .textbody p {
+        margin-bottom: 25px;
+    }
+
+    .textbody table {
+        width: 100%;
+    }
+
+    .textbody table, .textbody th, .textbody td {
+        border: 1px solid #6B6767;
+        padding: 12px;
+        line-height: 120%;
+        font-size: 15px;
+    }
+
+    .textbody a {
+        color: #E2051B;
+    }
+
+    .textbody .special-info {
+        border-top: 2px solid #ededed;
+        border-bottom: 2px solid #ededed;
+        padding: 20px 0;
+        margin-bottom: 30px;
+    }
+
+        .textbody .special-info h2 {
+            margin-bottom: 10px;
+        }
+
+    .textbody .caption {
+        color: #666;
+        display: block;
+        text-align: center;
+        font-style: italic;
+    }
+
+    .textbody .embed-video {
+        position: relative;
+        padding-bottom: 56.25%;
+        /* 16:9 */
+        padding-top: 25px;
+        height: 0;
+        margin-bottom: 25px;
+    }
+
+        .textbody .embed-video iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+    .textbody ul, .textbody ol {
+        margin: 0;
+        padding: 0 0 0 25px;
+    }
+
+        .textbody ul li, .textbody ol li {
+            margin-bottom: 10px;
+        }
+
+    .textbody ol {
+        padding-left: 40px;
+    }
+
+    .textbody .qns {
+        color: #E2051B;
+        font-family: BurlingamePro-Medium, serif;
+        margin-bottom: 10px;
+    }
+
+    .textbody .ans {
+        margin-bottom: 30px;
+    }
+
+    .textbody .no-margin li {
+        margin: 0;
+    }
+
+    .textbody ol.alpha {
+        list-style-type: lower-alpha;
+    }
+
+    .textbody .table-wrap {
+        width: 100%;
+        overflow-x: auto;
+    }
+
+    .textbody .bluebar {
+        background-color: #0070b9;
+    }
+
+    .textbody .pinkbar {
+        background-color: #ef4270;
+    }
+
+    .textbody section.border-bottom {
+        border-bottom: 1px solid #ededed;
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+    }
+
+        .textbody section.border-bottom.no-border {
+            border: 0;
+            padding-bottom: 0;
+        }
+
+    .textbody .orangebox {
+        background-color: #F15A22;
+        padding: 15px;
+        color: #fff;
+    }
+
+        .textbody .orangebox h2 {
+            color: #fff;
+        }
+
+        .textbody .orangebox .icon {
+            margin-top: 20px;
+        }
+
+    .textbody .blue-text {
+        border-top: 4px solid #0070b9;
+        margin: 15px 0 0 0;
+        padding: 15px 0 0 0;
+        color: #0070b9;
+    }
+
+        .textbody .blue-text .row {
+            margin-bottom: 10px;
+        }
+
+    .textbody .wallet-wrap {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+        .textbody .wallet-wrap .icon {
+            display: none;
+            vertical-align: middle;
+            width: 10%;
+        }
+
+        .textbody .wallet-wrap .text {
+            display: inline-block;
+            vertical-align: middle;
+            width: 100%;
+        }

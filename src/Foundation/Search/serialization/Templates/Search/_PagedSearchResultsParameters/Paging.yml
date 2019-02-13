@@ -1,0 +1,14 @@
+﻿---
+ID: "bd68520e-4eb3-4e77-ae93-6242de4c55af"
+Parent: "ddbc0a3f-ed36-4fbf-a0c6-af57a4943eb7"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Search/_PagedSearchResultsParameters/Paging
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180723T085617Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "7812bf36-b3c9-4c12-a963-08800d0f001c"
+Parent: "8b03816c-3fec-4406-8ce7-2399baaacff0"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Benefits/How It Works
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="How It Works" anchor="" linktype="internal" class="" title="How It Works"  querystring="" id="{1EE904A9-05C5-4F1B-9603-E4AEF51FF49A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095345Z

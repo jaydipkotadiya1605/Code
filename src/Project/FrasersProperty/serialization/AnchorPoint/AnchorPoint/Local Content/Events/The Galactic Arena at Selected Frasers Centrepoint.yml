@@ -1,0 +1,33 @@
+﻿---
+ID: "209ecd53-8398-4f50-9394-58620218c6fc"
+Parent: "bbd6d548-3276-4ce0-b9eb-7de8915d39e1"
+Template: "5d5635db-f3e3-4171-973b-c83d522c111a"
+Path: /sitecore/content/AnchorPoint/Local Content/Events/The Galactic Arena at Selected Frasers Centrepoint
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{57B7944E-5263-41B1-9446-0CA2BB63B3A7}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5b89a0-4344-47a8-816b-2a6c0c8cd82e"
+      Hint: Source ID
+      Value: 
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{57B7944E-5263-41B1-9446-0CA2BB63B3A7}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T050918Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: 

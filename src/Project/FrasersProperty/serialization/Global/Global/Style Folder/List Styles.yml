@@ -1,0 +1,14 @@
+﻿---
+ID: "7272e014-7ce4-48d6-8f9e-23bc92ec7c70"
+Parent: "e9b9ed25-d4b8-4cf0-9562-394690fb12e4"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Global/Style Folder/List Styles
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T050541Z

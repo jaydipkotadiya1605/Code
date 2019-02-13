@@ -1,0 +1,39 @@
+﻿@using Sitecore.Foundation.Assets.Models
+@using Sitecore.Foundation.Assets.Services
+@using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@inherits WebViewPage
+@{
+  Layout = null;
+}
+<!DOCTYPE html>
+<html lang="@Sitecore.Context.Language.CultureInfo.TwoLetterISOLanguageName">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    @Html.Sitecore().Placeholder("head")
+  }
+  <!-- Latest compiled and minified JavaScript -->
+  @RenderAssetsService.Current.RenderScript(ScriptLocation.Head)
+  @RenderAssetsService.Current.RenderStyles()
+  @Html.Sitecore().VisitorIdentification()
+  @HtmlExtension.RenderAddThisTokenScript()
+</head>
+<body>
+    <div class="viewport"></div>
+    <header>
+        @Html.Sitecore().Placeholder("header")
+    </header>
+    <div class="content-wrap">
+        <!-- content -->
+        @Html.Sitecore().Placeholder("page-layout")
+        <!-- /content -->
+        @Html.Sitecore().Placeholder("footer")
+    </div>
+    @Html.Sitecore().Placeholder("search-overlay")
+
+    @RenderAssetsService.Current.RenderScript(ScriptLocation.Body)
+</body>
+</html>

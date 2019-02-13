@@ -1,0 +1,34 @@
+﻿---
+ID: "894574d8-8512-4762-a460-cf9f0b964c4f"
+Parent: "b61a7304-3ed6-4e6e-a637-eb9d842a7ddf"
+Template: "6620fa0a-49e6-4cae-8872-395425075dc8"
+Path: /sitecore/content/WaterwayPoint/Local Content/Events/Join the Paint Party
+DB: master
+SharedFields:
+- ID: "19b597d3-2edd-4ae2-aefe-4a94c7f10e31"
+  Hint: __Source Item
+  Value: "sitecore://master/{1D1981A5-C783-4EAD-A6A7-1F07EEC6C29D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0e5b89a0-4344-47a8-816b-2a6c0c8cd82e"
+      Hint: Source ID
+      Value: "{1D1981A5-C783-4EAD-A6A7-1F07EEC6C29D}"
+    - ID: "1b86697d-60ca-4d80-83fb-7555a2e6ce1c"
+      Hint: __Source
+      Value: "sitecore://master/{1D1981A5-C783-4EAD-A6A7-1F07EEC6C29D}?lang=en&ver=1"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T050943Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

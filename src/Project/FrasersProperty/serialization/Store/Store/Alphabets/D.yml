@@ -1,0 +1,20 @@
+﻿---
+ID: "87062dab-9886-4c7c-a4e4-76fbc8b8a93a"
+Parent: "bb0060f3-3376-496f-a9e5-472b32cfcffa"
+Template: "66d95284-43f6-46b7-950d-1ce4ef64d772"
+Path: /sitecore/system/Settings/Feature/Store/Alphabets/D
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T091237Z
+    - ID: "79ebdb01-f448-4955-b62d-2411e20c8e11"
+      Hint: Keyword
+      Value: D
+    - ID: "8f9c4c04-5d54-4186-aab6-e95f894fc642"
+      Hint: Text
+      Value: D

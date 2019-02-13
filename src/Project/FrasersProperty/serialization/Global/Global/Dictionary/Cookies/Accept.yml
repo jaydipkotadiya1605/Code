@@ -1,0 +1,17 @@
+﻿---
+ID: "873af2dc-0bdf-41c1-9064-69c35c23acce"
+Parent: "d824031a-3517-4d95-b2d7-6d9b20369353"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Cookies/Accept
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T061742Z
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Okay, got it.

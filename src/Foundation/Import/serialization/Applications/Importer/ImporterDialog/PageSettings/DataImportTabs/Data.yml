@@ -1,0 +1,63 @@
+﻿---
+ID: "27f32dc7-2453-4dea-a58e-ff3898e3ebe2"
+Parent: "18860360-3407-4ea9-9a76-95a3e53b8288"
+Template: "f62b4cd7-754c-4461-810f-2b6bd2c92a0d"
+Path: /sitecore/client/Applications/Importer/ImporterDialog/PageSettings/DataImportTabs/Data
+DB: core
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "deab3795-056f-4421-adf0-758844461b72"
+  Hint: Placeholder Name
+  Value: Tab
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="Id=UploadBorder"
+          ph=""
+          uid="{5A9BAB9A-6C55-44A7-8CDB-5DBD610851A5}" />
+        <r
+          id="{442BD093-FBAD-4E36-BC08-489E16C82D08}"
+          par="Header=Import+Data&amp;IsCollapsible=0&amp;Id=DataExpander"
+          ph="UploadBorder.Content"
+          uid="{CD789518-2AB8-4372-B500-DE9C71C5A807}" />
+        <r
+          id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}"
+          par="UsePadding=1&amp;Id=DataBorder"
+          ph="DataExpander.Body"
+          uid="{A31E392F-2C25-41DC-86E4-DF2A4BC8CD93}" />
+        <r
+          id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}"
+          par="Text=Select+XLSX&amp;Id=SourceFileLabel"
+          ph="DataBorder.Content"
+          uid="{B95B7AC5-8A24-4BAA-A0B0-690422D360CD}" />
+        <r
+          id="{B2257CAC-47CA-4061-9352-C06D687ED32C}"
+          par="Database=master&amp;DestinationUrl=%2fsitecore%2fmedia+library%2fImporter%2fData&amp;Id=SourceFile"
+          ph="DataBorder.Content"
+          uid="{484F472B-8019-44B3-8D26-A375B09092BA}" />
+        <r
+          id="{F05CDBA5-03ED-46D2-B58C-C0283F86C332}"
+          par="Id=SourceFileInfo"
+          ph="DataBorder.Content"
+          uid="{8D9AFA19-4BA8-4453-B18C-DEC3FA2EC401}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160111T215848Z
+    - ID: "aea872fb-aa91-4d1a-b877-3ca6fbbb4fd4"
+      Hint: Header
+      Value: Data

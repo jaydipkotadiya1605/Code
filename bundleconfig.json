@@ -1,0 +1,18 @@
+[
+    {
+        "outputFileName": "frasersproperty.min.js",
+        "inputFiles": [
+            "./src/Project/**/**/js/main-extend.js",
+            "./src/Project/**/**/js/main.js",
+            "./src/Project/**/**/js/tab-filter.js"
+        ]
+    },
+    {
+        "outputFileName": "frasersproperty.min.css",
+        "inputFiles": [
+            "./src/Project/**/**/styles/slick.css",
+            "./src/Project/**/**/styles/style-extend.css",
+            "./src/Project/**/**/styles/style.css"
+        ]
+    }
+]

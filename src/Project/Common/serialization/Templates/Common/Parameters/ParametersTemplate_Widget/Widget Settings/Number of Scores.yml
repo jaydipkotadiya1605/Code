@@ -1,0 +1,29 @@
+﻿---
+ID: "d2ecf52f-5681-415c-a0db-25ee880b66bd"
+Parent: "18c34da2-89ca-4402-9b20-f053e03c309f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_Widget/Widget Settings/Number of Scores
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Number
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T062336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

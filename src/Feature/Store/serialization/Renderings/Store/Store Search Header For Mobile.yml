@@ -1,0 +1,26 @@
+﻿---
+ID: "9c2286b7-c764-4cbe-98b1-5e5874cf94f0"
+Parent: "6d60df25-df52-41ed-a0e6-d3b6a2a588e6"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Store/Store Search Header For Mobile
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Store/StoreSearchHeaderMobile.cshtml
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A1DB892B-3004-4FE0-A6B3-1AE4CF7653B3}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180822T064614Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

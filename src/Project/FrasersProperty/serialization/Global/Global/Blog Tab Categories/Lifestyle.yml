@@ -1,0 +1,31 @@
+﻿---
+ID: "6cd85e0b-54bf-4f0c-92d6-1c5905a3f2c5"
+Parent: "1e609cde-8167-4ef5-81a1-edf81cec8cf6"
+Template: "f513cf2f-f4d9-4fc5-8fd2-ef670dc7fdda"
+Path: /sitecore/content/Global/Blog Tab Categories/Lifestyle
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13cdc28f-a24a-4b3c-a335-cbb70e41a9c5"
+      Hint: Value
+      Value: Lifestyle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T083316Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab53617b-d46a-40c6-a30d-9aa60c20c31a"
+      Hint: Key
+      Value: Lifestyle
+    - ID: "b9026424-5f46-43c9-b4df-7fd1670b7dde"
+      Hint: Order Number
+      Value: 4

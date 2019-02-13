@@ -1,0 +1,18 @@
+﻿---
+ID: "cd7ceb87-4cda-495e-be67-1bbb8c696d39"
+Parent: "d9b8d336-9076-4601-8150-fda2d532df62"
+Template: "3bbefab1-43b0-40d2-bf07-570b873bf68f"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Item Resolver Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180711T060248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

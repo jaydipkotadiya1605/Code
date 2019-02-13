@@ -1,0 +1,83 @@
+﻿---
+ID: "4c4e8fcd-aed7-4142-bfd3-b9b54465329c"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "6de79c6f-136a-44cf-bc3b-a6caae03cb72"
+Path: /sitecore/content/WaterwayPoint
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Admin|pe|-item:read|pd|-item:read|au|frasersproperty\WaterwayPointAdmin|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:delete|+item:write|+item:create|+item:read|ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|au|frasersproperty\WaterwayPointAuthor|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:create|+item:write|+item:read|+item:delete|ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:admin|+item:write|+item:delete|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12614b52-3914-4054-a3cc-afee27d363bc"
+      Hint: Site Code
+      Value: WWP
+    - ID: "235ae392-97ac-4822-be38-837da3e7724e"
+      Hint: SiteBrowserTitle
+      Value:  | Waterway Point
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030619Z
+    - ID: "2722ba68-bc77-4d4f-bc60-bb41f4b0c414"
+      Hint: Main Site
+      Value: "{875A246A-4F98-4F8B-BDA6-477C268B0607}"
+    - ID: "2a98d119-1020-4854-afad-76e96a24331d"
+      Hint: GPS Longitude
+      Value:  103.907111
+    - ID: "2da4f169-e77a-42ce-8b85-bae3515c0323"
+      Hint: Copyright Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "427344bd-2182-4a75-b56a-7d3549bd1eb3"
+      Hint: Telephone
+      Value: (65) 6812 7300
+    - ID: "449338ce-ca1e-4d38-a904-cdb4085c84dd"
+      Hint: Tracking ID
+      Value: "UA-124171295-1"
+    - ID: "59c2d766-5657-429b-902e-3b6e406eb41b"
+      Hint: Links
+      Value: "{8647905F-67B3-4DB3-91FE-6C62B4EAAA14}"
+    - ID: "5a637948-2caf-4062-94da-b04ac741d46e"
+      Hint: Customer Service Counter
+      Value: East Wing, Level 1
+    - ID: "732fe58f-7fa5-4278-850c-f06c99939b78"
+      Hint: Opening Hours
+      Value: 10am to 10pm
+    - ID: "875b1529-a3b1-4221-8dd6-f6df37521b1b"
+      Hint: Menu
+      Value: "{754EAE1C-415D-47A2-BDB3-2B9B6D9803EA}"
+    - ID: "a9e07f11-c8ee-475b-a8f3-e490955c92af"
+      Hint: AddThis Social Token
+      Value: 5b73d467e8d6a539
+    - ID: "b5958343-38cd-4a08-9b72-eb8fd145b463"
+      Hint: Text
+      Value: Copyright © 2018. Frasers Property Limited. All rights reserved.
+    - ID: "c039af0a-d6fd-4e75-a60e-01689633c9b9"
+      Hint: Footer Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "cca76f5b-f4a1-439e-9397-075f9cb6616e"
+      Hint: Address
+      Value: 83 Punggol Central Singapore 828761
+    - ID: "d390b56f-6f6c-4da7-832c-2ed4c44733e5"
+      Hint: Site Name
+      Value: Waterway Point
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{67AAA3B0-635A-4CBD-BC3F-D7F302A4CEE9}" />
+    - ID: "da7dbf22-728d-4cbd-8573-6345bbb31861"
+      Hint: GPS Lattitude
+      Value: 1.400607
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{0BB63396-30E9-4CF1-A74E-EB199FCB8516}" />

@@ -1,0 +1,38 @@
+﻿---
+ID: "01fff327-f881-454b-9d29-fd46e3377d3a"
+Parent: "619ed081-078f-45cd-bc6f-ebc9d2d88f4c"
+Template: "b7e7bc8a-6678-4ed0-b772-42946ba56f01"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/404
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6E0BCDD1-AF82-4FCA-9C53-99DE1E7EC01F}"
+              s:ds="{32EF1370-06EF-4C5D-A111-6397966B2AC3}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T065256Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Error 404
+    - ID: "ea72d68d-4a69-4b2f-bda1-dc8dfdd560e8"
+      Hint: Show In Navigation
+      Type: Checkbox
+      Value: 0

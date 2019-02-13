@@ -1,0 +1,22 @@
+﻿---
+ID: "18860360-3407-4ea9-9a76-95a3e53b8288"
+Parent: "af178b2f-a499-4843-86ca-8339ddf04520"
+Template: "87fe4e75-d567-4873-81b1-cf8560667ee0"
+Path: /sitecore/client/Applications/Importer/ImporterDialog/PageSettings/DataImportTabs
+DB: core
+SharedFields:
+- ID: "48397565-b71c-4ed0-b810-e192816b9218"
+  Hint: TabType
+  Value: Progressive
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160622T202314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "edcda6f0-499d-46ea-999e-90a08c268701"
+Parent: "3883a8ee-3ad5-42eb-9afc-5653adf3c5f3"
+Template: "93564abb-a044-4bc0-84e7-61217111eb54"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Footer Settings/Copyright Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T052059Z

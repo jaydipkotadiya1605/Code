@@ -1,0 +1,18 @@
+﻿---
+ID: "8d5a4a3c-71e6-46b8-a427-c6119f822314"
+Parent: "aa8a048b-77bd-439a-a4de-0e5c4a7e96f7"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Global/Dictionary/Website/ContactPage/PlaceHolderMessages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T120136Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        frasersproperty\Anonymous

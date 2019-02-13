@@ -1,0 +1,128 @@
+﻿---
+ID: "e6a39cbd-2f91-41d6-92e4-90fe50674635"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/About
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T145912Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        
+        <h1>DISCOVER A NEW WAY TO SHOP, EAT AND PLAY - ALL IN ONE APP.</h1>
+        <p>Welcome to Frasers Experience (FRx), Frasers Property Singapore's new multi-feature app. Launched to replace the previous Frasers Rewards app and provide an enhanced customer experience for all shoppers.</p>
+        <!-- kv -->
+        <div class="about-kv">
+        <div class="row align-items-center">
+        <!-- hand -->
+        <div class="col col-12 col-lg-4">
+        <div class="hand">
+        <img alt="" src="-/media/a78b96de45554acd93b0bd153f45a44d.ashx" />
+        </div>
+        </div>
+        <!-- /hand -->
+        <!-- text -->
+        <div class="col col-12 col-lg-6 text-center">
+        <div class="line1"><img alt="" src="-/media/fc54088c9ec743f7967c9698e52dede6.ashx" /></div>
+        <div class="line2"><img alt="" src="-/media/44a7a57d81c84c83ad5c15104f4543f8.ashx" /></div>
+        <div class="line3"><img alt="" src="-/media/88724e55dff9422292e5f4fcd05e1f90.ashx" /></div>
+        <div class="line4"><img alt="" src="-/media/09ad3530503c452486741fbe9193393d.ashx" /></div>
+        <div class="app-btns">
+        <div class="row">
+        <div class="col col-6 text-right">
+        <a href="https://play.google.com/store/apps/details?id=com.frasersexperience.app" class="opacity1" target="_blank"><img alt="" src="-/media/539c1f843a904175b11bc8ef26c384a1.ashx" /></a>
+        </div>
+        <div class="col col-6 text-left">
+        <a href="https://itunes.apple.com/us/app/frasers-experience/id1441727505?ls=1&amp;mt=8" class="opacity1" target="_blank"><img alt="" src="-/media/465d68a8949c418c8ffdcb589deb15ad.ashx" /></a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!-- /text -->
+        </div>
+        </div>
+        <!-- /kv -->
+        <br />
+        <div class="container about-frx">
+        <div class="row">
+        <!-- item -->
+        <div class="col col-12 col-lg-6">
+        <div class="about-item">
+        <h1 class="rewards">
+        Rewards
+        <div class="icon"><img alt="" src="-/media/d7487ba0ccae4b4b85e57f2f3a8f0b51.ashx" /></div>
+        </h1>
+        <div class="greyslant">
+        Discover more ways to be rewarded. Redeem Frasers Points for Digital Gift Cards or
+        retailer eVouchers from our new Catalogue.
+        <br />
+        <a href="https://www.frasersexperience.com/fr-page.php?CategoryID=707" class="readmore rightarrow">Read More</a>
+        </div>
+        </div>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="col col-12 col-lg-6">
+        <div class="about-item">
+        <h1 class="dgc">
+        Digital Gift Cards
+        <div class="icon"><img alt="" src="-/media/6ae41ef4366c4087862738faba456d2c.ashx" /></div>
+        </h1>
+        <div class="greyslant">
+        Give the gift of choice. Besides redeeming a Digital Gift Card, you can soon send your loved ones Digital Gift Cards when our e-gifting function launches in December 2018.
+        <br />
+        <a href="https://www.frasersexperience.com/fr-page.php?CategoryID=655" class="readmore rightarrow">Read More</a>
+        </div>
+        </div>
+        </div>
+        <!-- /item -->
+        <div class="col col-12 col-lg-6">
+        <div class="about-item">
+        <h1 class="bookings">
+        Bookings
+        <div class="icon"><img alt="" src="-/media/0d1cb76e03e14f288d69c531dd393017.ashx" /></div>
+        </h1>
+        <div class="greyslant">
+        Seamlessly book events in just a few simple steps.
+        You can also look forward to booking facilities and amenities in 2019.
+        <br />
+        <a href="https://www.frasersexperience.com/fr-page.php?CategoryID=711" class="readmore rightarrow">Read More</a>
+        </div>
+        </div>
+        </div>
+        <div class="col col-12 col-lg-6">
+        <div class="about-item">
+        <h1 class="mm">
+        Makan Master
+        <div class="icon"><img alt="" src="-/media/1e226b4a57de40f6b5ec5f41d2320a09.ashx" /></div>
+        </h1>
+        <div class="greyslant">
+        Make reservations with Makan Master, your go-to guy whenever it&rsquo;s makan time. Stay tuned for pre-ordering and payment functions coming your way in 2019.
+        <br />
+        <a href="https://www.frasersexperience.com/fr-page.php?CategoryID=701" class="readmore rightarrow">Read More</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>

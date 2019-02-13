@@ -1,0 +1,32 @@
+﻿---
+ID: "bb1bb2b1-768c-4743-bc96-859da9368c64"
+Parent: "7cafa297-c1e8-4a22-a220-ee514bc2036f"
+Template: "7cafa297-c1e8-4a22-a220-ee514bc2036f"
+Path: /sitecore/templates/Foundation/Import/Options/DropDownGroup/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{9EC52B90-0D56-4850-BB4D-AD13491FC4CC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T221311Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

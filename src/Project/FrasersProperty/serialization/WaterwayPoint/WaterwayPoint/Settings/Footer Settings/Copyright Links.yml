@@ -1,0 +1,14 @@
+﻿---
+ID: "8647905f-67b3-4db3-91fe-6c62b4eaaa14"
+Parent: "059ea61c-f646-431f-9148-e27a2adf991e"
+Template: "93564abb-a044-4bc0-84e7-61217111eb54"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Copyright Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T052059Z

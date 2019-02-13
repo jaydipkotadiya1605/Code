@@ -1,0 +1,14 @@
+﻿---
+ID: "d4d2546b-ce4a-445f-a1e3-7ad6861ce987"
+Parent: "558f91d4-3da9-41d4-a42e-eeb1a3fc6f03"
+Template: "d668aad6-791c-4db0-ab9f-d78b182b569a"
+Path: /sitecore/content/AnchorPoint/Local Content/Banners
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180620T114005Z

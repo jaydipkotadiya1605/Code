@@ -1,0 +1,22 @@
+﻿---
+ID: "79f6aaf8-4d5e-4891-b3aa-520cccbfcc2d"
+Parent: "6c811026-f174-4e3d-ae92-031a87f1f011"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/Frasers Workflow/Draft/Submit Content
+DB: master
+SharedFields:
+- ID: "dcbebc58-6124-4100-a248-fc717d6c78d5"
+  Hint: Next state
+  Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Admin|pe|-item:read|pd|-item:read|ar|frasersproperty\Main Site Author|pe|-item:read|pd|-item:read|ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T081310Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "c470440b-81ec-4377-8bb6-a336d405391d"
+Parent: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Template: "2f6f63d3-b1af-4267-9612-1d71fef2643f"
+Path: /sitecore/content/Global/Good Deals Tab Categories
+DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{44D1A0D2-E17B-4DAA-ADDF-53F2E8F58525}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T101949Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

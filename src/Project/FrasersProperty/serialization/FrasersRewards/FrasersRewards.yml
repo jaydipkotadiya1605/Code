@@ -1,0 +1,72 @@
+﻿---
+ID: "875a246a-4f98-4f8b-bda6-477c268b0607"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "3c7f4f00-8981-4532-8ea8-8e6b05621911"
+Path: /sitecore/content/FrasersRewards
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/window_earth.png
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Admin|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|ar|frasersproperty\Main Site Author|pe|+item:read|pd|+item:read|ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|au|frasersproperty\MainSiteAdmin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12614b52-3914-4054-a3cc-afee27d363bc"
+      Hint: Site Code
+      Value: FR
+    - ID: "235ae392-97ac-4822-be38-837da3e7724e"
+      Hint: SiteBrowserTitle
+      Value:  | Frasers Rewards
+    - ID: "2470e69e-3054-495d-887a-4eb174b04bc4"
+      Hint: Include Header Social Icons
+      Type: Checkbox
+      Value: 0
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180725T075147:636681019073039835Z"
+    - ID: "2da4f169-e77a-42ce-8b85-bae3515c0323"
+      Hint: Copyright Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "449338ce-ca1e-4d38-a904-cdb4085c84dd"
+      Hint: Tracking ID
+      Value: "UA-124171295-1"
+    - ID: "59c2d766-5657-429b-902e-3b6e406eb41b"
+      Hint: Links
+      Value: "{072B8F81-04CB-48E2-843A-8858FEED4FCE}"
+    - ID: "875b1529-a3b1-4221-8dd6-f6df37521b1b"
+      Hint: Menu
+      Value: "{DF995CE0-53CA-4E3E-9A20-73B47BE02DE7}"
+    - ID: "a2b7bf42-7d1a-4bc8-8f0f-16e0d36d4afb"
+      Hint: Mall Sites
+      Type: Multilist
+      Value: |
+        {4C4E8FCD-AED7-4142-BFD3-B9B54465329C}
+        {6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}
+    - ID: "a9e07f11-c8ee-475b-a8f3-e490955c92af"
+      Hint: AddThis Social Token
+      Value: 5b73d467e8d6a539
+    - ID: "b5958343-38cd-4a08-9b72-eb8fd145b463"
+      Hint: Text
+      Value: Copyright © 2019. Frasers Property Limited. All rights reserved. 
+    - ID: "c039af0a-d6fd-4e75-a60e-01689633c9b9"
+      Hint: Footer Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "d390b56f-6f6c-4da7-832c-2ed4c44733e5"
+      Hint: Site Name
+      Value: Frasers Rewards
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{67AAA3B0-635A-4CBD-BC3F-D7F302A4CEE9}" />
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{38E7BE49-DE27-44F9-8537-B0968F44215F}" />

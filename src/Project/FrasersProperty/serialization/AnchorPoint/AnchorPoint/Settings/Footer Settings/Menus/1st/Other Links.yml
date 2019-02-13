@@ -1,0 +1,22 @@
+﻿---
+ID: "1de22666-3730-4bed-bbc6-123dc385bb33"
+Parent: "875559d2-ae33-44d6-8297-12c186341195"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/1st/Other Links
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Other Links" linktype="external" url="http://frasersproperty.com/sg" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060157Z

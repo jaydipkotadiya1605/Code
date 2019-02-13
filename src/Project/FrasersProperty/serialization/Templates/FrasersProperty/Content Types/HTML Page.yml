@@ -1,0 +1,34 @@
+﻿---
+ID: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Parent: "7a06efda-d413-4cc8-91bf-2e4847f54a3b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/HTML Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/document_tag.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {E4CC1C63-FB60-4623-95A8-95E60D75BF01}
+    {69CC14A8-3AC3-4687-91D6-C548C06A62F3}
+    {FCAFB699-D4A2-4193-BF6F-640E7CAF5A43}
+    {2E7BEABD-4131-42E0-B551-C65BD8678A06}
+    {FEE949E1-3D88-42E3-860B-119B02B5FE1F}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{CC67262F-6682-4CC9-AF68-01393A5BE47B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T040521Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

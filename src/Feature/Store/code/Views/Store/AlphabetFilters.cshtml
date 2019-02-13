@@ -1,0 +1,32 @@
+﻿@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Device.Repositories
+@using Sitecore.Foundation.Dictionary.Extensions
+@model IEnumerable<Sitecore.Feature.Store.Models.AlphabetFilterViewModel>
+
+@if (Model == null)
+{
+    return;
+}
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+}
+
+@if(isMobileMode)
+{
+    <select id="store-alphabet-mobile">
+        <option disabled selected>@Html.Sitecore().Dictionary(Constants.StoreName, Constants.StoreNameText)</option>
+        @foreach (var filter in Model)
+        {
+            <option value="@filter.Name">@filter.Name</option>
+        }
+    </select>
+}
+else
+{
+    <div class="secondary-filter" id="store-alphabet">
+        @foreach (var filter in Model)
+        {
+            <a href="#">@filter.Name</a>
+        }
+    </div>
+}

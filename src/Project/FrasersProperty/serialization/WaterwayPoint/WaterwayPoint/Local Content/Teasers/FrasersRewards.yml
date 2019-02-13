@@ -1,0 +1,28 @@
+﻿---
+ID: "b12ffe50-19a6-4b11-8103-d993a5197dcb"
+Parent: "09754f2c-c47e-4f1d-90d5-f16f801fd54d"
+Template: "f9cfcf6c-8ca9-4ea7-b3bc-7b0482fc98ac"
+Path: /sitecore/content/WaterwayPoint/Local Content/Teasers/FrasersRewards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T072953Z
+    - ID: "4a56287d-18ac-48db-b825-8be11400af1a"
+      Hint: Teaser Image
+      Value: |
+        <image mediaid="{6E75308B-38CF-4F92-A856-291FEDFE448B}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6eb20209-0617-4a8b-a56d-8b9d3732a027"
+      Hint: Teaser Summary
+      Value: "Frasers Rewards is a point-based loyalty programme accepted at 12 malls of Frasers Property."
+    - ID: "9c054856-f0e7-44d3-adb5-5d8447fd5959"
+      Hint: Teaser Title
+      Value: Frasers rewards

@@ -1,0 +1,22 @@
+﻿---
+ID: "9622f386-3c29-4343-8e9b-ebb68f8ef1d7"
+Parent: "952b47fb-f892-4ee9-a8f4-d7515b3b8e26"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/2nd/Gift Cards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Gift Cards" anchor="" linktype="internal" class="" title="Gift Cards" target="" querystring="" id="{A5CD9A0C-73FE-4294-BAE9-C6A4AEA3A015}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180808T091636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

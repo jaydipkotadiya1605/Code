@@ -1,0 +1,26 @@
+﻿---
+ID: "c3ae452f-57d9-477c-b44a-13e6c20fb2e2"
+Parent: "40ce7cc2-a4d8-48ef-9b01-be9d22996386"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/WaterwayPoint/Settings/Footer Settings/Menus/1st/Other Links/Contact Us
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Contact Us" anchor="" linktype="internal" class="" title="Contact Us" target="" querystring="" id="{4985D96E-0E9F-4B3E-AC24-A5DDB976DC31}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060223Z
+    - ID: "8caac899-17f3-4ef1-83ea-a4bd6c372c93"
+      Hint: Show On Mobile
+      Type: Checkbox
+      Value: 1

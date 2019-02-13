@@ -1,0 +1,34 @@
+﻿---
+ID: "3c7f4f00-8981-4532-8ea8-8e6b05621911"
+Parent: "67422798-4b77-4006-ae9b-3a4fa66e69c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Site Types/Main Website
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/window_earth.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {FA8DE5B9-D5D8-40A7-866A-23AF4F5A9629}
+    {BB85C5C2-9F87-48CE-8012-AF67CF4F765D}
+    {468FF711-C45D-4145-B9AD-E0B71705217C}
+    {CF38E914-9298-47CC-9205-210553E79F97}
+    {E28087EE-D697-4B24-BD04-57C3821C1EF0}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{2E5C3F32-E624-46AD-B2B6-6D35FBC32E64}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180604T030356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

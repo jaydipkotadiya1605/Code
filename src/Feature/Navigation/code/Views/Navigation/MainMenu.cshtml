@@ -1,0 +1,22 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+<nav>
+    <ul>
+        @if (Model?.Items != null)
+        {
+            foreach (var item in Model.Items)
+            {
+                var title = Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, item.Item);
+                if (item.IsActive)
+                {
+                    <li><a href="@item.Url" class="active">@title</a></li>
+                }
+                else
+                {
+                    <li><a href="@item.Url">@title</a></li>
+                }
+            }
+        }
+        @Html.Sitecore().Placeholder("search-menu-item")
+    </ul>
+</nav>

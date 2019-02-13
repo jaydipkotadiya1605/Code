@@ -1,0 +1,18 @@
+﻿---
+ID: "3cc10edf-bb9d-47db-8f99-99cfe8409389"
+Parent: "62535aa4-aa49-40cb-ad07-5fb1040a02bb"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/2nd/Gift Cards
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Gift Cards" anchor="" linktype="internal" class="" title="Gift Cards" target="" querystring="" id="{E64D5D9D-DA67-4E6C-8BF8-8664334373DB}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T055809Z

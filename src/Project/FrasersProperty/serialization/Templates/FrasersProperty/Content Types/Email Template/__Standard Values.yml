@@ -1,0 +1,28 @@
+﻿---
+ID: "522431a3-5147-4acc-b355-ddea0731c41e"
+Parent: "2f6f9983-5cbf-4b47-91f6-8f5dfbdcaca7"
+Template: "2f6f9983-5cbf-4b47-91f6-8f5dfbdcaca7"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Email Template/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T091620Z
+    - ID: "37013884-0850-4493-823c-fa2b5548f635"
+      Hint: Title
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

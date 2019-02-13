@@ -1,0 +1,14 @@
+﻿---
+ID: "52164c64-68e4-4ab1-8cab-b8da4c1f0ec6"
+Parent: "15f872b0-31e9-4298-80ac-2df77e6ef6c3"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Event/_Event And Article Parameter/Event and Article Tab
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190203T175311Z

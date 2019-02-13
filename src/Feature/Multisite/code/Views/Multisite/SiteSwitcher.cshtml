@@ -1,0 +1,61 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+
+@model Sitecore.Feature.Multisite.Models.SitesViewModel
+@if (Model == null || (Model.MallMenuSites.Count == 0 && Model.CommercialMenuSites.Count == 0))
+{
+    return;
+}
+
+<div class="selected">@Model.GroupMenuName</div>
+<!-- sub-menu -->
+<div class="sub">
+    <!-- shopping malls -->
+    @{
+        if (Model.MallMenuSites.Count > 0)
+        {
+            <div class="head">@Html.Sitecore().Dictionary("/Website/SiteSwitcher/Shopping Malls", "Shopping Malls")</div>
+                <div class="clearfix">
+                    @{
+                        for (int i = 0; i < Model.RepeatLoopMallSites; i++)
+                        {
+                            <div class="column">
+                                @for (int j = (i * Model.PageSizeMallMenuSite); j < ((i + 1) * Model.PageSizeMallMenuSite); j++)
+                                {
+                                    if (j < Model.MallMenuSites.Count)
+                                    {
+                                        <a href="@Model.MallMenuSites[j].Link" title="@Model.MallMenuSites[j].SiteTitle">@Model.MallMenuSites[j].SiteTitle</a>
+                                    }
+                                }
+                            </div>
+                        }
+                    }
+                </div>
+                        }
+    }
+    <!-- /shopping malls -->
+    <!-- commercial spaces -->
+    @{
+        if (Model.CommercialMenuSites.Count > 0)
+        {
+            <div class="head">@Html.Sitecore().Dictionary("/Website/SiteSwitcher/Commercial Spaces", "Commercial Spaces")</div>
+                <div class="clearfix">
+                    @{
+                        for (int i = 0; i < Model.RepeatLoopCommerceSite; i++)
+                        {
+                            <div class="column">
+                                @for (int j = (i * Model.PageSizeCommerceSite); j < ((i + 1) * Model.PageSizeCommerceSite); j++)
+                                {
+                                    if (j < Model.CommercialMenuSites.Count)
+                                    {
+                                        <a href="@Model.CommercialMenuSites[j].Link" title="@Model.CommercialMenuSites[j].SiteTitle">@Model.CommercialMenuSites[j].SiteTitle</a>
+                                    }
+                                }
+                            </div>
+                        }
+                    }
+                </div>
+        }
+    }
+    <!-- /commercial spaces -->
+</div>
+<!-- /sub-menu -->

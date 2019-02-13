@@ -1,0 +1,14 @@
+﻿---
+ID: "721f8a95-eaa8-4e27-9606-2760b53c9ae5"
+Parent: "b43a6367-fb8d-4ac7-a0a9-92329036744d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Banner/Mobile
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T074730Z

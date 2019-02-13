@@ -1,0 +1,72 @@
+﻿---
+ID: "4df52c46-48e1-4792-bc26-b2b5097c95a7"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/BenefitsHowItWorks
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Benefits | How It Works
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T094108Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <div class="pinkbar text-center"><img alt="Earn &amp; Redeem Frasers points" src="-/media/aa74e5e23942424a9876c8a0d1a4cc1e.ashx" /></div>
+        <p>&nbsp;</p>
+        <section class="border-bottom">
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-4 icon text-center"><img alt="Frasers Step 1" src="-/media/7bc824fdd79841778abd5a2e0fdb33f1.ashx" /></div>
+        <div class="col col-12 col-md-8">
+        <h2 class="pink">1. SCAN &amp; EARN</h2>
+        Load your personalised QR code using the Frasers Rewards app and have it scanned in-store to clock Frasers Points instantly.
+        </div>
+        </div>
+        </section>
+        <section>
+        <div class="row align-items-center">
+        <div class="col col-12 col-md-4 icon text-center"><img alt="Frasers Step 2" src="-/media/73ce4f9503fa4bb8b5852eb080a99a8c.ashx" /></div>
+        <div class="col col-12 col-md-8">
+        <h2 class="pink">2. REDEEM</h2>
+        Check the in-app notifications on your mobile to track your rewards. Now, you&rsquo;ll only need to visit Customer Service when prompted.
+        </div>
+        </div>
+        </section>
+        <br />
+        <br />
+        <h2>Participating Malls</h2>
+        <p>Anchorpoint | Bedok Point | Causeway Point | Changi City Point | China Square Centra| | Eastpoint Ma|| | Northpoint City | Robertson Wa|k | The Centrepoint | Va||ey Point | Waterway Point | YewTee Point</p>
+        <section class="tnc no-border">
+        <h2>Terms &amp; Conditions</h2>
+        <ul>
+            <li>Frasers Points are issued over 12 months from 01 October of the current year to 30 September of the following year. This is known as a redemption year.</li>
+            <li>Frasers Points can be redeemed anytime from 01 October of the current year to 30 September of the following year. Balance unredeemed points will be forfeited.<br />
+            E.g: Frasers Points earned from 01 October 2017 to 30 September 2018 must be redeemed by 31 December 2018.</li>
+            <li>Frasers Points can be earned instantly by scanning your Frasers Rewards QR code when paying in-store at participating retailers at the malls of Frasers Property. For supermarket spend, points can be earned by submitting the receipt image via the Frasers Rewards mobile app within 24 hours of making a purchase.</li>
+            <li>Each transaction must have a minimum purchase value of $10 to qualify for point earning.</li>
+            <li>Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily.</li>
+            <li>Check our <a href="~/link.aspx?_id=909E2782AF454DBE93F4CF1D32F10A37&amp;_z=z" title="Stores">website</a> for a list of participating retailers.</li>
+            <li>Other <a href="~/link.aspx?_id=AC842FC108D34A9681213FAD6E0ACD3C&amp;_z=z" title="Terms &amp; Conditions">terms &amp; conditions</a> apply.</li>
+        </ul>
+        </section>

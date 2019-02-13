@@ -1,0 +1,47 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+
+<!-- filter-legend (desktop) -->
+<div class="row filter-legend">
+    <div class="col col-12 filters">
+        @if (Model?.Items != null)
+        {
+                foreach (var item in Model.Items)
+                {
+                    var title = Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, item.Item);
+                    var cssClass = (item.IsCurrentItem || item.IsActive) ? "active" : "";
+                    <a href="@item.Url" class="@cssClass" title="@title">@title</a>
+                }
+        }
+    </div>
+</div>
+<!-- /filter-legend (desktop) -->
+<!-- filter-dropdown (mobile) -->
+@if (Model?.Items != null)
+{
+    <div class="container filter-dropdown">
+        <div class="row">
+            @{
+                var currentItem = Model.Items.FirstOrDefault(x => x.IsCurrentItem);
+                if (currentItem != null)
+                {
+                    <div class="selected" onclick="addSub()">
+                        @Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, currentItem.Item)
+                    </div>
+                }
+            }
+            <!-- sub-menu -->
+            <div class="sub">
+                <div class="content">
+                    @foreach (var item in Model.Items)
+                    {
+                        var title = Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, item.Item);
+                        <a href="@item.Url" title="@title">@title</a>
+                    }
+                </div>
+            </div>
+            <!-- /sub-menu -->
+        </div>
+    </div>
+                }
+<!-- /filter-dropdown (mobile) -->

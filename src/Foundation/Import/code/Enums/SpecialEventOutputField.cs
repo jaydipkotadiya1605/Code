@@ -1,0 +1,34 @@
+﻿using System.ComponentModel;
+
+namespace Sitecore.Foundation.Import
+{
+    public enum SpecialOutputField
+    {
+        [Description("Title")]
+        Title,
+        [Description("Post Date")]
+        PostDate,
+        [Description("Expiry Date")]
+        ExpiryDate,
+        [Description("Store")]
+        Store,
+        [Description("All Store")]
+        AllStore,
+        [Description("Keywords")]
+        Keywords,
+        [Description("Start Date")]
+        StartDate,
+        [Description("End Date")]
+        EndDate,
+        [Description("Image")]
+        Image,
+        [Description("Summary")]
+        Summary,
+        [Description("Display on malls")]
+        ShowInMalls,
+        [Description("Thumbnail")]
+        Thumbnail,
+        [Description("Description")]
+        Description
+    }
+}

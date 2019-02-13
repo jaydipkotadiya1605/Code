@@ -1,0 +1,41 @@
+﻿---
+ID: "ccbe2d3e-641f-4913-8825-33ac0969cefc"
+Parent: "439d9b70-2c76-481b-9cc9-c05dc0abbd40"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Multisite/Site Switcher
+DB: master
+SharedFields:
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 1
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 1
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{EB47E09C-A3FB-444A-9952-F410E15A914C}" />
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: SiteSwitcher
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.Multisite.Controllers.MultisiteController,Sitecore.Feature.Multisite
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180731T070323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

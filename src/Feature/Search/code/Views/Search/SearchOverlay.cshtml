@@ -1,0 +1,32 @@
+﻿@using Sitecore.Feature.Search
+@using Sitecore.Foundation.Dictionary.Extensions
+
+@model Sitecore.Feature.Search.ViewModels.SearchHeaderViewModel
+
+<div id="full-overlay">
+    <div class="search-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col col-md-10">
+                    <input type="hidden" id="searchResultPageUrl" value="@Model.SearchResultPageUrl"/>
+                    <input type="text" class="search-field" placeholder="@Html.Sitecore().Dictionary(Constants.SearchPlaceholder, Constants.SearchPlaceholderText)" />
+                </div>
+                <div class="col col-md-2">
+                @if(Sitecore.Context.PageMode.IsNormal)
+                {
+                    <a href="#" class="btn" title="@Html.Sitecore().Dictionary(Constants.SearchButton, Constants.SearchButtonText)">@Html.Sitecore().DictionaryField(Constants.SearchButton, Constants.SearchButtonText)</a>
+                }
+                else
+                {
+                    <a href="#" class="btn">@Html.Sitecore().DictionaryField(Constants.SearchButton, Constants.SearchButtonText)</a>
+                }
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="close-btn">
+        <a href="#" onclick="closeOverlay()">
+            <img src="@Url.Content("~/images/assets/icon-x.svg")" alt="@Html.Sitecore().Dictionary(Constants.CloseButton, Constants.CloseButtonText)" />
+        </a>
+    </div>
+</div>

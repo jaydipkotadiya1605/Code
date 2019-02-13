@@ -1,0 +1,56 @@
+﻿---
+ID: "223de13d-9a47-42f1-8622-f54cbb9da932"
+Parent: "ec58312a-d7d6-44b9-8e95-2428325de8fe"
+Template: "5d406680-b088-46e8-9734-7370f2f6e9ed"
+Path: /sitecore/content/FrasersRewards/Local Content/Stores/Store Test 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f1aef8e-0e98-4d1b-b32a-b37f07658931"
+      Hint: Store Categories
+      Type: Multilist
+      Value: |
+        {A739FF93-D02C-4D17-8FD6-94C23C64ABE6}
+        {450D9565-119A-4FA4-841B-6C4E5E77E66F}
+    - ID: "1beb7714-80dc-4642-ab25-ba6b916e29e6"
+      Hint: New Date
+      Value: 20161031T000000Z
+    - ID: "24685ba6-1a7d-4907-b7d2-bdf13a538e03"
+      Hint: Unit No
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190127T102819Z
+    - ID: "40a19311-9ee7-4cde-a9ce-2747b338b2b5"
+      Hint: Logo
+      Value: |
+        <image mediaid="{61E77E46-B5A9-4323-842D-DE528707B390}" />
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Store Test 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d6ecbb5-c929-4f47-acc6-a185aaf49aab"
+      Hint: Store Offers
+      Type: Multilist
+      Value: |
+        {80FE60BA-90EE-4B25-BFE3-8A7D3EA0F59D}
+        {55F759E2-0FCC-4FAF-A46B-CDF16D08FCEF}
+        {81AB1A87-2468-4DAE-B573-D91CAC729697}
+    - ID: "842869b0-46f9-4b25-8b3f-ec7ce1d6c8e6"
+      Hint: Description
+      Value: Store Test 1 Description
+    - ID: "b9d4826f-56c7-4f2b-9520-648769fa42df"
+      Hint: Store Name
+      Value: Store Test 1
+    - ID: "c446b54a-c016-4251-b3e9-e477846cd147"
+      Hint: Wing
+      Value: "{FF67FF7E-5305-4386-BFF4-0D0A09A2AA6A}"
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Store Test 1

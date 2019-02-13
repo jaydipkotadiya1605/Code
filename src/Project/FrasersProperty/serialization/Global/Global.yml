@@ -1,0 +1,26 @@
+﻿---
+ID: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "721e6c31-4c3d-4e1b-898d-e84f87ce695b"
+Path: /sitecore/content/Global
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T031413Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

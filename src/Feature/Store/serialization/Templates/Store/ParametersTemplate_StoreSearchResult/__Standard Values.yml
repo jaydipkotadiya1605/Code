@@ -1,0 +1,14 @@
+﻿---
+ID: "ede99e12-2468-48b3-acc3-e54396eb5a1a"
+Parent: "f1a526c8-8c43-42f9-b710-08729fb7b19c"
+Template: "f1a526c8-8c43-42f9-b710-08729fb7b19c"
+Path: /sitecore/templates/Feature/Store/ParametersTemplate_StoreSearchResult/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180829T070601Z

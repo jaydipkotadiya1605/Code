@@ -1,0 +1,36 @@
+﻿---
+ID: "2e4bdd9e-f7a0-4bb6-8a4f-8a8c1a52e512"
+Parent: "d046e7a5-9ee2-4cba-8484-c601561f66d9"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-huge"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "col-huge"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {C4E15184-C1D0-46A9-9669-DB67636AAA98}
+    {03112E88-1499-4132-9D5F-E213AFD2019C}
+    {ED467473-9D3B-4832-A0DD-B58A3C864810}
+    {570F6040-6CD5-4560-8820-25655D510980}
+    {C98F05FA-DF90-4E73-88DA-829E8AA1CB19}
+    {28D90A24-8E33-40CF-A1DF-CA863D3789EF}
+    {2A418329-7B23-44D2-9031-8BE5ADA7DDAA}
+Languages:
+- Language: en
+  Fields:
+  - ID: "87871ff5-1965-46d6-884f-01d6a0b9c4c1"
+    Hint: Description
+    Value: Full Page Column
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150921T033504Z

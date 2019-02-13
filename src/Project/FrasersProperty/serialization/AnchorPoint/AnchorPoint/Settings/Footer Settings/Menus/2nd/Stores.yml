@@ -1,0 +1,22 @@
+﻿---
+ID: "90e9fcbc-4fee-48e9-b6b4-658259efc0b5"
+Parent: "952b47fb-f892-4ee9-a8f4-d7515b3b8e26"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Menus/2nd/Stores
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Stores" anchor="" linktype="internal" class="" title="Stores" target="" querystring="" id="{8734E91E-EA2D-4B15-9CA3-EB723A266E30}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180704T060342Z

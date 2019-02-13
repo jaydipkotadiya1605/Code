@@ -1,0 +1,49 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.FrasersContent
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.IsDerived(Templates.Store.ID) ?? true)
+    {
+        return;
+    }
+    var wingItem = ((Sitecore.Data.Fields.ReferenceField)Model.Item.Fields[Templates.Store.Fields.Wing])?.TargetItem;
+}
+<div class="row thumb-info">
+    <div class="col col-12 col-md-6 col-lg-7 col-xl-6 thumb">
+        @Html.Sitecore().ImageField(Templates.Store.Fields.Logo)
+    </div>
+    <div class="col col-12 col-md-6 col-lg-5 col-xl-6 info">
+        <div class="title">@Html.Sitecore().Field(Templates.Store.Fields.StoreName)</div>
+        <div class="additional">
+            @foreach (Sitecore.Data.Items.Item item in ((Sitecore.Data.Fields.MultilistField)Model.Item.Fields[Templates.Store.Fields.StoreOffers]).GetItems())
+            {
+                <div class="item small-icon @item.Fields[Templates.StoreOffer.Fields.IconCssClass].Value active">@item.Fields[Templates.StoreOffer.Fields.Value].Value</div>
+            }
+        </div>
+        @if (wingItem != null)
+        {
+            <div class="detail">
+                <div class="title">@Html.Sitecore().Dictionary("/Website/Find Us", "Find Us")</div>
+                <div class="text">@wingItem.Fields[Templates.Wing.Fields.Value].Value @Html.Sitecore().Dictionary("/Website/Store/Wing", "Wing") @Html.Sitecore().Dictionary("/Website/Store/Seperate Wing", ",") @Html.Sitecore().Field(Templates.Store.Fields.UnitNo)</div>
+            </div>
+        }
+        @if (Model.Item.FieldHasValue(Templates.Store.Fields.PhoneNumber) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+            <div class="detail">
+                <div class="title">@Html.Sitecore().Dictionary("/Website/Call Us", "Call Us")</div>
+                <div class="text">@Html.Sitecore().Field(Templates.Store.Fields.PhoneNumber)</div>
+            </div>
+        }
+        @if (Model.Item.FieldHasValue(Templates.Store.Fields.OpeningHours) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+            <div class="detail">
+                <div class="title">@Html.Sitecore().Dictionary("/Website/Open From", "Open From")</div>
+                <div class="text">@Html.Sitecore().Field(Templates.Store.Fields.OpeningHours)</div>
+            </div>
+        }
+    </div>
+</div>
+<div class="textbody">
+    @Html.Sitecore().Field(Templates.Store.Fields.Description)
+</div>

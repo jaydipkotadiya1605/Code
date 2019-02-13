@@ -1,0 +1,58 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="container-fluid top-menu">
+    <div class="container clearfix">
+        <ul class="links">
+            <li class="parent select-mall" onclick="selectProperty()">
+                @Html.Sitecore().Placeholder("top-menu")
+            </li>
+            @Html.Sitecore().Placeholder("top-main-menu")
+        </ul>
+        @Html.Sitecore().Placeholder("top-social-icon")
+    </div>
+</div>
+
+<div class="container main-menu clearfix">
+    @Html.Sitecore().Placeholder("main-nav")
+</div>
+
+<div class="container-fluid mobile-menu">
+    <div class="row align-items-center">
+        <div class="col col-2 search-icon">
+            <a href="#" onclick="openSearch()" title="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Search/Search Button", "Search")"><img src="@Url.Content("~/images/assets/icon-search.svg")" alt="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Search/Search Button", "Search")" /></a>
+        </div>
+        @Html.Sitecore().Placeholder("mobile-logo")
+        <div class="col col-2 dots">
+            <a href="#" onclick="openNav()" title="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Website/Dots", "...")"><img src="@Url.Content("~/images/assets/icon-dots.svg")" alt="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Website/Dots", "...")" /></a>
+        </div>
+    </div>
+</div>
+
+<div class="sidenav">
+    <div class="container-fluid">
+        <div class="row top">
+            <div class="col col-2 search-icon">
+                <a href="#" onclick="openSearch()" title="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Search/Search Button", "Search")"><img src="@Url.Content("~/images/assets/icon-search.svg")" alt="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Search/Search Button", "Search")" /></a>
+            </div>
+            <div class="col col-8 select-mall" onclick="selectProperty()">
+                @Html.Sitecore().Placeholder("mobile-top-menu")
+            </div>
+            <div class="col col-2 close">
+                <a href="#" onclick="closeNav()" title="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Website/Close", "Close")"><img src="@Url.Content("~/images/assets/icon-x.svg")" alt="@Html.Sitecore().DictionaryField("/sitecore/content/Global/Dictionary/Website/Close", "Close")" /></a>
+            </div>
+        </div>
+        <div class="row menu">
+            @Html.Sitecore().Placeholder("mobile-main-nav")
+            @Html.Sitecore().Placeholder("mobile-social-icon")
+        </div>
+    </div>
+</div>
+
+<div class="sidesearch">
+    <div class="container-fluid">
+        @Html.Sitecore().Placeholder("search-bar")
+    </div>
+</div>
+

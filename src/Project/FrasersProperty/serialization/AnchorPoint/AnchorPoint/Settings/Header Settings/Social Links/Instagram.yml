@@ -1,0 +1,33 @@
+﻿---
+ID: "94dd41f8-20e8-4846-a93e-79bb4a640a2a"
+Parent: "afc79cf9-766c-4bec-bf72-fdb15b55d0c6"
+Template: "74713dba-ac0d-4a12-bc9e-f607bb2c8ed1"
+Path: /sitecore/content/AnchorPoint/Settings/Header Settings/Social Links/Instagram
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T082307Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b8119e3-0258-47aa-baf7-6f3093f53167"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.instagram.com/anchorpoint_sg" anchor="" target="" />
+    - ID: "73122077-c90e-4fc3-9954-0e2287f934f9"
+      Hint: CssClass
+      Value: ig
+    - ID: "8fcff3a4-3d0c-4060-895f-ec7ce17317a6"
+      Hint: Icon Mobile
+      Value: |
+        <image mediaid="{CC162E9A-B9A8-43FE-B8BC-C4C2F5FF2207}" alt="Instagram" height="" width="" hspace="" vspace="" />
+    - ID: "ab91d564-2b6a-48f1-aac0-de65ea773de2"
+      Hint: Icon
+      Value: |
+        <image mediaid="{8F377585-1E55-47AB-A54B-34E4CDFC5963}" alt="Instagram" height="" width="" hspace="" vspace="" />

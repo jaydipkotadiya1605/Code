@@ -1,0 +1,17 @@
+﻿---
+ID: "59320d0a-0825-4965-928f-66125df84cd4"
+Parent: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Template: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Banner/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T040239Z
+    - ID: "6591a883-0ccb-4f93-8978-c7d26ae2254a"
+      Hint: Title
+      Value: $name

@@ -1,0 +1,17 @@
+﻿---
+ID: "f56f58df-8a78-45f1-9b1a-2e2e71b31e1e"
+Parent: "8f8f990d-fab8-48ef-8447-6881d2f72a86"
+Template: "36a8e330-1161-40a3-bf45-5991b9655822"
+Path: /sitecore/system/Settings/Feature/Open Graph Types/place
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080832Z
+    - ID: "2dd9234b-6dbf-47e2-a0d8-802930c499f7"
+      Hint: Name
+      Value: place

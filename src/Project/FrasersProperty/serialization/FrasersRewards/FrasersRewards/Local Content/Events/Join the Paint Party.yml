@@ -1,0 +1,87 @@
+﻿---
+ID: "1d1981a5-c783-4ead-a6a7-1f07eec6c29d"
+Parent: "5e94d7cc-8523-431b-9a2c-50cbc0b06ab0"
+Template: "6620fa0a-49e6-4cae-8872-395425075dc8"
+Path: /sitecore/content/FrasersRewards/Local Content/Events/Join the Paint Party
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "004bc4ae-0aad-47bf-b18b-c75cfa9364c8"
+      Hint: Title
+      Value: "Join the Paint Party!"
+    - ID: "013305bb-025d-47ea-a340-a4d7fd8db00b"
+      Hint: End Date
+      Value: 20180911T170000Z
+    - ID: "0477b953-4588-4520-aefe-52b6e87566fd"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{929CD3E8-0FB9-49EE-B402-4257DC3E2EE5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180713T084257Z
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: "Join the Paint Party!"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68d9c908-a52b-4a0d-8be1-2d44caf70ca6"
+      Hint: Image
+      Value: |
+        <image mediaid="{929CD3E8-0FB9-49EE-B402-4257DC3E2EE5}" />
+    - ID: "81b58390-e8e1-4de1-830b-d3552abe445e"
+      Hint: Description
+      Value: |
+        <!-- textbody -->
+        <div class="textbody">
+            <div id="cke_pastebin">
+                <span style="">Registration is open to all residents.</span>
+            </div>
+            <div id="cke_pastebin">
+                <span style="">
+        <br />
+                </span>
+            </div>
+            <div id="cke_pastebin">
+                <span style="">
+                    Sign up as a solo artist or in a group of up to 4 participants and attend a 4-hour session of your choice over the two weekends in June. Hurry, the Party is limited to 145 solo/group participants. Everyone takes home a goody bag, plus bragging rights!<br />
+                    <br />
+                    To register, click <a href="https://frasers.happenings.com.sg/">here</a>.<br />
+                    <br />
+                    *
+                </span><span style="">All information is correct at the time of updating the website and subject to change without prior notice. Visit Customer Service Counter for more information.&nbsp;</span>
+            </div>
+        </div>
+        <!-- textbody -->
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 20180717T170000Z
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: "{4C4E8FCD-AED7-4142-BFD3-B9B54465329C}"
+    - ID: "9b4e265b-2bfa-4665-85d0-8c15f2f07a14"
+      Hint: Expiry Date
+      Value: 
+    - ID: "b595eef2-9425-4778-91c2-9675606de8c5"
+      Hint: Event Type
+      Value: "{A3DBB56D-E037-43C6-86EB-2B7264F11A1A}"
+    - ID: "c64ad6dc-cf30-412e-8406-75641e1d15de"
+      Hint: Start Date
+      Value: 20180830T170000Z
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: "Join the Paint Party!"
+    - ID: "db364bb7-9f54-4264-a25f-3b184fb7d089"
+      Hint: Summary
+      Value: |
+        Waterway Point, East Atrium, Level 1
+        Registration: 30 April to 20 May 2018
+        Party Times: 2, 3, 9 & 10 June 2018, 2pm to 6pm
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: "4C4E8FCDAED74142BFD3B9B54465329C=894574D8-8512-4762-A460-CF9F0B964C4F"

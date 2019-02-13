@@ -1,0 +1,31 @@
+﻿---
+ID: "6eae4373-82f3-4bf3-ac04-5eafb67fbdc2"
+Parent: "2eb7360a-a9fa-49f4-be16-bfad7930844a"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Search/Search Overlay
+DB: master
+SharedFields:
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{FBC3BE93-926B-4871-ABF8-5591859880DA}" />
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: SearchOverlay
+- ID: "e514a1eb-ddba-44f7-8528-82ca2280f778"
+  Hint: JavaScript assets
+  Value: "/js/search/search-overlay.js"
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Sitecore.Feature.Search.Controllers.SearchController,Sitecore.Feature.Search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095804Z

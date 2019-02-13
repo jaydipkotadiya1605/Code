@@ -1,0 +1,17 @@
+﻿---
+ID: "1b8cead6-b1cf-4577-98e7-f04265c7e4f5"
+Parent: "a114a69e-c60b-4b14-933d-50620d9dccae"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Search/Search Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T044048Z
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: "What are you looking for?"

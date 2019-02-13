@@ -1,0 +1,21 @@
+﻿---
+ID: "02c25e59-0bfa-435b-a109-5dd31583a8a8"
+Parent: "8d5a4a3c-71e6-46b8-a427-c6119f822314"
+Template: "ec4dd3f2-590d-404b-9189-2a12679749cc"
+Path: /sitecore/content/Global/Dictionary/Website/ContactPage/PlaceHolderMessages/Enter your contact number
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180801T120137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        frasersproperty\Anonymous
+    - ID: "ddacdd55-5b08-405f-9e58-04f09aed640a"
+      Hint: Phrase
+      Value: Enter your contact number

@@ -1,0 +1,91 @@
+﻿---
+ID: "67ca9b5d-d55b-4795-b1c2-7b270014fd02"
+Parent: "1a1c73fe-5e69-4271-8973-59bf58463772"
+Template: "f94f676b-1e3c-4e88-9f20-340acf59b64e"
+Path: /sitecore/content/WaterwayPoint/Home/Blogs
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 582
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{69FD6129-14DC-4DA5-923F-43FBDCC098DB}"
+              p:before="*"
+              s:ds="{1E609CDE-8167-4EF5-81A1-EDF81CEC8CF6}"
+              s:id="{CAE14136-1BAD-467C-BAA0-9981EEDB6FCF}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795/inner-row_510ecf50-6e3d-4c64-85ee-4577aa6d1953/col-wide-1_5091ed15-6aa9-4d8e-a97d-b464dc448e0b" />
+            <r
+              uid="{5091ED15-6AA9-4D8E-A97D-B464DC448E0B}"
+              p:after="r[@uid='{69FD6129-14DC-4DA5-923F-43FBDCC098DB}']"
+              s:ds=""
+              s:id="{B87F6745-6F9A-476D-BEB2-4072BD2FB082}"
+              s:par="Col Class={68B73629-2BAA-42B1-ACF1-297EC99D787E}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795/inner-row_510ecf50-6e3d-4c64-85ee-4577aa6d1953" />
+            <r
+              uid="{F0AC77E8-38E9-482C-9174-735C44CF975F}"
+              p:after="r[@uid='{5091ED15-6AA9-4D8E-A97D-B464DC448E0B}']"
+              s:id="{C920CB79-CF90-4BE1-A1E4-E71407EF962D}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795/inner-row_510ecf50-6e3d-4c64-85ee-4577aa6d1953" />
+            <r
+              uid="{510ECF50-6E3D-4C64-85EE-4577AA6D1953}"
+              p:after="r[@uid='{F0AC77E8-38E9-482C-9174-735C44CF975F}']"
+              s:ds=""
+              s:id="{570F6040-6CD5-4560-8820-25655D510980}"
+              s:par="Row Class={818BD1D1-0AD6-42DB-85DD-4B5FC61FA943}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795" />
+            <r
+              uid="{A7C9D117-DB31-4F8D-88CB-5038C070B489}"
+              p:after="r[@uid='{510ECF50-6E3D-4C64-85EE-4577AA6D1953}']"
+              s:ds="{1E609CDE-8167-4EF5-81A1-EDF81CEC8CF6}"
+              s:id="{C98F05FA-DF90-4E73-88DA-829E8AA1CB19}"
+              s:par=""
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795" />
+            <r
+              uid="{74AC4AD5-664C-434A-B0C8-DCD808A92194}"
+              p:after="r[@uid='{A7C9D117-DB31-4F8D-88CB-5038C070B489}']"
+              s:id="{28D90A24-8E33-40CF-A1DF-CA863D3789EF}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-huge_e224398b-c69e-48a6-a39c-612f507b1795" />
+            <r
+              uid="{E224398B-C69E-48A6-A39C-612F507B1795}"
+              p:after="r[@uid='{74AC4AD5-664C-434A-B0C8-DCD808A92194}']"
+              s:id="{0AD8EC59-33EC-4103-AAD4-F3A49BFDB92C}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0" />
+            <r
+              uid="{4A51260D-432A-469F-AE1C-EF304A9EE03B}"
+              p:after="r[@uid='{E224398B-C69E-48A6-A39C-612F507B1795}']"
+              s:id="{CAE14136-1BAD-467C-BAA0-9981EEDB6FCF}"
+              s:ph="/page-layout/column_ad09b742-2db8-4bb8-8cf3-a5b148fc2ee0/col-wide-1_ae89ed87-2654-44c8-9fc7-c286ac87e105" />
+            <r
+              uid="{AD09B742-2DB8-4BB8-8CF3-A5B148FC2EE0}"
+              s:ds=""
+              s:par="Css Page Class=content blog-listing" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T080652Z
+    - ID: "4b16f930-73c9-4643-bb1b-00f06e60a073"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{0027BD0A-D6B1-4ECF-91AA-46D0C94E90D7}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Blogs
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Blogs

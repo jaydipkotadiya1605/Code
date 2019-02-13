@@ -1,0 +1,7 @@
+; Top-most EditorConfig file
+root = true
+test
+; 4-column space indentation
+[*]
+indent_style = space
+indent_size = 4

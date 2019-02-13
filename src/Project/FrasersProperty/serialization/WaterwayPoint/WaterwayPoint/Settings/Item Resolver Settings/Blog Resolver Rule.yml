@@ -1,0 +1,24 @@
+﻿---
+ID: "694adea3-9981-4521-b0c1-89de0381c7d1"
+Parent: "19a4dc5a-32fa-4280-a617-cd0b3b781a38"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/content/WaterwayPoint/Settings/Item Resolver Settings/Blog Resolver Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: "{30BF3554-03C6-4A7F-A915-D9EC64682893}"
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{9B2E84CE-C0F2-4ACD-8282-74ED1B293C19}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: "{D0C89E8A-3B04-48BD-8C85-D88B001FC66B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180807T081331Z

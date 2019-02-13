@@ -1,0 +1,14 @@
+﻿---
+ID: "658e7065-7ca1-42fc-a30e-918f68b39490"
+Parent: "3d40150b-fc21-408a-8f05-a7bb10ff3a47"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_MostWantedDealsWidget/Widget Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180802T084556Z

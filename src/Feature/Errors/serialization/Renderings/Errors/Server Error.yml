@@ -1,0 +1,34 @@
+﻿---
+ID: "06a63cd2-4a58-444c-90cf-a8bed07a0d83"
+Parent: "dc9050ff-d693-465d-8766-b77ba65ebc30"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Errors/Server Error
+DB: master
+SharedFields:
+- ID: "3d08db46-2267-41b0-bc52-be69fd618633"
+  Hint: Cacheable
+  Type: Checkbox
+  Value: 0
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Errors/ServerError.cshtml
+- ID: "8b6d532b-6128-4486-a044-ca06d90948ba"
+  Hint: VaryByData
+  Type: Checkbox
+  Value: 0
+- ID: "f3e7e552-d7c8-469b-a150-69e4e14ab35c"
+  Hint: ClearOnIndexUpdate
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T034259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

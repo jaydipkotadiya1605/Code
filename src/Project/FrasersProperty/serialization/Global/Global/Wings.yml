@@ -1,0 +1,14 @@
+﻿---
+ID: "81a4c924-32ea-4212-a6bd-255a3114532f"
+Parent: "1f3de422-ef95-4744-be1f-e754ebd0bf8b"
+Template: "54162433-d7f9-4413-9c11-b1b05989054c"
+Path: /sitecore/content/Global/Wings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T095734Z

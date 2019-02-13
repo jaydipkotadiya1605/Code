@@ -1,0 +1,28 @@
+﻿---
+ID: "95c25ce5-c9fe-4552-8409-2d9083fd48f8"
+Parent: "abd750e0-c0e4-49d1-8e27-e367ac6d5d03"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/content/AnchorPoint/Settings/Item Resolver Settings/Event Routing Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: "{7DFE4B18-6894-414D-9561-DD5C2AE64B4C}"
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{6620FA0A-49E6-4CAE-8872-395425075DC8}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: "{BBD6D548-3276-4CE0-B9EB-7DE8915D39E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180719T043524Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

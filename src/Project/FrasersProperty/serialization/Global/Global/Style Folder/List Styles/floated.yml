@@ -1,0 +1,18 @@
+﻿---
+ID: "7228013e-cbea-4f84-aaf7-af36906be949"
+Parent: "7272e014-7ce4-48d6-8f9e-23bc92ec7c70"
+Template: "72a6ff0e-a1dd-42ea-b38a-77d13ef856d9"
+Path: /sitecore/content/Global/Style Folder/List Styles/floated
+DB: master
+SharedFields:
+- ID: "cf1e34b0-27e7-4861-becd-c0bc58295f77"
+  Hint: Class
+  Value: floated
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180803T050618Z

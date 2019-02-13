@@ -1,0 +1,228 @@
+﻿---
+ID: "2d534677-0012-45c5-99c8-beb5f63f9582"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/GiftCardsTermsAndConditions
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2000
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gift Cards | Terms and Conditions
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095941Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <strong>Consumer advisory — Frasers Property Management Services Pte. Ltd, the holder of Frasers Property Singapore Gift Card stored value facility, does not require the approval of the Monetary Authority of Singapore. Consumers (users) are advised to read the terms and conditions carefully.</strong>
+        					<br /><br />
+        
+        					<!-- section -->
+        					<strong>1. Introduction</strong>
+        					<br /><br />
+        
+        					1.1	The Frasers Property Gift Card stored value facility is provided to you by FPMS. As the holder of the stored value facility in respect of the Frasers Property Gift Cards, FPMS holds the stored value in your Frasers Property Gift Cards.
+        					<br /><br />
+        
+        					1.2	The terms and conditions in this annex ("<strong><u>DGC Terms</u></strong>") form part of the Agreement and will apply to your use of the Frasers Property Gift Cards held in electronic form on the App ("<strong><u>Digital Gift Cards</u></strong>"). In the event of any conflict or inconsistency between these DGC Terms and any other provisions in the Agreement, these DGC Terms will prevail.
+        					<br /><br />
+        
+        					1.3	All capitalised terms in the DGC Terms will have the same meaning ascribed to them in the Agreement, unless indicated otherwise.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>2. Digital Gift Card</strong>
+        					<br /><br />
+        
+        					2.1	The Digital Gift Card:
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>may be purchased at a minimum value of S$10, or any larger value in multiples of S$10, up to a maximum of S$500 per Digital Gift Card;
+        
+        						</li><li>may be redeemed at participating retailers ("<strong><u>Gift Card Participating Merchants</u></strong>") at the malls managed by FPMS ("<strong><u>Frasers Property Malls</u></strong>"), the full list of which may be obtained from <a href="https://www.FrasersExperience.com" target="_blank">https://www.FrasersExperience.com</a>.</li>
+        
+        						<li>may be used multiple times until its stored value is exhausted;</li>
+        
+        						<li>may be combined with other modes of payment accepted by the Gift Card Participating Merchant, if its stored value is insufficient;</li>
+        
+        						<li>may be combined with one or more other Frasers Property Gift Cards (whether a Digital Gift Card or a bearer Frasers Property Gift Card in physical form ("<strong><u>Physical Gift Card</u></strong>")) as payment for a single purchase; and</li>
+        
+        						<li>can only be used / redeemed through the App.</li>
+        						
+        					</ol>
+        					
+        					2.2	The holder of the Digital Gift Card will not be entitled to earn points under the Frasers Experience programme for the purchase value of the Digital Gift Card.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>3. Purchases of Digital Gift Cards</strong>
+        					<br /><br />
+        
+        					3.1	Purchases of Digital Gift Cards may be made via:
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>the App using the payment methods made available on the App by FPMS from time to time</li>
+        
+        						<li>the purchase of a Physical Gift Card at any Customer Service Counter and thereafter loading the Physical Gift Card on to the App as a Digital Gift Card. For the avoidance of doubt, this set of terms will not apply to the use of Physical Gift Cards which are directly used at Gift Card Participating Merchants (i.e. where the Physical Gift Card is not loaded on to the App as a Digital Gift Card). </li>
+        					</ol>
+        
+        					3.2 You may purchase multiple Digital Gift Cards subject to an aggregate maximum value of S$2,000. Please contact <a href="mailto:promo@frasersproperty.com">promo@frasersproperty.com</a> for any bulk purchases of Digital Gift Cards exceeding S$2,000 in aggregate.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>4.	Redeeming Gift Cards</strong>
+        					<br /><br />
+        
+        					4.1	Digital Gift Cards cannot be used to purchase other Frasers Property Gift Cards.
+        					<br /><br />
+        
+        					4.2	If the value of your purchase exceeds the value of the Digital Gift Card, any outstanding purchase balance must be paid using a different payment method.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>5. Loading on the App / View your balance</strong>
+        					<br /><br />
+        
+        					5.1	You may load your Digital Gift Card on the App, and view your Digital Gift Card balance, by following the relevant on-screen instructions.
+        					<br /><br />
+        
+        					5.2	While you may load multiple Digital Gift Cards on your App, each Digital Gift Card will be reflected separately on the App (i.e. each Digital Gift Card and its individual balance will be reflected separately instead of one combined balance).
+        					<br /><br />
+        
+        					5.3	If the Digital Gift Card has not been reflected in your App within 24 hours after you have made a purchase of a Digital Gift Card on the App, or loaded the Digital Gift Card on your App, please contact <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a>. Please refer to your Digital Gift Card number, or be ready to supply your email address.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>6. Gifting of Digital Gift Cards</strong>
+        					<br /><br />
+        
+        					6.1	When you purchase a Digital Gift Card for the purposes of gifting it to a recipient, the recipient will receive an email confirmation containing instructions to load the Digital Gift Card onto his/her App. We are not responsible for Digital Gift Cards that are undeliverable or not received due to your failure to enter an accurate email address for the recipient. If the recipient has not received the email confirmation within a reasonable period after the gifting has been initiated, the following is a list of the most common reasons why delivery may have failed:
+        					<br /><br />
+        
+        					<ol class="alpha">
+        						<li>spam filter blocked email or routed it to a bulk/spam folder;</li>
+        						<li>recipient's firewall blocked the email;</li>
+        						<li>email inbox has exceeded its size limit; or</li>
+        						<li>invalid email address.</li>
+        					</ol>
+        
+        					If a spam filter is blocking our emails from getting to the recipient’s inbox, the email options/settings of the recipient will need to be modified so that our emails are not considered spam.
+        					<br /><br />
+        
+        					6.2	If the recipient has not yet received an email confirmation within 24 hours after you have initiated the purchase of the Digital Gift Card for the purposes of gifting it to a recipient, or if you need further assistance, please contact <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a>. Please refer to your Digital Gift Card number, or be ready to supply your email address. 
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>7. Validity</strong>
+        					<br /><br />
+        
+        					7.1	The stored value in the Digital Gift Card is valid for 1 year from date of activation unless otherwise stated. No extension or refund of the unutilised stored value will be granted.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>8.	Refund</strong>
+        					<br /><br />
+        
+        					8.1	The Digital Gift Card is a stored value gift voucher. It is not a cash card or a substitute for cash. The stored value in the Digital Gift Card is a non-refundable pre-payment for goods and services at Gift Card Participating Merchants and may only be redeemed for such goods and services. It may not be refunded, converted to or exchanged for cash, or transferred to another Digital Gift Card or Physical Gift Card, regardless of whether the stored value has been fully or partially unutilised.
+        					<br /><br />
+        
+        					8.2	FPMS shall not be responsible for any of the Gift Card Participating Merchants withdrawing from the Frasers Property Gift Card programme. The list of Gift Card Participating Merchants are subject to change at any time without notice.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>9.	Termination</strong>
+        					<br /><br />
+        
+        					9.1	If FPMS intends to terminate the Digital Gift Card (or the Frasers Property Gift Card) programme for any reason, you will be given a grace period of at least 6 months to redeem at Participating Merchants.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>10. Transferability</strong>
+        					<br /><br />
+        
+        					10.1 Once loaded onto the App, the value in the Digital Gift Cards cannot be transferred to any other person.
+        					<br /><br />
+        
+        					10.2 While you are permitted to give a Digital Gift Card as a gift, a Digital Gift Card may not be resold by the purchaser or user for money or money's worth.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>11.	Rights of FPMS</strong>
+        					<br /><br />
+        
+        					11.1 FPMS may in its discretion invalidate any Digital Gift Card which is suspected of being cloned, stolen, fraudulently issued or used, in which case the unutilised stored value will not be refunded.
+        					<br /><br />
+        
+        					11.2 FPMS shall be entitled to correct the stored value balance on any Digital Gift Card to rectify any accounting or processing error.
+        					<br /><br />
+        
+        					11.3 FPMS reserves the right at any time and at its sole discretion, to limit, add, amend, replace or delete in whole or part any of these DGC Terms. The amendment shall be binding on the Digital Gift Card purchaser or user upon publication of the amended version on FPMS website at <a href="https://www.FrasersExperience.com" target="_blank">https://www.FrasersExperience.com</a> or on the App. In case of any inconsistency between the online and printed versions of the terms, the online version shall prevail. In any event, if you continue to use the Digital Gift Cards after such amendment, you shall be deemed to have accepted the amendments.
+        					<br /><br />
+        
+        					11.4 FPMS makes no representation or warranty that the use or processing of the Digital Gift Card will be error-free or prompt, or that the Digital Gift Card will be accepted by all retailers at the Frasers Property Malls.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>12.	Risk of loss</strong>
+        					<br /><br />
+        
+        					12.1 Once purchased, ownership and risk of loss of Digital Gift Cards passes to you as soon as we send our confirmation to you. We are not responsible for lost or stolen Digital Gift Cards, and such lost or stolen Digital Gift Cards shall not be replaced.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>13. Customer Service</strong>
+        					<br /><br />
+        
+        					13.1 If you need assistance with any aspect of the Digital Gift Cards, including but not limited to purchases, ownership or use of the Digital Gift Cards, please contact <a href="mailto:mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a>. Please refer to your Digital Gift Card number, or be ready to supply your App account details.
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>14. Limitation of Liability</strong>
+        					<br /><br />
+        
+        					14.1 FPMS shall not be liable for any indirect or consequential loss or damage, including any loss of income, business, goodwill or profits. FPMS' liability for any claim arising from or in relation to any Digital Gift Card(s) shall in any event be limited to the last stored value balance(s) on such Digital Gift Card(s).
+        					<br /><br />
+        					<!-- /section -->
+        
+        					<!-- section -->
+        					<strong>15.	Miscellaneous</strong>
+        					<br /><br />
+        
+        					15.1 The rights and protections conferred on FPMS under these DGC Terms shall be additional to the rights and protections conferred on FPMS under the Agreement, Privacy Policy, Privacy Policy Addendum, as well as such other terms and conditions as may be agreed to or accepted by you.
+        					<br /><br />
+        
+        					15.2 Any clause in the DGC Terms, Agreement, Privacy Policy, Privacy Policy Addendum and other terms and conditions as may be agreed to or accepted by you that is invalid, unenforceable or illegal shall be enforced as nearly as possible in accordance with its terms, but shall otherwise be deemed severed and shall not affect the enforceability of any other clauses, which clauses shall continue to be valid and enforceable to the fullest extent permitted by law.

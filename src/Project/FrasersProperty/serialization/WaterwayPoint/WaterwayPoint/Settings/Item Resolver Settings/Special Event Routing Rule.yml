@@ -1,0 +1,28 @@
+﻿---
+ID: "1a21c58a-e5b0-4e91-87d4-4130290977b6"
+Parent: "19a4dc5a-32fa-4280-a617-cd0b3b781a38"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/content/WaterwayPoint/Settings/Item Resolver Settings/Special Event Routing Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: "{4532E434-DCDD-44F1-BAFA-6F93FF60DA6C}"
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{5D5635DB-F3E3-4171-973B-C83D522C111A}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: "{B61A7304-3ED6-4E6E-A637-EB9D842A7DDF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T113333Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

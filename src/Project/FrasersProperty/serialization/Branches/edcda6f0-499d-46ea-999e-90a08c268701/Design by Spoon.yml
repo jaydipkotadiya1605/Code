@@ -1,0 +1,22 @@
+﻿---
+ID: "6321033b-824f-4391-bd6e-8df1371f60fb"
+Parent: "edcda6f0-499d-46ea-999e-90a08c268701"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Settings/Footer Settings/Copyright Links/Design by Spoon
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Design by Spoon" linktype="external" url="http://spoon.com.sg" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T065421Z

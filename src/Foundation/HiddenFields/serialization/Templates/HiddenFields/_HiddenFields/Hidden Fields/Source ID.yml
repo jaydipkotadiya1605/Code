@@ -1,0 +1,18 @@
+﻿---
+ID: "0e5b89a0-4344-47a8-816b-2a6c0c8cd82e"
+Parent: "41e3d0b1-2ca9-4da0-91f5-13c17b767126"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/HiddenFields/_HiddenFields/Hidden Fields/Source ID
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droptree
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T035304Z

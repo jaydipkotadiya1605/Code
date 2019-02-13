@@ -1,0 +1,19 @@
+﻿---
+ID: "9635a6c2-0c1d-48c9-918c-d15d71613566"
+Parent: "fb3ce825-f8c9-4a35-b76b-b5856e3e3b0e"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/Frasers Workflow/Approved
+DB: master
+SharedFields:
+- ID: "fb8abc73-7acf-45a0-898c-d3ccb889c3ee"
+  Hint: Final
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180615T080026Z

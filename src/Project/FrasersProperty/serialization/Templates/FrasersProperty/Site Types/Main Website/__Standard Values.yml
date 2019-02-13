@@ -1,0 +1,25 @@
+﻿---
+ID: "2e5c3f32-e624-46ad-b2b6-6d35fbc32e64"
+Parent: "3c7f4f00-8981-4532-8ea8-8e6b05621911"
+Template: "3c7f4f00-8981-4532-8ea8-8e6b05621911"
+Path: /sitecore/templates/Project/FrasersProperty/Site Types/Main Website/__Standard Values
+DB: master
+SharedFields:
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking
+      ignore="1" />
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Admin|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|ar|frasersproperty\Main Site Author|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:delete|+item:write|+item:create|+item:read|ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|ar|frasersproperty\Mall Site Author|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180625T034700Z

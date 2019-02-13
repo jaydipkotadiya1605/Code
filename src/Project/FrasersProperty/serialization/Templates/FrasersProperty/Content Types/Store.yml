@@ -1,0 +1,14 @@
+﻿---
+ID: "9b942860-4a32-407b-9d57-1bbfd94e5873"
+Parent: "7a06efda-d413-4cc8-91bf-2e4847f54a3b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/FrasersProperty/Content Types/Store
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T080003Z

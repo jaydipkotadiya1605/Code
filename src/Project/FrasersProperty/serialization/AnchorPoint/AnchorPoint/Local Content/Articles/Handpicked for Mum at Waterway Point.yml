@@ -1,0 +1,305 @@
+﻿---
+ID: "2215007a-c239-4100-81e2-e7e2b3704ec5"
+Parent: "d9b4deee-1125-4f1a-93c0-f4937286fc04"
+Template: "24f3889d-c63b-452d-b158-7601eb790305"
+Path: /sitecore/content/AnchorPoint/Local Content/Articles/Handpicked for Mum at Waterway Point
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180723T091059Z
+    - ID: "30525c09-f338-4417-880a-27107c3fbf71"
+      Hint: Title
+      Value: Handpicked for Mum at Waterway Point
+    - ID: "31c583d0-fd40-47d8-81c7-df52eda0ed97"
+      Hint: Category
+      Value: "{01E03EC8-0AAD-4869-AD3D-4154A2E57627}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "4e997e31-cdf9-4d49-aa84-105b00c0286d"
+      Hint: Summary
+      Value: "From 1 to 14 May 2018, love and celebrate the special lady in your life with an array of special events, delightful deals and fab giveaways at Waterway Point!"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Handpicked for Mum at Waterway Point
+    - ID: "5507cfac-7561-4b74-86e5-a1c821ec6182"
+      Hint: Description
+      Value: |
+        <div class="textbody">
+        <p>
+        <span style="color: #000000;"><strong>Exclusively for Frasers Rewards Members!<br />
+        </strong></span><strong><span style="color: #ff0000;"><br />
+        Be Rewarded as you Shop</span></strong></p>
+        <div class="table-wrap">
+        <div class="table-wrap">
+        <div class="table-wrap"><table>
+            <tbody>
+                <tr>
+                    <td>
+                    <span><strong>Spend<br />
+                    </strong></span></td>
+                    <td>
+                    <span><strong><br />
+                    Date/ Timing/ Venue<br />
+                    <br />
+                    </strong></span></td>
+                    <td>
+                    <span><strong><br />
+                    Details<br />
+                    <br />
+                    </strong></span></td>
+                    <td>
+                    <span><strong><br />
+                    Terms &amp; Conditions<br />
+                    <br />
+                    </strong></span></td>
+                </tr>
+                <tr>
+                    <td colspan="1">
+                    <span>Minimum $100 spent</span></td>
+                    <td colspan="1" rowspan="2">
+                    <p>
+                    <span>1 to 14 May 2018</span></p>
+                    </td>
+                    <td>
+                    <span><br />
+                    With a minimum spend of $100, receive a chance at a sure-win lucky dip to win tenant vouchers and products*!<br />
+                    <br />
+                    You might also stand a chance to win Gold 'N' Gem Pendants worth $98.<br />
+                    <br />
+                    *Limited to the first 1,600 redemptions.<br />
+                    <br />
+                    <span style="color: #ff0000;"><strong>Update: Chances for the sure-win lucky dip have been full redeemed.</strong></span><br />
+                    <br />
+                    </span></td>
+                    <td colspan="1" rowspan="2">
+                    <span><br />
+                    </span>
+                    <div id="cke_pastebin">
+                    <span>Minimum spend of $10 in a single receipt.</span></div>
+                    <div id="cke_pastebin">
+                    <span><br />
+                    </span></div>
+                    <div id="cke_pastebin">
+                    <span>Maximum of 3 same-day, same-mall transactions.</span></div>
+                    <div id="cke_pastebin">
+                    <span><br />
+                    </span></div>
+                    <div id="cke_pastebin">
+                    <span>Present NRIC/FIN or any photo identification document, original receipt(s) and transaction detail(s) scanned to the same account in the Frasers Rewards app on the day of purchase at Customer Service Counter to redeem.</span></div>
+                    <div id="cke_pastebin">
+                    <span><br />
+                    </span></div>
+                    <div id="cke_pastebin">
+                    <span>Limited to 1 redemption per Frasers Rewards member per day.</span></div>
+                    <div id="cke_pastebin">
+                    &nbsp;</div>
+                    <div>
+                    <span>Available on a first-come-first-served basis and while stocks last.<br />
+                    <br />
+                    </span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="1">
+                    <span>Minimum $100 spent with Citi Credit or Debit Card</span></td>
+                    <td colspan="1">
+                    <span><br />
+                    Receive an additional $10 rebate when you spend using your Citi Credit or Debit Card*.<br />
+                    <br />
+                    *Limited to the first 1,141 redemptions.<br />
+                    <br />
+                    </span></td>
+                </tr>
+            </tbody>
+        </table></div>
+        </div>
+        <p class="table-wrap">&nbsp;<img src="-/media/6babc9a1939949acbc9085a2b01b608a.ashx" alt="Shutterstock" /></p>
+        </div>
+        <p><strong style="color: #ff0000;">Event Highlights<br />
+        </strong></p>
+        <div class="table-wrap">
+        <div class="table-wrap">
+        <div class="table-wrap"><table>
+            <tbody>
+                <tr>
+                    <td>
+                    <span><strong>Event</strong></span></td>
+                    <td>
+                    <span><strong>Date/ Timing/ </strong></span><span><strong>Venue</strong></span></td>
+                    <td>
+                    <span><strong>Details</strong></span></td>
+                </tr>
+                <tr>
+                    <td>
+                    <a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=46404&amp;t=fairprice-finest-baby-fair"><span>Fairprice Finest Baby Fair</span></a></td>
+                    <td>
+                    <span><br />
+                    30 April to 6 May 2018<br />
+                    <br />
+                    Village Square,<br />
+                    Level 1<br />
+                    <br />
+                    </span></td>
+                    <td>
+                    <div id="cke_pastebin">
+                    <span>Shop a variety of baby and motherhood products ranging from organic food items and diapers, wellness gear and baby accessories!</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=46405&amp;t=supermom-mothers-day-special"><span>SuperMom Mother's Day Special</span></a></td>
+                    <td>
+                    <p>
+                    <span><br />
+                    7 to 13 May 2018<br />
+                    <br />
+                    Village Square,<br />
+                    Level 1</span></p>
+                    </td>
+                    <td>
+                    <span><br />
+                    A week-long event promising exciting activities for all mothers and mothers-to-be! Highlights include manicure zones for mothers to pamper themselves, craft corners where kids can put together something special for their moms and daily Zumba workouts!<br />
+                    <br />
+                    </span></td>
+                </tr>
+                <tr>
+                    <td>
+                    <a href="http://www.frasersrewards.com/event_detail.php?c=582&amp;desc=Events+Calendar&amp;p=46406&amp;t=guardian-baby-fair"><span>Guardian Baby Fair</span></a></td>
+                    <td>
+                    <span><br />
+                    14 to 20 May 2018<br />
+                    <br />
+                    Village Square,<br />
+                    Level 1<br />
+                    <br />
+                    </span></td>
+                    <td>
+                    <span><br />
+                    Check out a range of promotions on baby products, informative talks on baby care topics, stage games and more - a must for new and prospective parents!<br />
+                    <br />
+                    </span></td>
+                </tr>
+            </tbody>
+        </table></div>
+        </div>
+        </div>
+        <div id="cke_pastebin">
+        <span><br />
+        </span></div>
+        <div id="cke_pastebin">
+        <div id="cke_pastebin">
+        <div id="cke_pastebin"><span style="color: #ff0000;"><strong>
+        <img height="408" alt="Touran 2018" width="740" src="-/media/b25d50248de84782981254ced5d86f1b.ashx?h=408&amp;w=740" style="height: 408px; width: 740px;" /><br />
+        Win a Volkswagen Touran<br />
+        <br />
+        </strong></span><span>Zip away in a shiny new Volkswagen Touran! Simply spend a minimum of<span style="color: #000000;">&nbsp;$30*</span>&nbsp;and scan your Frasers Rewards QR code at participating stores to qualify for </span><span>one lucky draw chance from&nbsp;</span><span>now till 30 June 2018</span><span>.&nbsp;<br />
+        <br />
+        </span><strong style="color: #ff0000;">Win a Volkswagen Touran (Terms &amp; Conditions)<br />
+        </strong><span><br />
+        </span>
+        <ul>
+            <li>
+            <span>Minimum $10 spent in a single transaction.</span></li>
+            <li>
+            <span>Prize excludes COE, GST, Road Tax, Registration Fee, Additional Registration Fee, Insurance, IU Installation, Servicing Package and other incidentals.&nbsp;</span></li>
+            <li>
+            <span>Lucky draw chances are also tabulated on a transaction basis, eg. if you spend $30 at a store, you receive 1 lucky draw chance.</span></li>
+            <li>
+            <span>If you spend $10 today and $20 tomorrow, you do not qualify for any chance.</span></li>
+            <li>
+            <span>Lucky draw chances are also tabulated on a transaction basis, eg. if you spend $40 at a store, you receive 1 lucky draw chance.</span></li>
+            <li>
+            <span>If you spend $50 at another store, you receive another lucky draw chance.</span></li>
+            <li>
+            <span>For the spending of $90 in 2 transactions, you receive 2 lucky draw chances.&nbsp;</span></li>
+            <li>
+            <span>A winner will be drawn across our 12 malls on 16 Jul 2018.&nbsp;</span></li>
+            <li>
+            <span>The car must be registered by Nov 2018.</span></li>
+        </ul>
+        <span>Not a Frasers Rewards member? It's free and easy to join -&nbsp;</span><a href="http://www.frasersrewards.com/page.php?CategoryID=648">sign up</a><span>&nbsp;now to enjoy this offer!<br />
+        <br />
+        <strong><span style="color: #ff0000;">Handpicked Specials!</span></strong><br />
+        <img height="1057" alt="Mothers Day" width="740" src="-/media/eaf3b8a6b3814463a3afd39ccab1522c.ashx?h=1057&amp;w=740" style="height: 1057px; width: 740px;" /></span></div>
+        <div id="cke_pastebin"><span><img alt="Mothers Day" height="1057" width="740" src="-/media/2263d3f6a138494492a9469a4ac22bd1.ashx?h=1057&amp;w=740" style="height: 1057px; width: 740px;" /><br />
+        </span>
+        <strong><span style="line-height: 1.6em; color: #ff0000;">Terms &amp; Conditions<br />
+        <br />
+        </span></strong><strong><span>A.<span class="Apple-tab-span" style="white-space: pre;"> </span>HOW TO APPLY FOR FRASERS REWARDS</span></strong></div>
+        </div>
+        <div id="cke_pastebin">
+        <span><br />
+        </span></div>
+        <div id="cke_pastebin">
+        <span>1.<span class="Apple-tab-span" style="white-space: pre;"> </span>Frasers Rewards is a shoppers’ loyalty&nbsp;</span><span>programme</span><span>&nbsp;that allows you to earn Frasers Points across the malls of Frasers Property as listed below.</span></div>
+        <div id="cke_pastebin">
+        <span><br />
+        </span></div>
+        <div id="cke_pastebin">
+        <span>Anchorpoint, Bedok Point, Causeway Point, Changi City Point, China Square Central, Eastpoint Mall, Northpoint City, Robertson Walk, The Centrepoint, Valley Point, Waterway Point and YewTee Point.</span></div>
+        <div id="cke_pastebin">
+        <span><br />
+        </span></div>
+        <div id="cke_pastebin">
+        <span>2.<span class="Apple-tab-span" style="white-space: pre;"> </span>Membership is&nbsp;<strong>FREE.</strong>&nbsp;Applicants&nbsp;<strong>MUST BE</strong>&nbsp;18 years old and above.</span></div>
+        <div id="cke_pastebin">
+        <span><br />
+        </span></div>
+        <div id="cke_pastebin">
+        <span>3.<span class="Apple-tab-span" style="white-space: pre;"> </span>To apply, download the Frasers Rewards mobile app which is available on the App Store and Google Play to register and start enjoying Frasers Rewards member’s benefits. Details can be found at www.FrasersRewards.com.<br />
+        <br />
+        </span><span>4.</span><span class="Apple-tab-span" style="white-space: pre;"> </span><span>For instant rewards, please see “B. &nbsp;Redemption"</span></div>
+        <div id="cke_pastebin">
+        <p>
+        <span><br />
+        </span><strong>B.<span class="Apple-tab-span" style="white-space: pre;"> </span>REDEMPTION<br />
+        <br />
+        </strong><span>1. To qualify for any instant rewards redemption at Customer Service, Frasers Rewards members must scan their member QR code at participating stores prior to redemption. The qualifying spending must be scanned to the same Frasers Rewards account.</span></p>
+        <p>
+        <span>2. For supermarket spending, member must present same-day same-mall receipts at Customer Service to qualify for instant rewards redemption. Alternatively, member can submit supermarket receipts via the Frasers Rewards app within 24 hours for earning of points only.</span></p>
+        <p>
+        <span>3. All instant rewards&nbsp; are available on a first-come-first-served basis and while stocks last. All instant rewards must be taken as they are and are not exchangeable for cash or in kind.&nbsp;</span></p>
+        <p>
+        <span>4. All instant reward benefits may vary across all malls. Please check details at Customer Service Counter.<br />
+        <br />
+        5. Waterway Point's management reserves the right to sight all purchases before granting redemption.<br />
+        <br />
+        </span><strong>C. OTHERS<br />
+        <br />
+        </strong><span>1. In the event of any dispute, decisions made by Waterway Point's management will be final and no correspondence will be entertained.<br />
+        <br />
+        </span><span>2. Information is correct at the time of printing. Waterway Point's management reserves the right to change the Terms and Conditions as it deems fit without prior notice.</span></p>
+        </div>
+        </div>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9c1f493f-213f-4603-b4ca-6bef497f88ae"
+      Hint: Banner
+      Value: |
+        <image mediaid="{4080640A-B610-4505-B584-342BFD47AABE}" />
+    - ID: "bc03f16f-9d3c-4cd6-b0e7-3f9a3e00742f"
+      Hint: Start Date
+      Value: 20180731T170000Z
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Handpicked for Mum at Waterway Point
+    - ID: "dea8455b-1f74-4e64-a4ff-6454109a7a84"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{4080640A-B610-4505-B584-342BFD47AABE}" />

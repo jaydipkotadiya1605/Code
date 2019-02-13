@@ -1,0 +1,26 @@
+﻿---
+ID: "bb6a4642-7135-4972-8f2c-72599e59344b"
+Parent: "e68100ab-63d9-4b64-8a2c-bbcb6e271b03"
+Template: "cfdc3809-f27c-463f-b1d5-547d41cecd11"
+Path: /sitecore/content/FrasersRewards/Settings/Header Settings/Header Extra Links/Blog
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T125331Z
+    - ID: "43946489-9bbe-4b7c-9257-f187bdfd4b7a"
+      Hint: Link
+      Value: |
+        <link text="Blog" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B7073E80-92B8-4946-86C5-6967E06FEA03}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

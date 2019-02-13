@@ -1,0 +1,16 @@
+﻿@using Sitecore.Foundation.Dictionary.Extensions
+<div class="container-fluid cookie-tray">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-9 col-lg-10">
+                @Html.Sitecore().Dictionary("/Cookies/Title", "We use cookies to ensure that we give you the best experience on our website. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the Frasers Property website.")
+            </div>
+            <div class="col-12 col-md-3 col-lg-2">
+                @{
+                    var acceptButton = Html.Sitecore().Dictionary("/Cookies/Accept", "Okay, got it.");
+                }
+                <a class="btn" title="@acceptButton">@acceptButton</a>
+            </div>
+        </div>
+    </div>
+</div>

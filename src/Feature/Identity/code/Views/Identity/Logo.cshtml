@@ -1,0 +1,32 @@
+﻿@using Sitecore.Feature.Identity
+@using Sitecore.Feature.Identity.Repositories
+@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Resources.Media
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+    var identity = IdentityRepository.Get(Model.Item);
+    if (identity == null)
+    {
+        return;
+    }
+
+    var homeUrl = Sitecore.Context.Site?.GetStartItem()?.Url() ?? "/";
+    var siteName = identity.Fields[Templates.Identity.Fields.SiteName].Value;
+    var imageUrl = identity.ImageUrl(Templates.Identity.Fields.Logo, new MediaUrlOptions
+    {
+        AlwaysIncludeServerUrl = true
+
+    });
+}
+<div class="logo">
+    @if(Sitecore.Context.PageMode.IsExperienceEditor || Sitecore.Context.PageMode.IsExperienceEditorEditing)
+    {
+        @Html.Sitecore().ImageField(Templates.Identity.Fields.Logo, identity)
+    }
+    else
+    {
+        <a href="@homeUrl" title="@siteName"><img src="@imageUrl" alt="@siteName" /></a>
+    }
+</div>

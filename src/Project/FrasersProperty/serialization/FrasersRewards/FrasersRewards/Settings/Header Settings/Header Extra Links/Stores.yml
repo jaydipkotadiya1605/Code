@@ -1,0 +1,22 @@
+﻿---
+ID: "562e8234-eb4e-442b-a20c-3543661ae902"
+Parent: "e68100ab-63d9-4b64-8a2c-bbcb6e271b03"
+Template: "cfdc3809-f27c-463f-b1d5-547d41cecd11"
+Path: /sitecore/content/FrasersRewards/Settings/Header Settings/Header Extra Links/Stores
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T125320Z
+    - ID: "43946489-9bbe-4b7c-9257-f187bdfd4b7a"
+      Hint: Link
+      Value: |
+        <link text="Stores" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{909E2782-AF45-4DBE-93F4-CF1D32F10A37}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

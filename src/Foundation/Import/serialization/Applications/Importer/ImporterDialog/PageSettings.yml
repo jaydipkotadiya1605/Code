@@ -1,0 +1,18 @@
+﻿---
+ID: "af178b2f-a499-4843-86ca-8339ddf04520"
+Parent: "e0986455-1512-4409-93c1-7da72a2ab315"
+Template: "e35eaa2d-edea-431c-a9e6-488272b53782"
+Path: /sitecore/client/Applications/Importer/ImporterDialog/PageSettings
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160220T215702Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,32 @@
+﻿---
+ID: "76f504b8-4eee-4a78-942b-293309bb530b"
+Parent: "81a4c924-32ea-4212-a6bd-255a3114532f"
+Template: "7f47f76e-aec4-461f-aa10-19ea15ade2bd"
+Path: /sitecore/content/Global/Wings/North
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13726788-0ffc-42b5-bb54-12ee94cd8b31"
+      Hint: Value
+      Value: North
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T100000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "67111c0c-0ae5-4c27-b059-94609eb52b0f"
+      Hint: Hide in Sites
+      Type: Multilist
+      Value: |
+        {6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}
+        {71A88E3C-6CAD-4281-8918-9CA5B93E97CF}
+        {4C4E8FCD-AED7-4142-BFD3-B9B54465329C}
+        {875A246A-4F98-4F8B-BDA6-477C268B0607}
+    - ID: "dc66063a-619a-41e6-a0c9-5bd308cb4850"
+      Hint: Key
+      Value: North

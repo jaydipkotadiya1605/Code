@@ -1,0 +1,27 @@
+﻿@model Sitecore.Feature.Metadata.Models.IMetadata
+
+@if (Model == null)
+{
+    return;
+}
+
+@if (!string.IsNullOrEmpty(Model.Title))
+{
+    <title>@Model.Title</title>
+}
+@if (Model.KeywordsList.Any())
+{
+    <meta name="keywords" content="@string.Join(", ", Model.KeywordsList)"/>
+}
+@if (!string.IsNullOrEmpty(Model.Description))
+{
+    <meta name="description" content="@Model.Description"/>
+}
+@if (Model.Robots.Any())
+{
+    <meta name="robots" content="@string.Join(",", Model.Robots)"/>
+}
+@foreach (var custom in Model.CustomMetadata)
+{
+    <meta name="@custom.Key" content="@custom.Value"/>
+}

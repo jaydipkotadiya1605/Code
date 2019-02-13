@@ -1,0 +1,13 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+
+@if (Model?.Items != null)
+{
+    <ul>
+    @foreach (var item in Model.Items)
+    {
+        <li><a href="@item.Url">@Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, item.Item)</a></li>
+    }
+    @Html.Sitecore().Placeholder("header-mobile-main-menu")
+    </ul>
+}

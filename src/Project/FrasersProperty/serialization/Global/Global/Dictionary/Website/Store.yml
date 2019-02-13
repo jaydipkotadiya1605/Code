@@ -1,0 +1,18 @@
+﻿---
+ID: "af5f8adb-4dd6-4899-94cf-744e282f72a2"
+Parent: "a2105cbf-1a14-4f8c-a92a-1bdda8c7a36f"
+Template: "98e4bdc6-9b43-4eb2-baa3-d4303c35852e"
+Path: /sitecore/content/Global/Dictionary/Website/Store
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T103338Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        frasersproperty\Anonymous

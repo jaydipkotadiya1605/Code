@@ -1,0 +1,18 @@
+﻿---
+ID: "41e3d0b1-2ca9-4da0-91f5-13c17b767126"
+Parent: "fee949e1-3d88-42e3-860b-119b02b5fe1f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/HiddenFields/_HiddenFields/Hidden Fields
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180614T035303Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

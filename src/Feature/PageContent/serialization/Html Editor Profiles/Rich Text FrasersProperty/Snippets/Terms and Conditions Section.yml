@@ -1,0 +1,39 @@
+﻿---
+ID: "d7112e12-c459-43ae-b57a-781709187953"
+Parent: "83cbdbb7-2458-47a3-8249-2cabf06b31d1"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text FrasersProperty/Snippets/Terms and Conditions Section
+DB: core
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <section class="tnc no-border">
+    <h2>Terms &amp; Conditions</h2>
+    <ul>
+        <li>Frasers Points are issued over 12 months from 01 October of the current year to 30 September of the following year. This is known as a redemption year.</li>
+        <li>Frasers Points can be redeemed anytime from 01 October of the current year to 30 September of the following year. Balance unredeemed points will be forfeited.<br />
+        E.g: Frasers Points earned from 01 October 2017 to 30 September 2018 must be redeemed by 31 December 2018.</li>
+        <li>Frasers Points can be earned instantly by scanning your Frasers Rewards QR code when paying in-store at participating retailers at the malls of Frasers Property. For supermarket spend, points can be earned by submitting the receipt image via the Frasers Rewards mobile app within 24 hours of making a purchase.</li>
+        <li>Each transaction must have a minimum purchase value of $10 to qualify for point earning.</li>
+        <li>Each member can earn a maximum of 500 Frasers Points and up to 500 bonus points daily.</li>
+        <li>Check our <a href="/stores">website</a> for a list of participating retailers.</li>
+        <li>Other <a href="/benefits/terms-and-conditions">terms &amp; conditions</a> apply.</li>
+    </ul>
+    </section>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180806T074408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: |
+        <img height="16"  src="/sitecore/shell/Themes/FrasersProperty/TermsAndConditionsSection.png" border="0" alt="Terms & Conditions Section"/>Terms & Conditions Section

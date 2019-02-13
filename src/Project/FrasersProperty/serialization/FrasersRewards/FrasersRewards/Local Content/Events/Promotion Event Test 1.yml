@@ -1,0 +1,60 @@
+﻿---
+ID: "67fc02cf-729c-4967-b0bd-16fa6cd976ec"
+Parent: "5e94d7cc-8523-431b-9a2c-50cbc0b06ab0"
+Template: "6620fa0a-49e6-4cae-8872-395425075dc8"
+Path: /sitecore/content/FrasersRewards/Local Content/Events/Promotion Event Test 1
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 12
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "004bc4ae-0aad-47bf-b18b-c75cfa9364c8"
+      Hint: Title
+      Value: Promotion Event Test 1
+    - ID: "013305bb-025d-47ea-a340-a4d7fd8db00b"
+      Hint: End Date
+      Value: 20200331T085100Z
+    - ID: "0477b953-4588-4520-aefe-52b6e87566fd"
+      Hint: Thumbnail
+      Value: |
+        <image mediaid="{8D32C70E-E904-4C49-B5D3-DF055A5D0BEF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190127T084813Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "50f14a1e-3e83-4186-8a90-399b5c3bdd53"
+      Hint: Navigation Title
+      Value: Promotion Event Test 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68d9c908-a52b-4a0d-8be1-2d44caf70ca6"
+      Hint: Image
+      Value: |
+        <image mediaid="{8D32C70E-E904-4C49-B5D3-DF055A5D0BEF}" />
+    - ID: "81b58390-e8e1-4de1-830b-d3552abe445e"
+      Hint: Description
+      Value: Promotion Event Test 1 Description
+    - ID: "b595eef2-9425-4778-91c2-9675606de8c5"
+      Hint: Event Type
+      Value: "{4817279E-2FDA-4272-B165-7F1AF482265D}"
+    - ID: "c64ad6dc-cf30-412e-8406-75641e1d15de"
+      Hint: Start Date
+      Value: 20190126T084900Z
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Promotion Event Test 1
+    - ID: "db364bb7-9f54-4264-a25f-3b184fb7d089"
+      Hint: Summary
+      Value: Promotion Event Test 1 Summary

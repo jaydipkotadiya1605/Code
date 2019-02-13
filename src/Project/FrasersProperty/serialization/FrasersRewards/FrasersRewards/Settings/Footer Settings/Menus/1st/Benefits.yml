@@ -1,0 +1,18 @@
+﻿---
+ID: "8b03816c-3fec-4406-8ce7-2399baaacff0"
+Parent: "28dcb792-03fd-45de-a9e0-e9cb747b7f59"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Benefits
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Benefits" anchor="" linktype="internal" class="" title="Benefits" target="" querystring="" id="{35A59A6A-7A44-4154-9C02-3B3DA98129FF}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095145Z

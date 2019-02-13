@@ -1,0 +1,22 @@
+﻿---
+ID: "818bd1d1-0ad6-42db-85dd-4b5fc61fa943"
+Parent: "9289bb92-30d0-476d-bfe1-ac9a847abb56"
+Template: "72a6ff0e-a1dd-42ea-b38a-77d13ef856d9"
+Path: /sitecore/content/Global/Style Folder/Row Styles/Filter Legend
+DB: master
+SharedFields:
+- ID: "cf1e34b0-27e7-4861-becd-c0bc58295f77"
+  Hint: Class
+  Value: "filter-legend"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T025827Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "af0943ca-35c0-400e-a41b-c298e87621b7"
+Parent: "3b9393af-488e-4c09-9f8e-b72c32dc07da"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/Stores/*
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180816T071630Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

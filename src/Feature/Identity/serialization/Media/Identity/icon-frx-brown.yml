@@ -1,0 +1,35 @@
+﻿---
+ID: "8b8d706f-3798-4b3e-9af9-2a1ace38bfb1"
+Parent: "c986440b-2ec7-499a-85ae-98c08634ef71"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/Identity/icon-frx-brown"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8b8d706f37984b3e9af92a1ace38bfb1.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d77fa6ff-e69e-40fa-9993-53a00aad9364"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIyLjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAxMDMgMTEyLjQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEwMyAxMTIuNDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtmaWxsOiM4MDc5Nzk7fQo8L3N0eWxlPgo8dGl0bGU+aWNvbi1mcng8L3RpdGxlPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNzUuMyw3My43bC0xNS4xLDM4LjdoMTIuNWw5LTI0LjUgTTg5LjIsNzAuN0wxMDMsMzUuNUg5MC4ybC03LjQsMjAuNCIvPgo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMTEuNiw0NC4zaDE1LjZWMzIuN0gxMS42di0yMUgzM1YwSDB2NzdoMTEuNlY0NC4zeiBNNDEsMC4xVjc3aDExLjZWNDhoNy43bDI2LjgsNjQuNGgxMi41bC0yOC40LTY5CgljNC0zLjUsNi4zLTguNSw2LjItMTMuOFYxOC40YzAtNS42LTEuMy05LjktNC0xM2MtMy0zLjYtNy43LTUuMy0xNC4yLTUuM0g0MXogTTY2LjIsMjkuOGMwLDEuOC0wLjcsMy41LTEuOSw0LjcKCWMtMS4yLDEuMy0yLjksMi00LjcsMmgtN1YxMS45aDdjNC40LDAsNi42LDIuMiw2LjYsNi43VjI5Ljh6Ii8+Cjwvc3ZnPgo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 824
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T122544Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

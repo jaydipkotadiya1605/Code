@@ -1,0 +1,25 @@
+﻿---
+ID: "aa4de0b3-56b1-480e-affb-3769a4a0ea32"
+Parent: "75132f30-7047-45c1-aa6e-80012ac69010"
+Template: "7592365a-50d4-4fc3-9cba-2905dbeeabd2"
+Path: /sitecore/system/Workflows/Frasers Workflow/Waiting for Mall Site Approval/Reject Mall Content/Reject Email To Author
+DB: master
+SharedFields:
+- ID: "3ce817fe-66be-44c2-b263-672165ce1a13"
+  Hint: Email template
+  Value: "{9893C65C-8845-4477-BF03-98096FF0857B}"
+- ID: "d9e9b907-11aa-4609-9d6c-6d15f3cf6ab2"
+  Hint: From
+  Value: frasersreward@noreply.com
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180821T100628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

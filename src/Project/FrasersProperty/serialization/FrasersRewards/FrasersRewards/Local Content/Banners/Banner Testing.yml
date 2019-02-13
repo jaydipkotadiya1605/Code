@@ -1,0 +1,21 @@
+﻿---
+ID: "5d0722c8-e223-4cf7-b899-fc7eecf5d8c1"
+Parent: "777327db-4818-4e68-8bf7-da32b9912091"
+Template: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Path: /sitecore/content/FrasersRewards/Local Content/Banners/Banner Testing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190130T104633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6591a883-0ccb-4f93-8978-c7d26ae2254a"
+      Hint: Title
+      Value: Banner Testing

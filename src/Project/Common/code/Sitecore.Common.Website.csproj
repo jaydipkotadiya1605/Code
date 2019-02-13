@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\..\..\..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\..\..\..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C98EAD78-4D83-4789-A621-6011C3D7314D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sitecore.Common.Website</RootNamespace>
+    <AssemblyName>Sitecore.Common.Website</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>Sitecore.Common.Website.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>Sitecore.Common.Website.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Mvc, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.Mvc.NoReferences.8.2.170407\lib\NET452\Sitecore.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Config\Include\Project\Common.Website.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="bower.json" />
+    <None Include="compilerconfig.json" />
+    <Content Include="images\01-Aries-El_740x500.jpg" />
+    <Content Include="images\02-WULF_740x500.jpg" />
+    <Content Include="images\03-SEIKO_740x500.jpg" />
+    <Content Include="images\04-Aries-Gold_740x500.jpg" />
+    <Content Include="images\05-Solvil-Titus_740x500.jpg" />
+    <Content Include="images\06-CASIO_740x500.jpg" />
+    <Content Include="images\07-Garmin-740x500-.jpg" />
+    <Content Include="images\08-Fitbit-Versa_740x500.jpg" />
+    <Content Include="images\740-500.jpg" />
+    <Content Include="images\assets\favicon.png" />
+    <Content Include="images\assets\icon-brushstroke.png" />
+    <Content Include="images\assets\icon-dots.svg" />
+    <Content Include="images\assets\icon-search.svg" />
+    <Content Include="images\assets\icon-tick-greyed.svg" />
+    <Content Include="images\assets\icon-tick.svg" />
+    <Content Include="images\assets\icon-uparrow-brown.svg" />
+    <Content Include="images\assets\icon-uparrow.svg" />
+    <Content Include="images\assets\icon-x.svg" />
+    <Content Include="images\assets\logo-anchorpoint.png" />
+    <Content Include="images\assets\logo-atp.png" />
+    <Content Include="images\assets\logo-bedokpoint.png" />
+    <Content Include="images\assets\logo-causewaypoint.png" />
+    <Content Include="images\assets\logo-changicitypoint.png" />
+    <Content Include="images\assets\logo-chinasquarecentral.png" />
+    <Content Include="images\assets\logo-eastpointmall.png" />
+    <Content Include="images\assets\logo-fraserstower.png" />
+    <Content Include="images\assets\logo-fxp.png" />
+    <Content Include="images\assets\logo-northpointcity.png" />
+    <Content Include="images\assets\logo-robertsonwalk.png" />
+    <Content Include="images\assets\logo-thecentrepoint.png" />
+    <Content Include="images\assets\logo-valleypoint.png" />
+    <Content Include="images\assets\logo-waterwaypoint.png" />
+    <Content Include="images\assets\logo-yewteepoint.png" />
+    <Content Include="images\assets\tag-upcoming.svg" />
+    <Content Include="images\bg-frasertower-map.png" />
+    <Content Include="images\blog01.jpg" />
+    <Content Include="images\blog02.jpg" />
+    <Content Include="images\blog03.jpg" />
+    <Content Include="images\button-appstore.png" />
+    <Content Include="images\button-googleplay.png" />
+    <Content Include="images\commercial-about-01.png" />
+    <Content Include="images\commercial-about-02.png" />
+    <Content Include="images\commercial-about-03.png" />
+    <Content Include="images\commercial-bigfooterimg.png" />
+    <Content Include="images\commercial-box1.png" />
+    <Content Include="images\commercial-box2.png" />
+    <Content Include="images\commercial-box3.png" />
+    <Content Include="images\commercial-community01.png" />
+    <Content Include="images\commercial-community02.png" />
+    <Content Include="images\commercial-community03.png" />
+    <Content Include="images\commercial-community04.png" />
+    <Content Include="images\commercial-community05.png" />
+    <Content Include="images\commercial-community06.png" />
+    <Content Include="images\commercial-concierge01.png" />
+    <Content Include="images\commercial-concierge02.png" />
+    <Content Include="images\commercial-services01.png" />
+    <Content Include="images\commercial-services02.png" />
+    <Content Include="images\commercial-smartfeatures01.png" />
+    <Content Include="images\commercial-smartfeatures02.png" />
+    <Content Include="images\commercial-sustainability01.png" />
+    <Content Include="images\commercial-sustainability02.png" />
+    <Content Include="images\commercial-sustainability02a.png" />
+    <Content Include="images\commercial-sustainability02b.png" />
+    <Content Include="images\commercial-sustainability03.png" />
+    <Content Include="images\commercial-sustainability04.png" />
+    <Content Include="images\community01.jpg" />
+    <Content Include="images\community02.jpg" />
+    <Content Include="images\event01.jpg" />
+    <Content Include="images\event02.jpg" />
+    <Content Include="images\event03.jpg" />
+    <Content Include="images\fr-24seven.jpg" />
+    <Content Include="images\fr-2xpoints.jpg" />
+    <Content Include="images\fr-chart.jpg" />
+    <Content Include="images\fr-earnredeem.jpg" />
+    <Content Include="images\fr-elite.png" />
+    <Content Include="images\fr-fraserspoints.jpg" />
+    <Content Include="images\fr-overview-01.png" />
+    <Content Include="images\fr-overview-02.png" />
+    <Content Include="images\fr-step1.jpg" />
+    <Content Include="images\fr-step2.jpg" />
+    <Content Include="images\gc-card.jpg" />
+    <Content Include="images\gc-digitalgc.jpg" />
+    <Content Include="images\gc-dual.jpg" />
+    <Content Include="images\gc-icon_ewallet.png" />
+    <Content Include="images\gc-instruct.png" />
+    <Content Include="images\gc-step1.jpg" />
+    <Content Include="images\gc-step2.jpg" />
+    <Content Include="images\gc-validity.png" />
+    <Content Include="images\header-anchorpoint.jpg" />
+    <Content Include="images\hero-fraserstower.png" />
+    <Content Include="images\icon-a.png" />
+    <Content Include="images\icon-airquality.png" />
+    <Content Include="images\icon-b.png" />
+    <Content Include="images\icon-basementcp.png" />
+    <Content Include="images\icon-bike.png" />
+    <Content Include="images\icon-bldgmgmt.png" />
+    <Content Include="images\icon-bulb.png" />
+    <Content Include="images\icon-droplet.png" />
+    <Content Include="images\icon-fan.png" />
+    <Content Include="images\icon-home.png" />
+    <Content Include="images\icon-security.png" />
+    <Content Include="images\icon-sun.png" />
+    <Content Include="images\icon-sun.svg" />
+    <Content Include="images\icon-tree.png" />
+    <Content Include="images\icon-utility.png" />
+    <Content Include="images\icon-waterefficiency.png" />
+    <Content Include="images\logo-wwp.png" />
+    <Content Include="images\promo01.jpg" />
+    <Content Include="images\promo02.jpg" />
+    <Content Include="images\promo03.jpg" />
+    <Content Include="images\shutterstock_410442562.jpg" />
+    <Content Include="images\slide01.png" />
+    <Content Include="images\slide02.png" />
+    <Content Include="images\slide03.png" />
+    <Content Include="images\store01.jpg" />
+    <Content Include="images\store02.jpg" />
+    <Content Include="images\store03.jpg" />
+    <Content Include="images\thumb-deal.jpg" />
+    <Content Include="images\Touran 2018 etched brown%281%29.jpg" />
+    <Content Include="images\wwp-bus01.png" />
+    <Content Include="images\wwp-bus02.png" />
+    <Content Include="images\wwp-directions.png" />
+    <Content Include="images\wwp_apr_mothersday_740w1V2.jpg" />
+    <Content Include="images\wwp_apr_mothersday_740w2V2.jpg" />
+    <Content Include="images\wwp_apr_mothersday_740w3v2.jpg" />
+    <Content Include="js\frasersproperty.js" />
+    <Content Include="js\frasersproperty.min.js" />
+    <Content Include="js\tab-filter.js" />
+    <Content Include="js\jquery-1.12.4.min.js" />
+    <Content Include="js\jquery.validate.min.js" />
+    <Content Include="js\main-extend.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\slick\ajax-loader.gif" />
+    <Content Include="js\slick\fonts\slick.svg" />
+    <Content Include="js\slick\slick.min.js" />
+    <Content Include="styles\bootstrap.min.css" />
+    <Content Include="styles\fonts.css" />
+    <Content Include="styles\fonts.min.css">
+      <DependentUpon>fonts.css</DependentUpon>
+    </Content>
+    <Content Include="fonts\BurlingamePro-Bold.svg" />
+    <Content Include="fonts\BurlingamePro-Medium.svg" />
+    <Content Include="fonts\BurlingamePro-Regular.svg" />
+    <Content Include="fonts\DuplicateIonic-Bold.svg" />
+    <Content Include="fonts\DuplicateIonic-Medium.svg" />
+    <Content Include="fonts\DuplicateIonic-Regular.svg" />
+    <Content Include="images\assets\caret-white.svg" />
+    <Content Include="images\assets\frasers-logo-alt.svg" />
+    <Content Include="images\assets\icon-curvedarrow.png" />
+    <Content Include="images\assets\icon-dots.png" />
+    <Content Include="images\assets\icon-downarrow-brown.svg" />
+    <Content Include="images\assets\icon-downarrow.png" />
+    <Content Include="images\assets\icon-downarrow.svg" />
+    <Content Include="images\assets\icon-email.svg" />
+    <Content Include="images\assets\icon-facebook.svg" />
+    <Content Include="images\assets\icon-fb-dark.svg" />
+    <Content Include="images\assets\icon-fb.png" />
+    <Content Include="images\assets\icon-fb.svg" />
+    <Content Include="images\assets\icon-filters.svg" />
+    <Content Include="images\assets\icon-fr-inactive.svg" />
+    <Content Include="images\assets\icon-fr.svg" />
+    <Content Include="images\assets\icon-giftcard-inactive.svg" />
+    <Content Include="images\assets\icon-giftcard.svg" />
+    <Content Include="images\assets\icon-halal-inactive.png" />
+    <Content Include="images\assets\icon-halal.png" />
+    <Content Include="images\assets\icon-ig-dark.svg" />
+    <Content Include="images\assets\icon-ig.png" />
+    <Content Include="images\assets\icon-instagram.svg" />
+    <Content Include="images\assets\icon-leftarrow.png" />
+    <Content Include="images\assets\icon-linkedin.svg" />
+    <Content Include="images\assets\icon-overline.png" />
+    <Content Include="images\assets\icon-pinterest.svg" />
+    <Content Include="images\assets\icon-rightarrow.png" />
+    <Content Include="images\assets\icon-star-inactive.svg" />
+    <Content Include="images\assets\icon-star.svg" />
+    <Content Include="images\assets\icon-twitter.svg" />
+    <Content Include="images\assets\icon-underline.png" />
+    <Content Include="images\assets\icon-whatsapp.svg" />
+    <Content Include="images\assets\icon-x.png" />
+    <Content Include="images\assets\icon-youtube.svg" />
+    <Content Include="images\assets\logo-fr.png" />
+    <Content Include="images\assets\out.svg" />
+    <Content Include="images\assets\tag-new.svg" />
+    <Content Include="styles\frasersproperty.min.css" />
+    <Content Include="styles\responsive.css" />
+    <Content Include="styles\responsive.min.css">
+      <DependentUpon>responsive.css</DependentUpon>
+    </Content>
+    <Content Include="styles\slick.css" />
+    <Content Include="styles\style-extend.css" />
+    <Content Include="styles\style-extend.min.css">
+      <DependentUpon>style-extend.css</DependentUpon>
+    </Content>
+    <Content Include="styles\style.css" />
+    <Content Include="App_Config\Include\Project\Common.Website.Serialization.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="fonts\BurlingamePro-Bold.eot" />
+    <Content Include="fonts\BurlingamePro-Bold.otf" />
+    <Content Include="fonts\BurlingamePro-Bold.ttf" />
+    <Content Include="fonts\BurlingamePro-Bold.woff" />
+    <Content Include="fonts\BurlingamePro-Medium.eot" />
+    <Content Include="fonts\BurlingamePro-Medium.otf" />
+    <Content Include="fonts\BurlingamePro-Medium.ttf" />
+    <Content Include="fonts\BurlingamePro-Medium.woff" />
+    <Content Include="fonts\BurlingamePro-Regular.eot" />
+    <Content Include="fonts\BurlingamePro-Regular.otf" />
+    <Content Include="fonts\BurlingamePro-Regular.ttf" />
+    <Content Include="fonts\BurlingamePro-Regular.woff" />
+    <Content Include="fonts\DuplicateIonic-Bold.eot" />
+    <Content Include="fonts\DuplicateIonic-Bold.otf" />
+    <Content Include="fonts\DuplicateIonic-Bold.ttf" />
+    <Content Include="fonts\DuplicateIonic-Bold.woff" />
+    <Content Include="fonts\DuplicateIonic-Medium.eot" />
+    <Content Include="fonts\DuplicateIonic-Medium.otf" />
+    <Content Include="fonts\DuplicateIonic-Medium.ttf" />
+    <Content Include="fonts\DuplicateIonic-Medium.woff" />
+    <Content Include="fonts\DuplicateIonic-Regular.eot" />
+    <Content Include="fonts\DuplicateIonic-Regular.otf" />
+    <Content Include="fonts\DuplicateIonic-Regular.ttf" />
+    <Content Include="fonts\DuplicateIonic-Regular.woff" />
+    <Content Include="images\assets\Web.config" />
+    <None Include="Sitecore.Common.Website.ruleset" />
+    <None Include="styles\fonts.css.map" />
+    <None Include="styles\responsive.css.map" />
+    <None Include="scss\fonts.scss" />
+    <None Include="scss\responsive.scss" />
+    <None Include="scss\style.scss" />
+    <None Include="styles\style.css.map" />
+    <Content Include="js\slick\fonts\slick.eot" />
+    <Content Include="js\slick\fonts\slick.ttf" />
+    <Content Include="js\slick\fonts\slick.woff" />
+    <None Include="packages.config" />
+    <None Include="scss\style-extend.scss" />
+    <None Include="styles\style-extend.css.map" />
+    <Content Include="styles\style.min.css">
+      <DependentUpon>style.css</DependentUpon>
+    </Content>
+    <Content Include="images\wwp-shuttbus-schedule.pdf" />
+    <None Include="Properties\PublishProfiles\Local.pubxml" />
+    <Content Include="Views\Common\Sublayouts\Header.cshtml" />
+    <Content Include="Views\Common\Sublayouts\1 Column.cshtml" />
+    <Content Include="Views\Common\Sublayouts\2 Column 3-9.cshtml" />
+    <Content Include="Views\Common\Sublayouts\2 Column 4-8.cshtml" />
+    <Content Include="Views\Common\Sublayouts\2 Column 6-6.cshtml" />
+    <Content Include="Views\Common\Sublayouts\2 Column 8-4.cshtml" />
+    <Content Include="Views\Common\Sublayouts\2 Column 9-3.cshtml" />
+    <Content Include="Views\Common\Sublayouts\3 Column 3-3-6.cshtml" />
+    <Content Include="Views\Common\Sublayouts\3 Column 4-4-4.cshtml" />
+    <Content Include="Views\Common\Sublayouts\3 Column 6-3-3.cshtml" />
+    <Content Include="Views\Common\Sublayouts\4 Column 2-2-4-4.cshtml" />
+    <Content Include="Views\Common\Sublayouts\4 Column 3-3-3-3.cshtml" />
+    <Content Include="Views\Common\Sublayouts\6 Column 2-2-2-2-2-2.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner 1 Column.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner 2 Column 4-8.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner 2 Column 6-6.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner 2 Column 8-4.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Templates\SublayoutWithSlider.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Templates\SublayoutDefault.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner Row.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner Column.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner Column 8.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner Column 4.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Inner Column 6.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Templates\SublayoutWithQuickInfo.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Inner\Share Row.cshtml" />
+    <None Include="Views\Web.config" />
+    <None Include="web.config" />
+    <None Include="web.config.transform" />
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Foundation\Dictionary\code\Sitecore.Foundation.Dictionary.csproj">
+      <Project>{0d6ba4d8-c469-4ae9-9ebb-93bdf7d7e78f}</Project>
+      <Name>Sitecore.Foundation.Dictionary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\foundation\SitecoreExtensions\code\Sitecore.Foundation.SitecoreExtensions.csproj">
+      <Project>{b535703f-8d07-4f23-a533-2974bb4cc7b1}</Project>
+      <Name>Sitecore.Foundation.SitecoreExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Foundation\Theming\code\Sitecore.Foundation.Theming.csproj">
+      <Project>{98de0d1d-26f1-4cca-847c-4e0fc2dba5fc}</Project>
+      <Name>Sitecore.Foundation.Theming</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52949</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:52949/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\..\..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\..\..\..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

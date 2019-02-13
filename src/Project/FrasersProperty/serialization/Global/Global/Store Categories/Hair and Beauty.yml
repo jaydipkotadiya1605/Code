@@ -1,0 +1,20 @@
+﻿---
+ID: "5ef88cbb-0c76-47f1-9564-4272a1e6dd61"
+Parent: "5415efc9-ad12-410c-afcd-59a644e1a7b7"
+Template: "803dc367-7aed-4a95-b261-00fbdfdf1d0c"
+Path: /sitecore/content/Global/Store Categories/Hair and Beauty
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T044954Z
+    - ID: "587d57dd-cb7b-4c18-b17a-a1c40b7fe669"
+      Hint: Key
+      Value: Hair and Beauty
+    - ID: "5bd13af1-553c-42f2-9e2b-004e695ba975"
+      Hint: Value
+      Value: Hair & Beauty

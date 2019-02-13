@@ -1,0 +1,191 @@
+﻿---
+ID: "a1b06397-5823-4116-9c10-c4aa490ccc4a"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/GiftCardsFAQ
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Gift Cards | FAQ
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095826Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <!-- item -->
+        <div class="qns">1. What is Frasers Rewards?</div>
+        <div class="ans">
+        Frasers Property Gift Cards are stored value cards that may be used to pay for goods and services at participating Frasers Property stores. Gift Cards are available as physical or digital gift cards.
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">2. What are the differences between a physical and digital gift card?</div>
+        <div class="ans">
+        Digital gift cards can be used just like a regular physical gift card, the only difference is that it&rsquo;s virtual. Frasers Property Digital Gift Cards will be introduced on 25 May 2018.
+        <br />
+        <br />
+        You can also transfer the balance of a physical gift card to digital gift card by registering it to your Frasers Rewards account. Digital gift cards are stored in the Frasers Rewards App e-wallet.
+        <br />
+        <br />
+        Both physical and digital gift cards can be used to make purchases at participating Frasers Property stores.
+        <br />
+        <br />
+        The current physical Frasers Property Gift Card will be available for purchase until September 2018. Participating stores will continue to accept the physical Gift Card until 31 March 2019.
+        <br />
+        <br />
+        <img alt="Gift Card Validity" src="-/media/b0b80de06fe248a683a1d0f2e9ad6734.ashx?w=730&amp;h=376" />
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">3. How do I transfer the balance of a physical gift card to digital gift card?</div>
+        <div class="ans">
+        From 25 May 2018, please approach the customer service counters at our malls to transfer the card balance.
+        <br />
+        <br />
+        <a name="csc" id="csc"></a>
+        <ul class="no-margin">
+            <li>Anchorpoint</li>
+            <li>Bedok Point</li>
+            <li>Causeway Point</li>
+            <li>Changi City Point</li>
+            <li>China Square Central</li>
+            <li>Eastpoint Mall</li>
+            <li>Northpoint City</li>
+            <li>Robertson Walk</li>
+            <li>The Centrepoint</li>
+            <li>Valley Point</li>
+            <li>Waterway Point</li>
+            <li>YewTee Point</li>
+        </ul>
+        <br />
+        A Frasers Rewards membership is required. Click <a href="~/link.aspx?_id=58DDA147527C45F6948E3A7F925BA5BD&amp;_z=z">here</a> to register for your free account.
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">4. I already have a physical gift card registered to my Frasers Rewards account. Do I need to do anything?</div>
+        <div class="ans">No. All physical gift cards currently registered to your Frasers Rewards account will be deactivated on 17 May and the balance automatically transferred to your e-wallet in your Frasers Rewards app by 25 May 2018.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">5. What if I still want a physical gift card after September 2018?</div>
+        <div class="ans">We are in the process of upgrading our physical gift card programme. More details will be shared closer to the launch date.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">6. Where can I purchase gift cards?</div>
+        <div class="ans">The current physical gift cards can be purchased at the malls listed below until September 2018. Only debit payment is accepted for purchase of Frasers Property Gift Cards at our customer service counters (management office for Robertson Walk).
+        <br />
+        <br />
+        <ul class="no-margin">
+            <li>Anchorpoint</li>
+            <li>Bedok Point</li>
+            <li>Causeway Point</li>
+            <li>Changi City Point</li>
+            <li>China Square Central</li>
+            <li>Northpoint City</li>
+            <li>Robertson Walk</li>
+            <li>The Centrepoint</li>
+            <li>Valley Point</li>
+            <li>Waterway Point</li>
+            <li>YewTee Point</li>
+        </ul>
+        <br />
+        Digital gift cards will be available for purchase via the Frasers Rewards App and customer service counters from September 2018.
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">7. How do I use digital gift cards?</div>
+        <div class="ans">
+        You simply need to flash your Frasers Rewards QR code at the point of payment at any participating Frasers Property stores.
+        <br />
+        <br />
+        Digital gift cards can be used to make full or partial payment of goods and services at participating stores. Should the stored value in the digital gift card be insufficient to offset the purchase amount, payment for the balance amount can be made via any other mode of payment as accepted by the retailer.
+        <br />
+        <br />
+        Digital gift cards can be used by shoppers of all ages. There is no restriction.
+        <br />
+        <br />
+        <div class="row">
+        <div class="col col-12 col-md-6"><img alt="Gift Card Step 1" src="-/media/1d313271a4ae43bdae950619a89db94a.ashx" /></div>
+        <div class="col col-12 col-md-6"><img alt="Gift Card Step 2" src="-/media/16fc8934c83e4edfb3ec0afab4cd8bdf.ashx" /></div>
+        </div>
+        <br />
+        Here's a quick look at how digital gift cards work alongside our loyalty programme - Frasers Rewards
+        <br />
+        <br />
+        <div class="embed-video" style="padding-bottom: 52.9%;"><iframe allow="autoplay; encrypted-media" frameborder="0" height="200" src="https://www.youtube.com/embed/iBdarpO0WxU" width="560"></iframe></div>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">8. How can I check the balance of my digital gift card?</div>
+        <div class="ans">
+        You can view your digital gift card balance via the Frasers Rewards app. Alternatively, you may approach any of our customer service counters to check your card&rsquo;s balance.
+        <br />
+        <br />
+        Download the Frasers Rewards App <a href="~/link.aspx?_id=58DDA147527C45F6948E3A7F925BA5BD&amp;_z=z">here</a>.
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">9. When do digital gift cards expire?</div>
+        <div class="ans">
+        All digital gift cards issued from 25 May 2018 are valid for 1 year from date of issue.
+        <br />
+        <br />
+        Value of physical gift cards transferred to digital gift card from 17 May 2018 to 31 March 2019 are valid for 3 years from date of transfer.
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">10. How much can I load to my Frasers Property Gift Card?</div>
+        <div class="ans">Physical and digital gift cards can be pre-loaded with a minimum value of $10 to a maximum value of $500 in $10 denominations.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">11. Where can I use the Frasers Property Gift Cards?</div>
+        <div class="ans">Physical and digital gift cards can be used at any participating store across all participating assets within Frasers Property Singapore</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">12. Can I add more than one digital gift card to my e-wallet?</div>
+        <div class="ans">Yes. You may add multiple digital gift cards to your e-wallet as and when you receive them.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">13. Can the monies in Frasers Property Gift Cards be converted to cash?</div>
+        <div class="ans">No. Refund of used/unused Frasers Property Gift Cards is not permitted. Refer to the full terms and conditions governing the use of the Frasers Property Gift Card.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">14. Can the physical gift cards be replaced if lost or stolen?</div>
+        <div class="ans">No. Lost or stolen physical gift cards will not be replaced and the unutilised value will not be reimbursed.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">15. Can the physical gift cards be replaced if faulty or damaged?</div>
+        <div class="ans">Yes. A physical gift card can be replaced if it is faulty due to production defect, and the unutilised value will be transfer to a replacement card at no cost. However if the gift card is damaged/mishandled (eg. defaced, scratched or bent), a replacement fee of $10 will be levied.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">16. How do I replace my faulty/damaged physical gift card?</div>
+        <div class="ans">Replacement of faulty physical gift cards can be done at any Frasers Property Customer Service Counters. The original faulty card must be presented at the point of replacement. The unutilised value from the faulty card will be transferred to a new replacement card for immediate use.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">17. How do I make a corporate purchase?</div>
+        <div class="ans">Simply email <a href="mailto:promo@frasersproperty.com">promo@frasersproperty.com</a> for bulk purchases. Payment may be made via cheque or electronic funds transfer.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">18. How can I get more help?</div>
+        <div class="ans">Drop us an email at <a href="mailto:promo@frasersproperty.com">promo@frasersproperty.com</a> or contact any of our Customer Service personnel at the malls for assistance.</div>
+        <!-- /item -->

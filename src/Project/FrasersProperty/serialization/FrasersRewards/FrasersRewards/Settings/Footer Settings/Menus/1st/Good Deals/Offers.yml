@@ -1,0 +1,18 @@
+﻿---
+ID: "e7799bec-cd39-4107-b538-f964ece0149f"
+Parent: "445049ec-c5a6-4ba3-b23b-7b1b994318f3"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Good Deals/Offers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Offers" anchor="" linktype="internal" class="" title="Offers" target="" querystring="category=Offers" id="{1114E294-2EDB-44F2-BB66-C822E01D58CC}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095452Z

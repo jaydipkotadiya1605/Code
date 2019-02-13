@@ -1,0 +1,21 @@
+﻿---
+ID: "27036534-e941-4ec6-9a77-ee2cc6f55d76"
+Parent: "6d29c843-0fa9-47e2-9402-eabc609dc29d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Open Graph Type Folder
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/16x16/folder_document2.png
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{01AB7B70-F13D-4D85-A977-9C31D0189F34}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080227Z

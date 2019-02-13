@@ -1,0 +1,147 @@
+﻿---
+ID: "662e5841-eb5d-43fa-8f27-1c772114d72a"
+Parent: "b4df083b-1a90-4a41-b74f-ae3ba271cc42"
+Template: "41c5e046-4307-40eb-8d67-5e32a86c19cb"
+Path: /sitecore/content/FrasersRewards/Local Content/Pages/BenefitsFAQTroubleshooting
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{FB3CE825-F8C9-4A35-B76B-B5856E3E3B0E}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Benefits | FAQ | Troubleshooting
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T095016Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d277257d-5277-4811-8c5a-95752467a2c0"
+      Hint: HTML
+      Value: |
+        <!-- item -->
+        <div class="qns">1. Why can't I find the app?</div>
+        <div class="ans">We have 2 versions of the Frasers Rewards App at <a href="https://itunes.apple.com/sg/app/frasers-rewards/id1038861781?mt=8" target="_blank">App Store</a> (for iOS mobile devices) and <a href="https://play.google.com/store/apps/details?id=com.frasersrewards.app" target="_blank">Google Play</a> (for Android devices). Download the relevant app for your mobile phone. The latest version of the app will only be ready on 17 November 2017.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">How do I log in if I am not a Frasers Rewards member?</div>
+        <div class="ans">
+        <ul>
+            <li>If you are currently not a Frasers Rewards member, please download the app and select APPLY NOW on the home screen. Complete the sign up form and check your email account for a verification email. Once verified, your Frasers Rewards account will be activated. Use your NRIC/FIN or email address as your Login ID with the password that you have registered with. </li>
+            <li>With the launch of our member QR code, please note that NRIC/FIN will be phased out as a LoginID over time. Do ensure that you utilise an active email address and ensure that your mobile number is kept current for ease of communication.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">3. I can’t remember my password.</div>
+        <div class="ans">
+        <ul>
+            <li>To reset your password, click on the grey FORGOT PASSWORD button on the home screen of the Frasers Rewards app. All passwords are case sensitive.</li>
+            <li>After you complete this step, please check for email or SMS notification containing the reset instructions.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">4. I have not received the verification email.</div>
+        <div class="ans">Please also check your email spam folder. If you still cannot locate it, please contact us at <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a></div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">5. I have not received the password reset instructions.</div>
+        <div class="ans">Please also check your email spam folder. If you still cannot locate it, please contact us at <a href="mailto:FRhelp@frasersproperty.com">FRhelp@frasersproperty.com</a></div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">6. How may I change my password?</div>
+        <div class="ans">You may change your password by selecting "CHANGE PASSWORD" from the main menu.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">7. I cannot submit a supermarket receipt.</div>
+        <div class="ans">Most mobile phones have cameras which store high resolution images – this means a large file size that requires more bandwidth. Do ensure you have good Internet connection when submitting receipts.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">8. How can I check the status of my supermarket receipt submission?</div>
+        <div class="ans">
+        <ul>
+            <li>Go to E-WALLET from the main menu and select HISTORY to check the status of past transactions. You will see your full transaction history including in-store transactions and supermarket receipts submitted via the mobile app. Tap on each transaction to view details.</li>
+            <li>A legend of terms used on the HISTORY page is provided below:<br />
+            <br />
+            <ul>
+                <li><strong>Points Earned:</strong> Transactions have been processed and Frasers Points have been credited to your account.</li>
+                <li><strong>Max Points Earned:</strong> Member has hit the daily earning cap of 500 Frasers points and 500 bonus points.</li>
+                <li><strong>Points Redeemed:</strong> Points were redeemed for rebates.</li>
+                <li><strong>Pending:</strong> Transaction is being processed.</li>
+                <li><strong>Resubmit:</strong> Member to submit a complete and clear supermarket receipt image within 7 days of said receipt being declined.</li>
+                <li><strong>Declined:</strong> Receipt was rejected and no points were awarded.</li>
+            </ul>
+            </li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">9. Why were my supermarket receipts declined for point earning?</div>
+        <div class="ans">
+        <ul>
+            <li>Submitted supermarket receipt may be declined for the following reasons:<br />
+            <br />
+            <ul class="no-margin">
+                <li>Receipt was unclear</li>
+                <li>Receipt was incomplete (missing mall name, retailer name, date/time, transaction amount and/or receipt number)</li>
+                <li>Receipt submitted was dated prior to shopper being a member</li>
+                <li>Receipt value did not meet the minimum criteria of $10 per receipt</li>
+                <li>Receipt was submitted after 24 hours</li>
+                <li>Receipt was a duplicate submission</li>
+                <li>The member has hit the daily earning cap of 500 Frasers points and 500 bonus points</li>
+            </ul>
+            </li>
+            <li>To view reasons for declined receipts, refer to the E-Wallet &gt; History page on the mobile app.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">10. How do I resubmit my declined receipt? The notification stated that the receipt was "incomplete" and/ or "unclear".</div>
+        <div class="ans">For supermarket receipts that where declined due to them being unclear or incomplete, please visit the E-Wallet &gt; History page from the main menu on the app. Select the RESUBMIT button and include a clear and complete image of the entire receipt. Resubmissions must be made within 7 days of receiving the decline notification.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">11. I was prompted to resubmit my receipt based on the declined message but there is no RESUBMIT button beside view receipt button?</div>
+        <div class="ans">Kindly ensure that you have downloaded the latest version of the Frasers Rewards app. Please check via your App Store (IOS devices) or Play Store (Android devices) for app updates.</div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">12. How do I know if my mobile device is compatible with the Frasers Rewards mobile app?</div>
+        <div class="ans">
+        <ul>
+            <li>For users on iOS mobile platform: Frasers Rewards app is optimized for iPhone 6 and requires iOS 8.1 or later.</li>
+            <li>For users on Android mobile platform: Frasers Rewards app requires Android 5.1 or later.</li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">13. How do I know if my mobile device has sufficient storage space to download the Frasers Rewards mobile app?</div>
+        <div class="ans">
+        <ul>
+            <li>Check the available storage space on your mobile device with the following steps:<br />
+            <br />
+            <ul>
+                <li>For users on iOS mobile platform: go to Settings &gt; General &gt; About &gt; Available</li>
+                <li>For users on Android mobile platform: go to Settings &gt; System &gt; Storage &gt; Available Space</li>
+            </ul>
+            </li>
+        </ul>
+        </div>
+        <!-- /item -->
+        <!-- item -->
+        <div class="qns">14. I’m having difficulty using the mobile app due to device or software incompatibility?</div>
+        <div class="ans">You may select HELP from the main menu and submit a Help Ticket. The technical support team will be in contact with you.</div>
+        <!-- /item -->

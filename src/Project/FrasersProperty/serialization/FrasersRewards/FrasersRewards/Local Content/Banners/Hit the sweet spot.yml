@@ -1,0 +1,51 @@
+﻿---
+ID: "f2643a12-2a7e-4fa5-bb91-cdd9a3383932"
+Parent: "777327db-4818-4e68-8bf7-da32b9912091"
+Template: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Path: /sitecore/content/FrasersRewards/Local Content/Banners/Hit the sweet spot
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180730T074159Z
+    - ID: "3110e64c-0296-4074-b8ba-2c9a486fba82"
+      Hint: Image
+      Value: |
+        <image mediaid="{DCD35074-6EB4-4FC3-ABF2-6D94B28BAE7D}" />
+    - ID: "4a8e4d82-40a8-4eb1-bc4a-8031867c7527"
+      Hint: Category
+      Value: "{D2204844-6D1D-41A5-8261-8941AF409435}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6591a883-0ccb-4f93-8978-c7d26ae2254a"
+      Hint: Title
+      Value: Hit the sweet spot
+    - ID: "84fe7e48-12a5-4f18-840c-c3ec5c98510e"
+      Hint: Post Date
+      Value: 20171231T170000Z
+    - ID: "943d0fdd-2d6e-439d-a5c6-f2dd9d11bb9c"
+      Hint: Mobile Image
+      Value: |
+        <image mediaid="{680606FC-A63C-49DB-B55C-69F26D7F4F48}" />
+    - ID: "9518c26d-7a6e-4d02-be50-e9e360c7957e"
+      Hint: Display on malls
+      Type: Multilist
+      Value: |
+        {6DF2DE9F-BD8E-403C-A3B7-0DC00A676075}
+        {4C4E8FCD-AED7-4142-BFD3-B9B54465329C}
+    - ID: "9b4e265b-2bfa-4665-85d0-8c15f2f07a14"
+      Hint: Expiry Date
+      Value: 20181230T170000Z
+    - ID: "e2651d34-d7e3-4256-bfb0-ad4460fdfc81"
+      Hint: Target IDs
+      Value: "4C4E8FCDAED74142BFD3B9B54465329C=CBE462B1-3673-4184-925F-DA315E6708CD&6DF2DE9FBD8E403CA3B70DC00A676075=4555B166-E5AC-4FB6-B61E-86DA9B9BAC99"

@@ -1,0 +1,29 @@
+﻿---
+ID: "2722ba68-bc77-4d4f-bc60-bb41f4b0c414"
+Parent: "8ba8d7d0-27cc-4336-8039-ad1bb1ed42e9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Multisite/_MallSiteSetting/Main Site/Main Site
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/content/*[@@templatename='Main Website']"
+- ID: "337e20e1-999a-4eea-85ad-b58a03ae75cc"
+  Hint: Quick Action Bar
+  Type: tree list
+  Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
+- ID: "9c903e29-650d-4af2-b9bd-526d5c14a1a5"
+  Hint: Validator Bar
+  Type: tree list
+  Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180619T040855Z

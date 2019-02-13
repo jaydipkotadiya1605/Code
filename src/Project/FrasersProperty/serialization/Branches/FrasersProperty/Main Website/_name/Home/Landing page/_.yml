@@ -1,0 +1,18 @@
+﻿---
+ID: "61f603e7-57b0-4e7c-ae09-e4b5685c95cb"
+Parent: "f1430d45-f8a3-4d97-a46f-b81d137b7065"
+Template: "5b342837-23e9-4787-ac59-65fe377e52ae"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Main Website/$name/Home/Landing page/*
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 446
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180724T095033Z

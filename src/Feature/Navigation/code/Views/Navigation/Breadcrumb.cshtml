@@ -1,0 +1,20 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+
+<!-- breadcrumbs -->
+<div class="breadcrumbs">
+    @if (Model?.Items != null)
+    {
+        for (var i = 0; i < Model.Items.Count; i++)
+        {
+            <a href="@Model.Items[i].Url">@Html.Sitecore().Field(Sitecore.Foundation.FrasersContent.Templates.Navigable.Fields.NavigationTitle, Model.Items[i].Item)</a>
+
+            if (i != (Model.Items.Count - 1))
+            {
+                @Html.Raw(HttpUtility.HtmlDecode("/"))
+            }
+
+        }
+    }
+</div>
+<!-- /breadcrumbs -->

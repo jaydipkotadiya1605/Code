@@ -1,0 +1,34 @@
+﻿---
+ID: "f9c26fa8-3202-490d-b39c-9754e673318e"
+Parent: "fa5e1a02-e73a-4c72-8ad2-b0d366125fcb"
+Template: "c0666526-56c5-42fa-a8cf-f70fbfda0508"
+Path: /sitecore/content/FrasersRewards/Settings/Header Settings/Download App
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T120941Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b8119e3-0258-47aa-baf7-6f3093f53167"
+      Hint: Link
+      Value: |
+        <link text="Download To Be updated" linktype="external" url="https://www.frasersexperience.com/fr-page.php?CategoryID=688" anchor="" target="" />
+    - ID: "8fcff3a4-3d0c-4060-895f-ec7ce17317a6"
+      Hint: Icon Mobile
+      Value: |
+        <image mediaid="{8B8D706F-3798-4B3E-9AF9-2A1ACE38BFB1}" />
+    - ID: "ab91d564-2b6a-48f1-aac0-de65ea773de2"
+      Hint: Icon
+      Value: |
+        <image mediaid="{35D7EE9C-1B43-4ABC-B74D-70CC38F6CD62}" />

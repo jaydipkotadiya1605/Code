@@ -1,0 +1,22 @@
+﻿---
+ID: "ee7d8ed2-a003-489b-bac3-7ffc84cbb21c"
+Parent: "7592365a-50d4-4fc3-9cba-2905dbeeabd2"
+Template: "7592365a-50d4-4fc3-9cba-2905dbeeabd2"
+Path: /sitecore/templates/System/Workflow/Notify Next Step User/__Standard Values
+DB: master
+SharedFields:
+- ID: "9d728b30-29ae-45de-97b9-bb1955c0c97f"
+  Hint: Type
+  Value: Sitecore.Foundation.Workflow.Steps.NotifyNextStepUser, Sitecore.Foundation.Workflow
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180621T094754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

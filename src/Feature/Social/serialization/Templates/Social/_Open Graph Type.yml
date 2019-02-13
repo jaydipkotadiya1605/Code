@@ -1,0 +1,14 @@
+﻿---
+ID: "14b6a156-97a2-451a-8953-9461a696dcff"
+Parent: "0b93047e-2cc9-4699-959f-4fb0be49b659"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/Social/_Open Graph Type
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180710T080011Z

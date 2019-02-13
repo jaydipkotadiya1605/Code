@@ -1,0 +1,32 @@
+﻿---
+ID: "943d0fdd-2d6e-439d-a5c6-f2dd9d11bb9c"
+Parent: "3796fa59-e86e-4f10-8820-0e128963380d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Banner/_Banner/Content/Mobile Image
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/media library/Feature/Banner/Mobile
+- ID: "9c903e29-650d-4af2-b9bd-526d5c14a1a5"
+  Hint: Validator Bar
+  Type: tree list
+  Value: "{59D4EE10-627C-4FD3-A964-61A88B092CBC}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180706T061235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

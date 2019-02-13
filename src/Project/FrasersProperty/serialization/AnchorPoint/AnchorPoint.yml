@@ -1,0 +1,170 @@
+﻿---
+ID: "6df2de9f-bd8e-403c-a3b7-0dc00a676075"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "6de79c6f-136a-44cf-bc3b-a6caae03cb72"
+Path: /sitecore/content/AnchorPoint
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|frasersproperty\Mall Site Admin|pe|-item:read|pd|-item:read|au|frasersproperty\AnchorpointAdmin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|ar|frasersproperty\Mall Site Author|pe|-item:read|pd|-item:read|au|frasersproperty\AnchorpointAuthor|pe|+item:rename|+item:write|+item:read|+item:delete|+item:create|pd|+item:rename|+item:write|+item:read|+item:delete|+item:create|ar|frasersproperty\Main Site Admin|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T030619Z
+    - ID: "2722ba68-bc77-4d4f-bc60-bb41f4b0c414"
+      Hint: Main Site
+      Value: "{875A246A-4F98-4F8B-BDA6-477C268B0607}"
+    - ID: "2da4f169-e77a-42ce-8b85-bae3515c0323"
+      Hint: Copyright Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{9635A6C2-0C1D-48C9-918C-D15D71613566}"
+    - ID: "59c2d766-5657-429b-902e-3b6e406eb41b"
+      Hint: Links
+      Value: "{DCAFAD2B-AD2B-48F5-8C18-68E6AD088E27}"
+    - ID: "875b1529-a3b1-4221-8dd6-f6df37521b1b"
+      Hint: Menu
+      Value: 
+    - ID: "b5958343-38cd-4a08-9b72-eb8fd145b463"
+      Hint: Text
+      Value: Copyright © 2018. Frasers Property Limited. All rights reserved.
+    - ID: "c039af0a-d6fd-4e75-a60e-01689633c9b9"
+      Hint: Footer Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T071315Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180628T071315Z
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T073210Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180628T073210Z
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T083052Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180628T083052Z
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+  - Version: 5
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T084338Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180628T084338Z
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{664D547F-588B-4F19-82B1-058CE7F95FB1}" />
+  - Version: 6
+    Fields:
+    - ID: "12614b52-3914-4054-a3cc-afee27d363bc"
+      Hint: Site Code
+      Value: APT
+    - ID: "235ae392-97ac-4822-be38-837da3e7724e"
+      Hint: SiteBrowserTitle
+      Value:  | AnchorPoint
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180628T091238Z
+    - ID: "2722ba68-bc77-4d4f-bc60-bb41f4b0c414"
+      Hint: Main Site
+      Value: "{875A246A-4F98-4F8B-BDA6-477C268B0607}"
+    - ID: "2a98d119-1020-4854-afad-76e96a24331d"
+      Hint: GPS Longitude
+      Value: 103.804560
+    - ID: "2da4f169-e77a-42ce-8b85-bae3515c0323"
+      Hint: Copyright Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "427344bd-2182-4a75-b56a-7d3549bd1eb3"
+      Hint: Telephone
+      Value: (65) 6475 2257
+    - ID: "449338ce-ca1e-4d38-a904-cdb4085c84dd"
+      Hint: Tracking ID
+      Value: "UA-124171295-1"
+    - ID: "59c2d766-5657-429b-902e-3b6e406eb41b"
+      Hint: Links
+      Value: "{DCAFAD2B-AD2B-48F5-8C18-68E6AD088E27}"
+    - ID: "5a637948-2caf-4062-94da-b04ac741d46e"
+      Hint: Customer Service Counter
+      Value: East Wing, Level 1
+    - ID: "732fe58f-7fa5-4278-850c-f06c99939b78"
+      Hint: Opening Hours
+      Value: 10am to 10pm
+    - ID: "875b1529-a3b1-4221-8dd6-f6df37521b1b"
+      Hint: Menu
+      Value: "{F40F23C9-201A-4D7A-AE9B-510F059149BA}"
+    - ID: "a9e07f11-c8ee-475b-a8f3-e490955c92af"
+      Hint: AddThis Social Token
+      Value: 5b73d467e8d6a539
+    - ID: "b5958343-38cd-4a08-9b72-eb8fd145b463"
+      Hint: Text
+      Value: Copyright © 2018. Frasers Property Limited. All rights reserved.
+    - ID: "c039af0a-d6fd-4e75-a60e-01689633c9b9"
+      Hint: Footer Logo
+      Value: |
+        <image mediaid="{11961A3C-0D3D-4F08-80C0-A4CC361B808C}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20180628T091238Z
+    - ID: "cca76f5b-f4a1-439e-9397-075f9cb6616e"
+      Hint: Address
+      Value: 371 Alexandra Road , Singapore 159953
+    - ID: "d390b56f-6f6c-4da7-832c-2ed4c44733e5"
+      Hint: Site Name
+      Value: AnchorPoint
+    - ID: "d7faf785-ff32-4f18-8d43-814651c11f00"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{67AAA3B0-635A-4CBD-BC3F-D7F302A4CEE9}" />
+    - ID: "da7dbf22-728d-4cbd-8573-6345bbb31861"
+      Hint: GPS Lattitude
+      Value: 1.288790
+    - ID: "e748d808-64c1-4dec-9718-f35cf9689e4b"
+      Hint: Logo
+      Value: |
+        <image mediaid="{FA06B0FC-62A1-44D5-BD49-A38B0B203373}" />

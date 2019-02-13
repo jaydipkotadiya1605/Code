@@ -1,0 +1,14 @@
+﻿---
+ID: "3ea65f3c-2f96-46a8-a554-099a788e2fc6"
+Parent: "d4f8d28a-49cc-416c-93a8-a61200fa2f14"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Renderings/Project/Common/SubLayouts
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180712T093422Z

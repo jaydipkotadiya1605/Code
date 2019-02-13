@@ -1,0 +1,24 @@
+﻿---
+ID: "bf6267a4-c5c6-46eb-a203-fb4804bb4bfe"
+Parent: "2d5de923-c2d3-47ba-ac33-8d6b05aba063"
+Template: "db98ad47-b168-4183-a16f-3bf64b188443"
+Path: /sitecore/content/Global/Banner Categories/Lifestyle
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d8bd2d6-a8af-428d-b398-96f0e7986db5"
+      Hint: Key
+      Value: Lifestyle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T175859Z
+    - ID: "3175f9d5-cfb8-4a26-848a-3231308bdb36"
+      Hint: Value
+      Value: Lifestyle
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

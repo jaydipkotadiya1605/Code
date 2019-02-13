@@ -1,0 +1,14 @@
+﻿---
+ID: "f8ab0622-f06a-4089-b25b-e2cb45e9731c"
+Parent: "5d1f33f2-d893-4ec6-8177-8c284c9740da"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Store/_Alphabet/Alphabet
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180717T090814Z

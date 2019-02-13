@@ -1,0 +1,7 @@
+﻿@using Sitecore.Foundation.Device.Repositories
+@{
+    var isMobileMode = DeviceRepository.IsMobileOrTablet;
+}
+
+@(isMobileMode ? Html.Sitecore().Placeholder("store-header-mobile") : Html.Sitecore().Placeholder("store-header"))
+@Html.Sitecore().Placeholder("store-content")

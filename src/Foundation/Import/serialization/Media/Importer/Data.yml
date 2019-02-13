@@ -1,0 +1,18 @@
+﻿---
+ID: "ba42f1e6-c523-4c9d-af65-5d8b0d1e9696"
+Parent: "7f938f57-f6d4-4373-b0ef-9d101251bcbb"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Importer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160403T120023Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

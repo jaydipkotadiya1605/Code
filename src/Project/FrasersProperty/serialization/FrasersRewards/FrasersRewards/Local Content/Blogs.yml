@@ -1,0 +1,31 @@
+﻿---
+ID: "a085bed3-74a3-4317-bb5d-27d21af7fc93"
+Parent: "96849918-7e38-4a9d-97c1-0d65e3b1ed40"
+Template: "68bf855c-205c-4578-bfbe-da0f4b1fe2aa"
+Path: /sitecore/content/FrasersRewards/Local Content/Blogs
+DB: master
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Type: Checkbox
+  Value: 0
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Type: TreelistEx
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082518Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

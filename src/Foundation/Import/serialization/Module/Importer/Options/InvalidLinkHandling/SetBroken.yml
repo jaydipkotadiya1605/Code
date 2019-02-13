@@ -1,0 +1,20 @@
+﻿---
+ID: "a18a1c75-b1fe-4f93-a0c4-bafd6451ab79"
+Parent: "1b0ef765-75fb-47c0-8a79-566476bbfe99"
+Template: "9ec52b90-0d56-4850-bb4d-ad13491fc4cc"
+Path: /sitecore/system/Modules/Importer/Options/InvalidLinkHandling/SetBroken
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160903T222028Z
+    - ID: "7a46de83-b3b8-477c-8bb0-008465753115"
+      Hint: Name
+      Value: SetBroken
+    - ID: "b5cbae6f-b934-4d25-b231-9373a6f7e3af"
+      Hint: HelpText
+      Value: Sets the link using the specified value creating a broken link

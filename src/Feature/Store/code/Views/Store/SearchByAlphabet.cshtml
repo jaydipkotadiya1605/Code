@@ -1,0 +1,76 @@
+﻿@using Sitecore.Feature.Store
+@using Sitecore.Foundation.Dictionary.Extensions
+@model Sitecore.Feature.Store.Models.StoreSearchResultViewModel
+
+@if (Model == null)
+{
+    return;
+}
+
+@if (Model.TotalNumberOfResults == 0)
+{
+    <div class="list clearfix">
+        <div class="text-center">@Html.Sitecore().DictionaryField(Constants.SearchNotFound, Constants.SearchNotFoundText)</div>
+    </div>
+
+    return;
+}
+
+<div class="list clearfix">
+    @foreach (var store in Model.Stores)
+    {
+        <div class="item clearfix" id="@store.Id">
+            <div class="thumb">
+                <a href="@store.Url">
+                    <img src="@(store.Logo?.Src)" alt="@(store.Logo?.Alt)">
+                </a>
+                @if (store.Status == StoreStatus.New)
+                {
+                    <div class="tag">
+                        <img src="@Url.Content("~/images/assets/tag-new.svg")" alt="">
+                    </div>
+                }
+                @if (store.Status == StoreStatus.Upcoming)
+                {
+                    <div class="tag">
+                        <img src="@Url.Content("~/images/assets/tag-upcoming.svg")" alt="">
+                    </div>
+                }
+            </div>
+            <div class="details">
+                <div class="storename">
+                    <a href="@store.Url">@store.StoreName</a>
+                </div>
+                <div class="row">
+                    <div class="col findus">
+                        <div class="title">@Html.Sitecore().DictionaryField(Constants.FindUs, Constants.FindUsText)</div>
+                        <div class="info">@store.Mall<br />@store.UnitNo</div>
+                    </div>
+                    <div class="col callus">
+                        <div class="title">@Html.Sitecore().DictionaryField(Constants.CallUs, Constants.CallUsText)</div>
+                        <div class="info">@store.Contact</div>
+                    </div>
+                    <div class="col openfrom">
+                        <div class="title">@Html.Sitecore().DictionaryField(Constants.OpeFrom, Constants.OpenFromText)</div>
+                        <div class="info">@store.OpeningHours</div>
+                    </div>
+                    <div class="col category">
+                        <div class="title">@Html.Sitecore().DictionaryField(Constants.Category, Constants.CategoryText)</div>
+                        <div class="info">@(string.Join(",", store.Categories.Select(x => x.Name)))</div>
+                    </div>
+                    <div class="col additional">
+                        @foreach (var offer in store.Offers)
+                        {
+                            <div class="item small-icon @offer.IconCssClass active">@offer.Name</div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@if (Model.HasMoreResult)
+{
+    <a href="javascript:void(0)" class="full-btn loadmore @(Sitecore.Context.PageMode.IsExperienceEditor ? "disabled" : "" )" data-rendering-id="@Model.RenderingId" data-page-index="@Model.PageIndex" data-page-size="@Model.PageSize" data-anchor="#@(Model.Stores.LastOrDefault()?.Id)">@Html.Sitecore().Dictionary(Constants.LoadMore, Constants.LoadMoreText)</a>
+}

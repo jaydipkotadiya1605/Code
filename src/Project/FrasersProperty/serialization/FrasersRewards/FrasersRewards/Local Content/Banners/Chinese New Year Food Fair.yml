@@ -1,0 +1,40 @@
+﻿---
+ID: "8f3cb6be-d22c-41a5-aa2d-889a5811cbab"
+Parent: "777327db-4818-4e68-8bf7-da32b9912091"
+Template: "f99d38f2-8b19-461b-89fd-3ed8262ca199"
+Path: /sitecore/content/FrasersRewards/Local Content/Banners/Chinese New Year Food Fair
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 187
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190120T175544Z
+    - ID: "3110e64c-0296-4074-b8ba-2c9a486fba82"
+      Hint: Image
+      Value: |
+        <image mediaid="{1EFC7894-4329-4DF6-9054-E352DE1B8465}" />
+    - ID: "4a8e4d82-40a8-4eb1-bc4a-8031867c7527"
+      Hint: Category
+      Value: "{64260E34-34E1-4E4C-AF80-FAB8625F0AC6}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6591a883-0ccb-4f93-8978-c7d26ae2254a"
+      Hint: Title
+      Value: Chinese New Year Food Fair
+    - ID: "943d0fdd-2d6e-439d-a5c6-f2dd9d11bb9c"
+      Hint: Mobile Image
+      Value: |
+        <image mediaid="{1EFC7894-4329-4DF6-9054-E352DE1B8465}" />
+    - ID: "affb581e-17ce-4f73-9894-e47ad6925e3a"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{17E7CE43-FFAC-4C8D-8904-0EB2597E179D}" />

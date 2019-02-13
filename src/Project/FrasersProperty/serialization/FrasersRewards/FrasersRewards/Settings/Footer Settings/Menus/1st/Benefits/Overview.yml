@@ -1,0 +1,22 @@
+﻿---
+ID: "98d57d08-be76-4233-8bbb-3b629d4f2694"
+Parent: "8b03816c-3fec-4406-8ce7-2399baaacff0"
+Template: "282693f4-f958-4b55-a4ad-7c0f291bdbbb"
+Path: /sitecore/content/FrasersRewards/Settings/Footer Settings/Menus/1st/Benefits/Overview
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fe0b19a-a101-4f70-b8a7-81a032e626f0"
+      Hint: Link
+      Value: |
+        <link text="Overview" anchor="" linktype="internal" class="" title="Overview"  querystring="" id="{58DDA147-527C-45F6-948E-3A7F925BA5BD}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180703T095337Z

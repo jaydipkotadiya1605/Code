@@ -1,0 +1,18 @@
+﻿---
+ID: "b61a7304-3ed6-4e6e-a637-eb9d842a7ddf"
+Parent: "b22858c8-fba9-4b4b-8378-ecb6085a4787"
+Template: "9b65f886-900c-44c9-a2b0-ba609810eb6d"
+Path: /sitecore/content/WaterwayPoint/Local Content/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082750Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

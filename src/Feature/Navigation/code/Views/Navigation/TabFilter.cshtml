@@ -1,0 +1,30 @@
+﻿@using Sitecore.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Foundation.FrasersContent
+@model Sitecore.Feature.Navigation.Models.NavigationItems
+
+<!-- filter-legend (desktop) -->
+<div id="tab-category-filter">
+    @if (Model?.Items != null && Model.Items.Count > 0)
+    {
+        <ul>
+        @foreach (var item in Model.Items)
+        {
+
+            var cssClass = item.IsCurrentItem ? "active" : "";
+            var title = Html.Sitecore().Field(Templates.TabCategory.Fields.Key, item.Item);
+            var value = Html.Sitecore().Field(Templates.TabCategory.Fields.Value, item.Item).ToString();
+            <li>
+                @if (Sitecore.Context.PageMode.IsNormal)
+                {
+                    <a href="#" data-name="@value" class="@cssClass" title="@title">@title</a>
+                }
+                else
+                {
+                    <a href="#" data-name="@value" class="@cssClass">@title</a>
+                }
+            </li>
+        }
+        </ul>
+    }
+</div>
+<!-- /filter-legend (desktop) -->

@@ -1,0 +1,14 @@
+﻿---
+ID: "dcafad2b-ad2b-48f5-8c18-68e6ad088e27"
+Parent: "572fd91d-1560-4a9b-8f63-9393b397a2e8"
+Template: "93564abb-a044-4bc0-84e7-61217111eb54"
+Path: /sitecore/content/AnchorPoint/Settings/Footer Settings/Copyright Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180702T052059Z

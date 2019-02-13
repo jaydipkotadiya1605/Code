@@ -1,0 +1,35 @@
+﻿---
+ID: "6de79c6f-136a-44cf-bc3b-a6caae03cb72"
+Parent: "67422798-4b77-4006-ae9b-3a4fa66e69c1"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/FrasersProperty/Site Types/Mall Website
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Business/16x16/shoppingcart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {FA8DE5B9-D5D8-40A7-866A-23AF4F5A9629}
+    {BB85C5C2-9F87-48CE-8012-AF67CF4F765D}
+    {4C81C54A-4099-4859-8A4C-D429C9EAE510}
+    {468FF711-C45D-4145-B9AD-E0B71705217C}
+    {CF38E914-9298-47CC-9205-210553E79F97}
+    {C1918D32-A056-41F2-B49A-C6E7965E2CA1}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{B421A010-92AD-41DD-BF2E-FD6ACAF3D75C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180612T025900Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

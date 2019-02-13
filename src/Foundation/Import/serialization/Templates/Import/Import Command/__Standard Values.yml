@@ -1,0 +1,34 @@
+﻿---
+ID: "e88d5567-3d57-4723-b313-1e34bc39c530"
+Parent: "b3c7e13f-dec8-436a-a097-3a884bdf0a8c"
+Template: "b3c7e13f-dec8-436a-a097-3a884bdf0a8c"
+Path: /sitecore/templates/Foundation/Import/Import Command/__Standard Values
+DB: master
+SharedFields:
+- ID: "4bc75539-d5c4-487b-af35-ff13d62bd286"
+  Hint: Method
+  Value: Run
+- ID: "752579a7-ef2f-45b7-b9d1-9b682308b7a5"
+  Hint: Type
+  Value: EzImporter.Tasks.Import, Sitecore.EzImporter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161108T003820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161108T003820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

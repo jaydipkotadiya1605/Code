@@ -1,0 +1,18 @@
+﻿---
+ID: "ec58312a-d7d6-44b9-8e95-2428325de8fe"
+Parent: "96849918-7e38-4a9d-97c1-0d65e3b1ed40"
+Template: "e3938ae8-0021-4a64-b646-cdce6a04fa90"
+Path: /sitecore/content/FrasersRewards/Local Content/Stores
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190127T102753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

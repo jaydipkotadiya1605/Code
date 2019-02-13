@@ -1,0 +1,22 @@
+﻿---
+ID: "a1a9020b-161b-4ea8-bada-f0a550b04d6d"
+Parent: "54c85709-8f36-485f-94f7-3590c2fab09a"
+Template: "24c25159-9565-4b90-8583-18ca41e1932b"
+Path: /sitecore/templates/Branches/User Defined/FrasersProperty/Mall Website/$name/Local Content/Articles
+DB: master
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180613T082657Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

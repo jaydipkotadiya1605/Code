@@ -1,0 +1,28 @@
+﻿---
+ID: "0dbe7fc7-efeb-4778-9bd7-8f16ad150f52"
+Parent: "da569b2a-31f5-470c-a33c-4e1ba345b964"
+Template: "54329509-eabf-48cc-90e1-8a7bef3f94ce"
+Path: /sitecore/content/FrasersRewards/Settings/Item Resolver Settings/Article Routing Rule
+DB: master
+SharedFields:
+- ID: "11e1f887-dc46-4a13-83a2-22642cbcfd10"
+  Hint: Wildcard Node
+  Value: "{91F3F444-3BAA-4123-AD54-7762280B9898}"
+- ID: "42efcde2-80dd-4c46-ae8a-27b7dc15df76"
+  Hint: Data Template
+  Value: "{24F3889D-C63B-452D-B158-7601EB790305}"
+- ID: "e1f8d80f-4453-4e93-8b13-b06707036628"
+  Hint: Search Root Node
+  Value: "{B231C6E3-3274-47F5-9A6F-1E8F66F69D76}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180720T044913Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
