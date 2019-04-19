@@ -1,0 +1,23 @@
+﻿---
+ID: "389dd31b-6a50-4c22-a7f4-423931899672"
+Parent: "240a4722-caed-4014-9761-bd3fb5a013de"
+Template: "475a5bbd-3a5a-47cc-a65d-c1b1ac5773f0"
+Path: /sitecore/system/Modules/Importer/Maps/Store/Mall Website/Fields
+DB: master
+BranchID: "3dd41a19-1f84-4e83-a657-930add646adb"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E7C4A3C7-D669-47E2-BE53-987D1F413064}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T162646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

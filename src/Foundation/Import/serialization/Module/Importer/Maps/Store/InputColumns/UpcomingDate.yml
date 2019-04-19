@@ -1,0 +1,22 @@
+﻿---
+ID: "13abebd7-23d2-4c7e-9b9b-af9f2b34318d"
+Parent: "15a84173-2f23-4af9-9220-9476daf487b3"
+Template: "1b0f85e0-4767-41fa-ad87-cf6edf715330"
+Path: /sitecore/system/Modules/Importer/Maps/Store/InputColumns/UpcomingDate
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T162839Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

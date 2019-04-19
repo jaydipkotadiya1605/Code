@@ -1,0 +1,23 @@
+﻿---
+ID: "a862cee9-5318-4397-aaed-24e35e00d35a"
+Parent: "b3c084f9-d8ee-4e49-ad7c-8f81b0f964dd"
+Template: "f666a29e-a9c3-40fd-a3b8-cdae59d9f09d"
+Path: /sitecore/system/Modules/Importer/Maps/Store
+DB: master
+BranchID: "3dd41a19-1f84-4e83-a657-930add646adb"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{555F8BC0-77E3-4E50-B4C1-28E64B0009C2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T162645Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

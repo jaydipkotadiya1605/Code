@@ -1,0 +1,26 @@
+﻿---
+ID: "5206068b-b04e-4c20-85e9-98ed7cc36ac0"
+Parent: "15a84173-2f23-4af9-9220-9476daf487b3"
+Template: "1b0f85e0-4767-41fa-ad87-cf6edf715330"
+Path: /sitecore/system/Modules/Importer/Maps/Store/InputColumns/MallID
+DB: master
+BranchID: "3dd41a19-1f84-4e83-a657-930add646adb"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CAE1AEA5-B911-4781-AB07-35C736EF70FE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190305T162645Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
